@@ -46,12 +46,18 @@ def main() -> None:
         ep["transcript_length"] = len(transcript)
         ep["transcript"] = transcript  # store temporarily for summarize
 
-        print("  Summarizing with Claude...")
+        print("  Summarizing...")
         try:
             summary_data = summarize_episode(ep)
         except Exception as exc:
+            err = str(exc)
+            if "429" in err and ("tokens per day" in err or "TPD" in err):
+                print("  Groq daily token limit reached — saving progress and stopping.\n")
+                del ep["transcript"]
+                break  # quota exhausted; remaining episodes will be picked up tomorrow
             print(f"  Summarization failed: {exc}\n")
             failed += 1
+            del ep["transcript"]
             continue
 
         # Don't persist the full transcript in episodes.json (too large)
@@ -60,6 +66,8 @@ def main() -> None:
         ep.update(summary_data)
         episodes.append(ep)
         existing_ids.add(ep["id"])
+        # Save after each episode so progress isn't lost if the run is cut short
+        save_episodes(DATA_FILE, episodes)
         processed += 1
         print(f"  Done. Themes: {', '.join(ep.get('key_themes', []))}\n")
 
