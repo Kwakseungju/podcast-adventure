@@ -1,0 +1,45 @@
+name: Daily Podcast Intelligence Update
+
+on:
+  schedule:
+    - cron: '0 7 * * *'   # 7 AM UTC daily (4 PM KST)
+  workflow_dispatch:        # Manual trigger from GitHub UI
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      - name: Install system dependencies (ffmpeg)
+        run: sudo apt-get install -y ffmpeg
+
+      - name: Install Python dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run podcast tracker
+        env:
+          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+        run: python main.py
+
+      - name: Commit and push updated data + report
+        run: |
+          git config user.name  "Podcast Intelligence Bot"
+          git config user.email "bot@noreply.github.com"
+          git add data/episodes.json docs/index.html
+          git diff --staged --quiet && echo "Nothing changed." || (
+            git commit -m "Update: $(date -u '+%Y-%m-%d %H:%M UTC')" &&
+            git push
+          )

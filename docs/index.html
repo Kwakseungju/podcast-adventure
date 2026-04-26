@@ -1,0 +1,599 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8"/>
+<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+<title>Finance Intelligence Weekly</title>
+<style>
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+:root {
+  --bg:          #0d1117;
+  --bg-card:     #161b22;
+  --bg-card-2:   #1c2230;
+  --border:      #30363d;
+  --border-soft: #21262d;
+  --text:        #e6edf3;
+  --text-muted:  #8b949e;
+  --text-dim:    #6e7681;
+  --accent:      #58a6ff;
+  --accent-glow: rgba(88,166,255,.15);
+  --green:       #3fb950;
+  --radius:      10px;
+  --radius-sm:   6px;
+  --shadow:      0 4px 24px rgba(0,0,0,.4);
+  font-size: 15px;
+}
+
+body {
+  background: var(--bg);
+  color: var(--text);
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", system-ui, sans-serif;
+  line-height: 1.6;
+  min-height: 100vh;
+}
+
+a { color: var(--accent); text-decoration: none; }
+a:hover { text-decoration: underline; }
+
+/* ── Header ── */
+header {
+  background: linear-gradient(135deg, #0d1117 0%, #161b22 100%);
+  border-bottom: 1px solid var(--border);
+  padding: 28px 0;
+}
+.header-inner {
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: 0 24px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 16px;
+  flex-wrap: wrap;
+}
+.header-brand { display: flex; align-items: center; gap: 16px; }
+.brand-icon {
+  font-size: 2.2rem;
+  color: var(--accent);
+  filter: drop-shadow(0 0 8px var(--accent-glow));
+  line-height: 1;
+}
+h1 { font-size: 1.7rem; font-weight: 700; letter-spacing: -.3px; }
+.tagline { color: var(--text-muted); font-size: .85rem; margin-top: 2px; }
+.header-meta { text-align: right; }
+.updated-label { display: block; font-size: .75rem; color: var(--text-dim); text-transform: uppercase; letter-spacing: .05em; }
+.updated-date { font-size: .9rem; color: var(--text-muted); }
+
+/* ── Controls ── */
+.controls {
+  background: var(--bg-card);
+  border-bottom: 1px solid var(--border-soft);
+  position: sticky;
+  top: 0;
+  z-index: 50;
+}
+.controls-inner {
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: 12px 24px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+  flex-wrap: wrap;
+}
+.filter-group { display: flex; align-items: center; gap: 10px; flex-wrap: wrap; }
+.filter-label { font-size: .8rem; color: var(--text-dim); white-space: nowrap; }
+.filter-btns { display: flex; gap: 6px; flex-wrap: wrap; }
+.filter-btn {
+  padding: 5px 14px;
+  border-radius: 20px;
+  border: 1px solid var(--border);
+  background: transparent;
+  color: var(--text-muted);
+  font-size: .8rem;
+  cursor: pointer;
+  transition: all .15s;
+}
+.filter-btn:hover { border-color: var(--accent); color: var(--accent); }
+.filter-btn.active { background: var(--accent); border-color: var(--accent); color: #fff; font-weight: 600; }
+.stats { display: flex; gap: 16px; }
+.stat { font-size: .82rem; color: var(--text-muted); }
+.stat strong { color: var(--text); }
+
+/* ── Main ── */
+main {
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: 32px 24px 64px;
+}
+
+/* ── Week section ── */
+.week-section { margin-bottom: 48px; }
+.week-section.hidden { display: none; }
+
+.week-header {
+  display: flex;
+  align-items: baseline;
+  gap: 14px;
+  margin-bottom: 20px;
+  padding-bottom: 12px;
+  border-bottom: 1px solid var(--border-soft);
+}
+.week-label {
+  font-size: .75rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: .08em;
+  color: var(--accent);
+  background: var(--accent-glow);
+  padding: 3px 10px;
+  border-radius: 20px;
+  border: 1px solid rgba(88,166,255,.3);
+}
+.week-date-range { font-size: .85rem; color: var(--text-muted); }
+.week-count { font-size: .8rem; color: var(--text-dim); margin-left: auto; }
+
+/* ── Episode grid ── */
+.episode-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(480px, 1fr));
+  gap: 16px;
+}
+
+/* ── Episode card ── */
+.episode-card {
+  background: var(--bg-card);
+  border: 1px solid var(--border-soft);
+  border-radius: var(--radius);
+  overflow: hidden;
+  transition: border-color .2s, box-shadow .2s;
+}
+.episode-card:hover { border-color: var(--border); box-shadow: var(--shadow); }
+.episode-card.filtered-out { display: none; }
+
+.card-top {
+  padding: 18px 20px 0;
+}
+
+.card-meta {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 10px;
+}
+
+.source-badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 5px;
+  font-size: .72rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: .06em;
+  padding: 3px 10px;
+  border-radius: 20px;
+  border: 1px solid;
+}
+
+.ep-date { font-size: .78rem; color: var(--text-dim); }
+.ep-type-badge {
+  font-size: .68rem;
+  padding: 2px 7px;
+  border-radius: 4px;
+  background: var(--border-soft);
+  color: var(--text-dim);
+  text-transform: uppercase;
+  letter-spacing: .05em;
+}
+
+.card-title {
+  font-size: 1rem;
+  font-weight: 600;
+  line-height: 1.4;
+  margin-bottom: 10px;
+  color: var(--text);
+}
+
+.one-liner {
+  font-size: .88rem;
+  color: var(--text-muted);
+  font-style: italic;
+  margin-bottom: 14px;
+  padding-left: 10px;
+  border-left: 2px solid var(--border);
+}
+
+.themes {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+  margin-bottom: 14px;
+}
+.theme-tag {
+  font-size: .72rem;
+  padding: 2px 9px;
+  border-radius: 20px;
+  background: var(--bg-card-2);
+  border: 1px solid var(--border-soft);
+  color: var(--text-muted);
+}
+
+/* ── Takeaways ── */
+.takeaways {
+  padding: 14px 20px;
+  background: var(--bg-card-2);
+  border-top: 1px solid var(--border-soft);
+}
+.takeaways-title {
+  font-size: .72rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: .07em;
+  color: var(--text-dim);
+  margin-bottom: 8px;
+}
+.takeaways ul { list-style: none; display: flex; flex-direction: column; gap: 5px; }
+.takeaways li {
+  font-size: .84rem;
+  color: var(--text-muted);
+  padding-left: 16px;
+  position: relative;
+}
+.takeaways li::before {
+  content: "→";
+  position: absolute;
+  left: 0;
+  color: var(--accent);
+  font-size: .8rem;
+}
+
+/* ── Expandable full summary ── */
+.card-expand {
+  padding: 0 20px;
+  overflow: hidden;
+  max-height: 0;
+  transition: max-height .3s ease, padding .3s ease;
+}
+.card-expand.open {
+  max-height: 1000px;
+  padding: 14px 20px;
+}
+.expand-inner { border-top: 1px solid var(--border-soft); padding-top: 14px; }
+.expand-label {
+  font-size: .72rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: .07em;
+  color: var(--text-dim);
+  margin-bottom: 8px;
+}
+.summary-text { font-size: .88rem; color: var(--text-muted); line-height: 1.7; white-space: pre-line; }
+.market-rel {
+  margin-top: 12px;
+  padding: 10px 14px;
+  background: rgba(63,185,80,.08);
+  border: 1px solid rgba(63,185,80,.2);
+  border-radius: var(--radius-sm);
+  font-size: .84rem;
+  color: #8ee09a;
+}
+.market-rel-label {
+  font-size: .7rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: .06em;
+  color: var(--green);
+  margin-bottom: 4px;
+}
+
+/* ── Card footer ── */
+.card-footer {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 12px 20px;
+  border-top: 1px solid var(--border-soft);
+  gap: 8px;
+}
+.btn-expand {
+  background: transparent;
+  border: 1px solid var(--border);
+  color: var(--text-muted);
+  font-size: .8rem;
+  padding: 5px 14px;
+  border-radius: 6px;
+  cursor: pointer;
+  transition: all .15s;
+}
+.btn-expand:hover { border-color: var(--accent); color: var(--accent); }
+.btn-listen {
+  display: inline-flex;
+  align-items: center;
+  gap: 5px;
+  font-size: .8rem;
+  padding: 5px 14px;
+  border-radius: 6px;
+  border: 1px solid var(--border);
+  color: var(--text-muted);
+  transition: all .15s;
+}
+.btn-listen:hover { border-color: var(--accent); color: var(--accent); text-decoration: none; }
+.transcript-len { font-size: .72rem; color: var(--text-dim); }
+
+/* ── Empty state ── */
+.empty-state {
+  text-align: center;
+  padding: 80px 24px;
+  color: var(--text-muted);
+}
+.empty-state h2 { font-size: 1.2rem; margin-bottom: 8px; color: var(--text); }
+
+/* ── Footer ── */
+footer {
+  background: var(--bg-card);
+  border-top: 1px solid var(--border-soft);
+  padding: 24px 0;
+}
+.footer-inner {
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: 0 24px;
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  align-items: center;
+  text-align: center;
+  color: var(--text-dim);
+  font-size: .8rem;
+}
+
+/* ── Responsive ── */
+@media (max-width: 640px) {
+  .episode-grid { grid-template-columns: 1fr; }
+  h1 { font-size: 1.3rem; }
+  .controls-inner { flex-direction: column; align-items: flex-start; }
+  .stats { display: none; }
+}
+
+</style>
+</head>
+<body>
+<header>
+  <div class="header-inner">
+    <div class="header-brand">
+      <span class="brand-icon">◈</span>
+      <div>
+        <h1>Finance Intelligence</h1>
+        <p class="tagline">Weekly briefings from Credit Edge · Apollo · Goldman Sachs</p>
+      </div>
+    </div>
+    <div class="header-meta">
+      <span class="updated-label">Last updated</span>
+      <span class="updated-date">April 20, 2026 at 16:27 UTC</span>
+    </div>
+  </div>
+</header>
+
+<div class="controls">
+  <div class="controls-inner">
+    <div class="filter-group">
+      <span class="filter-label">Filter by source</span>
+      <div class="filter-btns">
+        <button class="filter-btn active" data-source="all">All Sources</button>
+        <button class="filter-btn" data-source="credit_edge">Credit Edge</button>
+        <button class="filter-btn" data-source="view_from_apollo">Apollo</button>
+        <button class="filter-btn" data-source="goldman_sachs">Goldman Sachs</button>
+      </div>
+    </div>
+    <div class="stats">
+      <span class="stat"><strong>3</strong> episodes</span>
+      <span class="stat"><strong>2</strong> weeks tracked</span>
+    </div>
+  </div>
+</div>
+
+<main>
+
+<section class="week-section" data-week="2026-W16">
+  <div class="week-header">
+    <span class="week-label">2026-W16</span>
+    <span class="week-date-range">Apr 13 – 19, 2026</span>
+    <span class="week-count">2 episodes</span>
+  </div>
+  <div class="episode-grid">
+
+<article class="episode-card" data-source="goldman_sachs">
+  <div class="card-top">
+    <div class="card-meta">
+      <span class="source-badge" style="color:#3b82f6;border-color:#3b82f6;background:rgba(0,0,0,.3)">▶ Goldman Sachs</span>
+      <div style="display:flex;gap:8px;align-items:center">
+        <span class="ep-type-badge">YouTube</span>
+        <span class="ep-date">2026-04-17</span>
+      </div>
+    </div>
+    <h2 class="card-title">Chase or Fade the Rally?</h2>
+    <p class="one-liner">Despite numerous challenges, the market has reached an all-time high, with the equity market looking through short-term noise and focusing on long-term growth, underpinned by AI capex tailwinds and fiscal tailwinds.</p>
+    <div class="themes"><span class="theme-tag">Market Resilience</span><span class="theme-tag">AI Capex</span><span class="theme-tag">Fiscal Tailwinds</span><span class="theme-tag">Retail Investors</span><span class="theme-tag">Diversification</span></div>
+  </div>
+
+  <div class="takeaways"><div class="takeaways-title">Key Takeaways</div><ul><li>The market's ability to look through short-term noise and focus on long-term growth has driven its resilience</li><li>Retail investors have become a significant force in the market, with around 30% of daily traded volume in the US</li><li>Diversification into other regions such as Asia and Europe will be important, in addition to the US</li><li>The 'halo theme' focusing on heavy assets with low obsolescence is a key trade idea</li><li>The upcoming earnings season will be crucial in monitoring corporate sentiment, supply chain impacts, and consumer behavior</li></ul></div>
+  
+  <div class="card-expand">
+    <div class="expand-inner">
+      <div class="expand-label">Full Summary</div>
+      <div class="summary-text">The conversation concludes with a discussion of the upcoming earnings season, with the guest highlighting the importance of monitoring corporate sentiment, supply chain impacts, and consumer behavior. The guest notes that while the base case is for continued consumption and steady earnings, there is a risk that the inflationary impulse could lead to a demand shock and increase recession probability.</div>
+      <div class="market-rel">
+        <div class="market-rel-label">Market Relevance</div>
+        The insights from this conversation can inform investment decisions, particularly in terms of navigating the complexities of the current market environment and identifying opportunities for growth.
+      </div>
+    </div>
+  </div>
+
+  <div class="card-footer">
+    <button class="btn-expand">Full Summary ▼</button>
+    <div style="display:flex;align-items:center;gap:12px">
+      <span class="transcript-len">12k chars</span>
+      <a class="btn-listen" href="https://www.youtube.com/watch?v=meSscp1hcec" target="_blank">
+        ▶ Watch
+      </a>
+    </div>
+  </div>
+</article>
+
+<article class="episode-card" data-source="goldman_sachs">
+  <div class="card-top">
+    <div class="card-meta">
+      <span class="source-badge" style="color:#3b82f6;border-color:#3b82f6;background:rgba(0,0,0,.3)">▶ Goldman Sachs</span>
+      <div style="display:flex;gap:8px;align-items:center">
+        <span class="ep-type-badge">YouTube</span>
+        <span class="ep-date">2026-04-16</span>
+      </div>
+    </div>
+    <h2 class="card-title">Apollo's Jim Zelter on the Future of Private Credit</h2>
+    
+    
+  </div>
+
+  
+  
+  <div class="card-expand">
+    <div class="expand-inner">
+      <div class="expand-label">Full Summary</div>
+      <div class="summary-text">{
+  "one_line_summary": "Apollo's Jim Zelter discusses the future of private credit, emphasizing its broader definition beyond direct lending and its crucial role in addressing massive capital needs driven by the energy transition, data centers, and infrastructure development.",
+  "summary": "Jim Zelter, president of Apollo Global Management, shares his insights on the evolution of private credit, highlighting its historical context and the significant capital needs it aims to address. He notes that the market often misunderstands private credit, focusing too narrowly on direct lending, when in fact it encompasses a $40 trillion market including commercial real estate, asset-based finance, and more. Zelter expresses confidence in the resilience of the private credit ecosystem but acknowledges the potential for a credit cycle impact in the future.
+
+Zelter also discusses the significant financing needs ahead, particularly in the context of the energy transition and data center development, which he estimates will require $5 to $6 trillion in capital over the next five years. He believes that traditional sources of funding, such as banks and investment-grade issuance, will not be sufficient to meet these needs, and that insurance capital and private credit will play a crucial role.
+
+The conversation also touches on Apollo's growth strategy, with ambitious targets to reach $1 trillion in assets by the end of the year and $1.5 trillion by 2029. Zelter emphasizes the importance of maintaining the firm's investment culture and flat organizational structure as it scales, with a focus on origination, retirement solutions, and public-private convergence.
+
+",
+  "key_themes": ["Private Credit", "Capital Formation", "Energy Transition", "Investment Strategy", "Market Evolution"],
+  "key_takeaways": [
+    "Private credit is a broader asset class than often understood, encompassing more than just direct lending",
+    "The energy transition and data center development will require significant capital, estimated at $5 to $6 trillion over the next five years",
+    "Insurance capital and private credit will play a crucial role in meeting these financing needs",
+    "Apollo aims to reach $1 trillion in assets by the end of the year and $1.5 trillion by 2029, with a focus on origination, retirement solutions, and public-private convergence",
+    "Maintaining a strong investment culture and flat organizational structure is critical as the firm scales"
+  ],
+  "market_relevance": "The growth of private credit and its role in addressing significant capital needs has important implications for investors and markets, particularly in the context of the energy transition and infrastructure development. As the private credit market continues to evolve, understanding its broader definition and potential applications will be crucial for investors seeking to navigate this space."
+}</div>
+    </div>
+  </div>
+
+  <div class="card-footer">
+    <button class="btn-expand">Full Summary ▼</button>
+    <div style="display:flex;align-items:center;gap:12px">
+      <span class="transcript-len">28k chars</span>
+      <a class="btn-listen" href="https://www.youtube.com/watch?v=5aEqPiUm4gw" target="_blank">
+        ▶ Watch
+      </a>
+    </div>
+  </div>
+</article>
+  </div>
+</section>
+<section class="week-section" data-week="2026-W14">
+  <div class="week-header">
+    <span class="week-label">2026-W14</span>
+    <span class="week-date-range">Mar 30 – Apr 5, 2026</span>
+    <span class="week-count">1 episode</span>
+  </div>
+  <div class="episode-grid">
+
+<article class="episode-card" data-source="view_from_apollo">
+  <div class="card-top">
+    <div class="card-meta">
+      <span class="source-badge" style="color:#a855f7;border-color:#a855f7;background:rgba(0,0,0,.3)">🔭 Apollo Global Mgmt</span>
+      <div style="display:flex;gap:8px;align-items:center">
+        <span class="ep-type-badge">Podcast</span>
+        <span class="ep-date">2026-03-31</span>
+      </div>
+    </div>
+    <h2 class="card-title">Private Equity Portfolios: Three Key Dimensions of Diversification</h2>
+    <p class="one-liner">Diversification across managers, company size, and sectors is crucial for building resilient private equity portfolios in today's evolving landscape.</p>
+    <div class="themes"><span class="theme-tag">Private Equity</span><span class="theme-tag">Diversification</span><span class="theme-tag">Portfolio Resilience</span><span class="theme-tag">Risk Management</span><span class="theme-tag">Investment Strategy</span></div>
+  </div>
+
+  <div class="takeaways"><div class="takeaways-title">Key Takeaways</div><ul><li>Diversify across multiple private equity managers to reduce dependence on any one manager's performance</li><li>Spread investments across different company sizes to capture growth opportunities at various stages</li><li>Allocate investments across various sectors to minimize exposure to sector-specific risks</li><li>Recognize the risks of concentrated exposure, particularly in volatile sectors like software</li><li>Adopt a balanced, multi-dimensional approach to diversification to support portfolio resilience</li></ul></div>
+  
+  <div class="card-expand">
+    <div class="expand-inner">
+      <div class="expand-label">Full Summary</div>
+      <div class="summary-text">The concept of diversification in private equity investing has become increasingly important as the industry landscape continues to shift. A key aspect of this is recognizing the risks associated with concentrated exposure, particularly in sectors like software, which can be highly volatile. By adopting a more balanced, multi-dimensional approach to diversification, investors can better support the resilience of their portfolios. This involves spreading investments across different managers, company sizes, and sectors to minimize risk and maximize returns. Effective diversification can help investors navigate the challenges posed by evolving industry dynamics and market conditions.</div>
+      <div class="market-rel">
+        <div class="market-rel-label">Market Relevance</div>
+        This matters for investors as private equity continues to play a significant role in investment portfolios, and the ability to navigate shifting industry dynamics and manage risk effectively will be crucial for achieving long-term success. By prioritizing diversification and adopting a more nuanced approach to private equity investing, investors can better position themselves for resilience and growth in today's evolving market landscape.
+      </div>
+    </div>
+  </div>
+
+  <div class="card-footer">
+    <button class="btn-expand">Full Summary ▼</button>
+    <div style="display:flex;align-items:center;gap:12px">
+      <span class="transcript-len">0k chars</span>
+      <a class="btn-listen" href="https://blubrry.com/theviewfromapollo/153775594/private-equity-portfolios-three-key-dimensions-of-diversification/" target="_blank">
+        🎧 Listen
+      </a>
+    </div>
+  </div>
+</article>
+  </div>
+</section>
+
+</main>
+
+<footer>
+  <div class="footer-inner">
+    <p>Summaries generated by Claude AI · Transcripts via Whisper &amp; YouTube</p>
+    <p>Sources: <a href="https://open.spotify.com/show/0WrBZujO7cbhbaqsNCEbTu" target="_blank">The Credit Edge</a>
+    · <a href="https://www.apolloacademy.com/the-view-from-apollo/" target="_blank">The View from Apollo</a>
+    · <a href="https://www.youtube.com/@GoldmanSachs" target="_blank">Goldman Sachs YouTube</a></p>
+  </div>
+</footer>
+
+<script>
+(function () {
+  // Source filter
+  const filterBtns = document.querySelectorAll('.filter-btn');
+  const cards = document.querySelectorAll('.episode-card');
+  const weekSections = document.querySelectorAll('.week-section');
+
+  filterBtns.forEach(btn => {
+    btn.addEventListener('click', () => {
+      filterBtns.forEach(b => b.classList.remove('active'));
+      btn.classList.add('active');
+      const src = btn.dataset.source;
+
+      cards.forEach(card => {
+        if (src === 'all' || card.dataset.source === src) {
+          card.classList.remove('filtered-out');
+        } else {
+          card.classList.add('filtered-out');
+        }
+      });
+
+      // Hide weeks that have no visible cards
+      weekSections.forEach(section => {
+        const visible = section.querySelectorAll('.episode-card:not(.filtered-out)');
+        section.classList.toggle('hidden', visible.length === 0);
+      });
+    });
+  });
+
+  // Expand / collapse full summary
+  document.querySelectorAll('.btn-expand').forEach(btn => {
+    btn.addEventListener('click', () => {
+      const card = btn.closest('.episode-card');
+      const panel = card.querySelector('.card-expand');
+      const open = panel.classList.toggle('open');
+      btn.textContent = open ? 'Hide Summary ▲' : 'Full Summary ▼';
+    });
+  });
+})();
+
+</script>
+</body>
+</html>
