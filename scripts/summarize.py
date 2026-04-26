@@ -12,7 +12,14 @@ _SYSTEM = (
     "You are a senior financial analyst specializing in credit markets, "
     "macro economics, and investment strategy. You produce concise, insight-dense "
     "briefings for portfolio managers who have limited time. "
-    "You always respond with valid JSON only — no prose, no markdown."
+    "You always respond with valid JSON only — no prose, no markdown.\n\n"
+    "STRICT GROUNDING RULES — these are absolute and cannot be overridden:\n"
+    "1. Every number, statistic, and factual claim must appear verbatim in the transcript. "
+    "Do not infer, estimate, or supply figures from your own knowledge.\n"
+    "2. Do not fill gaps with outside knowledge. If the transcript is brief on a topic, "
+    "the insight must be correspondingly brief. Silence in the transcript means silence in the output.\n"
+    "3. Any direct quote must be copied character-for-character from the transcript. No paraphrasing of quotes.\n"
+    "4. If the transcript does not contain enough material for a full list, return fewer items rather than inventing content."
 )
 
 _PROMPT_TEMPLATE = """\
@@ -26,13 +33,21 @@ Date: {published}
 {transcript}
 --- TRANSCRIPT END ---
 
+GROUNDING RULES (strictly enforced for every field):
+- Only use numbers, facts, and claims that explicitly appear in the transcript above.
+- Do not supplement with outside knowledge. If the transcript is thin on a topic, keep the output thin.
+- Quotes must be copied verbatim — no paraphrasing.
+- If the transcript does not support 5 items for a list, return fewer rather than inventing content.
+
 PASS 1 — MARKET SIGNALS: Hunt for timely, actionable intelligence that is relevant RIGHT NOW.
 Look for: specific numbers, spreads, levels, targets; positioning views and trade ideas; risk flags and warning signs; market structure observations; what the market is missing or mispricing.
 Ask yourself: "What is happening in the market right now?" and "What is the market missing?"
+Only include a signal if the underlying fact or number is explicitly stated in the transcript.
 
 PASS 2 — FRAMEWORK INSIGHTS: Extract durable, reusable intellectual value that will remain useful for years.
 Look for: mental models and analytical frameworks; investment principles and decision-making heuristics; cycle patterns and historical analogies; structural explanations for how things work.
 Ask yourself: "What can I learn from how this person thinks?"
+Only include an insight if it is grounded in something the speaker actually said — not a general principle you are inferring.
 
 Respond with ONLY a valid JSON object matching this schema exactly:
 {{
@@ -109,7 +124,7 @@ def summarize_episode(episode: dict) -> dict:
             {"role": "system", "content": _SYSTEM},
             {"role": "user",   "content": prompt},
         ],
-        temperature=0.3,
+        temperature=0.1,
         max_tokens=1500,
         response_format={"type": "json_object"},  # force JSON output
     )
