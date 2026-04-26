@@ -317,20 +317,32 @@ main {
   color: var(--text-muted);
 }
 
-/* ── Takeaways ── */
+/* ── Two-pass takeaways ── */
 .takeaways {
-  padding: 14px 20px;
-  background: var(--bg-card-2);
   border-top: 1px solid var(--border-soft);
 }
-.takeaways-title {
+.pass-section {
+  padding: 12px 20px;
+}
+.pass-section + .pass-section {
+  border-top: 1px solid var(--border-soft);
+}
+.pass-title {
   font-size: .72rem;
   font-weight: 700;
   text-transform: uppercase;
   letter-spacing: .07em;
-  color: var(--text-dim);
   margin-bottom: 8px;
+  display: flex;
+  align-items: center;
+  gap: 5px;
 }
+.market-pass { background: rgba(245,158,11,.05); }
+.market-pass .pass-title { color: #f59e0b; }
+.market-pass li::before { color: #f59e0b; }
+.framework-pass { background: rgba(56,189,248,.05); }
+.framework-pass .pass-title { color: #38bdf8; }
+.framework-pass li::before { color: #38bdf8; }
 .takeaways ul { list-style: none; display: flex; flex-direction: column; gap: 5px; }
 .takeaways li {
   font-size: .84rem;
@@ -342,9 +354,19 @@ main {
   content: "→";
   position: absolute;
   left: 0;
-  color: var(--accent);
   font-size: .8rem;
 }
+/* fallback for old episodes with key_takeaways */
+.takeaways-legacy { padding: 14px 20px; background: var(--bg-card-2); }
+.takeaways-title {
+  font-size: .72rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: .07em;
+  color: var(--text-dim);
+  margin-bottom: 8px;
+}
+.takeaways-legacy li::before { color: var(--accent); }
 
 /* ── Expandable full summary ── */
 .card-expand {
@@ -521,6 +543,19 @@ def _badge_style(color: str) -> str:
     return f'style="color:{color};border-color:{color};background:rgba(0,0,0,.3)"'
 
 
+def _render_takeaways(market_signals: list, framework_insights: list, key_takeaways: list) -> str:
+    if market_signals or framework_insights:
+        signals_html = "".join(f"<li>{s}</li>" for s in market_signals)
+        insights_html = "".join(f"<li>{i}</li>" for i in framework_insights)
+        signals_block = f'<div class="pass-section market-pass"><div class="pass-title">&#9889; Market Signals</div><ul>{signals_html}</ul></div>' if signals_html else ""
+        insights_block = f'<div class="pass-section framework-pass"><div class="pass-title">&#128161; Framework Insights</div><ul>{insights_html}</ul></div>' if insights_html else ""
+        return f'<div class="takeaways">{signals_block}{insights_block}</div>' if (signals_block or insights_block) else ""
+    if key_takeaways:
+        items = "".join(f"<li>{t}</li>" for t in key_takeaways)
+        return f'<div class="takeaways takeaways-legacy"><div class="takeaways-title">Key Takeaways</div><ul>{items}</ul></div>'
+    return ""
+
+
 def _render_card(ep: dict) -> str:
     meta = _SOURCE_META.get(ep.get("source_id", ""), {"label": ep.get("source_name", ""), "icon": "◉"})
     color = ep.get("source_color", "#58a6ff")
@@ -529,12 +564,15 @@ def _render_card(ep: dict) -> str:
     type_label = "YouTube" if ep_type == "youtube" else "Podcast"
 
     themes_html = "".join(f'<span class="theme-tag">{t}</span>' for t in ep.get("key_themes", []))
-    takeaways_html = "".join(f"<li>{t}</li>" for t in ep.get("key_takeaways", []))
     summary = ep.get("summary", "")
     market_rel = ep.get("market_relevance", "")
     one_liner = ep.get("one_line_summary", "")
     transcript_len = ep.get("transcript_length", 0)
     tlen_str = f"{transcript_len // 1000}k chars" if transcript_len else ""
+
+    market_signals = ep.get("market_signals", [])
+    framework_insights = ep.get("framework_insights", [])
+    key_takeaways = ep.get("key_takeaways", [])
 
     market_html = ""
     if market_rel:
@@ -569,7 +607,7 @@ def _render_card(ep: dict) -> str:
     {f'<div class="themes">{themes_html}</div>' if themes_html else ''}
   </div>
 
-  {f'<div class="takeaways"><div class="takeaways-title">Key Takeaways</div><ul>{takeaways_html}</ul></div>' if takeaways_html else ''}
+  {_render_takeaways(market_signals, framework_insights, key_takeaways)}
   {expand_html}
 
   <div class="card-footer">

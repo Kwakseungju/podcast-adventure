@@ -16,7 +16,7 @@ _SYSTEM = (
 )
 
 _PROMPT_TEMPLATE = """\
-Analyze the following transcript from a financial podcast or video and produce a structured briefing.
+Analyze the following transcript from a financial podcast or video using two separate passes, then produce a structured briefing.
 
 Source: {source_name} — {source_org}
 Title: {title}
@@ -26,17 +26,32 @@ Date: {published}
 {transcript}
 --- TRANSCRIPT END ---
 
+PASS 1 — MARKET SIGNALS: Hunt for timely, actionable intelligence that is relevant RIGHT NOW.
+Look for: specific numbers, spreads, levels, targets; positioning views and trade ideas; risk flags and warning signs; market structure observations; what the market is missing or mispricing.
+Ask yourself: "What is happening in the market right now?" and "What is the market missing?"
+
+PASS 2 — FRAMEWORK INSIGHTS: Extract durable, reusable intellectual value that will remain useful for years.
+Look for: mental models and analytical frameworks; investment principles and decision-making heuristics; cycle patterns and historical analogies; structural explanations for how things work.
+Ask yourself: "What can I learn from how this person thinks?"
+
 Respond with ONLY a valid JSON object matching this schema exactly:
 {{
   "one_line_summary": "One compelling sentence capturing the single most important point.",
   "summary": "Two to three paragraphs covering the main topics, key arguments, and important data points.",
-  "key_themes": ["theme1", "theme2", "theme3", "theme4", "theme5"],
-  "key_takeaways": [
-    "Takeaway 1 — specific and actionable",
-    "Takeaway 2 — specific and actionable",
-    "Takeaway 3 — specific and actionable",
-    "Takeaway 4 — specific and actionable",
-    "Takeaway 5 — specific and actionable"
+  "key_themes": ["theme1", "theme2", "theme3"],
+  "market_signals": [
+    "Signal 1 — specific number, positioning view, risk flag, or market structure observation",
+    "Signal 2 — specific and actionable",
+    "Signal 3 — specific and actionable",
+    "Signal 4 — specific and actionable",
+    "Signal 5 — specific and actionable"
+  ],
+  "framework_insights": [
+    "Insight 1 — mental model, investment principle, cycle pattern, or structural explanation",
+    "Insight 2 — reusable and durable",
+    "Insight 3 — reusable and durable",
+    "Insight 4 — reusable and durable",
+    "Insight 5 — reusable and durable"
   ],
   "market_relevance": "One to two sentences on why this matters for investors or markets right now."
 }}"""
@@ -108,7 +123,8 @@ def summarize_episode(episode: dict) -> dict:
     return {
         "one_line_summary": data.get("one_line_summary", ""),
         "summary": data.get("summary", ""),
-        "key_themes": data.get("key_themes", [])[:5],
-        "key_takeaways": data.get("key_takeaways", [])[:5],
+        "key_themes": data.get("key_themes", [])[:3],
+        "market_signals": data.get("market_signals", [])[:5],
+        "framework_insights": data.get("framework_insights", [])[:5],
         "market_relevance": data.get("market_relevance", ""),
     }
