@@ -2,11 +2,11 @@ import json
 import os
 import re
 
-from groq import Groq
+import google.generativeai as genai
 
 from scripts.config import MAX_TRANSCRIPT_CHARS
 
-_GROQ_MODEL = "llama-3.3-70b-versatile"
+_GEMINI_MODEL = "gemini-2.0-flash"
 
 _SYSTEM = (
     "You are a senior financial analyst specializing in credit markets, "
@@ -74,13 +74,12 @@ Respond with ONLY a valid JSON object matching this schema exactly:
 
 def _extract_json(raw: str) -> dict:
     """Try multiple strategies to extract JSON from the model response."""
-    # Strategy 1: direct parse
     try:
         return json.loads(raw)
     except json.JSONDecodeError:
         pass
 
-    # Strategy 2: strip markdown fences
+    # Strip markdown fences
     cleaned = re.sub(r"^```(?:json)?\s*", "", raw.strip(), flags=re.IGNORECASE)
     cleaned = re.sub(r"\s*```$", "", cleaned.strip())
     try:
@@ -88,7 +87,7 @@ def _extract_json(raw: str) -> dict:
     except json.JSONDecodeError:
         pass
 
-    # Strategy 3: find first { ... } block
+    # Find first { ... } block
     match = re.search(r"\{.*\}", raw, re.DOTALL)
     if match:
         try:
@@ -100,11 +99,15 @@ def _extract_json(raw: str) -> dict:
 
 
 def summarize_episode(episode: dict) -> dict:
-    api_key = os.environ.get("GROQ_API_KEY")
+    api_key = os.environ.get("GEMINI_API_KEY")
     if not api_key:
-        raise EnvironmentError("GROQ_API_KEY is not set")
+        raise EnvironmentError("GEMINI_API_KEY is not set")
 
-    client = Groq(api_key=api_key)
+    genai.configure(api_key=api_key)
+    model = genai.GenerativeModel(
+        model_name=_GEMINI_MODEL,
+        system_instruction=_SYSTEM,
+    )
 
     transcript = episode.get("transcript", "")
     if len(transcript) > MAX_TRANSCRIPT_CHARS:
@@ -118,18 +121,16 @@ def summarize_episode(episode: dict) -> dict:
         transcript=transcript,
     )
 
-    response = client.chat.completions.create(
-        model=_GROQ_MODEL,
-        messages=[
-            {"role": "system", "content": _SYSTEM},
-            {"role": "user",   "content": prompt},
-        ],
-        temperature=0.1,
-        max_tokens=1500,
-        response_format={"type": "json_object"},  # force JSON output
+    response = model.generate_content(
+        prompt,
+        generation_config=genai.GenerationConfig(
+            temperature=0.1,
+            max_output_tokens=1500,
+            response_mime_type="application/json",
+        ),
     )
 
-    raw = response.choices[0].message.content.strip()
+    raw = response.text.strip()
     data = _extract_json(raw)
 
     if not data:
@@ -137,9 +138,9 @@ def summarize_episode(episode: dict) -> dict:
 
     return {
         "one_line_summary": data.get("one_line_summary", ""),
-        "summary": data.get("summary", ""),
-        "key_themes": data.get("key_themes", [])[:3],
-        "market_signals": data.get("market_signals", [])[:5],
+        "summary":          data.get("summary", ""),
+        "key_themes":       data.get("key_themes", [])[:3],
+        "market_signals":   data.get("market_signals", [])[:5],
         "framework_insights": data.get("framework_insights", [])[:5],
         "market_relevance": data.get("market_relevance", ""),
     }

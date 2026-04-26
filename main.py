@@ -51,8 +51,8 @@ def main() -> None:
             summary_data = summarize_episode(ep)
         except Exception as exc:
             err = str(exc)
-            if "429" in err and ("tokens per day" in err or "TPD" in err):
-                print("  Groq daily token limit reached — saving progress and stopping.\n")
+            if "429" in err or "quota" in err.lower() or "rate_limit" in err.lower():
+                print("  API rate limit reached — saving progress and stopping.\n")
                 del ep["transcript"]
                 break  # quota exhausted; remaining episodes will be picked up tomorrow
             print(f"  Summarization failed: {exc}\n")
