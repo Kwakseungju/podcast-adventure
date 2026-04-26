@@ -2,7 +2,8 @@ import json
 import os
 import re
 
-import google.generativeai as genai
+from google import genai
+from google.genai import types
 
 from scripts.config import MAX_TRANSCRIPT_CHARS
 
@@ -103,11 +104,7 @@ def summarize_episode(episode: dict) -> dict:
     if not api_key:
         raise EnvironmentError("GEMINI_API_KEY is not set")
 
-    genai.configure(api_key=api_key)
-    model = genai.GenerativeModel(
-        model_name=_GEMINI_MODEL,
-        system_instruction=_SYSTEM,
-    )
+    client = genai.Client(api_key=api_key)
 
     transcript = episode.get("transcript", "")
     if len(transcript) > MAX_TRANSCRIPT_CHARS:
@@ -121,9 +118,11 @@ def summarize_episode(episode: dict) -> dict:
         transcript=transcript,
     )
 
-    response = model.generate_content(
-        prompt,
-        generation_config=genai.GenerationConfig(
+    response = client.models.generate_content(
+        model=_GEMINI_MODEL,
+        contents=prompt,
+        config=types.GenerateContentConfig(
+            system_instruction=_SYSTEM,
             temperature=0.1,
             max_output_tokens=1500,
             response_mime_type="application/json",

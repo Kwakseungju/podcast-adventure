@@ -51,7 +51,7 @@ def main() -> None:
             summary_data = summarize_episode(ep)
         except Exception as exc:
             err = str(exc)
-            if "429" in err or "quota" in err.lower() or "rate_limit" in err.lower():
+            if "429" in err:
                 print("  API rate limit reached — saving progress and stopping.\n")
                 del ep["transcript"]
                 break  # quota exhausted; remaining episodes will be picked up tomorrow
