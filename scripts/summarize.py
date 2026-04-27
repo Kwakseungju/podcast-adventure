@@ -1,6 +1,7 @@
 import json
 import os
 import re
+import time
 
 from groq import Groq
 
@@ -117,16 +118,28 @@ def summarize_episode(episode: dict) -> dict:
         transcript=transcript,
     )
 
-    response = client.chat.completions.create(
-        model=_GROQ_MODEL,
-        messages=[
-            {"role": "system", "content": _SYSTEM},
-            {"role": "user",   "content": prompt},
-        ],
-        temperature=0.1,
-        max_tokens=1500,
-        response_format={"type": "json_object"},
-    )
+    # Retry up to 3 times on per-minute rate limit (429); hard daily quota re-raises
+    for attempt in range(3):
+        try:
+            response = client.chat.completions.create(
+                model=_GROQ_MODEL,
+                messages=[
+                    {"role": "system", "content": _SYSTEM},
+                    {"role": "user",   "content": prompt},
+                ],
+                temperature=0.1,
+                max_tokens=1000,
+                response_format={"type": "json_object"},
+            )
+            break
+        except Exception as exc:
+            err = str(exc)
+            if "429" in err and attempt < 2:
+                wait = 65 * (attempt + 1)
+                print(f"  Rate limit hit — waiting {wait}s before retry {attempt + 2}/3...")
+                time.sleep(wait)
+            else:
+                raise
 
     raw = response.choices[0].message.content.strip()
     data = _extract_json(raw)
