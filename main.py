@@ -29,7 +29,10 @@ def main() -> None:
     print(f"Loaded {len(episodes)} existing episode(s)\n")
 
     new_episodes = fetch_all_new_episodes(existing_ids)
-    print(f"\nFound {len(new_episodes)} new episode(s) to process\n")
+    print(f"\nFound {len(new_episodes)} new episode(s) to process")
+    for ep in new_episodes:
+        print(f"  - [{ep['source_id']}] {ep['title'][:60]} | desc={len(ep.get('description',''))}c")
+    print()
 
     processed = 0
     failed = 0
