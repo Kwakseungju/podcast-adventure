@@ -2,12 +2,11 @@ import json
 import os
 import re
 
-from google import genai
-from google.genai import types
+from groq import Groq
 
 from scripts.config import MAX_TRANSCRIPT_CHARS
 
-_GEMINI_MODEL = "gemini-1.5-flash"
+_GROQ_MODEL = "llama-3.3-70b-versatile"
 
 _SYSTEM = (
     "You are a senior financial analyst specializing in credit markets, "
@@ -100,11 +99,11 @@ def _extract_json(raw: str) -> dict:
 
 
 def summarize_episode(episode: dict) -> dict:
-    api_key = os.environ.get("GEMINI_API_KEY")
+    api_key = os.environ.get("GROQ_API_KEY")
     if not api_key:
-        raise EnvironmentError("GEMINI_API_KEY is not set")
+        raise EnvironmentError("GROQ_API_KEY is not set")
 
-    client = genai.Client(api_key=api_key)
+    client = Groq(api_key=api_key)
 
     transcript = episode.get("transcript", "")
     if len(transcript) > MAX_TRANSCRIPT_CHARS:
@@ -118,18 +117,18 @@ def summarize_episode(episode: dict) -> dict:
         transcript=transcript,
     )
 
-    response = client.models.generate_content(
-        model=_GEMINI_MODEL,
-        contents=prompt,
-        config=types.GenerateContentConfig(
-            system_instruction=_SYSTEM,
-            temperature=0.1,
-            max_output_tokens=1500,
-            response_mime_type="application/json",
-        ),
+    response = client.chat.completions.create(
+        model=_GROQ_MODEL,
+        messages=[
+            {"role": "system", "content": _SYSTEM},
+            {"role": "user",   "content": prompt},
+        ],
+        temperature=0.1,
+        max_tokens=1500,
+        response_format={"type": "json_object"},
     )
 
-    raw = response.text.strip()
+    raw = response.choices[0].message.content.strip()
     data = _extract_json(raw)
 
     if not data:
