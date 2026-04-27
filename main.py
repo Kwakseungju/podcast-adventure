@@ -52,7 +52,7 @@ def main() -> None:
         except Exception as exc:
             err = str(exc)
             if "429" in err:
-                print("  API rate limit reached — saving progress and stopping.\n")
+                print(f"  API rate limit reached: {exc}\n")
                 del ep["transcript"]
                 break  # quota exhausted; remaining episodes will be picked up tomorrow
             print(f"  Summarization failed: {exc}\n")
