@@ -1,13 +1,12 @@
 import json
 import os
 import re
-import time
 
 from groq import Groq
 
 from scripts.config import MAX_TRANSCRIPT_CHARS
 
-_GROQ_MODEL = "llama-3.3-70b-versatile"
+_GROQ_MODEL = "llama-3.1-8b-instant"
 
 _SYSTEM = (
     "You are a senior financial analyst specializing in credit markets, "
@@ -128,11 +127,6 @@ def summarize_episode(episode: dict) -> dict:
         max_tokens=1000,
         response_format={"type": "json_object"},
     )
-
-    # Pace to Groq free-tier limit (6k tokens/min). Sleep after every call so
-    # the per-minute window always resets before the next episode.
-    print("  Pacing: waiting 65s for Groq rate-limit window to reset...")
-    time.sleep(65)
 
     raw = response.choices[0].message.content.strip()
     data = _extract_json(raw)
