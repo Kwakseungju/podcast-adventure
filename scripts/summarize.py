@@ -7,7 +7,7 @@ from google.genai import types
 
 from scripts.config import MAX_TRANSCRIPT_CHARS
 
-_GEMINI_MODEL = "gemini-2.0-flash"
+_GEMINI_MODEL = "gemini-1.5-flash"
 
 _SYSTEM = (
     "You are a senior financial analyst specializing in credit markets, "
