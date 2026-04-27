@@ -220,20 +220,32 @@ main {
   color: var(--text-muted);
 }
 
-/* ── Takeaways ── */
+/* ── Two-pass takeaways ── */
 .takeaways {
-  padding: 14px 20px;
-  background: var(--bg-card-2);
   border-top: 1px solid var(--border-soft);
 }
-.takeaways-title {
+.pass-section {
+  padding: 12px 20px;
+}
+.pass-section + .pass-section {
+  border-top: 1px solid var(--border-soft);
+}
+.pass-title {
   font-size: .72rem;
   font-weight: 700;
   text-transform: uppercase;
   letter-spacing: .07em;
-  color: var(--text-dim);
   margin-bottom: 8px;
+  display: flex;
+  align-items: center;
+  gap: 5px;
 }
+.market-pass { background: rgba(245,158,11,.05); }
+.market-pass .pass-title { color: #f59e0b; }
+.market-pass li::before { color: #f59e0b; }
+.framework-pass { background: rgba(56,189,248,.05); }
+.framework-pass .pass-title { color: #38bdf8; }
+.framework-pass li::before { color: #38bdf8; }
 .takeaways ul { list-style: none; display: flex; flex-direction: column; gap: 5px; }
 .takeaways li {
   font-size: .84rem;
@@ -245,9 +257,19 @@ main {
   content: "→";
   position: absolute;
   left: 0;
-  color: var(--accent);
   font-size: .8rem;
 }
+/* fallback for old episodes with key_takeaways */
+.takeaways-legacy { padding: 14px 20px; background: var(--bg-card-2); }
+.takeaways-title {
+  font-size: .72rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: .07em;
+  color: var(--text-dim);
+  margin-bottom: 8px;
+}
+.takeaways-legacy li::before { color: var(--accent); }
 
 /* ── Expandable full summary ── */
 .card-expand {
@@ -366,12 +388,12 @@ footer {
       <span class="brand-icon">◈</span>
       <div>
         <h1>Finance Intelligence</h1>
-        <p class="tagline">Weekly briefings from Credit Edge · Apollo · Goldman Sachs</p>
+        <p class="tagline">Weekly briefings from Credit Edge · Odd Lots · Apollo · Oaktree · Goldman Sachs · Capital Allocators</p>
       </div>
     </div>
     <div class="header-meta">
       <span class="updated-label">Last updated</span>
-      <span class="updated-date">April 20, 2026 at 16:27 UTC</span>
+      <span class="updated-date">April 27, 2026 at 09:06 UTC</span>
     </div>
   </div>
 </header>
@@ -383,50 +405,53 @@ footer {
       <div class="filter-btns">
         <button class="filter-btn active" data-source="all">All Sources</button>
         <button class="filter-btn" data-source="credit_edge">Credit Edge</button>
+        <button class="filter-btn" data-source="odd_lots">Odd Lots</button>
         <button class="filter-btn" data-source="view_from_apollo">Apollo</button>
+        <button class="filter-btn" data-source="oaktree_insight">Oaktree</button>
         <button class="filter-btn" data-source="goldman_sachs">Goldman Sachs</button>
+        <button class="filter-btn" data-source="capital_allocators">Capital Allocators</button>
       </div>
     </div>
     <div class="stats">
-      <span class="stat"><strong>3</strong> episodes</span>
-      <span class="stat"><strong>2</strong> weeks tracked</span>
+      <span class="stat"><strong>4</strong> episodes</span>
+      <span class="stat"><strong>4</strong> weeks tracked</span>
     </div>
   </div>
 </div>
 
 <main>
 
-<section class="week-section" data-week="2026-W16">
+<section class="week-section" data-week="2026-W17">
   <div class="week-header">
-    <span class="week-label">2026-W16</span>
-    <span class="week-date-range">Apr 13 – 19, 2026</span>
-    <span class="week-count">2 episodes</span>
+    <span class="week-label">2026-W17</span>
+    <span class="week-date-range">Apr 20 – 26, 2026</span>
+    <span class="week-count">1 episode</span>
   </div>
   <div class="episode-grid">
 
-<article class="episode-card" data-source="goldman_sachs">
+<article class="episode-card" data-source="credit_edge">
   <div class="card-top">
     <div class="card-meta">
-      <span class="source-badge" style="color:#3b82f6;border-color:#3b82f6;background:rgba(0,0,0,.3)">▶ Goldman Sachs</span>
+      <span class="source-badge" style="color:#f97316;border-color:#f97316;background:rgba(0,0,0,.3)">📡 Bloomberg Intelligence</span>
       <div style="display:flex;gap:8px;align-items:center">
-        <span class="ep-type-badge">YouTube</span>
-        <span class="ep-date">2026-04-17</span>
+        <span class="ep-type-badge">Podcast</span>
+        <span class="ep-date">2026-04-23</span>
       </div>
     </div>
-    <h2 class="card-title">Chase or Fade the Rally?</h2>
-    <p class="one-liner">Despite numerous challenges, the market has reached an all-time high, with the equity market looking through short-term noise and focusing on long-term growth, underpinned by AI capex tailwinds and fiscal tailwinds.</p>
-    <div class="themes"><span class="theme-tag">Market Resilience</span><span class="theme-tag">AI Capex</span><span class="theme-tag">Fiscal Tailwinds</span><span class="theme-tag">Retail Investors</span><span class="theme-tag">Diversification</span></div>
+    <h2 class="card-title">Sycamore Tree Tips Chemicals in Iran Jam</h2>
+    <p class="one-liner">Trey Parker, CIO of Sycamore Tree Capital Partners, discusses the current state of credit markets, the opportunities in credit secondaries, and the impact of AI on software companies.</p>
+    <div class="themes"><span class="theme-tag">credit markets</span><span class="theme-tag">credit secondaries</span><span class="theme-tag">private credit</span></div>
   </div>
 
-  <div class="takeaways"><div class="takeaways-title">Key Takeaways</div><ul><li>The market's ability to look through short-term noise and focus on long-term growth has driven its resilience</li><li>Retail investors have become a significant force in the market, with around 30% of daily traded volume in the US</li><li>Diversification into other regions such as Asia and Europe will be important, in addition to the US</li><li>The 'halo theme' focusing on heavy assets with low obsolescence is a key trade idea</li><li>The upcoming earnings season will be crucial in monitoring corporate sentiment, supply chain impacts, and consumer behavior</li></ul></div>
+  <div class="takeaways"><div class="pass-section market-pass"><div class="pass-title">&#9889; Market Signals</div><ul><li>The credit secondary market did $20 billion of volume last year and is expected to move higher over the next several years.</li><li>Discounts upwards of 20 to 25 percent to NAVs can materialize in the credit secondary market.</li><li>The most distressed sector is now technology, with software companies being unique animals with high leverage and concerns about AI disruption.</li><li>There is $40 billion plus of stressed or distressed software loans in the market, but the fundamentals are not yet proving that out.</li><li>Net and gross retention rates within the software space are at relatively healthy levels.</li></ul></div><div class="pass-section framework-pass"><div class="pass-title">&#128161; Framework Insights</div><ul><li>The importance of understanding the complexities of credit across multiple cycles and having a team with experience navigating different economic and credit cycles.</li><li>The need for good old-fashioned credit selection, focusing on companies with real staying power and moats that are difficult to transition out of.</li><li>The impact of AI on software companies will be a function of how easily replaceable or sort of how easy particular software is to transition out of.</li><li>The importance of focusing on pricing models that are more usage-based or subscription-based, where the utilization isn't just a headcount and employee-based driven factor.</li><li>The need to be careful about betting on good company, bad balance sheet, as the moats for companies are shrinking and the risk of obsolescence is evolving much more quickly.</li></ul></div></div>
   
   <div class="card-expand">
     <div class="expand-inner">
       <div class="expand-label">Full Summary</div>
-      <div class="summary-text">The conversation concludes with a discussion of the upcoming earnings season, with the guest highlighting the importance of monitoring corporate sentiment, supply chain impacts, and consumer behavior. The guest notes that while the base case is for continued consumption and steady earnings, there is a risk that the inflationary impulse could lead to a demand shock and increase recession probability.</div>
+      <div class="summary-text">The discussion highlights the importance of good old-fashioned credit selection, focusing on companies with real staying power and moats that are difficult to transition out of. Trey also notes that when software companies do get distressed, it's not just a capital structure issue, and that customers will have greater concerns, making the potential deterioration of those companies more dire and more risky for investors.</div>
       <div class="market-rel">
         <div class="market-rel-label">Market Relevance</div>
-        The insights from this conversation can inform investment decisions, particularly in terms of navigating the complexities of the current market environment and identifying opportunities for growth.
+        The conversation highlights the current state of credit markets and the opportunities in credit secondaries, which is relevant for investors looking to navigate the complex credit landscape. The discussion also touches on the impact of AI on software companies, which is a key theme for investors to consider in the technology sector.
       </div>
     </div>
   </div>
@@ -434,61 +459,103 @@ footer {
   <div class="card-footer">
     <button class="btn-expand">Full Summary ▼</button>
     <div style="display:flex;align-items:center;gap:12px">
-      <span class="transcript-len">12k chars</span>
-      <a class="btn-listen" href="https://www.youtube.com/watch?v=meSscp1hcec" target="_blank">
-        ▶ Watch
+      <span class="transcript-len">49k chars</span>
+      <a class="btn-listen" href="https://omny.fm/shows/the-credit-edge-by-bloomberg-intelligence/sycamore-tree-tips-chemicals-in-iran-jam" target="_blank">
+        🎧 Listen
       </a>
     </div>
   </div>
 </article>
+  </div>
+</section>
+<section class="week-section" data-week="2026-W16">
+  <div class="week-header">
+    <span class="week-label">2026-W16</span>
+    <span class="week-date-range">Apr 13 – 19, 2026</span>
+    <span class="week-count">1 episode</span>
+  </div>
+  <div class="episode-grid">
 
-<article class="episode-card" data-source="goldman_sachs">
+<article class="episode-card" data-source="credit_edge">
   <div class="card-top">
     <div class="card-meta">
-      <span class="source-badge" style="color:#3b82f6;border-color:#3b82f6;background:rgba(0,0,0,.3)">▶ Goldman Sachs</span>
+      <span class="source-badge" style="color:#f97316;border-color:#f97316;background:rgba(0,0,0,.3)">📡 Bloomberg Intelligence</span>
       <div style="display:flex;gap:8px;align-items:center">
-        <span class="ep-type-badge">YouTube</span>
+        <span class="ep-type-badge">Podcast</span>
         <span class="ep-date">2026-04-16</span>
       </div>
     </div>
-    <h2 class="card-title">Apollo's Jim Zelter on the Future of Private Credit</h2>
-    
-    
+    <h2 class="card-title">Davidson Kempner Sees a $770 Billion Stressed Debt Opportunity</h2>
+    <p class="one-liner">Davidson Kempner's research highlights a $770 billion stressed debt opportunity in the US leverage loan and direct lending markets, driven by high leverage and weak credit fundamentals.</p>
+    <div class="themes"><span class="theme-tag">Stressed debt in US leverage loan and direct lending markets</span><span class="theme-tag">High leverage and weak credit fundamentals</span><span class="theme-tag">Opportunities for opportunistic credit investors</span></div>
   </div>
 
-  
+  <div class="takeaways"><div class="pass-section market-pass"><div class="pass-title">&#9889; Market Signals</div><ul><li>A third of the US leverage loan and direct lending markets are considered stressed, representing a $770 billion opportunity</li><li>Leverage in these markets is higher than appreciated, with reported EBITDA leverage over 7 times and interest coverage ratios below 1.5 times</li><li>The market is not yet fully reflecting the underlying credit weaknesses, with many loans still trading near par</li><li>The direct lending market is opaque, making it difficult to determine the true value of loans</li><li>The leverage loan market prices risk, but there may be a tolerance for high leverage in certain sectors</li></ul></div><div class="pass-section framework-pass"><div class="pass-title">&#128161; Framework Insights</div><ul><li>The current credit cycle is fundamentally different from prior cycles due to higher starting leverage and valuations</li><li>The use of adjusted EBITDA can mask true leverage in these markets, with add-backs increasing over time</li><li>Liability management exercises can delay but not solve underlying credit problems, with many companies becoming repeat defaulters</li><li>The flood of capital into private equity and leverage credit has led to loosening of underwriting standards</li><li>Opportunistic credit investors can capitalize on stressed debt opportunities by purchasing loans at a discount</li></ul></div></div>
   
   <div class="card-expand">
     <div class="expand-inner">
       <div class="expand-label">Full Summary</div>
-      <div class="summary-text">{
-  "one_line_summary": "Apollo's Jim Zelter discusses the future of private credit, emphasizing its broader definition beyond direct lending and its crucial role in addressing massive capital needs driven by the energy transition, data centers, and infrastructure development.",
-  "summary": "Jim Zelter, president of Apollo Global Management, shares his insights on the evolution of private credit, highlighting its historical context and the significant capital needs it aims to address. He notes that the market often misunderstands private credit, focusing too narrowly on direct lending, when in fact it encompasses a $40 trillion market including commercial real estate, asset-based finance, and more. Zelter expresses confidence in the resilience of the private credit ecosystem but acknowledges the potential for a credit cycle impact in the future.
-
-Zelter also discusses the significant financing needs ahead, particularly in the context of the energy transition and data center development, which he estimates will require $5 to $6 trillion in capital over the next five years. He believes that traditional sources of funding, such as banks and investment-grade issuance, will not be sufficient to meet these needs, and that insurance capital and private credit will play a crucial role.
-
-The conversation also touches on Apollo's growth strategy, with ambitious targets to reach $1 trillion in assets by the end of the year and $1.5 trillion by 2029. Zelter emphasizes the importance of maintaining the firm's investment culture and flat organizational structure as it scales, with a focus on origination, retirement solutions, and public-private convergence.
-
-",
-  "key_themes": ["Private Credit", "Capital Formation", "Energy Transition", "Investment Strategy", "Market Evolution"],
-  "key_takeaways": [
-    "Private credit is a broader asset class than often understood, encompassing more than just direct lending",
-    "The energy transition and data center development will require significant capital, estimated at $5 to $6 trillion over the next five years",
-    "Insurance capital and private credit will play a crucial role in meeting these financing needs",
-    "Apollo aims to reach $1 trillion in assets by the end of the year and $1.5 trillion by 2029, with a focus on origination, retirement solutions, and public-private convergence",
-    "Maintaining a strong investment culture and flat organizational structure is critical as the firm scales"
-  ],
-  "market_relevance": "The growth of private credit and its role in addressing significant capital needs has important implications for investors and markets, particularly in the context of the energy transition and infrastructure development. As the private credit market continues to evolve, understanding its broader definition and potential applications will be crucial for investors seeking to navigate this space."
-}</div>
+      <div class="summary-text">The Credit Edge podcast features Susie Gibbons, partner and head of research at Davidson Kempner, discussing the firm's research on stressed debt in the US leverage loan and direct lending markets. Gibbons notes that the problems in these markets are broader than just the software sector and have been building over time, with a third of the market considered stressed based on fundamental credit metrics such as leverage over 7 times and interest coverage ratios below 1.5 times. The research suggests that the issues in these markets are not yet fully reflected in market prices, with many loans still trading near par despite underlying credit weaknesses.</div>
+      <div class="market-rel">
+        <div class="market-rel-label">Market Relevance</div>
+        The research highlights the potential for significant losses in the US leverage loan and direct lending markets, which could have broader implications for credit markets and investors. Opportunistic credit investors may be able to capitalize on stressed debt opportunities, but the market's failure to fully reflect underlying credit weaknesses poses a risk to investors who are not adequately prepared.
+      </div>
     </div>
   </div>
 
   <div class="card-footer">
     <button class="btn-expand">Full Summary ▼</button>
     <div style="display:flex;align-items:center;gap:12px">
-      <span class="transcript-len">28k chars</span>
-      <a class="btn-listen" href="https://www.youtube.com/watch?v=5aEqPiUm4gw" target="_blank">
-        ▶ Watch
+      <span class="transcript-len">54k chars</span>
+      <a class="btn-listen" href="https://omny.fm/shows/the-credit-edge-by-bloomberg-intelligence/davidson-kempner-sees-a-770-billion-stressed-debt-opportunity" target="_blank">
+        🎧 Listen
+      </a>
+    </div>
+  </div>
+</article>
+  </div>
+</section>
+<section class="week-section" data-week="2026-W15">
+  <div class="week-header">
+    <span class="week-label">2026-W15</span>
+    <span class="week-date-range">Apr 6 – 12, 2026</span>
+    <span class="week-count">1 episode</span>
+  </div>
+  <div class="episode-grid">
+
+<article class="episode-card" data-source="credit_edge">
+  <div class="card-top">
+    <div class="card-meta">
+      <span class="source-badge" style="color:#f97316;border-color:#f97316;background:rgba(0,0,0,.3)">📡 Bloomberg Intelligence</span>
+      <div style="display:flex;gap:8px;align-items:center">
+        <span class="ep-type-badge">Podcast</span>
+        <span class="ep-date">2026-04-09</span>
+      </div>
+    </div>
+    <h2 class="card-title">BDC Bond Bust Creates Opportunity for $622 Billion Asset Manager MFS</h2>
+    <p class="one-liner">MFS Investment Management's CIO of Fixed Income, Alex Mackie, discusses the current market environment, positioning for potential risks, and opportunities in the credit market.</p>
+    <div class="themes"><span class="theme-tag">Credit Market</span><span class="theme-tag">Risk Positioning</span><span class="theme-tag">AI Disruption</span></div>
+  </div>
+
+  <div class="takeaways"><div class="pass-section market-pass"><div class="pass-title">&#9889; Market Signals</div><ul><li>High yield spreads have widened out but come back down to around long-term averages</li><li>IG spreads are also around long-term averages</li><li>Yields have moved higher, improving the value proposition of fixed income</li><li>Demand for fixed income continues to be healthy, with bond offerings being well oversubscribed</li><li>MFS is looking for spreads to increase to around 120 basis points, a long-term average, before getting excited about deploying more capital</li></ul></div><div class="pass-section framework-pass"><div class="pass-title">&#128161; Framework Insights</div><ul><li>The importance of considering both macro and micro perspectives when evaluating the market</li><li>The need to be prepared for potential risks, such as recession and inflation, and to have a plan in place to take advantage of market opportunities</li><li>The impact of AI on various sectors and the potential opportunities it presents for credit investors</li><li>The importance of being patient and waiting for better value propositions in the market</li><li>The use of long-term averages and medians as a starting point for evaluating market valuations</li></ul></div></div>
+  
+  <div class="card-expand">
+    <div class="expand-inner">
+      <div class="expand-label">Full Summary</div>
+      <div class="summary-text">The conversation covers the current state of the credit market, with spreads at long-term averages, and the potential risks of a recession, inflation, and geopolitical events. Alex Mackie mentions that MFS is not highly convicted of a step function change in the market but is prepared for potential risks. The discussion also touches on the impact of AI on various sectors and the opportunities it presents for credit investors. The CIO emphasizes the importance of being patient and waiting for better value propositions in the market.</div>
+      <div class="market-rel">
+        <div class="market-rel-label">Market Relevance</div>
+        The discussion provides insights into the current market environment and the potential risks and opportunities in the credit market, which is relevant for investors looking to navigate the current landscape.
+      </div>
+    </div>
+  </div>
+
+  <div class="card-footer">
+    <button class="btn-expand">Full Summary ▼</button>
+    <div style="display:flex;align-items:center;gap:12px">
+      <span class="transcript-len">48k chars</span>
+      <a class="btn-listen" href="https://omny.fm/shows/the-credit-edge-by-bloomberg-intelligence/bdc-bond-bust-creates-opportunity-for-622-billion-asset-manager-mfs" target="_blank">
+        🎧 Listen
       </a>
     </div>
   </div>
@@ -503,29 +570,29 @@ The conversation also touches on Apollo's growth strategy, with ambitious target
   </div>
   <div class="episode-grid">
 
-<article class="episode-card" data-source="view_from_apollo">
+<article class="episode-card" data-source="credit_edge">
   <div class="card-top">
     <div class="card-meta">
-      <span class="source-badge" style="color:#a855f7;border-color:#a855f7;background:rgba(0,0,0,.3)">🔭 Apollo Global Mgmt</span>
+      <span class="source-badge" style="color:#f97316;border-color:#f97316;background:rgba(0,0,0,.3)">📡 Bloomberg Intelligence</span>
       <div style="display:flex;gap:8px;align-items:center">
         <span class="ep-type-badge">Podcast</span>
-        <span class="ep-date">2026-03-31</span>
+        <span class="ep-date">2026-04-02</span>
       </div>
     </div>
-    <h2 class="card-title">Private Equity Portfolios: Three Key Dimensions of Diversification</h2>
-    <p class="one-liner">Diversification across managers, company size, and sectors is crucial for building resilient private equity portfolios in today's evolving landscape.</p>
-    <div class="themes"><span class="theme-tag">Private Equity</span><span class="theme-tag">Diversification</span><span class="theme-tag">Portfolio Resilience</span><span class="theme-tag">Risk Management</span><span class="theme-tag">Investment Strategy</span></div>
+    <h2 class="card-title">PGIM Sees 'Chilling Effect' on Private Credit From BDC Storm</h2>
+    <p class="one-liner">PGIM's global head of middle market direct lending discusses the evolution of private credit, its current state, and the value proposition it offers to borrowers and investors.</p>
+    <div class="themes"><span class="theme-tag">Private Credit</span><span class="theme-tag">Direct Lending</span><span class="theme-tag">Middle Market Lending</span></div>
   </div>
 
-  <div class="takeaways"><div class="takeaways-title">Key Takeaways</div><ul><li>Diversify across multiple private equity managers to reduce dependence on any one manager's performance</li><li>Spread investments across different company sizes to capture growth opportunities at various stages</li><li>Allocate investments across various sectors to minimize exposure to sector-specific risks</li><li>Recognize the risks of concentrated exposure, particularly in volatile sectors like software</li><li>Adopt a balanced, multi-dimensional approach to diversification to support portfolio resilience</li></ul></div>
+  <div class="takeaways"><div class="pass-section market-pass"><div class="pass-title">&#9889; Market Signals</div><ul><li>The high-yield index yield is around 7.5%, with a credit quality of B1 and maturities just under 5 years.</li><li>The leverage loan index yield is around 8.5%, with a credit quality of B1/B2.</li><li>The illiquidity premium for direct lending can be around 100 basis points above comparable liquid loans.</li><li>The average credit quality in the direct lending loan world is in the B1 to B3 range.</li></ul></div><div class="pass-section framework-pass"><div class="pass-title">&#128161; Framework Insights</div><ul><li>The definition of private credit has broadened over time to include more than just direct lending, such as stress debt, special finance, real estate, infrastructure lending, and mezzanine.</li><li>The value proposition of private credit lies in its ability to provide longer-term capital, higher execution certainty, and more flexibility than traditional bank loans.</li><li>The key to delivering excess return in private credit is to identify and underwrite risks, structure the loan package to address those risks, and price them appropriately.</li><li>The illiquidity premium in private credit can be a significant source of excess return for investors.</li></ul></div></div>
   
   <div class="card-expand">
     <div class="expand-inner">
       <div class="expand-label">Full Summary</div>
-      <div class="summary-text">The concept of diversification in private equity investing has become increasingly important as the industry landscape continues to shift. A key aspect of this is recognizing the risks associated with concentrated exposure, particularly in sectors like software, which can be highly volatile. By adopting a more balanced, multi-dimensional approach to diversification, investors can better support the resilience of their portfolios. This involves spreading investments across different managers, company sizes, and sectors to minimize risk and maximize returns. Effective diversification can help investors navigate the challenges posed by evolving industry dynamics and market conditions.</div>
+      <div class="summary-text">Private credit has grown significantly over the years, with direct lending becoming a substantial part of it. The middle market lending landscape has evolved, with Chicago being a key hub. PGIM oversees more than $200 million in private credit and focuses on providing longer-term capital to fund events such as acquisitions, recapitalizations, and major growth financing. The company's direct lending strategy involves leverage loans privately negotiated for companies, with a focus on the middle market. The scale of businesses being prospected, selected, and lent to has expanded, with the traditional definition of middle market being $25-75 million of EBITDA.</div>
       <div class="market-rel">
         <div class="market-rel-label">Market Relevance</div>
-        This matters for investors as private equity continues to play a significant role in investment portfolios, and the ability to navigate shifting industry dynamics and manage risk effectively will be crucial for achieving long-term success. By prioritizing diversification and adopting a more nuanced approach to private equity investing, investors can better position themselves for resilience and growth in today's evolving market landscape.
+        The growth of private credit and direct lending has significant implications for investors and markets, as it provides an alternative source of funding for companies and offers a unique value proposition for investors seeking yield and diversification.
       </div>
     </div>
   </div>
@@ -533,8 +600,8 @@ The conversation also touches on Apollo's growth strategy, with ambitious target
   <div class="card-footer">
     <button class="btn-expand">Full Summary ▼</button>
     <div style="display:flex;align-items:center;gap:12px">
-      <span class="transcript-len">0k chars</span>
-      <a class="btn-listen" href="https://blubrry.com/theviewfromapollo/153775594/private-equity-portfolios-three-key-dimensions-of-diversification/" target="_blank">
+      <span class="transcript-len">48k chars</span>
+      <a class="btn-listen" href="https://omny.fm/shows/the-credit-edge-by-bloomberg-intelligence/pgim-sees-chilling-effect-on-private-credit-from-bdc-storm" target="_blank">
         🎧 Listen
       </a>
     </div>
@@ -548,9 +615,14 @@ The conversation also touches on Apollo's growth strategy, with ambitious target
 <footer>
   <div class="footer-inner">
     <p>Summaries generated by Claude AI · Transcripts via Whisper &amp; YouTube</p>
-    <p>Sources: <a href="https://open.spotify.com/show/0WrBZujO7cbhbaqsNCEbTu" target="_blank">The Credit Edge</a>
-    · <a href="https://www.apolloacademy.com/the-view-from-apollo/" target="_blank">The View from Apollo</a>
-    · <a href="https://www.youtube.com/@GoldmanSachs" target="_blank">Goldman Sachs YouTube</a></p>
+    <p>Sources:
+    <a href="https://open.spotify.com/show/0WrBZujO7cbhbaqsNCEbTu" target="_blank">The Credit Edge</a> ·
+    <a href="https://open.spotify.com/show/1te7oSFyRVekxMBJUSethH" target="_blank">Odd Lots</a> ·
+    <a href="https://www.apolloacademy.com/the-view-from-apollo/" target="_blank">The View from Apollo</a> ·
+    <a href="https://open.spotify.com/show/6UllvbuIsyPESs38EWPanH" target="_blank">Oaktree Insight</a> ·
+    <a href="https://www.youtube.com/@GoldmanSachs" target="_blank">Goldman Sachs</a> ·
+    <a href="https://www.youtube.com/channel/UCbzQ_YWf9RsBP9ATbmv5kxQ" target="_blank">Capital Allocators</a>
+    </p>
   </div>
 </footer>
 
