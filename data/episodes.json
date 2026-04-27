@@ -1,5 +1,44 @@
 [
   {
+    "id": "e9828d5ce3d0be0c3700e9611552deec",
+    "source_id": "odd_lots",
+    "source_name": "Odd Lots",
+    "source_org": "Bloomberg",
+    "source_color": "#06b6d4",
+    "title": "What's Actually Going On With Private Credit",
+    "description": "<p>The private credit market has grown enormously fast in recent years &mdash; so much so that by some estimates it's now bigger than the market for junk-rated corporate bonds. So what's driven all that growth? What impact has private credit had on other types of corporate debt? And why are there so many concerns around the space right now? In this episode, we speak with John Sheehan and Craig Manchuck, two veteran portfolio managers for the strategic income fund at Osterweis Capital Management. We talk about the history of private credit before and after 2008, private credit's links with private equity and insurance, the prospect of higher defaults, and what to watch for right now.</p> <p><a href=\"http://bloomberg.com/subscriptions/oddlots\">Subscribe to the Odd Lots Newsletter</a><br />Join the conversation: <a href=\"https://discord.gg/oddlots\">discord.gg/oddlots</a></p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
+    "published": "2026-04-27",
+    "week": "2026-W18",
+    "audio_url": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/74a9745d-6825-4bfc-abc3-b43601639f72/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
+    "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/74a9745d-6825-4bfc-abc3-b43601639f72/transcript?format=TextWithTimestamps&t=1777067016",
+    "episode_url": "https://omny.fm/shows/odd-lots/whats-actually-going-on-with-private-credit",
+    "type": "podcast",
+    "duration_secs": 3047,
+    "transcript_length": 51026,
+    "one_line_summary": "Private credit has grown significantly since the 2008 financial crisis, driven by investor demand for yield and borrower need for financing, with the market now estimated to be larger than the junk-rated market.",
+    "summary": "The private credit market has experienced rapid growth, fueled by investors seeking alternative sources of yield and companies looking for financing options beyond traditional banking channels. This growth has been facilitated by the expansion of private credit funds, which have filled the gap left by banks due to regulatory constraints. The market's size and complexity have led to a diverse range of investment opportunities, with various players, including insurance companies, participating in the space.",
+    "key_themes": [
+      "Private credit market growth",
+      "Investor demand for yield",
+      "Regulatory environment"
+    ],
+    "market_signals": [
+      "Private credit market is estimated to be larger than the junk-rated market",
+      "Investors are seeking alternative sources of yield due to low interest rates",
+      "Banks are constrained by regulations, creating opportunities for private credit funds",
+      "Insurance companies are investing in private credit due to their long-duration assets",
+      "Private credit funds have grown significantly, with some growing 10x over the last 5-10 years"
+    ],
+    "framework_insights": [
+      "The private credit market has evolved from its roots in financing tangible assets, such as railcars and aircraft, to include a broader range of investments, including mezzanine finance and LBOs",
+      "Insurance companies are well-suited to invest in private credit due to their long-duration assets and ability to harvest illiquidity premiums",
+      "Private credit funds have a different sourcing model than public market investors, relying on relationships and direct sourcing rather than investment banks",
+      "The growth of private credit has been driven by both investor demand and borrower need, creating a self-reinforcing cycle",
+      "Regulatory constraints on banks have created opportunities for private credit funds to fill the gap"
+    ],
+    "market_relevance": "The growth of the private credit market has significant implications for investors, as it offers a new source of yield and diversification, but also presents risks and challenges, particularly in terms of liquidity and regulatory oversight."
+  },
+  {
     "id": "cfb9b8dfe4804679b54dc631f3e8f43a",
     "source_id": "credit_edge",
     "source_name": "The Credit Edge",
@@ -37,6 +76,45 @@
       "The need to be careful about betting on good company, bad balance sheet, as the moats for companies are shrinking and the risk of obsolescence is evolving much more quickly."
     ],
     "market_relevance": "The conversation highlights the current state of credit markets and the opportunities in credit secondaries, which is relevant for investors looking to navigate the complex credit landscape. The discussion also touches on the impact of AI on software companies, which is a key theme for investors to consider in the technology sector."
+  },
+  {
+    "id": "ad1000a8cd1823e52fbdefe62de347f3",
+    "source_id": "view_from_apollo",
+    "source_name": "The View from Apollo",
+    "source_org": "Apollo Global Management",
+    "source_color": "#a855f7",
+    "title": "Investing Across the Credit Cycle",
+    "description": "In an evolving credit market, how should investors weigh opportunity and risk in the $40 trillion private credit landscape? In our latest Allocation Insights episode on market movement and what we’re hearing from investors around the world, Diana Sands and Alex Wright speak with four Apollo partners at the firm’s recent Credit Annual General Meeting – Akila Grewal, Chris Edson, Jim Vanek and Chris Lahoud – to explore how the breadth and integration of Apollo’s platform is designed to perform throughout credit cycles and capture value across the full credit spectrum. They share insight into how Apollo invests as a principal, manages risk, is deploying capital at scale and is navigating the cycle with a focus on consistent, risk-adjusted returns.",
+    "published": "2026-04-23",
+    "week": "2026-W17",
+    "audio_url": "https://media.blubrry.com/theviewfromapollo/ins.blubrry.com/theviewfromapollo/48_TVFA_Investing_Across_the_Credit_Cycle_V2.mp3",
+    "transcript_url": null,
+    "episode_url": "https://blubrry.com/theviewfromapollo/153831440/investing-across-the-credit-cycle/",
+    "type": "podcast",
+    "duration_secs": 2111,
+    "transcript_length": 35372,
+    "one_line_summary": "Apollo Global Management discusses the current market environment, highlighting the importance of private markets, credit cycles, and the need for diversification and risk management.",
+    "summary": "The conversation begins with a discussion on the 60-40 portfolio, which has grown to a 70-30 portfolio due to the overweight of public equities. The speakers express concern over valuation levels and concentration risk in public equities, particularly in the software sector. They suggest that a rebalance into private markets can help drive alpha, mute volatility, and increase the investment opportunity set. The conversation also touches on the growth of private credit, the importance of scale and proprietary origination, and the need for investors to be on the offense in a changing market environment.",
+    "key_themes": [
+      "Private markets",
+      "Credit cycles",
+      "Diversification"
+    ],
+    "market_signals": [
+      "The 60-40 portfolio has grown to a 70-30 portfolio due to the overweight of public equities",
+      "Spreads are still tight from a historic perspective",
+      "Oil prices are up significantly due to material uncertainty regarding actions in the Middle East",
+      "The duration of the conflict is yet to be determined",
+      "The public equity market is already evidencing a response to the impact of AI on software companies"
+    ],
+    "framework_insights": [
+      "Credit is an asymmetric asset class, making it hard to take advantage of markets and be on the offense",
+      "The importance of understanding where liquidity is and what assets you have to rotate into more interesting opportunities",
+      "The need for a non-siloed approach to provide the right underwriting and protection when thinking about lending perspective and investors",
+      "The importance of being a principal, not just an agent, to share in the risk and have an aligned outcome",
+      "The need to balance diversification and alignment to be a solutions provider"
+    ],
+    "market_relevance": "The discussion highlights the need for investors to be aware of the current market environment and to consider diversifying their portfolios to manage risk. The growth of private credit and the importance of scale and proprietary origination are also key takeaways for investors looking to navigate the changing market landscape."
   },
   {
     "id": "26cdeb8f2312d2b3cad4cad82d1556df",
@@ -152,5 +230,44 @@
       "The illiquidity premium in private credit can be a significant source of excess return for investors."
     ],
     "market_relevance": "The growth of private credit and direct lending has significant implications for investors and markets, as it provides an alternative source of funding for companies and offers a unique value proposition for investors seeking yield and diversification."
+  },
+  {
+    "id": "2d3cb7f62c1e13a28648b96d97e3a551",
+    "source_id": "view_from_apollo",
+    "source_name": "The View from Apollo",
+    "source_org": "Apollo Global Management",
+    "source_color": "#a855f7",
+    "title": "Private Equity Portfolios: Three Key Dimensions of Diversification",
+    "description": "Diversification has long been a cornerstone of investing, but what does it really mean in private equity today? In this episode, lead equity product specialist Bryn Gostin explores how diversification across managers, company size and sectors can help support more resilient portfolios in today’s evolving landscape. He explores shifting industry dynamics, the risks of concentrated exposure — particularly in software — and why a more balanced, multi-dimensional approach may be key to building durable private equity portfolios.",
+    "published": "2026-03-31",
+    "week": "2026-W14",
+    "audio_url": "https://media.blubrry.com/theviewfromapollo/ins.blubrry.com/theviewfromapollo/47_TVFA_Private_Equity_Portfolios_Three_Key_Dimensions_of_Diversification.mp3",
+    "transcript_url": null,
+    "episode_url": "https://blubrry.com/theviewfromapollo/153775594/private-equity-portfolios-three-key-dimensions-of-diversification/",
+    "type": "podcast",
+    "duration_secs": 2501,
+    "transcript_length": 39920,
+    "one_line_summary": "Private equity investors are reevaluating their diversification strategies, focusing on manager diversification, enterprise value, and sector diversification to navigate the current complex investment environment.",
+    "summary": "Investors should consider the risks associated with a heavy middle market focus, including enterprise risk and the challenges of retaining and preserving team and culture. The market is missing the fact that the private equity industry has become more institutionalized and global, with increased cross-border transactions and syndicated deals. Investors should look for managers who can provide a diversified portfolio across manager, enterprise value, and sector, and who can add operational value to their investments.",
+    "key_themes": [
+      "Diversification",
+      "Private Equity",
+      "Manager Selection"
+    ],
+    "market_signals": [
+      "The S&P 500 has delivered 20% annualized rates of return over the past three years, but this may not be the right benchmark for private equity.",
+      "The S&P 500, excluding the top 7 companies, has delivered roughly 10% annualized returns over the past three years.",
+      "Private equity has delivered on its illiquidity premium over longer time periods, such as 3, 5, and 10 years.",
+      "The price you pay matters more than ever before, and is directly related to how quickly you can sell an asset and at what price.",
+      "Two-thirds of middle market funds have not raised capital in the past seven years."
+    ],
+    "framework_insights": [
+      "The private equity industry has evolved over time, with the number of participants increasing and the industry becoming more institutionalized and global.",
+      "Diversification across manager, enterprise value, and sector is key to navigating the current complex investment environment.",
+      "Operational value add is critical in private equity, and investors should look for managers who can provide this.",
+      "The perception that smaller firms and funds can generate higher rates of return may be dated, and investors should be aware of biases and motivations in the market.",
+      "Investors should consider the risks associated with a heavy middle market focus, including enterprise risk and the challenges of retaining and preserving team and culture."
+    ],
+    "market_relevance": "The private equity industry is at an inflection point, with investors reevaluating their diversification strategies and seeking to navigate the current complex investment environment. As the industry continues to evolve, investors must stay informed about the latest trends and developments to make informed investment decisions."
   }
 ]
