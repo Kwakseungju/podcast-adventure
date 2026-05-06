@@ -40,12 +40,19 @@ def main() -> None:
     for ep in new_episodes:
         print(f"--- Processing: [{ep['source_name']}] {ep['title']} ({ep['published']}) ---")
 
-        transcript = get_transcript(ep)
+        try:
+            transcript = get_transcript(ep)
+        except Exception as exc:
+            print(f"  Transcript error (unhandled): {exc}\n")
+            failed += 1
+            continue
+
         if not transcript:
             print("  Skipped — could not obtain transcript\n")
             failed += 1
             continue
 
+        print(f"  Transcript obtained: {len(transcript)} chars")
         ep["transcript_length"] = len(transcript)
         ep["transcript"] = transcript  # store temporarily for summarize
 
