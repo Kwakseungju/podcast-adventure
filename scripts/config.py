@@ -58,8 +58,9 @@ YOUTUBE_SOURCES = [
 
 ALL_SOURCES = PODCAST_SOURCES + YOUTUBE_SOURCES
 
-# How many recent episodes to fetch per source on each run
-MAX_EPISODES_PER_SOURCE = 5
+# How many recent episodes to fetch per source on each run.
+# Set high enough to catch any backlog within the DAYS_LOOKBACK window.
+MAX_EPISODES_PER_SOURCE = 20
 
 # Look back this many days when checking for new episodes
 DAYS_LOOKBACK = 30
