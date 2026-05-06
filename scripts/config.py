@@ -66,4 +66,4 @@ MAX_EPISODES_PER_SOURCE = 20
 DAYS_LOOKBACK = 30
 
 # Max transcript length to send to Groq — keep under 9000 tokens (~36000 chars)
-MAX_TRANSCRIPT_CHARS = 20_000
+MAX_TRANSCRIPT_CHARS = 12_000

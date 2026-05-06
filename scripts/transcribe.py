@@ -6,6 +6,7 @@ Transcript acquisition pipeline:
 """
 
 import os
+import re
 import subprocess
 import tempfile
 import uuid
@@ -53,12 +54,17 @@ def _rss_transcript(transcript_url: str) -> str | None:
             segments = data.get("segments", [])
             return " ".join(seg.get("body", "") for seg in segments)
 
-        # VTT / SRT — strip timing lines
+        # VTT / SRT / Omny TextWithTimestamps — strip timing lines
+        _TIMESTAMP_RE = re.compile(r'^\d{1,2}:\d{2}(:\d{2})?(\.\d+)?$')
         lines = []
         for line in resp.text.splitlines():
             line = line.strip()
-            if line and "-->" not in line and not line.startswith("WEBVTT") and not line.isdigit():
-                lines.append(line)
+            if not line: continue
+            if "-->" in line: continue
+            if line.startswith("WEBVTT"): continue
+            if line.isdigit(): continue
+            if _TIMESTAMP_RE.match(line): continue  # strip HH:MM:SS / MM:SS timestamps
+            lines.append(line)
         return " ".join(lines) or None
     except Exception as exc:
         print(f"  RSS transcript fetch failed: {exc}")

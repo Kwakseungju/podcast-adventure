@@ -1,6 +1,7 @@
 import json
 import os
 import re
+import time
 
 from groq import Groq
 
@@ -128,6 +129,9 @@ def summarize_episode(episode: dict) -> dict:
         max_tokens=1000,
         response_format={"type": "json_object"},
     )
+
+    # Free tier: 6k tokens/min. Sleep so the window resets before the next call.
+    time.sleep(65)
 
     raw = response.choices[0].message.content.strip()
     data = _extract_json(raw)
