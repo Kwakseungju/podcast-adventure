@@ -51,6 +51,7 @@ Only include an insight if it is grounded in something the speaker actually said
 
 Respond with ONLY a valid JSON object matching this schema exactly:
 {{
+  "speaker": "Guest's full name and current role/title (e.g. 'John Smith — CIO, Farallon Capital'). Leave empty string if no guest or speaker is identifiable.",
   "one_line_summary": "One compelling sentence capturing the single most important point.",
   "summary": "Two to three paragraphs covering the main topics, key arguments, and important data points.",
   "key_themes": ["theme1", "theme2", "theme3"],
@@ -135,6 +136,7 @@ def summarize_episode(episode: dict) -> dict:
         print(f"  JSON parse failed — raw response: {raw[:200]}")
 
     return {
+        "speaker":          data.get("speaker", ""),
         "one_line_summary": data.get("one_line_summary", ""),
         "summary":          data.get("summary", ""),
         "key_themes":       data.get("key_themes", [])[:3],

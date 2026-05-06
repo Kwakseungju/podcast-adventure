@@ -293,6 +293,13 @@ main {
   color: var(--text);
 }
 
+.ep-speaker {
+  font-size: .82rem;
+  color: var(--text-muted);
+  margin-bottom: 8px;
+}
+.ep-speaker-icon { color: var(--text-dim); margin-right: 4px; }
+
 .one-liner {
   font-size: .88rem;
   color: var(--text-muted);
@@ -603,6 +610,7 @@ def _render_card(ep: dict) -> str:
       </div>
     </div>
     <h2 class="card-title">{ep.get('title', 'Untitled')}</h2>
+    {f'<p class="ep-speaker"><span class="ep-speaker-icon">◎</span>{ep["speaker"]}</p>' if ep.get('speaker') else ''}
     {f'<p class="one-liner">{one_liner}</p>' if one_liner else ''}
     {f'<div class="themes">{themes_html}</div>' if themes_html else ''}
   </div>
