@@ -1,5 +1,45 @@
 [
   {
+    "id": "80a43577b18194c366b04a983077eddf",
+    "source_id": "odd_lots",
+    "source_name": "Odd Lots",
+    "source_org": "Bloomberg",
+    "source_color": "#06b6d4",
+    "title": "The Bank of England's Megan Greene on Monetary Policy in a World of Supply Shocks",
+    "description": "<p>Ever since Covid, central banks around the world have had the same problem. They have tools that are designed to modulate demand, but so many challenges have involved the supply side of the economy. Whether we're talking about supply chain disruptions, the war in Ukraine, and now the war in Iran, these are all issues for which monetary policy is of limited value. Of course, the temptation is to \"look through\" these events, recognizing the fact that these disruptions don't say much about the actual underlying state of the economy. But when we get one shock after another, it gets harder and harder to keep using words like \"transitory.\" On this episode we speak with Megan Greene, an external member of the Monetary Policy Committee at the Bank of England. We talk about the compounding effects of all these shocks (including the trade war and Brexit), how she's thinking about the first- and second-order effects of each, and why for now, despite the underlying weakness of the UK economy, she remains squarely focused on the risks of higher inflation.</p> <p><a href=\"http://bloomberg.com/subscriptions/oddlots\">Subscribe to the Odd Lots Newsletter</a><br />Join the conversation: <a href=\"https://discord.gg/oddlots\">discord.gg/oddlots</a></p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
+    "published": "2026-05-11",
+    "week": "2026-W20",
+    "audio_url": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/a7009176-dd7f-474d-916a-b44700369509/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
+    "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/a7009176-dd7f-474d-916a-b44700369509/transcript?format=TextWithTimestamps&t=1778469852",
+    "episode_url": "https://omny.fm/shows/odd-lots/the-bank-of-englands-megan-greene-on-monetary-policy-in-a-world-of-supply-shocks",
+    "type": "podcast",
+    "duration_secs": 3169,
+    "transcript_length": 56348,
+    "speaker": "Megan Greene — External Member, Monetary Policy Committee, Bank of England",
+    "one_line_summary": "Megan Greene discusses the challenges of monetary policy in a world of supply shocks, highlighting the UK's weak economy and the need for a nuanced approach to inflation.",
+    "summary": "Megan Greene, an external member of the Monetary Policy Committee at the Bank of England, joins the podcast to discuss the current state of monetary policy. She notes that the UK economy has been weak since she started her role three years ago, with demand and supply sides both contributing to the weakness. Greene emphasizes the importance of understanding spillovers from other economies, particularly the US and Eurozone, and the need for a nuanced approach to inflation. She also highlights the unique setup of the Bank of England's MPC, which includes four external members with diverse perspectives.",
+    "key_themes": [
+      "monetary policy",
+      "supply shocks",
+      "UK economy"
+    ],
+    "market_signals": [
+      "The 30-year UK gilt yield hit its highest since 1998 after the BOE decision to hold interest rates.",
+      "The UK economy has been weak since Megan Greene started her role three years ago, with zero point two percent growth per quarter.",
+      "About a third of the move in the UK yield curve before the pandemic was from outside the UK entirely, mostly from the US and Eurozone.",
+      "The supply side of the UK economy is also pretty weak, and if demand were to increase, it could become inflationary.",
+      "The Bank of England's MPC has four external members, including Megan Greene, who bring diverse perspectives to the committee."
+    ],
+    "framework_insights": [
+      "Megan Greene's experience as a finance Twitter personality and her transition to a central banker highlight the importance of diverse perspectives in monetary policy decision-making.",
+      "The Bank of England's unique setup, with four external members, allows for a more nuanced approach to inflation and a better understanding of spillovers from other economies.",
+      "The distinction between demand and supply side weaknesses in the UK economy is a key consideration for monetary policy, and a nuanced approach is needed to address both.",
+      "The importance of understanding spillovers from other economies, particularly the US and Eurozone, is a key takeaway from Megan Greene's discussion.",
+      "The Bank of England's transparency in reporting votes and dissenting opinions is a unique feature of its MPC setup."
+    ],
+    "market_relevance": "Megan Greene's insights on the challenges of monetary policy in a world of supply shocks are highly relevant for investors and markets right now, as the UK economy continues to grapple with weak growth and inflationary pressures."
+  },
+  {
     "id": "73b42ee967f29a04992a735af36e2975",
     "source_id": "odd_lots",
     "source_name": "Odd Lots",
