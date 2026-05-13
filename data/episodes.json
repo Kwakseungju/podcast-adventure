@@ -1,5 +1,79 @@
 [
   {
+    "id": "2ef4ad297a87937e6d9907f7172d9c8c",
+    "source_id": "odd_lots",
+    "source_name": "Odd Lots",
+    "source_org": "Bloomberg",
+    "source_color": "#06b6d4",
+    "title": "Samanth Subramanian on the Undersea Cables That Keep the Internet Alive",
+    "description": "<p>In 2006, then-Senator Ted Stevens coined an infamous term for how to understand the internet: It's a \"series of tubes.\" The funny thing is, that's a fairly accurate description. Underneath the world's oceans, miles and miles of fiber optic-cables send packets of information from one location to the next, serving as the backbone of the internet as know it. This infrastructure is delicate, too: Memorably, a 2022 volcanic eruption cut off the island of Tonga from web access for an extended period of time. Journalist Samanth Subramanian is the author of <em>The Web Beneath the Waves: The Fragile Cables That Connect Our World</em>, a book that explains, in detail, that the internet is not, and has never been, truly weightless or wireless. In fact, the system in place right now is pretty old school and resembles the telegraph cable network of yore. We talk to Subramanian about the strange contradictions of the undersea cable system, how much basic marine geography &mdash; like the Strait of Hormuz or the Suez Canal &mdash; informs where cables are laid, and how hard it is protect this vulnerable and vital infrastructure.</p> <p><a href=\"http://bloomberg.com/subscriptions/oddlots\">Subscribe to the Odd Lots Newsletter</a><br />Join the conversation: <a href=\"https://discord.gg/oddlots\">discord.gg/oddlots</a></p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
+    "published": "2026-05-13",
+    "week": "2026-W20",
+    "audio_url": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/d05e23d4-18e1-442f-8953-b4480146b311/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
+    "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/d05e23d4-18e1-442f-8953-b4480146b311/transcript?format=TextWithTimestamps&t=1778615665",
+    "episode_url": "https://omny.fm/shows/odd-lots/samanth-subramanian-on-the-undersea-cables-that-keep-the-internet-alive",
+    "type": "podcast",
+    "duration_secs": 2524,
+    "transcript_length": 43667,
+    "speaker": "Samanth Subramanian — Author, The Web Beneath the Waves",
+    "one_line_summary": "Undersea cables are a crucial physical infrastructure that enables global internet connectivity, despite being often overlooked.",
+    "summary": "Samanth Subramanian, author of The Web Beneath the Waves, discusses the importance of undersea cables in enabling global internet connectivity. He notes that these cables are a physical infrastructure that has been in place for over a century, with the first telegraph cable between New York and London being laid over 100 years ago. The modern fiber optic cables are a technological marvel, with some being as thin as a human hair and capable of carrying exponentially more data than their predecessors.",
+    "key_themes": [
+      "undersea cables",
+      "global internet connectivity",
+      "physical infrastructure"
+    ],
+    "market_signals": [
+      "The first telegraph cable between New York and London was laid over 100 years ago.",
+      "Modern fiber optic cables are capable of carrying exponentially more data than their predecessors.",
+      "There are only a handful of companies around the world that produce these cables.",
+      "Big tech companies are now paying for these cables out of their own wallets.",
+      "Satellites can be used to send data, but the volume of data is too high for them to handle."
+    ],
+    "framework_insights": [
+      "The physical infrastructure of undersea cables is a critical component of global internet connectivity.",
+      "The development of fiber optic cables has enabled the exponential increase in data transmission capacity.",
+      "The production and laying of undersea cables is a complex process that involves multiple companies and technologies.",
+      "The reliance on undersea cables makes them a potential vulnerability in the global internet infrastructure.",
+      "The importance of undersea cables is often overlooked, but they are a critical component of modern global communication."
+    ],
+    "market_relevance": "This matters for investors and markets right now because the reliance on undersea cables makes them a potential vulnerability in the global internet infrastructure, and the development of new technologies and companies is changing the landscape of this critical infrastructure."
+  },
+  {
+    "id": "f6d3fe3a788d794923e574936d0b94c0",
+    "source_id": "capital_allocators",
+    "source_name": "Capital Allocators",
+    "source_org": "Ted Seides",
+    "source_color": "#f43f5e",
+    "title": "BILLION $ Empire Started with a Squeegee 🪟🧼 #entrepreneur",
+    "description": "Tony Caruso manages $11B in hedge fund assets.\nHis career started with a squeegee.\nHis dad came to America with nothing. There was no allowance in the Caruso house. You did chores, you got paid. Simple.\nOne afternoon, Tony watched a window washer collect $300 cash at a neighbor's house.\nHe went home and started a business.\nRecruited his friends. Built a route. 100 houses that summer.\n\"I didn't get an allowance for being cute or for existing.\"\nThat same instinct — spot the gap, build the thing — took him to prop trading in Chicago, Bridgewater, and eventually co-founding Dockside, a platform that's quietly rewiring how institutional capital accesses investment talent.\nThe best investors I know didn't just learn to allocate capital.\nThey learned to create something.\nFull conversation with Tony, Will England, and Derek Drummond — link in the comments.",
+    "published": "2026-05-12",
+    "week": "2026-W20",
+    "video_id": "VA6G9YA_QfI",
+    "episode_url": "https://www.youtube.com/watch?v=VA6G9YA_QfI",
+    "type": "youtube",
+    "duration_secs": null,
+    "transcript_length": 860,
+    "speaker": "Tony Caruso — Hedge Fund Manager",
+    "one_line_summary": "Tony Caruso, a hedge fund manager with $11B in assets, attributes his entrepreneurial success to spotting gaps and building opportunities.",
+    "summary": [
+      "Tony Caruso's career started with a squeegee, where he watched a window washer collect $300 cash at a neighbor's house and decided to start his own business.",
+      "He built a route of 100 houses that summer, demonstrating his ability to spot gaps and create opportunities.",
+      "This same instinct took him to prop trading in Chicago, Bridgewater, and eventually co-founding Dockside, a platform that's quietly rewiring how institutional capital accesses investment talent."
+    ],
+    "key_themes": [
+      "Entrepreneurship",
+      "Investment Talent",
+      "Institutional Capital"
+    ],
+    "market_signals": [],
+    "framework_insights": [
+      "The best investors I know didn't just learn to allocate capital. They learned to create something.",
+      "The ability to spot gaps and build opportunities is a key characteristic of successful entrepreneurs and investors."
+    ],
+    "market_relevance": "This conversation highlights the importance of creative problem-solving and entrepreneurial thinking in the investment industry, which can be valuable for investors looking to access new talent and opportunities."
+  },
+  {
     "id": "80a43577b18194c366b04a983077eddf",
     "source_id": "odd_lots",
     "source_name": "Odd Lots",
