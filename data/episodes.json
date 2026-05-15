@@ -1,5 +1,45 @@
 [
   {
+    "id": "be12cd866c262f1ffa0be395eeb0d2ce",
+    "source_id": "odd_lots",
+    "source_name": "Odd Lots",
+    "source_org": "Bloomberg",
+    "source_color": "#06b6d4",
+    "title": "Why SocGen's Albert Edwards Sees Double-Digit Inflation Coming Back",
+    "description": "<p>Making a long career as a bear at a sell-side institution is tough. Generally financial markets have done quite well which means forecasting doom and gloom is, usually, only tenable for so long. Which is why we wanted to talk to one of the most successful bears out there. Soci&eacute;t&eacute; G&eacute;n&eacute;rale has let Albert Edwards out of the bear cage for today's episode. Edwards knows his reputation as a bear is well deserved: He believes, among other things, double-digit inflation is in the offing. We also talk about the attention span of readers on the buy-side, what success looks like for a bear, and how a bear avoids getting fired.</p> <p>Read more:<br /><a href=\"https://www.bloomberg.com/news/articles/2026-05-14/boeing-wins-200-jet-plane-order-from-china-trump-says?utm_medium=referral&amp;utm_source=podcast&amp;utm_campaign=odd_lots&amp;utm_content=article\">Boeing Falls After Trump Unveils Smaller China Aircraft Order</a><br /><a href=\"https://www.bloomberg.com/news/articles/2026-05-14/boe-s-pill-says-strong-iran-price-pressures-warrant-rate-rise?utm_medium=referral&amp;utm_source=podcast&amp;utm_campaign=odd_lots&amp;utm_content=article\">BOE&rsquo;s Pill Says Strong Iran Price Pressures Warrant Rate Rise</a></p> <p>Only <a href=\"http://bloomberg.com/\">Bloomberg - Business News, Stock Markets, Finance, Breaking &amp; World News</a> subscribers can get the Odd Lots newsletter in their inbox each week, plus unlimited access to the site and app. Subscribe at&nbsp; <a href=\"https://www.bloomberg.com/subscriptions/oddlots?in_source=oddlotspodcast\">bloomberg.com/subscriptions/oddlots</a></p> <p><a href=\"http://bloomberg.com/subscriptions/oddlots\">Subscribe to the Odd Lots Newsletter</a><br /><strong>Join the conversation:</strong> <a href=\"https://discord.gg/oddlots\">discord.gg/oddlots</a></p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
+    "published": "2026-05-15",
+    "week": "2026-W20",
+    "audio_url": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/17364f35-3bd0-469d-b500-b44a0132582f/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
+    "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/17364f35-3bd0-469d-b500-b44a0132582f/transcript?format=TextWithTimestamps&t=1778784125",
+    "episode_url": "https://omny.fm/shows/odd-lots/why-socgens-albert-edwards-sees-double-digit-inflation-coming-back",
+    "type": "podcast",
+    "duration_secs": 3238,
+    "transcript_length": 48706,
+    "speaker": "Albert Edwards — Global Strategist, SocGen",
+    "one_line_summary": "Albert Edwards, a top-ranked macro analyst, warns of double-digit inflation returning due to a mismatch between market sentiment and economic fundamentals.",
+    "summary": "Albert Edwards, a renowned bear and global strategist at SocGen, joins the Odd Lots podcast to discuss his views on the market. Edwards notes that his bearish views on equities are often overshadowed by his bullish views on government bonds. He attributes this to his experience working on the buy side, where he learned to write concise notes that cater to the attention spans of clients. Edwards' role at SocGen involves providing a contrarian view to clients, helping them prepare for potential downturns. He emphasizes the importance of being a 'wage slave' and providing value to clients, even when his predictions are incorrect.",
+    "key_themes": [
+      "Market Sentiment vs. Economic Fundamentals",
+      "Contrarian Views",
+      "Attention Spans of Clients"
+    ],
+    "market_signals": [
+      "Equity markets are very high, with some considering them 'bizarrely high'.",
+      "Bond yields have been selling off, with the 30-year UK gilt hitting its highest level since 1998.",
+      "There is a mismatch between market sentiment and economic fundamentals, with gloomy outlooks being overshadowed by optimism.",
+      "The 30-year UK gilt has been rising, with some considering it a sign of inflation returning.",
+      "Edwards expects double-digit inflation to return due to a mismatch between market sentiment and economic fundamentals."
+    ],
+    "framework_insights": [
+      "Edwards' 'ice age' view, which combines secular stagnation with a financial market view, suggests that low inflation can lead to economic contraction.",
+      "The importance of being a 'wage slave' and providing value to clients, even when predictions are incorrect.",
+      "Edwards' experience working on the buy side has taught him to write concise notes that cater to the attention spans of clients.",
+      "The role of a contrarian view in helping clients prepare for potential downturns.",
+      "The need to balance optimism with caution in market analysis."
+    ],
+    "market_relevance": "Edwards' warnings of double-digit inflation returning highlight the importance of considering economic fundamentals alongside market sentiment. His insights provide a contrarian view that can help investors prepare for potential downturns."
+  },
+  {
     "id": "ab57fd5d3fe73f09f29fcc415b76fad8",
     "source_id": "odd_lots",
     "source_name": "Odd Lots",
@@ -38,6 +78,46 @@
       "The world economy will continue to grow, possibly with a recession, but not a zero-growth scenario."
     ],
     "market_relevance": "This matters for investors and markets right now because it highlights the resilience of the world economy and its ability to adapt to significant disruptions, which may impact market expectations and positioning."
+  },
+  {
+    "id": "45106c25511175a4d2ea18316f731995",
+    "source_id": "credit_edge",
+    "source_name": "The Credit Edge",
+    "source_org": "Bloomberg Intelligence",
+    "source_color": "#f97316",
+    "title": "JPMorgan Is Wary of Another Big Leap in AI-Related Spending",
+    "description": "<p>JPMorgan Asset Management sees value in the debt of companies building out AI, but it&rsquo;s keeping a close eye on how much more they plan to spend next year. &ldquo;If we&rsquo;re seeing capex increase at the same rate that we saw 2025 to 2026, I think that&rsquo;s probably a little bit of a red flag,&rdquo; Stephanie Doyle, a portfolio manager at the $4.3 trillion firm, tells Bloomberg News&rsquo; James Crombie and Bloomberg Intelligence&rsquo;s Arnold Kakuda in this episode of the Credit Edge podcast. &ldquo;I think the issuance is an opportunity,&rdquo; said Doyle, who&rsquo;s part of the money manager&rsquo;s global fixed income, currency and commodities team. They also discuss the potential for credit spreads to tighten, rising net new bond issuance, the earnings outlook and growing macro risks.</p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
+    "published": "2026-05-14",
+    "week": "2026-W20",
+    "audio_url": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/e74a35e9-c028-4e5f-a3f7-afb10164a717/34d6543e-8037-4446-a645-b44a01441080/audio.mp3?utm_source=Podcast&in_playlist=8792a2e9-d66c-4038-a1fe-afb101654894",
+    "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/34d6543e-8037-4446-a645-b44a01441080/transcript?format=TextWithTimestamps&t=1778787888",
+    "episode_url": "https://omny.fm/shows/the-credit-edge-by-bloomberg-intelligence/jpmorgan-is-wary-of-another-big-leap-in-ai-related-spending",
+    "type": "podcast",
+    "duration_secs": 3021,
+    "transcript_length": 57025,
+    "speaker": "Stephanie Doyle — Portfolio Manager for Investment Grade Corporate Strategies at JPMorgan Asset Management",
+    "one_line_summary": "JPMorgan's investment management division sees opportunities in AI-related spending, but warns of potential risks and limits in the market.",
+    "summary": "Stephanie Doyle, portfolio manager for investment grade corporate strategies at JPMorgan Asset Management, discussed the impact of AI-related spending on the market. She noted that $5 trillion needs to be spent over the next five years, with a significant portion of that coming from borrowing. Doyle emphasized that high-quality hyperscalers have the operational strength and balance sheet flexibility to absorb elevated spending, citing their track record of not having a single downgrade, except for one on negative watch last year.",
+    "key_themes": [
+      "AI-related spending",
+      "Market opportunities",
+      "Risk and limits"
+    ],
+    "market_signals": [
+      "Five trillion dollars needs to be spent over the next five years.",
+      "A vast chunk of it will end up in the high-grade US debt market.",
+      "High-quality hyperscalers have issued around $150 billion of index-eligible issuance so far this year.",
+      "Tech is now 11% of the index, up from 7% a few years ago.",
+      "The hyperscalers are issuing across different currencies, including the Canadian dollar market."
+    ],
+    "framework_insights": [
+      "The market is seeing a shift from buybacks and dividends to CAPEX, which could be an opportunity if the investment translates into revenue over time.",
+      "The issuance needs of hyperscalers are massive and will continue to grow, but they are also introducing more duration into the market.",
+      "The market is getting used to the fine print in data center project funding deals, which have an element of construction risk, political risk, and permitting risks.",
+      "There are opportunities in both the hyperscalers and the data center project funding deals, but it's a Barbell trade.",
+      "The hyperscalers are willing to spend, with an average coupon on index-ineligible structures being around 100 basis points lower than their spread basis."
+    ],
+    "market_relevance": "This discussion is relevant for investors and markets right now because it highlights the significant opportunities and risks associated with AI-related spending, and the need to carefully consider the market's ability to absorb the issuance needs of hyperscalers."
   },
   {
     "id": "2ef4ad297a87937e6d9907f7172d9c8c",
