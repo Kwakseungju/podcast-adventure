@@ -1,5 +1,45 @@
 [
   {
+    "id": "f7216a9c458216d35cc8e2cdae73579a",
+    "source_id": "odd_lots",
+    "source_name": "Odd Lots",
+    "source_org": "Bloomberg",
+    "source_color": "#06b6d4",
+    "title": "Why the Price of Oil, Beef, Electricity, and Everything Else Makes No Sense",
+    "description": "<p>Whether it's the price of a barrel of Brent crude or a pound of beef, it's clear prices are skyrocketing for all kinds of goods and commodities. Price shocks and shortages are, if anything, the way consumers understand the economy right now &mdash; at the grocery store or at the gas pump. Certainly, current (and future) shocks can be explained by the closure of the Strait of Hormuz. But the environment is weirder than just across the board price increases: The price of corn has barely moved, for instance, while fertilizer just keeps going up. We have not one but two perfect guests to talk to us today, our favorite commodity specialists: Bloomberg Opinion columnist Javier Blas and Lorcan Roche Kelly, the business editor at Irish Farmers Journal. Today's episode &mdash; which was recorded on stage at Wilton's Music Hall in London as part of our first ever show outside the US &mdash; covers how the world's farmers feel about US trade policy, why today's energy shock is so different from 2022's, the true impact of the UAE leaving OPEC, and why it's going to get harder to buy hard cheese in the near future.</p> <p>Read more:<br /><a href=\"https://www.bloomberg.com/news/articles/2026-05-15/treasuries-lead-global-bond-yields-higher-on-inflation-angst?utm_medium=referral&amp;utm_source=podcast&amp;utm_campaign=odd_lots&amp;utm_content=article\">Global Bond Selloff Worsens as Rising Oil Prices Spook Investors</a><br /><a href=\"https://www.bloomberg.com/news/articles/2026-05-15/china-allows-exports-for-425-us-beef-plants-trade-group-says?utm_medium=referral&amp;utm_source=podcast&amp;utm_campaign=odd_lots&amp;utm_content=article\">China Allows Exports for 425 US Beef Plants, Trade Group Says</a></p> <p>Only <a href=\"http://Bloomberg.com\">http://Bloomberg.com</a> subscribers can get the Odd Lots newsletter in their inbox each week, plus unlimited access to the site and app. Subscribe at&nbsp; <a href=\"https://www.bloomberg.com/subscriptions/oddlots?in_source=oddlotspodcast\">bloomberg.com/subscriptions/oddlots</a></p> <p><a href=\"http://bloomberg.com/subscriptions/oddlots\">Subscribe to the Odd Lots Newsletter</a><br /><strong>Join the conversation:</strong> <a href=\"https://discord.gg/oddlots\">discord.gg/oddlots</a></p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
+    "published": "2026-05-18",
+    "week": "2026-W21",
+    "audio_url": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/2cddec97-5995-4812-abea-b44b016dc69f/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
+    "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/2cddec97-5995-4812-abea-b44b016dc69f/transcript?format=TextWithTimestamps&t=1778883335",
+    "episode_url": "https://omny.fm/shows/odd-lots/why-the-price-of-oil-beef-electricity-and-everything-else-makes-no-sense",
+    "type": "podcast",
+    "duration_secs": 1849,
+    "transcript_length": 32900,
+    "speaker": "Javier Blas — Bloomberg Opinion columnist",
+    "one_line_summary": "The market is working to address the jet fuel shortage, but the Strait of Hormuz reopening remains uncertain.",
+    "summary": "The discussion centered around the current market situation, particularly the jet fuel shortage and its impact on the global economy. Javier Blas, a Bloomberg Opinion columnist, noted that the market is working to address the shortage, with refineries maximizing fuel production and companies coming on record saying they are okay for the summer. However, the reopening of the Strait of Hormuz remains uncertain, with Blas stating that it's not yet painful enough for both sides to make compromises.",
+    "key_themes": [
+      "jet fuel shortage",
+      "Strait of Hormuz",
+      "market response"
+    ],
+    "market_signals": [
+      "Oil prices are around $100 a barrel.",
+      "The energy market is larger than just oil, with most energy used being electricity.",
+      "Electricity prices in Europe are around what they were in 2025.",
+      "Demand destruction has reduced demand by about 5 million barrels a day.",
+      "The global economy and stock market are affected by where demand destruction occurs."
+    ],
+    "framework_insights": [
+      "The market's response to the jet fuel shortage is a good example of how it can adapt to supply disruptions.",
+      "The Strait of Hormuz reopening is a key factor in the global energy market, and its uncertainty is affecting prices.",
+      "The energy market is complex and multifaceted, with various factors influencing prices and supply.",
+      "Demand destruction can have a significant impact on the market, and its location can affect the global economy.",
+      "The market's ability to adapt to supply disruptions is a key factor in its resilience."
+    ],
+    "market_relevance": "This discussion is relevant for investors and markets right now because it highlights the complexities of the global energy market and the importance of understanding the factors that influence prices and supply."
+  },
+  {
     "id": "537cf2f7afd00863ec2a9af977bbff72",
     "source_id": "odd_lots",
     "source_name": "Odd Lots",
