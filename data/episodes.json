@@ -1,5 +1,44 @@
 [
   {
+    "id": "2650e8fe4f8af4fe494187131443aa71",
+    "source_id": "goldman_sachs",
+    "source_name": "Goldman Sachs",
+    "source_org": "Goldman Sachs",
+    "source_color": "#3b82f6",
+    "title": "Can the Asia Equity Rally Continue?",
+    "description": "The equity story across Asia has split into two very different paths this year, with North Asian markets pulling ahead on the strength of the artificial intelligence trade while remaining more insulated from the energy supply shock tied to the Middle East. Goldman Sachs Research's Tim Moe explains what is driving the divergence, why he sees the semiconductor memory cycle lasting three to five years, and what could determine whether North Asia's outperformance continues.\n\nThis episode was recorded on May 19, 2026.\n\nThe opinions and views expressed herein are as of the date of publication, subject to change without notice, and may not necessarily reflect the institutional views of Goldman Sachs or its affiliates. The material provided is intended for informational purposes only, and does not constitute investment advice, a recommendation from any Goldman Sachs entity to take any particular action, or an offer or solicitation to purchase or sell any securities or financial products. This material may contain forward-looking statements. Past performance is not indicative of future results. Neither Goldman Sachs nor any of its affiliates make any representations or warranties, express or implied, as to the accuracy or completeness of the statements or information contained herein and disclaim any liability whatsoever for reliance on such information for any purpose. Each name of a third-party organization mentioned is the property of the company to which it relates, is used here strictly for informational and identification purposes only and is not used to imply any ownership or license rights between any such company and Goldman Sachs.\n\nA transcript is provided for convenience and may differ from the original video or audio content. Goldman Sachs is not responsible for any errors in the transcript. This material should not be copied, distributed, published, or reproduced in whole or in part or disclosed by any recipient to any other person without the express written consent of Goldman Sachs.\n\nDisclosures applicable to research with respect to issuers, if any, mentioned herein are available through your Goldman Sachs representative or at ⁠http://www.gs.com/research/hedge.html⁠\n\nGoldman Sachs does not endorse any candidate or any political party.\n\nCopyright 2026. All rights reserved.",
+    "published": "2026-05-20",
+    "week": "2026-W21",
+    "video_id": "ISLTHZTEaLA",
+    "episode_url": "https://www.youtube.com/watch?v=ISLTHZTEaLA",
+    "type": "youtube",
+    "duration_secs": null,
+    "transcript_length": 2319,
+    "speaker": "Tim Moe — Goldman Sachs Research",
+    "one_line_summary": "North Asian markets are outperforming due to the artificial intelligence trade, while remaining insulated from the energy supply shock.",
+    "summary": "The equity story across Asia has split into two paths this year, with North Asian markets pulling ahead on the strength of the artificial intelligence trade. This trade has insulated North Asian markets from the energy supply shock tied to the Middle East. The semiconductor memory cycle is expected to last three to five years.",
+    "key_themes": [
+      "North Asian markets",
+      "artificial intelligence trade",
+      "energy supply shock"
+    ],
+    "market_signals": [
+      "North Asian markets are outperforming due to the artificial intelligence trade.",
+      "The semiconductor memory cycle is expected to last three to five years.",
+      "North Asian markets are insulated from the energy supply shock.",
+      "The energy supply shock is tied to the Middle East.",
+      "The opinions and views expressed herein are as of the date of publication, subject to change without notice."
+    ],
+    "framework_insights": [
+      "The artificial intelligence trade is driving the divergence in North Asian markets.",
+      "The semiconductor memory cycle can last for several years.",
+      "Insulation from the energy supply shock can be a key factor in market performance.",
+      "The Middle East is a key region for the energy supply shock.",
+      "Past performance is not indicative of future results."
+    ],
+    "market_relevance": "This matters for investors as it highlights the importance of understanding the drivers of market performance and the potential for divergence in regional markets."
+  },
+  {
     "id": "b399eab762e9e6ba87541158499302f6",
     "source_id": "odd_lots",
     "source_name": "Odd Lots",
@@ -38,6 +77,117 @@
       "The market is missing a consideration of the structural implications of AI on the economy."
     ],
     "market_relevance": "This conversation is relevant for investors and markets right now because it highlights the importance of positioning and fundamentals in driving market trends, and the potential impact of global conflicts and AI on the economy."
+  },
+  {
+    "id": "7f357cab53eef8f1f93705c14903cee9",
+    "source_id": "credit_edge",
+    "source_name": "The Credit Edge",
+    "source_org": "Bloomberg Intelligence",
+    "source_color": "#f97316",
+    "title": "Private Credit Has a Weak Underwriting Discipline Problem",
+    "description": "<p>Loose underwriting standards are increasingly troubling for private credit market participants, according to Bloomberg Intelligence. &ldquo;This concern has been growing for a period of time,&rdquo; David Havens, BI&rsquo;s senior analyst for private credit, tells Bloomberg News&rsquo; James Crombie in this special episode of the Credit Edge podcast. Weak underwriting discipline was flagged by private debt market participants in a recent global BI survey, rising in prominence compared with a poll conducted in September. In addition, direct lenders face lingering pressure from retail redemptions at business development companies. &ldquo;Headlines are still going to be negative, focused on that very small portion of the market &mdash; it&rsquo;s becoming slightly infectious and weighing on the wealth side of the business,&rdquo; says Paul Gulberg, a senior analyst who covers global banks and asset managers. The trio also discuss the drivers of private credit growth, loan valuations, the liquidity premium and fund fees.</p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
+    "published": "2026-05-19",
+    "week": "2026-W21",
+    "audio_url": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/e74a35e9-c028-4e5f-a3f7-afb10164a717/c2bf6a52-8d14-4dc2-b017-b44f010596ca/audio.mp3?utm_source=Podcast&in_playlist=8792a2e9-d66c-4038-a1fe-afb101654894",
+    "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/c2bf6a52-8d14-4dc2-b017-b44f010596ca/transcript?format=TextWithTimestamps&t=1779206159",
+    "episode_url": "https://omny.fm/shows/the-credit-edge-by-bloomberg-intelligence/private-credit-has-a-weak-underwriting-discipline-problem",
+    "type": "podcast",
+    "duration_secs": 1801,
+    "transcript_length": 30497,
+    "speaker": "David Havens and Paul Goulberg — ACE analysts at Bloomberg Intelligence",
+    "one_line_summary": "Private credit market is experiencing a panic due to negative media attention, but institutional investors remain optimistic about its long-term prospects.",
+    "summary": "The private credit market is facing a panic due to negative media attention, with some retail investors trying to redeem their investments. However, institutional investors remain optimistic about the market's long-term prospects, citing its structural move into the space and attractive features. The market is expected to experience a buyer strike in terms of subscription for new shares in private BDCs.",
+    "key_themes": [
+      "Private Credit Market",
+      "Institutional Investors",
+      "Long-term Prospects"
+    ],
+    "market_signals": [
+      "The value of direct loans is in question.",
+      "Some portfolios are being aggressively marked down.",
+      "The SEC is probing Blackrock's accurate valuation of its loans business development companies.",
+      "Redemption requests are massive.",
+      "Institutional money is still coming in, with healthy flows in the first quarter."
+    ],
+    "framework_insights": [
+      "Institutional investors take a longer-term strategic view, looking out over several years.",
+      "The gates in private credit funds are a defense mechanism to prevent a mismatch of assets and liabilities.",
+      "The panic in the private credit market is driven by retail investors, who are often driven by short-term concerns.",
+      "The market is experiencing a cyclical reaction, with institutional investors remaining optimistic about its long-term prospects.",
+      "The survey by Bloomberg Intelligence found that institutional investors continue to view private credit as a sector with long-term attractive features."
+    ],
+    "market_relevance": "This matters for investors because the private credit market is experiencing a panic, but institutional investors remain optimistic about its long-term prospects. The market's performance will be closely watched in the coming weeks and months."
+  },
+  {
+    "id": "cc3adf2a6109a912cdd31be42e8f2425",
+    "source_id": "view_from_apollo",
+    "source_name": "The View from Apollo",
+    "source_org": "Apollo Global Management",
+    "source_color": "#a855f7",
+    "title": "Private Market Secondaries: The $225 Billion Market Many Wealth Investors Overlook",
+    "description": "On this episode of the View From Apollo’s Allocation Insights series, Alex Wright and Diana Sands are joined by Partner and Co-Head of Apollo's Sponsor & Secondary Solutions business Steve Lessar to discuss how private market secondaries have evolved from a niche liquidity tool to a core allocation of modern private market portfolios, which can offer immediate exposure to mature assets and attractive risk-adjusted return potential.",
+    "published": "2026-05-19",
+    "week": "2026-W21",
+    "audio_url": "https://media.blubrry.com/theviewfromapollo/ins.blubrry.com/theviewfromapollo/50_TVFA_Private_Market_Secondaries_The_225_Billion_Market_Many_Wealth_Investors_Overlook.mp3",
+    "transcript_url": null,
+    "episode_url": "https://podcast.show/theviewfromapollo/theviewfromapollo/153894555/private-market-secondaries-the-225-billion-market-many-wealth-investors-overlook/",
+    "type": "podcast",
+    "duration_secs": 1354,
+    "transcript_length": 23936,
+    "speaker": "Steve Lesser — Partner and Co-Head of S3 Sponsor and Secondary Solutions Business, Apollo Global Management",
+    "one_line_summary": "The private market secondaries market is a $225 billion opportunity that many wealth investors overlook.",
+    "summary": "The conversation started with a discussion on the public market rebound and its implications for investors. Alex Wright noted that the market provided a gift with a 10% rebound in the S&P, but this raises questions about what investors should do next. He suggested that rebalancing is the correct answer, and private market strategies could be a good option. Diana Sands added that there are two segments of clients: those who have been allocated to public markets and want to maintain risk assets, and those who haven't been allocated and want to get exposure at a point of value. She mentioned that the secondaries market could play a role in this.",
+    "key_themes": [
+      "Rebalancing",
+      "Private Market Strategies",
+      "Secondaries Market"
+    ],
+    "market_signals": [
+      "Credit spreads tightened in April after widening in March.",
+      "The S&P rebounded 10%.",
+      "The MAG-7 was down 15% in Q1 but stormed back in April.",
+      "Investors may want to diversify against public equity markets.",
+      "Asset-backed strategies could be a way to diversify exposure."
+    ],
+    "framework_insights": [
+      "The secondaries market has grown from $2 billion to $225 billion over 20 years.",
+      "GP-led secondaries are here to stay, driven by slower distributions and the need for creative ways to return capital.",
+      "Single asset GP-led secondaries are a win for all stakeholders: GPs, LPs, and Apollo.",
+      "The private equity market is evolving, with increased liquidity and a definition of private equity that is continuing to evolve.",
+      "Convergence between public and private markets is happening, with liquidity and trends from public markets coming into private markets."
+    ],
+    "market_relevance": "This conversation is relevant for investors who are looking for alternative strategies to rebalance their portfolios and take advantage of the private market secondaries market, which is a $225 billion opportunity."
+  },
+  {
+    "id": "ed8ccaecfe20d5ccff12c61f91a0ab72",
+    "source_id": "capital_allocators",
+    "source_name": "Capital Allocators",
+    "source_org": "Ted Seides",
+    "source_color": "#f43f5e",
+    "title": "My diary got me called before congress 😳",
+    "description": "Imagine being subpoenaed for your personal diary and then having to testify before Congress about its contents. This was the reality for Joshua Steiner, who served as Chief of Staff at the U.S. Treasury during the Whitewater investigation. Faced with a choice on the stand, he had to decide whether to confirm a diary entry he knew wasn't entirely accurate or correct it, which could imply he was either lying to his diary or to Congress.\n\nThis early-career misstep ultimately inspired him to write \"From Mistakes to Meaning: Owning Your Past So It Doesn't Own You\", a book focused on making mistakes, best practices for putting them in the rearview mirror, and how to not let them define you.",
+    "published": "2026-05-19",
+    "week": "2026-W21",
+    "video_id": "69u4zwOErkc",
+    "episode_url": "https://www.youtube.com/watch?v=69u4zwOErkc",
+    "type": "youtube",
+    "duration_secs": null,
+    "transcript_length": 693,
+    "speaker": "",
+    "one_line_summary": "Joshua Steiner's diary entry mistake led to a book on making mistakes and learning from them.",
+    "summary": "Joshua Steiner, former Chief of Staff at the U.S. Treasury, was subpoenaed for his personal diary and testified before Congress. He had to decide whether to confirm a diary entry that wasn't entirely accurate or correct it, which could imply he was lying to his diary or to Congress. This experience inspired him to write a book on making mistakes and how to move forward.",
+    "key_themes": [
+      "Mistakes",
+      "Personal growth",
+      "Congress"
+    ],
+    "market_signals": [],
+    "framework_insights": [
+      "Mental model: Mistakes can be opportunities for growth and learning.",
+      "Investment principle: Acknowledge and learn from mistakes to avoid being defined by them.",
+      "Structural explanation: Personal experiences can shape one's perspective and approach to challenges."
+    ],
+    "market_relevance": "This conversation highlights the importance of self-awareness and learning from mistakes, which can be valuable for investors and individuals alike in navigating complex situations."
   },
   {
     "id": "f7216a9c458216d35cc8e2cdae73579a",
