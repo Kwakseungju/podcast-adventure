@@ -1,5 +1,45 @@
 [
   {
+    "id": "4ad2d23d2ce817567f4ef43ab7cb313f",
+    "source_id": "odd_lots",
+    "source_name": "Odd Lots",
+    "source_org": "Bloomberg",
+    "source_color": "#06b6d4",
+    "title": "Why Cerebras CEO Andrew Feldman Built The World's Largest Computer Chip",
+    "description": "<p>Size is the name of the game for the AI chipmaker Cerebras: Their chips are truly massive, about the size of a dinner plate. According to Andrew Feldman, CEO and founder of Cerebras, that is about 58 times larger than the average chip. That sheer size enables blazing fast inference for AI queries. Feldman joins us on the week of his company's IPO to talk about his core product and how it fits into the AI boom. We discuss the history of the GPU, competition between open-and closed-source models, the company's relationship with with TSMC, and more.</p> <p>Read more:<br /><a href=\"https://www.bloomberg.com/news/articles/2026-05-20/nvidia-gives-disappointing-forecast-as-chip-competition-mounts?utm_medium=referral&amp;utm_source=podcast&amp;utm_campaign=odd_lots&amp;utm_content=article\">Nvidia Tells Skeptical Investors That AI Is Ready to Go Mainstream</a><br /><a href=\"https://www.bloomberg.com/news/articles/2026-05-21/trump-set-to-sign-ai-cybersecurity-directive-as-soon-as-thursday?utm_medium=referral&amp;utm_source=podcast&amp;utm_campaign=odd_lots&amp;utm_content=article\">Trump Set to Sign AI Cybersecurity Directive as Soon as Thursday</a></p> <p>Only <a href=\"http://bloomberg.com/\">Bloomberg - Business News, Stock Markets, Finance, Breaking &amp; World News</a> subscribers can get the Odd Lots newsletter in their inbox each week, plus unlimited access to the site and app. Subscribe at&nbsp; <a href=\"https://www.bloomberg.com/subscriptions/oddlots?in_source=oddlotspodcast\">bloomberg.com/subscriptions/oddlots</a></p> <p><a href=\"http://bloomberg.com/subscriptions/oddlots\">Subscribe to the Odd Lots Newsletter</a><br /><strong>Join the conversation:</strong> <a href=\"https://discord.gg/oddlots\">discord.gg/oddlots</a></p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
+    "published": "2026-05-21",
+    "week": "2026-W21",
+    "audio_url": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/4945a340-783e-4fba-9782-b4510023ea71/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
+    "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/4945a340-783e-4fba-9782-b4510023ea71/transcript?format=TextWithTimestamps&t=1779329704",
+    "episode_url": "https://omny.fm/shows/odd-lots/why-cerebras-ceo-andrew-feldman-built-the-worlds-largest-computer-chip",
+    "type": "podcast",
+    "duration_secs": 3113,
+    "transcript_length": 48126,
+    "speaker": "Andrew Feldman — CEO, Cerebras",
+    "one_line_summary": "Cerebras' CEO Andrew Feldman discusses the company's giant wafer-scale chips, which are 58 times larger than other chips and enable faster AI inference.",
+    "summary": "Cerebras' CEO Andrew Feldman joined the Odd Lots podcast to discuss the company's giant wafer-scale chips, which are 58 times larger than other chips. These chips enable faster AI inference and have led to significant demand. Feldman notes that the company's chips are used solely for inference, not training, and that the market for inference is expected to continue growing. He also discusses the company's recent deals with Open AI North and AWS.",
+    "key_themes": [
+      "AI chips",
+      "inference",
+      "market demand"
+    ],
+    "market_signals": [
+      "The company's IPO valued the company at $64 billion.",
+      "The chips are 58 times larger than other chips.",
+      "The market for inference is expected to continue growing.",
+      "The company has signed deals with Open AI North and AWS.",
+      "The chips are used solely for inference, not training."
+    ],
+    "framework_insights": [
+      "The market for inference is growing rapidly, and companies like Cerebras are well-positioned to benefit.",
+      "Wafer-scale chips can enable faster AI inference and have significant technical advantages.",
+      "The company's focus on inference, rather than training, is a key differentiator.",
+      "The market is missing a clear understanding of the technical advantages of wafer-scale chips.",
+      "The company's recent deals with Open AI North and AWS are significant indicators of market demand."
+    ],
+    "market_relevance": "Cerebras' giant wafer-scale chips and growing market demand for inference make the company a key player in the AI chip space, and investors should take note of the company's recent deals and valuation."
+  },
+  {
     "id": "2650e8fe4f8af4fe494187131443aa71",
     "source_id": "goldman_sachs",
     "source_name": "Goldman Sachs",
