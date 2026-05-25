@@ -1,5 +1,45 @@
 [
   {
+    "id": "f5887e600ccbd22fb7820a5455bf9cb1",
+    "source_id": "odd_lots",
+    "source_name": "Odd Lots",
+    "source_org": "Bloomberg",
+    "source_color": "#06b6d4",
+    "title": "What It Takes to Run One of London's Most Popular Pubs",
+    "description": "<p>As our listeners know, restaurants are great microcosms for macro-economic trends. They sit at the intersection of everything from consumer confidence to commodity costs to the labor market. So on our recent visit to London, we wanted to learn about the business of pubs. According to the British Beer and Pub Association, approximately two pubs a day have closed in England during the first quarter of 2026. Could pubs tell us something about larger trends in the British economy? And when it comes to the day-to-day operations of the business: How is a pub different from a regular bar? And how are publicans &mdash; pub managers &mdash; dealing with the era of the &pound;10 pint? Today's episode is a special two-parter, devoted to the business of pubs. We talk to Oisin Rogers and Ashley Palmer-Watts, co-founders of the Devonshire, a famed London pub. The first part is with Rogers, who is the publican, and we discuss the difference between a good and bad pub, why he hates the word 'gastropub,' and how the indoor smoking ban changed the meaning of pubs for the average Londoner. Second up is a segment from our London live show with the Devonshire chef Palmer-Watts, who tells us about the complicated confluence of factors &mdash; from temperature to the right mix of gases &mdash; that lead to a perfect pint of Guinness, why higher ingredient costs (whether it's beef or scallops) don't always correlate to higher menu prices, and making a Victorian-era meat fruit for Apple's Jony Ive.</p> <p>Read more:<br /><a href=\"https://www.bloomberg.com/news/articles/2026-05-19/reeves-floats-price-freezes-on-food-in-bid-to-cut-uk-bills?utm_medium=referral&amp;utm_source=podcast&amp;utm_campaign=odd_lots&amp;utm_content=article\">Reeves Floats Price Freezes on Food in Bid to Cut UK Bills</a> <br /><a href=\"https://www.bloomberg.com/news/articles/2026-05-12/cpi-surge-squeezes-us-voters-already-facing-high-fuel-food-prices?utm_medium=referral&amp;utm_source=podcast&amp;utm_campaign=odd_lots&amp;utm_content=article\">Inflation Resurgence Squeezes US Voters as Gas, Food Prices Rise</a></p> <p>?utm_medium=referral&amp;utm_source=podcast&amp;utm_campaign=odd_lots&amp;utm_content=article</p> <p>Only <a href=\"http://Bloomberg.com\">http://Bloomberg.com</a> subscribers can get the Odd Lots newsletter in their inbox each week, plus unlimited access to the site and app. Subscribe at&nbsp; <a href=\"https://www.bloomberg.com/subscriptions/oddlots?in_source=oddlotspodcast\">bloomberg.com/subscriptions/oddlots</a></p> <p><a href=\"http://bloomberg.com/subscriptions/oddlots\">Subscribe to the Odd Lots Newsletter</a><br /><strong>Join the conversation:</strong> <a href=\"https://discord.gg/oddlots\">discord.gg/oddlots</a></p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
+    "published": "2026-05-25",
+    "week": "2026-W22",
+    "audio_url": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/5eda2c06-d4fa-4a29-be6d-b451013967df/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
+    "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/5eda2c06-d4fa-4a29-be6d-b451013967df/transcript?format=TextWithTimestamps&t=1779390500",
+    "episode_url": "https://omny.fm/shows/odd-lots/what-it-takes-to-run-one-of-londons-most-popular-pubs",
+    "type": "podcast",
+    "duration_secs": 4106,
+    "transcript_length": 72972,
+    "speaker": "Aushen Rodgers — Co-founder, The Devonshire",
+    "one_line_summary": "Independent pubs in the UK face significant challenges, but adding gastronomy and good food can shift the economics.",
+    "summary": "The Devonshire, a popular pub in London, was opened by Aushen Rodgers in November 2023. Rodgers has a long history in the pub industry, starting with part-time work in a pub in Dublin in 1986. He believes that pubs are unique to the UK and Ireland, providing a neutral space for people to meet and socialize. The pub industry has undergone significant changes, with the elimination of indoor smoking creating an opportunity for pubs to attract a new audience. Rodgers notes that pubs that offer good food and gastronomy can be successful, as they can attract a wider range of customers and create a more convivial environment.",
+    "key_themes": [
+      "pub industry challenges",
+      "gastronomy and food",
+      "pubs as social spaces"
+    ],
+    "market_signals": [
+      "Two pubs closing every day in the UK.",
+      "The price of a pint has breached the £10 mark in some areas.",
+      "Gen Z may not drink as much, but this trend is not new and cannot explain the long-term decline of pubs.",
+      "The pub industry has been declining for 20 years, with reports of closures every year.",
+      "The trend of pubs closing down has remained the same over the past 20 years, despite changes in consumer behavior."
+    ],
+    "framework_insights": [
+      "Pubs are a unique aspect of British and Irish society, providing a neutral space for people to meet and socialize.",
+      "The elimination of indoor smoking created an opportunity for pubs to attract a new audience and shift their business model.",
+      "Pubs that offer good food and gastronomy can be successful, as they can attract a wider range of customers and create a more convivial environment.",
+      "The pub industry is characterized by a mix of independent institutions and large chains, with some operators owning thousands of pubs.",
+      "The history of pubs in the UK dates back at least 1,000 years, with regional brewers playing a significant role in the industry."
+    ],
+    "market_relevance": "The decline of the pub industry in the UK has significant implications for investors and markets, as it reflects broader changes in consumer behavior and the economy. The shift towards gastronomy and good food in pubs is a key trend to watch, as it can help to revitalize the industry and create new opportunities for investors."
+  },
+  {
     "id": "98fd7f12b2aceb44bfe41c81ab2576c1",
     "source_id": "odd_lots",
     "source_name": "Odd Lots",
