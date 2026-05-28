@@ -1,5 +1,37 @@
 [
   {
+    "id": "0ee0ec6a58c7a497220d8d3ba4f862cb",
+    "source_id": "odd_lots",
+    "source_name": "Odd Lots",
+    "source_org": "Bloomberg",
+    "source_color": "#06b6d4",
+    "title": "Brendan Greeley on the Real 500-Year History of the Dollar",
+    "description": "<p>We love talking about money. And of course, we love talking about the dollar, in all its varieties &mdash; from bank deposits to eurodollars to stablecoins. But what fundamentally is a dollar and who actually controls it? To understand these questions, you really need to understand how the dollar was born. Journalist (and current Ph.D. candidate in financial history) Brendan Greeley argues not only that the dollar is older than you might suspect, but that the dollar long precedes the United States itself. In fact, the word is derived from German, referring to a Spanish currency made from silver found in Mexico. In this episode, we discuss Brendan's new book, <em>The Almighty Dollar: 500 Years of the World's Most Powerful Money.</em> He explains not only the dollar's surprising history, but also what actually backs the US dollar and gives it purchasing power.</p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
+    "published": "2026-05-28",
+    "week": "2026-W22",
+    "audio_url": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/5c7cfcd5-7600-4f26-bcf0-b457014d09c2/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
+    "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/5c7cfcd5-7600-4f26-bcf0-b457014d09c2/transcript?format=TextWithTimestamps&t=1779913074",
+    "episode_url": "https://omny.fm/shows/odd-lots/brendan-greeley-on-the-real-500-year-history-of-the-dollar",
+    "type": "podcast",
+    "duration_secs": 3300,
+    "transcript_length": 62150,
+    "speaker": "Brendan Greeley — Author, The Almighty Dollar",
+    "one_line_summary": "The dollar's history is more complex than assumed, with its origins tied to a Spanish coin from the 16th century.",
+    "summary": "Brendan Greeley's book, The Almighty Dollar, explores the 500-year history of the world's most powerful currency. Greeley delves into the dollar's origins, which date back to the 16th century when the Spanish Empire circulated a silver coin called the dollar. This coin was later adopted by the American colonies, who pegged their currency to it due to a lack of domestic sources of gold and silver. Greeley argues that this history is often overlooked, with many assuming the dollar's sovereignty and independence.",
+    "key_themes": [
+      "History of the dollar",
+      "Monetary sovereignty",
+      "Currency origins"
+    ],
+    "market_signals": [],
+    "framework_insights": [
+      "The concept of monetary sovereignty is poorly defined and often misunderstood.",
+      "The dollar's history is tied to global events and the circulation of coins, rather than solely to American politics and economics.",
+      "The transition from metal to paper currency is a crucial moment in the dollar's development, but its significance is often overlooked."
+    ],
+    "market_relevance": "Understanding the dollar's complex history is essential for investors and policymakers, as it informs our understanding of monetary sovereignty and the global economy."
+  },
+  {
     "id": "9977e74bc9e21d5c189be5911fc84806",
     "source_id": "goldman_sachs",
     "source_name": "Goldman Sachs",
