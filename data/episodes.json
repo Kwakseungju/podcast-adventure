@@ -1,5 +1,784 @@
 [
   {
+    "id": "38c39554f43ad9f7697985a7c7f3e332",
+    "source_id": "odd_lots",
+    "source_name": "Odd Lots",
+    "source_org": "Bloomberg",
+    "source_color": "#06b6d4",
+    "title": "How a Vibecoded Newsletter Is Making the Hay Market More Transparent",
+    "description": "<p>The hay market is not a transparent market: It is very fractured by types of hay, whether it is alfalfa or clover hay. There are a few opaque, illiquid markets like this &mdash; scrap metal for instance &mdash; that require some hands-on investigating to figure out. Aiden Johnson is co-founder and CEO of the <em>HayWire</em> newsletter, which aims to make the hay market more transparent: He and co-founder Cole Glasgow use an AI model to mine public data sources &mdash; like USDA reports on auction prices across different regions &mdash; to produce a weekly newsletter on the hay market. On this episode, we speak with Johnson as he explains why he chose hay over other kinds of markets, how <em>HayWire</em> was made possible through vibecoding, networking with hay farmers, why the ROI of owning a horse is dropping with hay prices spiking, and why hay demand keeps on tightening.</p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
+    "published": "2026-06-12",
+    "week": "2026-W24",
+    "audio_url": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/3cfa0968-658f-4cce-a2df-b466015e5042/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
+    "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/3cfa0968-658f-4cce-a2df-b466015e5042/transcript?format=TextWithTimestamps&t=1781212743",
+    "episode_url": "https://omny.fm/shows/odd-lots/how-a-vibecoded-newsletter-is-making-the-hay-market-more-transparent",
+    "type": "podcast",
+    "duration_secs": 2427,
+    "transcript_length": 40930,
+    "speaker": "Aidan Johnson — Founder, Haywire",
+    "one_line_summary": "Haywire aggregates public data on hay prices, filling a gap in the market and providing valuable insights for investors.",
+    "summary": "Haywire's founder, Aidan Johnson, discussed the company's mission to make the hay market more transparent by aggregating public data on hay prices. The company uses a direct API integration with the USDA to collect data on auction prices, type of hay, region, and quality. Aidan shared that the company is actively trying to branch off a network to more auction houses throughout the country to get a more comprehensive view of the market.",
+    "key_themes": [
+      "Market Transparency",
+      "Data Aggregation",
+      "Hay Market"
+    ],
+    "market_signals": [
+      "The USDA publishes reports on auction prices throughout the region, which Haywire aggregates and analyzes.",
+      "Haywire has a direct API integration with the USDA to collect data on auction prices.",
+      "The company is actively trying to branch off a network to more auction houses throughout the country.",
+      "Haywire uses AI to cross-reference on-ground intel with USDA data to ensure accuracy.",
+      "The hay market is opaque, with many sources of data and a lack of transparency."
+    ],
+    "framework_insights": [
+      "The importance of aggregating public data to fill gaps in the market and provide valuable insights.",
+      "The use of AI to automate data collection and analysis can be a powerful tool in making markets more transparent.",
+      "The hay market is a prime example of a market that is ripe for disruption and innovation.",
+      "The concept of 'vibe coding' and presenting data in a user-friendly way can be a key factor in making markets more accessible.",
+      "The power of entrepreneurship and innovation in solving real-world problems and making markets more efficient."
+    ],
+    "market_relevance": "This matters for investors and markets right now because the hay market is opaque and lacks transparency, making it difficult to make informed decisions. Haywire's aggregation of public data and use of AI to analyze it provides valuable insights and fills a gap in the market."
+  },
+  {
+    "id": "3c17cf4d292758bb55246f498385c38f",
+    "source_id": "credit_edge",
+    "source_name": "The Credit Edge",
+    "source_org": "Bloomberg Intelligence",
+    "source_color": "#f97316",
+    "title": "Oaktree Says Boring is Beautiful In Dicey Private Credit Market",
+    "description": "<p>Private lenders are going back to basics as debt trouble spreads, market participants tell Bloomberg News&rsquo; James Crombie in this special episode of the Credit Edge podcast. &ldquo;Boring is beautiful, boring is better right now,&rdquo; says Christina Lee, managing director at Oaktree Capital Management. The podcast also explores AI debt risks, software distress, how tight bond spreads can go and the state of US consumers with the following guests: Matt Brill, head of North America investment-grade credit at Invesco; Anish Shah, global head of debt capital markets at Morgan Stanley; Lotfi Karoui, multi-asset credit strategist at Pimco; Jody Lurie, Bloomberg Intelligence senior credit analyst; Na Wei, global head of leveraged finance at Barclays; Sheel Patel, head of Mayer Brown&rsquo;s private credit practice in New York; Shalini Sriram, Third Point&rsquo;s head of structured credit; and Scott Goodwin, co-founder of Diameter Capital Partners. Interviews were recorded June 3 at Bloomberg&rsquo;s Global Credit Forum in New York.</p> <p>&nbsp;</p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
+    "published": "2026-06-11",
+    "week": "2026-W24",
+    "audio_url": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/e74a35e9-c028-4e5f-a3f7-afb10164a717/17028859-4456-4c46-8fcf-b4660149dfb2/audio.mp3?utm_source=Podcast&in_playlist=8792a2e9-d66c-4038-a1fe-afb101654894",
+    "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/17028859-4456-4c46-8fcf-b4660149dfb2/transcript?format=TextWithTimestamps&t=1781208369",
+    "episode_url": "https://omny.fm/shows/the-credit-edge-by-bloomberg-intelligence/oaktree-says-boring-is-beautiful-in-dicey-private-credit-market",
+    "type": "podcast",
+    "duration_secs": 3385,
+    "transcript_length": 64048,
+    "speaker": "Christina Lee — Managing Director and Co-Portfolio Manager, Oaktree's Global Private Debt Strategy",
+    "one_line_summary": "Oaktree's Christina Lee advocates for a 'back to basics' strategy in private credit, focusing on middle market companies with strong competitive moats.",
+    "summary": "Christina Lee, managing director and co-portfolio manager at Oaktree's Global Private Debt Strategy, emphasizes the importance of a 'back to basics' approach in private credit. She highlights the middle market as an attractive segment, characterized by companies with strong competitive moats. Lee notes that middle market companies tend to have lower leverage levels and tighter credit documentation compared to large-cap companies. She also mentions that the deals in the middle market are typically smaller, ranging from $150 million to $500 million.",
+    "key_themes": [
+      "Middle Market",
+      "Private Credit",
+      "Competitive Moats"
+    ],
+    "market_signals": [
+      "Middle market deals are typically smaller, ranging from $150 million to $500 million.",
+      "Middle market companies tend to have lower leverage levels and tighter credit documentation.",
+      "Business services and tech/truck businesses are attractive niches in the middle market.",
+      "Oaktree is looking for companies with strong competitive moats, such as regional density and scale.",
+      "The returns in private markets are still attractive, with a premium of around 150 basis points over public markets."
+    ],
+    "framework_insights": [
+      "A 'back to basics' approach in private credit involves focusing on middle market companies with strong competitive moats.",
+      "Middle market companies tend to have structural differences in leverage levels and credit documentation compared to large-cap companies.",
+      "Business services and tech/truck businesses are less likely to be displaced by technology, making them attractive niches.",
+      "Regional density and scale are key factors in determining a company's competitive moat.",
+      "The returns in private markets are still attractive, but investors need to be aware of the risks and rewards."
+    ],
+    "market_relevance": "This matters for investors as it highlights the importance of a 'back to basics' approach in private credit and the need to focus on middle market companies with strong competitive moats. It also underscores the attractive returns in private markets, but with a need for caution and awareness of the risks and rewards."
+  },
+  {
+    "id": "6332ab609aa7fa7b93b28648b729d4d2",
+    "source_id": "odd_lots",
+    "source_name": "Odd Lots",
+    "source_org": "Bloomberg",
+    "source_color": "#06b6d4",
+    "title": "Why Tomatoes Are the Most Expensive They've Been in Four Decades",
+    "description": "<p>In April, the price of tomatoes was around $2.69 per pound &mdash; the highest seen in some four decades. And tomatoes aren't the only food getting more expensive. From cauliflower to lettuce, fresh produce is spiking all over the place. So what's driving the price spike? And what can tomatoes teach us teach about America's political economy including changes in trade and tariffs? Our guest today is Jacob Krempel, senior vice president of procurement and merchandising at the wholesale food distributor Baldor, and an expert in securing fresh produce. We talk to him about where America's tomato supply actually comes from, why consumers are paying more and more, how restaurants navigate price fluctuations, and the influx of novel new tomato varieties.</p> <p>Read more:<br /><a href=\"https://www.bloomberg.com/news/articles/2026-06-10/new-york-power-dining-restaurant-scene-gains-new-entry-for-social-media-age?utm_medium=referral&amp;utm_source=podcast&amp;utm_campaign=odd_lots&amp;utm_content=article\">The Recipe for a Power Restaurant Has Changed</a><br /><a href=\"https://www.bloomberg.com/news/articles/2026-06-10/food-companies-turn-to-nostalgia-to-drive-sales?utm_medium=referral&amp;utm_source=podcast&amp;utm_campaign=odd_lots&amp;utm_content=article\">The Latest Snack Innovations Are Basically Just Creamsicles and Chex Mix</a></p> <p>Only <a href=\"http://bloomberg.com/\">Bloomberg - Business News, Stock Markets, Finance, Breaking &amp; World News</a> subscribers can get the Odd Lots newsletter in their inbox each week, plus unlimited access to the site and app. Subscribe at&nbsp; <a href=\"https://www.bloomberg.com/subscriptions/oddlots?in_source=oddlotspodcast\">bloomberg.com/subscriptions/oddlots</a></p> <p><a href=\"http://bloomberg.com/subscriptions/oddlots\">Subscribe to the Odd Lots Newsletter</a><br /><strong>Join the conversation:</strong> <a href=\"https://discord.gg/oddlots\">discord.gg/oddlots</a></p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
+    "published": "2026-06-11",
+    "week": "2026-W24",
+    "audio_url": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/bb971e9b-4530-4ff9-bd68-b46500d94544/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
+    "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/bb971e9b-4530-4ff9-bd68-b46500d94544/transcript?format=TextWithTimestamps&t=1781098871",
+    "episode_url": "https://omny.fm/shows/odd-lots/why-tomatoes-are-the-most-expensive-theyve-been-in-four-decades",
+    "type": "podcast",
+    "duration_secs": 3295,
+    "transcript_length": 61849,
+    "speaker": "Jacob Kremple — SVP of Procurement and Merchandising, Baldoor Specialty",
+    "one_line_summary": "Tomato prices have increased by 40% year-over-year, reaching a record high of $2.69 per pound.",
+    "summary": "The episode discusses the recent surge in tomato prices, which have reached a record high of $2.69 per pound, a 40% increase year-over-year. The guest, Jacob Kremple, explains that Baldoor Specialty, a food service distribution company, has seen a significant increase in demand for high-quality tomatoes. He notes that the company's clients, including restaurants and grocery stores, are looking for ways to lock in prices due to the volatility in the market.",
+    "key_themes": [
+      "Tomato prices",
+      "Food distribution",
+      "Market volatility"
+    ],
+    "market_signals": [
+      "Tomato prices have increased by 40% year-over-year.",
+      "Record high tomato price: $2.69 per pound.",
+      "Avocado prices have increased from $30 to $80 per case in a week.",
+      "Romaine prices have reached $100 per case due to bad weather in California.",
+      "Tomato prices are expected to remain high due to inelastic demand and weather-related production issues."
+    ],
+    "framework_insights": [
+      "The market for high-quality tomatoes is subject to significant price volatility due to inelastic demand and weather-related production issues.",
+      "Food distribution companies like Baldoor Specialty play a crucial role in sourcing and delivering high-quality produce to restaurants and grocery stores.",
+      "The relationship between suppliers and restaurants is critical in the food distribution industry, with suppliers offering a range of pricing options and services to meet the needs of their clients."
+    ],
+    "market_relevance": "The surge in tomato prices highlights the importance of understanding market volatility and the impact of weather-related production issues on commodity prices. Investors and market participants should be aware of these trends and consider their implications for the food distribution industry."
+  },
+  {
+    "id": "b7f287fb0f0166f4380a0d870775a7df",
+    "source_id": "oaktree_insight",
+    "source_name": "The Insight",
+    "source_org": "Oaktree Capital",
+    "source_color": "#10b981",
+    "title": "The Flip Side",
+    "description": "<p>A more challenging corporate credit backdrop may not be entirely a bad thing. In the latest episode of <em>The Insight: Conversations</em>, we flip the script and consider the opportunities that may arise from a less easy lending environment. Brook Hinchman (Head of North America, Global Opportunities) and Matt Wilson (Co-Portfolio Manager, Special Situations) discuss interest rates, the U.S. consumer, rescue loans, liability management exercises, and much more.</p>",
+    "published": "2026-06-11",
+    "week": "2026-W24",
+    "audio_url": "https://rss.art19.com/episodes/67bd1721-7ccc-4e2b-b051-acbb4f9cae65.mp3?rss_browser=BAhJIg9mZWVkcGFyc2VyBjoGRVQ%3D--6249cc52a45c5995843f2b1fcedbd2955c2d7057",
+    "transcript_url": null,
+    "episode_url": "https://open.spotify.com/show/6UllvbuIsyPESs38EWPanH",
+    "type": "podcast",
+    "duration_secs": 1681,
+    "transcript_length": 27915,
+    "speaker": "Brooke Hinchman — Head of North America, Oaktree Capital's Opportunistic Credit Strategy",
+    "one_line_summary": "Higher interest rates create opportunities for credit investors to purchase distressed debt and provide capital solutions to companies struggling with high leverage.",
+    "summary": "The credit markets have seen significant upward moves in treasury yields, making it a less easy lending environment. This shift has created a regime change in inflation from a low to a higher inflationary environment. The stickiness of inflation, combined with high oil prices, puts pressure on the Fed to lower rates, but higher rates are not welcome for over-leveraged borrowers. This has led to a K-shaped economy, where high-income consumers are doing well, while lower-income consumers are struggling. The median spread for high-yield bonds and senior loans presents a fairly unremarkable picture, but there is massive dispersion between the bulk of haves and the tail of have-nots. The dollar amount of debt trading below $90 price and above 15% yield to maturity is over $200 billion across over 250 issuers.",
+    "key_themes": [
+      "credit markets",
+      "inflation",
+      "K-shaped economy"
+    ],
+    "market_signals": [
+      "The median high-yield bond and leveraged loan issuer is trading at very tight spreads, tighter than the average.",
+      "The dollar amount of debt trading below $90 price and above 15% yield to maturity is over $200 billion across over 250 issuers.",
+      "The average maturity of six years for leveraged loans and high-yield bonds means that debt will start to come due in 27 and 28.",
+      "About a quarter of the direct lending market has an asset liability mismatch where these interval funds and private BDCs have quarterly redemption features on what is fundamentally an illiquid asset class.",
+      "The direct lending market is experiencing three issues: asset liability mismatch, vintage issue, and enterprise software sector exposure."
+    ],
+    "framework_insights": [
+      "The concept of privately negotiated senior loans to P-backed companies makes a lot of sense, but the current subset of deals are overexposed to one challenge industry and one bad vintage.",
+      "The barriers to entry for enterprise software have come down meaningfully, resulting in a wide dispersion between the winners and the losers for a category of business models that historically had been very stable, very sticky, and very steady.",
+      "Bad pick is when you have a loan that was 10% cash and now you can't pay the cash, and you go back to your lenders and ask if you can pay 7% in pick and 3% in cash while you get your house in order.",
+      "The supply and demand balance of capital got put out of whack, and when that happens, managers either don't do deals, which is hard to do in the business, particularly when yields are high.",
+      "The K-shaped economy is not just for consumers, but also for companies, where a small collection of companies are capturing a greater and greater share of the profit dollars of the U.S. and global economy."
+    ],
+    "market_relevance": "This matters for investors and markets right now because higher interest rates create opportunities for credit investors to purchase distressed debt and provide capital solutions to companies struggling with high leverage, while also highlighting the risks of asset liability mismatch and vintage issues in the direct lending market."
+  },
+  {
+    "id": "bab5db9a29935b317ab09d8583e22eae",
+    "source_id": "goldman_sachs",
+    "source_name": "Goldman Sachs",
+    "source_org": "Goldman Sachs",
+    "source_color": "#3b82f6",
+    "title": "Private Markets at an Inflection Point",
+    "description": "Private markets have stalled since interest rates started to rise in 2022, even as public markets have climbed to new highs. But a period of sustained economic growth along with rising liquidity and AI-driven innovation could help private markets rebound, according to Goldman Sachs' Pete Lyon and Michael Brandmeyer. Despite longer private equity holding times and mixed performance from private credit funds, they remain cautiously optimistic, projecting that distributions will gradually return to 15%-20% and that deal activity could exceed its 2021 peak within two to three years.\n\nThis episode was recorded on May 26, 2026.\n\n[00:00] Introduction\n[01:07] Private Market Landscape Shift\n[03:48] Market Structure Evolution\n[06:41] Normalization of Distribution Options\n[9:42] Sponsor Liquidity Strategies\n[12:12] Private Versus Public Markets\n[15:55] Compelling Growth Opportunities\n[18:44] Growing Retail Investors\n[21:07] Cautiously Optimistic Outlook\n\nThe opinions and views expressed herein are as of the date of publication, subject to change without notice, and may not necessarily reflect the institutional views of Goldman Sachs or its affiliates. The material provided is intended for informational purposes only, and does not constitute investment advice, a recommendation from any Goldman Sachs entity to take any particular action, or an offer or solicitation to purchase or sell any securities or financial products. This material may contain forward-looking statements. Past performance is not indicative of future results. Neither Goldman Sachs nor any of its affiliates make any representations or warranties, express or implied, as to the accuracy or completeness of the statements or information contained herein and disclaim any liability whatsoever for reliance on such information for any purpose. Each name of a third-party organization mentioned is the property of the company to which it relates, is used here strictly for informational and identification purposes only and is not used to imply any ownership or license rights between any such company and Goldman Sachs.\n\nA transcript is provided for convenience and may differ from the original video or audio content. Goldman Sachs is not responsible for any errors in the transcript. This material should not be copied, distributed, published, or reproduced in whole or in part or disclosed by any recipient to any other person without the express written consent of Goldman Sachs.\n\nDisclosures applicable to research with respect to issuers, if any, mentioned herein are available through your Goldman Sachs representative or at ⁠http://www.gs.com/research/hedge.html⁠\n\nGoldman Sachs does not endorse any candidate or any political party.\n\nCopyright 2026. All rights reserved.",
+    "published": "2026-06-10",
+    "week": "2026-W24",
+    "video_id": "DngfpY0_vdg",
+    "episode_url": "https://www.youtube.com/watch?v=DngfpY0_vdg",
+    "type": "youtube",
+    "duration_secs": null,
+    "transcript_length": 2757,
+    "speaker": "Pete Lyon and Michael Brandmeyer — Goldman Sachs",
+    "one_line_summary": "Goldman Sachs' Pete Lyon and Michael Brandmeyer project private markets to rebound due to sustained economic growth, rising liquidity, and AI-driven innovation.",
+    "summary": "Private markets have stalled since interest rates started to rise in 2022. However, a period of sustained economic growth along with rising liquidity and AI-driven innovation could help private markets rebound. Despite longer private equity holding times and mixed performance from private credit funds, they remain cautiously optimistic.",
+    "key_themes": [
+      "Private Markets",
+      "Economic Growth",
+      "Liquidity"
+    ],
+    "market_signals": [
+      "Private markets have stalled since interest rates started to rise in 2022.",
+      "Deal activity could exceed its 2021 peak within two to three years.",
+      "Distributions will gradually return to 15%-20%.",
+      "Public markets have climbed to new highs.",
+      "Rising liquidity and AI-driven innovation could help private markets rebound."
+    ],
+    "framework_insights": [
+      "A period of sustained economic growth along with rising liquidity and AI-driven innovation could help private markets rebound.",
+      "Cautious optimism is warranted despite longer private equity holding times and mixed performance from private credit funds.",
+      "The market is missing the potential for private markets to rebound due to sustained economic growth and rising liquidity.",
+      "The rebound of private markets could be driven by AI-driven innovation.",
+      "The market is mispricing the potential for private markets to rebound."
+    ],
+    "market_relevance": "This matters for investors as it suggests a potential rebound in private markets, which could impact investment strategies and portfolio allocations."
+  },
+  {
+    "id": "dac12906585d18d91e907c099bf7fc2a",
+    "source_id": "odd_lots",
+    "source_name": "Odd Lots",
+    "source_org": "Bloomberg",
+    "source_color": "#06b6d4",
+    "title": "How CoreWeave Sees the Market for Compute Right Now",
+    "description": "<p>When we last spoke to Brannin McBee, the co-founder and chief development officer of cloud company CoreWeave, his business was not yet public and sourcing GPUs was a key constraint on growth. But three years later, things look pretty different. CoreWeave IPOed and has been raising money in the bond market too, as well as signing more deals with chipmaker Nvidia. In fact, investors have basically been throwing money at all-things-AI. But there are persistent bottlenecks to further growth. Chip supply is still scarce, but so are transformers and electricity. In this episode, we catch up with Brannin on everything he's seeing in the market for compute right now, including leases, Nvidia's new Vera Rubin systems, demand for training versus inference, and the possibility of standardizing the market for compute.</p> <p>Read more:<br /><a href=\"https://www.bloomberg.com/news/articles/2026-06-05/trump-officials-worry-us-loophole-let-chinese-firms-buy-nvidia-blackwells?utm_medium=referral&amp;utm_source=podcast&amp;utm_campaign=odd_lots&amp;utm_content=article\">Trump Officials Worry US Loophole Let Chinese Firms Buy Nvidia Blackwell Chips</a><br /><a href=\"https://www.bloomberg.com/news/articles/2026-06-03/broadcom-outlook-disappoints-investors-seeking-ai-fueled-blowout?utm_medium=referral&amp;utm_source=podcast&amp;utm_campaign=odd_lots&amp;utm_content=article\">Broadcom Slides Most Since January 2025 on AI Outlook Miss</a></p> <p>Only <a href=\"http://Bloomberg.com\">http://Bloomberg.com</a> subscribers can get the Odd Lots newsletter in their inbox each week, plus unlimited access to the site and app. Subscribe at&nbsp; <a href=\"https://www.bloomberg.com/subscriptions/oddlots?in_source=oddlotspodcast\">bloomberg.com/subscriptions/oddlots</a></p> <p><a href=\"http://bloomberg.com/subscriptions/oddlots\">Subscribe to the Odd Lots Newsletter</a><br /><strong>Join the conversation:</strong> <a href=\"https://discord.gg/oddlots\">discord.gg/oddlots</a></p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
+    "published": "2026-06-08",
+    "week": "2026-W24",
+    "audio_url": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/450514c3-2648-49a8-9794-b46000d1738a/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
+    "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/450514c3-2648-49a8-9794-b46000d1738a/transcript?format=TextWithTimestamps&t=1780663587",
+    "episode_url": "https://omny.fm/shows/odd-lots/how-coreweave-sees-the-market-for-compute-right-now",
+    "type": "podcast",
+    "duration_secs": 3050,
+    "transcript_length": 47135,
+    "speaker": "Brandon McBee — Co-founder and Chief Development Officer, CoreWeave",
+    "one_line_summary": "CoreWeave's co-founder sees unrelenting demand for AI inference services, with a broadening customer base and increasing adoption in enterprise sectors.",
+    "summary": "The AI inference market is rapidly evolving, with companies spending a significant amount on compute resources. CoreWeave's co-founder, Brandon McBee, notes that the market is shifting towards broader enterprise adoption, with a growing customer base that includes financial services clients. He highlights the importance of model routing, which enables users to select the most efficient model for their specific use case, leading to longer infrastructure lifetimes.",
+    "key_themes": [
+      "AI inference market growth",
+      "Enterprise adoption",
+      "Model routing"
+    ],
+    "market_signals": [
+      "Companies are spending a ton on compute resources, with CFOs experiencing sticker shock over their compute budgets.",
+      "Uber burned through its entire 2026 AI budget in four months, with the COO questioning the value of the spend.",
+      "One client reportedly spent half a billion dollars in a single month after failing to put usage limits on AI services.",
+      "CoreWeave has over 10 billion dollars in backlog from financial services clients.",
+      "The company added twice as many logos to its client base in Q4 as it had in any previous quarter."
+    ],
+    "framework_insights": [
+      "The AI inference market is driven by authentic and foundational demand, rather than speculative or hype-driven adoption.",
+      "Model routing enables users to select the most efficient model for their specific use case, leading to longer infrastructure lifetimes.",
+      "The market is shifting towards broader enterprise adoption, with a growing customer base that includes financial services clients.",
+      "The concept of model routing changes the entire conversation around depreciation and the full life of infrastructure.",
+      "Users will need to find ways to use the appropriate model for their prompts, which will be solved by model routing."
+    ],
+    "market_relevance": "This matters for investors and markets right now as it highlights the growing demand for AI inference services and the importance of model routing in optimizing infrastructure usage."
+  },
+  {
+    "id": "7a85477081f47b1fcfa41c60985f35cc",
+    "source_id": "goldman_sachs",
+    "source_name": "Goldman Sachs",
+    "source_org": "Goldman Sachs",
+    "source_color": "#3b82f6",
+    "title": "Leading Through Complexity: EY’s Janet Truncale on Leadership, AI, and the Modern Boardroom",
+    "description": "EY operates as one of the world’s largest and most globally connected professional services firms, employing 400,000 people across more than 150 countries. EY Global Chair and CEO Janet Truncale joins Matt McClure, global co-head of Investment Banking at Goldman Sachs, to discuss her 33-year journey from intern to CEO, the firm’s commitment to upskilling its workforce, and why the narrative around artificial intelligence is shifting from job displacement to a focus on productivity, growth, and the essential role of human objectivity. \n\nThis session was recorded on March 26, 2026.\n\nThe opinions and views expressed herein are as of the date of publication, subject to change without notice, and may not necessarily reflect the institutional views of Goldman Sachs or its affiliates. The material provided is intended for informational purposes only, and does not constitute investment advice, a recommendation from any Goldman Sachs entity to take any particular action, or an offer or solicitation to purchase or sell any securities or financial products. This material may contain forward-looking statements. Past performance is not indicative of future results. Neither Goldman Sachs nor any of its affiliates make any representations or warranties, express or implied, as to the accuracy or completeness of the statements or information contained herein and disclaim any liability whatsoever for reliance on such information for any purpose. Each name of a third-party organization mentioned is the property of the company to which it relates, is used here strictly for informational and identification purposes only and is not used to imply any ownership or license rights between any such company and Goldman Sachs.\n\nA transcript is provided for convenience and may differ from the original video or audio content. Goldman Sachs is not responsible for any errors in the transcript. This material should not be copied, distributed, published, or reproduced in whole or in part or disclosed by any recipient to any other person without the express written consent of Goldman Sachs. Disclosures applicable to research with respect to issuers, if any, mentioned herein are available through your Goldman Sachs representative or at http://www.gs.com/research/hedge.html\n\nGoldman Sachs does not endorse any candidate or any political party.\n\n© 2026 Goldman Sachs. All rights reserved.",
+    "published": "2026-06-08",
+    "week": "2026-W24",
+    "video_id": "dZJPRiftfNU",
+    "episode_url": "https://www.youtube.com/watch?v=dZJPRiftfNU",
+    "type": "youtube",
+    "duration_secs": null,
+    "transcript_length": 2390,
+    "speaker": "Janet Truncale — EY Global Chair and CEO",
+    "one_line_summary": "EY's Janet Truncale discusses her 33-year journey from intern to CEO, upskilling the workforce, and the shift in AI narrative from job displacement to productivity and growth.",
+    "summary": "Janet Truncale, EY's Global Chair and CEO, joined Matt McClure, global co-head of Investment Banking at Goldman Sachs, to discuss her 33-year journey from intern to CEO. The conversation covered EY's commitment to upskilling its workforce and the shift in the narrative around artificial intelligence from job displacement to a focus on productivity, growth, and the essential role of human objectivity.",
+    "key_themes": [
+      "Leadership",
+      "AI",
+      "Upskilling"
+    ],
+    "market_signals": [],
+    "framework_insights": [
+      "The narrative around artificial intelligence is shifting from job displacement to a focus on productivity, growth, and the essential role of human objectivity.",
+      "Upskilling the workforce is crucial for companies to remain competitive in the modern business landscape.",
+      "EY employs 400,000 people across more than 150 countries."
+    ],
+    "market_relevance": "This conversation highlights the importance of upskilling the workforce and adapting to the changing landscape of artificial intelligence, which is relevant for investors and companies looking to stay competitive."
+  },
+  {
+    "id": "3cb05aa9899f343844c7838bdffccb45",
+    "source_id": "capital_allocators",
+    "source_name": "Capital Allocators",
+    "source_org": "Ted Seides",
+    "source_color": "#f43f5e",
+    "title": "Talk to more people with gray hair 👴🏻",
+    "description": "Career advice for anyone looking to gain wisdom and knowledge beyond their specific space. Be it sales, investing, or engineering, there's so much wisdom to draw from the generations who came before you.",
+    "published": "2026-06-08",
+    "week": "2026-W24",
+    "video_id": "UrbHd7dps7c",
+    "episode_url": "https://www.youtube.com/watch?v=UrbHd7dps7c",
+    "type": "youtube",
+    "duration_secs": null,
+    "transcript_length": 203,
+    "speaker": "",
+    "one_line_summary": "Draw wisdom from generations who came before you.",
+    "summary": [
+      "Career advice for anyone looking to gain wisdom and knowledge beyond their specific space.",
+      "The speaker emphasizes the importance of learning from the generations who came before you, regardless of your profession.",
+      "This advice is relevant for anyone looking to gain wisdom and knowledge beyond their specific space."
+    ],
+    "key_themes": [
+      "wisdom",
+      "generations",
+      "career advice"
+    ],
+    "market_signals": [],
+    "framework_insights": [
+      "There's so much wisdom to draw from the generations who came before you.",
+      "Be it sales, investing, or engineering, there's so much wisdom to draw from the generations who came before you."
+    ],
+    "market_relevance": "This advice is relevant for anyone looking to gain wisdom and knowledge beyond their specific space, making it a valuable consideration for investors and professionals alike."
+  },
+  {
+    "id": "dcd04a6675b179087c1bb0f6da3b4452",
+    "source_id": "capital_allocators",
+    "source_name": "Capital Allocators",
+    "source_org": "Ted Seides",
+    "source_color": "#f43f5e",
+    "title": "Contrarian Quality at GQG Partners – Rajiv Jain",
+    "description": "Rajiv Jain is the Chairman and CIO of GQG Partners, a global equity manager he founded in 2016 that has soared to $160 billion in assets, rebuffing the challenging decade for active managers.   \n\nOur conversation covers Rajiv’s path from trading in India to his long tenure at Vontobel and founding of GQG. We discuss the periodic crisis lessons that shaped his approach, his definition of quality, team dynamics, and portfolio construction to avoid losses. We then turn to Rajiv’s contrarian views, including current significant positions in energy, utilities, steel, tobacco, and emerging markets, avoidance of hyperscalers and semiconductors, and nimbleness to change his mind. \n \nSubscribe to the mailing list‍: https://capitalallocators.com/ \nAccess Transcript with Premium Membership‍: https://capitalallocators.com/signup/ \nSubscribe on Apple Podcast: https://podcasts.apple.com/us/podcast/capital-allocators-inside-the-institutional/id1223764016 \nFollow Ted on Twitter: https://twitter.com/tseides \nFollow Ted on LinkedIn: https://www.linkedin.com/in/tedseides/ \n \nOriginal Publish Date: 06/08/26",
+    "published": "2026-06-08",
+    "week": "2026-W24",
+    "video_id": "CNZlSWkIhDk",
+    "episode_url": "https://www.youtube.com/watch?v=CNZlSWkIhDk",
+    "type": "youtube",
+    "duration_secs": null,
+    "transcript_length": 1104,
+    "speaker": "Rajiv Jain — Chairman and CIO of GQG Partners",
+    "one_line_summary": "Rajiv Jain discusses his contrarian views on investing, including significant positions in energy, utilities, and emerging markets.",
+    "summary": [
+      "Rajiv Jain is the Chairman and CIO of GQG Partners, a global equity manager he founded in 2016 with $160 billion in assets.",
+      "The conversation covers Rajiv's path from trading in India to his long tenure at Vontobel and founding of GQG, as well as his definition of quality, team dynamics, and portfolio construction to avoid losses.",
+      "Rajiv shares his contrarian views, including current significant positions in energy, utilities, steel, tobacco, and emerging markets, and his avoidance of hyperscalers and semiconductors."
+    ],
+    "key_themes": [
+      "Contrarian Investing",
+      "Quality Definition",
+      "Portfolio Construction"
+    ],
+    "market_signals": [
+      "Significant positions in energy, utilities, steel, tobacco, and emerging markets.",
+      "Avoidance of hyperscalers and semiconductors.",
+      "Nimbleness to change his mind.",
+      "Current significant positions in energy, utilities, and emerging markets.",
+      "Avoidance of hyperscalers and semiconductors."
+    ],
+    "framework_insights": [
+      "Definition of quality is not explicitly stated in the transcript.",
+      "Portfolio construction to avoid losses involves team dynamics.",
+      "Contrarian views require nimbleness to change his mind.",
+      "Avoidance of hyperscalers and semiconductors is a contrarian view.",
+      "Definition of quality is not explicitly stated in the transcript."
+    ],
+    "market_relevance": "Rajiv Jain's contrarian views on investing in energy, utilities, and emerging markets are relevant for investors seeking alternative perspectives in a challenging market environment."
+  },
+  {
+    "id": "3bb7aa5a95ca9e2b9eb30e92dcd8438c",
+    "source_id": "odd_lots",
+    "source_name": "Odd Lots",
+    "source_org": "Bloomberg",
+    "source_color": "#06b6d4",
+    "title": "Why Susquehanna Is Building a Prediction Markets Business",
+    "description": "<p>Prediction markets that enable you to bet on pretty much everything are everywhere nowadays. But there's still a big question over whether they can expand to include larger institutional investors like hedge funds. Part of the problem is that a lot of prediction market contracts are illiquid and trading volumes can sometimes be shallow. That's where trading firm Susquehanna International Group comes in. In this episode, recorded live at New York's City Winery, we talk to Jeremy Maletz, Susquehanna's head of macro trading and prediction markets, about the firm's market-making business with Kalshi. We talk about how big investors could use prediction markets, what Susquehanna is seeing in terms of flows, how a market-maker hedges risk on these contracts, and how it makes money from them.</p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
+    "published": "2026-06-06",
+    "week": "2026-W23",
+    "audio_url": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/ba11bcd6-2009-4d79-98f8-b46001259850/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
+    "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/ba11bcd6-2009-4d79-98f8-b46001259850/transcript?format=TextWithTimestamps&t=1780681908",
+    "episode_url": "https://omny.fm/shows/odd-lots/why-susquehanna-is-building-a-prediction-markets-business",
+    "type": "podcast",
+    "duration_secs": 1916,
+    "transcript_length": 34755,
+    "speaker": "Jeremy Malletts — Head of Prediction Markets at Susquehanna International Group",
+    "one_line_summary": "Susquehanna International Group is building a prediction markets business to provide liquidity and institutional participation in the market.",
+    "summary": "The prediction markets business at Susquehanna International Group is focused on providing liquidity and institutional participation in the market. The group's head, Jeremy Malletts, discussed the challenges of bootstrapping institutional liquidity in the market. Malletts noted that the group's culture of thinking in Bayesian probabilities and breaking down complex problems into odds is well-suited to the prediction markets business.",
+    "key_themes": [
+      "prediction markets",
+      "institutional liquidity",
+      "market making"
+    ],
+    "market_signals": [
+      "The prediction markets business is currently focused on bootstrapping institutional liquidity.",
+      "The group is willing to take on risk to provide liquidity in the market.",
+      "The prediction markets provide a price discovery mechanism that can be useful for hedging economic risks.",
+      "The group is working to increase awareness and understanding of the prediction markets business among institutional players.",
+      "The legal landscape for prediction markets is still evolving and may be a constraint for institutional participation."
+    ],
+    "framework_insights": [
+      "The prediction markets business requires a culture of thinking in Bayesian probabilities and breaking down complex problems into odds.",
+      "The group's market making business is well-suited to the prediction markets business.",
+      "The price discovery mechanism provided by prediction markets can be useful for hedging economic risks.",
+      "Institutional players may be constrained by awareness and understanding of the prediction markets business.",
+      "The legal landscape for prediction markets is still evolving and may impact institutional participation."
+    ],
+    "market_relevance": "The prediction markets business has the potential to provide a new tool for hedging economic risks, but institutional participation is still limited by awareness and understanding of the market."
+  },
+  {
+    "id": "eb225e6a3a1e0d37b0836b852a26f649",
+    "source_id": "goldman_sachs",
+    "source_name": "Goldman Sachs",
+    "source_org": "Goldman Sachs",
+    "source_color": "#3b82f6",
+    "title": "Copper: AI Hype or Supply Squeeze?",
+    "description": "The structural demand from AI data centers has provided a powerful tailwind for copper. But are record inventories and US tariff uncertainties setting the stage for a bearish reversal?\n \nIn this month's highlight from The Macro Call, host Adam Crook, co-head of GCEM International Sales and head of EMEA FICC Hedge Fund Coverage, sits down with Tony Kim, global head of Metals and Bulks Trading and Investor Products Trading, to discuss the outlook for copper, gold and other metals. Clients can access the weekly episodes on Goldman Sachs Marquee, our digital platform for institutional investors.\n \nRecorded on June 4, 2026.",
+    "published": "2026-06-06",
+    "week": "2026-W23",
+    "video_id": "RR0BF-5wgWI",
+    "episode_url": "https://www.youtube.com/watch?v=RR0BF-5wgWI",
+    "type": "youtube",
+    "duration_secs": null,
+    "transcript_length": 626,
+    "speaker": "",
+    "one_line_summary": "The structural demand from AI data centers has provided a powerful tailwind for copper.",
+    "summary": [
+      "The transcript discusses the outlook for copper, gold, and other metals in the context of AI data centers and US tariff uncertainties.",
+      "Record inventories and US tariff uncertainties are setting the stage for a bearish reversal in copper.",
+      "The discussion is part of The Macro Call, a weekly episode available on Goldman Sachs Marquee."
+    ],
+    "key_themes": [
+      "copper",
+      "AI data centers",
+      "US tariff uncertainties"
+    ],
+    "market_signals": [
+      "Record inventories are setting the stage for a bearish reversal in copper.",
+      "US tariff uncertainties are setting the stage for a bearish reversal in copper.",
+      "The structural demand from AI data centers has provided a powerful tailwind for copper."
+    ],
+    "framework_insights": [],
+    "market_relevance": "This matters for investors as it affects the outlook for copper, gold, and other metals, which can impact investment decisions."
+  },
+  {
+    "id": "ad4a4f8aaaea128f2f0d10507269a40c",
+    "source_id": "odd_lots",
+    "source_name": "Odd Lots",
+    "source_org": "Bloomberg",
+    "source_color": "#06b6d4",
+    "title": "Inside Hudson River Trading's Blistering Token Burn",
+    "description": "<p>Today&rsquo;s episode, which was recorded at our recent live show at New York&rsquo;s City Winery, follows up on a conversation we had with Iain Dunning, head of AI at Hudson River Trading. Last year, we talked about how his firm uses AI. Now, some seven months later, we follow up on how one of the biggest market makers around is deploying this technology. We talk about the price of memory, bottlenecks in compute, how much HRT employees are actually spending on tokens, why the firm might develop its own chips, as well as AI-induced delirium.</p> <p>Read more:<br /><a href=\"https://www.bloomberg.com/news/articles/2026-06-04/jane-street-plans-new-data-center-as-compute-power-runs-scarce?utm_medium=referral&amp;utm_source=podcast&amp;utm_campaign=odd_lots&amp;utm_content=article\">Jane Street Plans New Data Center as Compute Power Runs Scarce</a><br /><a href=\"https://www.bloomberg.com/news/articles/2026-06-04/nvidia-backed-robotics-startup-generalist-ai-valued-at-2-billion?utm_medium=referral&amp;utm_source=podcast&amp;utm_campaign=odd_lots&amp;utm_content=article\">Nvidia-Backed Robotics Startup Generalist AI Valued at $2 Billion</a></p> <p>Only <a href=\"http://bloomberg.com/\">Bloomberg - Business News, Stock Markets, Finance, Breaking &amp; World News</a> subscribers can get the Odd Lots newsletter in their inbox each week, plus unlimited access to the site and app. Subscribe at&nbsp; <a href=\"https://www.bloomberg.com/subscriptions/oddlots?in_source=oddlotspodcast\">bloomberg.com/subscriptions/oddlots</a></p> <p><a href=\"http://bloomberg.com/subscriptions/oddlots\">Subscribe to the Odd Lots Newsletter</a><br /><strong>Join the conversation:</strong> <a href=\"https://discord.gg/oddlots\">discord.gg/oddlots</a></p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
+    "published": "2026-06-05",
+    "week": "2026-W23",
+    "audio_url": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/02b9e5a8-91d2-4e4e-a6a7-b45f0138ad2f/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
+    "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/02b9e5a8-91d2-4e4e-a6a7-b45f0138ad2f/transcript?format=TextWithTimestamps&t=1780599697",
+    "episode_url": "https://omny.fm/shows/odd-lots/inside-hudson-river-tradings-blistering-token-burn",
+    "type": "podcast",
+    "duration_secs": 1880,
+    "transcript_length": 33899,
+    "speaker": "Ian Dunning — Head of AI, Hudson River Trading",
+    "one_line_summary": "Hudson River Trading's AI capabilities are rapidly advancing, but the pace of progress may be unsustainable.",
+    "summary": "Ian Dunning, Head of AI at Hudson River Trading, discussed the firm's AI capabilities and the rapidly advancing pace of progress. He noted that the amount of compute power and people's ability to do research are key factors in the firm's success. However, he expressed concerns that the pace of progress may be unsustainable, citing the huge array of open models being released and the difficulty of keeping up with the frontier.",
+    "key_themes": [
+      "AI",
+      "Hudson River Trading",
+      "Pace of Progress"
+    ],
+    "market_signals": [
+      "The amount of compute power and people's ability to do research are key factors in Hudson River Trading's success.",
+      "The pace of progress in AI may be unsustainable due to the huge array of open models being released.",
+      "Hudson River Trading is investing massively in AI and is not alone in doing so.",
+      "The differences between recent model releases have been more subtle, but the firm is looking for objective measures to index them against humans.",
+      "The firm is considering using AI agents to do quant research and compare them against humans."
+    ],
+    "framework_insights": [
+      "The pace of progress in AI may be unsustainable due to the huge array of open models being released.",
+      "The amount of compute power and people's ability to do research are key factors in the success of AI-powered trading firms.",
+      "The use of AI agents to do quant research and compare them against humans may become a common practice.",
+      "The firm's concerns about the pace of progress may be a warning sign for the broader market.",
+      "The concept of 'highlander type' competition, where only one firm can be the best, may be relevant in the context of AI-powered trading."
+    ],
+    "market_relevance": "This discussion highlights the rapidly advancing pace of progress in AI-powered trading and the potential risks and challenges associated with it. Investors should be aware of these developments and consider their implications for the market."
+  },
+  {
+    "id": "dda4e65604951f1bd7dba72146d6ee17",
+    "source_id": "goldman_sachs",
+    "source_name": "Goldman Sachs",
+    "source_org": "Goldman Sachs",
+    "source_color": "#3b82f6",
+    "title": "Will European Equities Outperform the S&P?",
+    "description": "As US stocks surge, European equities are climbing as well. Could more gains be ahead, and are European stocks be poised to outperform? Sharon Bell, European portfolio strategist in Goldman Sachs Research, discusses with Chris Hussey. \n\nRecorded on June 4, 2026.\n\nThe opinions and views expressed herein are as of the date of publication, subject to change without notice, and may not necessarily reflect the institutional views of Goldman Sachs or its affiliates. The material provided is intended for informational purposes only, and does not constitute investment advice, a recommendation from any Goldman Sachs entity to take any particular action, or an offer or solicitation to purchase or sell any securities or financial products. This material may contain forward-looking statements. Past performance is not indicative of future results. Neither Goldman Sachs nor any of its affiliates make any representations or warranties, express or implied, as to the accuracy or completeness of the statements or information contained herein and disclaim any liability whatsoever for reliance on such information for any purpose. Each name of a third-party organization mentioned is the property of the company to which it relates, is used here strictly for informational and identification purposes only and is not used to imply any ownership or license rights between any such company and Goldman Sachs.\n\nA transcript is provided for convenience and may differ from the original video or audio content. Goldman Sachs is not responsible for any errors in the transcript. This material should not be copied, distributed, published, or reproduced in whole or in part or disclosed by any recipient to any other person without the express written consent of Goldman Sachs.\n\nDisclosures applicable to research with respect to issuers, if any, mentioned herein are available through your Goldman Sachs representative or at ⁠http://www.gs.com/research/hedge.html⁠\nGoldman Sachs does not endorse any candidate or any political party.\n\nCopyright 2026. All rights reserved.",
+    "published": "2026-06-05",
+    "week": "2026-W23",
+    "video_id": "emmfbGH5QXU",
+    "episode_url": "https://www.youtube.com/watch?v=emmfbGH5QXU",
+    "type": "youtube",
+    "duration_secs": null,
+    "transcript_length": 2062,
+    "speaker": "",
+    "one_line_summary": "European equities are climbing as well as US stocks, but it's unclear if they will outperform.",
+    "summary": "The transcript discusses the recent surge in US stocks and the corresponding climb in European equities. Sharon Bell, European portfolio strategist in Goldman Sachs Research, is mentioned as the guest, but no specific discussion or insights are provided. The transcript includes disclaimers and legal notices, but no actionable market information or investment advice.",
+    "key_themes": [
+      "European Equities",
+      "US Stocks",
+      "Market Surge"
+    ],
+    "market_signals": [],
+    "framework_insights": [],
+    "market_relevance": "This discussion is relevant for investors interested in European equities and their potential performance relative to US stocks, but no specific market insights or actionable advice are provided."
+  },
+  {
+    "id": "82397cfc9e09dfe0bf1f8eec531018d7",
+    "source_id": "credit_edge",
+    "source_name": "The Credit Edge",
+    "source_org": "Bloomberg Intelligence",
+    "source_color": "#f97316",
+    "title": "Goldman Sachs Sees ‘Uncomfortable Tension’ in Credit Markets",
+    "description": "<p>Robust demand from pensions and insurance companies will support corporate debt through macroeconomic headwinds and record supply, according to Goldman Sachs. &ldquo;Spreads are tight to the prewar levels when the facts on the ground have unquestionably become more challenging,&rdquo; Amanda Lynam, Goldman&rsquo;s chief credit strategist, tells Bloomberg News&rsquo; James Crombie and Bloomberg Intelligence&rsquo;s Robert Schiffman in the latest Credit Edge podcast. &ldquo;That is this uncomfortable tension that we have in the credit market,&rdquo; Lynam says. &ldquo;Sentiment around the yield-based buyer is really in the driver&rsquo;s seat.&rdquo; They also discuss the AI funding boom, private-credit risks, CCC underperformance and where to find value in structured products.</p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
+    "published": "2026-06-04",
+    "week": "2026-W23",
+    "audio_url": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/e74a35e9-c028-4e5f-a3f7-afb10164a717/81c2dd41-0438-4a69-86ca-b45f014534b2/audio.mp3?utm_source=Podcast&in_playlist=8792a2e9-d66c-4038-a1fe-afb101654894",
+    "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/81c2dd41-0438-4a69-86ca-b45f014534b2/transcript?format=TextWithTimestamps&t=1780602535",
+    "episode_url": "https://omny.fm/shows/the-credit-edge-by-bloomberg-intelligence/goldman-sachs-sees-uncomfortable-tension-in-credit-markets",
+    "type": "podcast",
+    "duration_secs": 2784,
+    "transcript_length": 51098,
+    "speaker": "Amanda Line Hum — Chief Credit Strategist, Goldman Sachs",
+    "one_line_summary": "Goldman Sachs sees 'uncomfortable tension' in credit markets due to tight spreads and challenging fundamentals.",
+    "summary": "Amanda Line Hum, Chief Credit Strategist at Goldman Sachs, joined the Credit Edge podcast to discuss the current state of credit markets. She noted that spreads are at pre-war levels, despite more challenging fundamentals. The technical backdrop, particularly the demand from yield-based buyers, is driving tight spreads. However, Goldman Sachs forecasts wider spreads in the mid-year and a recovery in the second half of the year. The firm's economists expect 2.1% real GDP growth in the US, which is below trend but not terrible for credit. The supply of corporate debt is expected to be a challenge, with a record $2.1 trillion in supply this year.",
+    "key_themes": [
+      "Credit Market Tension",
+      "Fundamental Challenges",
+      "Technical Backdrop"
+    ],
+    "market_signals": [
+      "Spreads are at pre-war levels.",
+      "Goldman Sachs forecasts wider spreads in the mid-year.",
+      "Record $2.1 trillion in corporate debt supply this year.",
+      "2.1% real GDP growth in the US is below trend.",
+      "The technical backdrop, particularly the demand from yield-based buyers, is driving tight spreads."
+    ],
+    "framework_insights": [
+      "The technical backdrop, particularly the demand from yield-based buyers, is driving tight spreads.",
+      "The quality of the high-yield index has improved, causing spreads to appear tighter than they actually are.",
+      "The demand from yield-based buyers is a key driver of the credit market, and their allocations can impact spreads.",
+      "The supply of corporate debt is a challenge, and the technical backdrop can impact the market's ability to absorb it.",
+      "The current market environment is similar to 2021, when spreads were tight and the yield backdrop was less supportive."
+    ],
+    "market_relevance": "This matters for investors as it highlights the 'uncomfortable tension' in credit markets, with tight spreads and challenging fundamentals. The market is missing a clear understanding of the technical backdrop and its impact on spreads."
+  },
+  {
+    "id": "794cb19d4009985f3dcf0642e3d1f6ef",
+    "source_id": "odd_lots",
+    "source_name": "Odd Lots",
+    "source_org": "Bloomberg",
+    "source_color": "#06b6d4",
+    "title": "Goldman Sachs CEO David Solomon on Running a Bank in the Age of AI",
+    "description": "<p>There's a lot of debate about the future of AI &mdash; not just whether it will produce the returns investors are expecting, but also if AI will lead to mass worker displacement. Big banks are the perfect prism through which to explore some of these questions. Not only are they deploying AI very quickly, but they have a wide range of workers who are using the technology, from back-office employees to junior analysts to the most senior investment bankers. In this episode, we speak with David Solomon, chairman and CEO of Goldman Sachs, about the impact of AI on the banking business, and why he does not predict a major white collar wipeout. We talk about the outlook for headcount, current conditions in capital markets, and the bank's role in the upcoming SpaceX IPO and Alphabet's historic equity capital raise. He also tells us about his early career in junk bonds and (because of his love of electronic dance music) how AI is transforming music production.</p> <p>Read: <a href=\"https://bloom.bg/4uKjcE1\">Anthropic Picks Morgan Stanley, Goldman Sachs to Lead IPO</a></p> <p><a href=\"http://bloomberg.com/subscriptions/oddlots\">Subscribe to the Odd Lots Newsletter</a><br />Join the conversation: <a href=\"https://discord.gg/oddlots\">discord.gg/oddlots</a></p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
+    "published": "2026-06-04",
+    "week": "2026-W23",
+    "audio_url": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/bf5b0ae1-c442-4354-8c4f-b45f00126aa1/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
+    "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/bf5b0ae1-c442-4354-8c4f-b45f00126aa1/transcript?format=TextWithTimestamps&t=1780535607",
+    "episode_url": "https://omny.fm/shows/odd-lots/goldman-sachs-ceo-david-solomon-on-running-a-bank-in-the-age-of-ai",
+    "type": "podcast",
+    "duration_secs": 3944,
+    "transcript_length": 73124,
+    "speaker": "David Solomon — CEO and Chairman, Goldman Sachs",
+    "one_line_summary": "Goldman Sachs CEO David Solomon is optimistic about AI's impact on productivity and economic growth, but acknowledges disruption and job displacement.",
+    "summary": "David Solomon, CEO of Goldman Sachs, discussed the impact of AI on the job market and the economy. He expressed optimism about AI's potential to increase productivity and economic growth, but also acknowledged that there will be disruption and job displacement. Solomon emphasized the importance of a thoughtful and detailed discussion about the changes brought about by AI.",
+    "key_themes": [
+      "AI",
+      "productivity",
+      "economic growth"
+    ],
+    "market_signals": [
+      "AI is expected to affect white collar labor, but not lead to a straight-line job apocalypse.",
+      "Goldman Sachs is deploying AI technology, but also acknowledges the need for a thoughtful discussion about its impact.",
+      "David Solomon is optimistic about AI's potential to increase productivity and economic growth.",
+      "The CEO of Goldman Sachs believes that the labor force and job creation will continue to evolve with technology disruption.",
+      "Solomon thinks that the economy will not wake up in a world where nobody works and universal basic income is needed."
+    ],
+    "framework_insights": [
+      "The impact of AI on the job market should be evaluated on a granular level, considering the labor force and job creation.",
+      "The economy has a history of adapting to technological disruption, and job displacement is not a new phenomenon.",
+      "The concept of a 'job' is evolving, and the skills required for success in the economy are changing.",
+      "The role of relationships and networking in finance is still important, even with the advent of AI.",
+      "The economy will not be transformed overnight, and the impact of AI will be felt over a period of time."
+    ],
+    "market_relevance": "This discussion is relevant for investors and markets right now because it highlights the potential for AI to drive productivity and economic growth, while also acknowledging the need for a thoughtful discussion about its impact on the job market."
+  },
+  {
+    "id": "bc136357e6734c518aac37a2459963b5",
+    "source_id": "goldman_sachs",
+    "source_name": "Goldman Sachs",
+    "source_org": "Goldman Sachs",
+    "source_color": "#3b82f6",
+    "title": "Why Bonds and Stocks Are Moving Together",
+    "description": "Can bonds still help balance portfolios? William Marshall, Head of US Rates Strategy in Goldman Sachs Research, separates the signal from the noise.\n\nRecorded on May 29, 2026.\n\nThe opinions and views expressed herein are as of the date of publication, subject to change without notice, and may not necessarily reflect the institutional views of Goldman Sachs or its affiliates. The material provided is intended for informational purposes only, and does not constitute investment advice, a recommendation from any Goldman Sachs entity to take any particular action, or an offer or solicitation to purchase or sell any securities or financial products. This material may contain forward-looking statements. Past performance is not indicative of future results. Neither Goldman Sachs nor any of its affiliates make any representations or warranties, express or implied, as to the accuracy or completeness of the statements or information contained herein and disclaim any liability whatsoever for reliance on such information for any purpose. Each name of a third-party organization mentioned is the property of the company to which it relates, is used here strictly for informational and identification purposes only and is not used to imply any ownership or license rights between any such company and Goldman Sachs.\n\nA transcript is provided for convenience and may differ from the original video or audio content. Goldman Sachs is not responsible for any errors in the transcript. This material should not be copied, distributed, published, or reproduced in whole or in part or disclosed by any recipient to any other person without the express written consent of Goldman Sachs.\n\nDisclosures applicable to research with respect to issuers, if any, mentioned herein are available through your Goldman Sachs representative or at http://www.gs.com/research/hedge.html\n\nGoldman Sachs does not endorse any candidate or any political party.\n\nCopyright 2026. All rights reserved.",
+    "published": "2026-06-03",
+    "week": "2026-W23",
+    "video_id": "DPscJwdnGWw",
+    "episode_url": "https://www.youtube.com/watch?v=DPscJwdnGWw",
+    "type": "youtube",
+    "duration_secs": null,
+    "transcript_length": 1974,
+    "speaker": "",
+    "one_line_summary": "",
+    "summary": "",
+    "key_themes": [],
+    "market_signals": [],
+    "framework_insights": [],
+    "market_relevance": ""
+  },
+  {
+    "id": "0439d18ed6ab0f14a3ec18b80bdab0dd",
+    "source_id": "view_from_apollo",
+    "source_name": "The View from Apollo",
+    "source_org": "Apollo Global Management",
+    "source_color": "#a855f7",
+    "title": "Real Estate: After the Reset",
+    "description": "Higher interest rates have contributed to a wholesale reset of valuations across the real estate market. Apollo’s Bert Crouch discusses why fundamentals in sectors like housing, logistics, and senior living remain resilient, and where investors are finding opportunities in a market increasingly shaped by demographic trends, the need for operational expertise, and mounting demand for “HALO” assets.",
+    "published": "2026-06-02",
+    "week": "2026-W23",
+    "audio_url": "https://media.blubrry.com/theviewfromapollo/ins.blubrry.com/theviewfromapollo/51_TVFA_Real_Estate_After_the_Reset.mp3",
+    "transcript_url": null,
+    "episode_url": "https://podcast.show/theviewfromapollo/episode/153924022/",
+    "type": "podcast",
+    "duration_secs": 2013,
+    "transcript_length": 38647,
+    "speaker": "Bert Crouch — Partner, Head of Real Estate Equity Franchise, Apollo Global Management",
+    "one_line_summary": "The commercial real estate market has reset due to rate-driven changes, creating a smart entry point for investors across various sectors.",
+    "summary": "Bert Crouch, Partner and Head of Real Estate Equity Franchise at Apollo Global Management, discussed the current state of the commercial real estate market. He noted that the market has gone through a rate-driven reset, which can be a smart entry point for investors. Crouch emphasized that real estate is a scaled asset class, with a total addressable market of $20 trillion in the US alone. He also highlighted the inefficiency in the market, which creates opportunities for investors. The guest pointed out that real estate has been a consistent performer, outpacing inflation over the past 30 years. He also noted that the REIT market has been down 36% from its peak to trough, but fundamentals have held up.",
+    "key_themes": [
+      "Real Estate Market Reset",
+      "Inefficiency in the Market",
+      "Real Estate as a Consistent Performer"
+    ],
+    "market_signals": [
+      "The REIT market has been down 36% from its peak to trough.",
+      "Net operating income is up 11% over the time period between the peak and now.",
+      "The secured overnight financing rate, which is correlated to the Fed funds, is what didn't hold up.",
+      "Real estate values reset, public markets first, and then private markets.",
+      "The peak to trough was about 25% on the private side."
+    ],
+    "framework_insights": [
+      "Real estate is a scaled asset class with a total addressable market of $20 trillion in the US alone.",
+      "Inefficiency in the market creates opportunities for investors.",
+      "Real estate has been a consistent performer, outpacing inflation over the past 30 years.",
+      "The efficient frontier argument speaks for itself, incrementing returns by adding diversification and lowering risk.",
+      "The market has had a reset, but it's not a uniform dynamic across the class."
+    ],
+    "market_relevance": "This matters for investors right now because the commercial real estate market has reset, creating a smart entry point for investors. The inefficiency in the market and the consistent performance of real estate make it an attractive asset class for investors looking to diversify their portfolios."
+  },
+  {
+    "id": "a94d98f341d5e63c82e6e013876530c3",
+    "source_id": "odd_lots",
+    "source_name": "Odd Lots",
+    "source_org": "Bloomberg",
+    "source_color": "#06b6d4",
+    "title": "The Hidden Plumbing of Commodity Finance",
+    "description": "<p>We talk about the commodity supply chain all the time. We talk about the ports and the trucks and the ships and all of that. But there's another dimension to moving commodities all around the world, which is actually paying for it. Who funds the oil tanker and what happens when that tanker is, say, stuck in the Strait of Hormuz? Commodity finance underpins production, transportation and storage of a wide variety of the things that make the modern world, but you tend to only hear about it when things go wrong. Today we speak with Lewis Hart, head of corporate advisory and banking at Brown Brothers Harriman. We discuss how the business of commodity finance actually works, how risk is priced, what makes for a good or bad warehouse, and the difference between financing a commodity you can hedge (like oil) versus one where's there's no futures market (like cashews).</p> <p><a href=\"http://bloomberg.com/subscriptions/oddlots\">Subscribe to the Odd Lots Newsletter</a><br />Join the conversation: <a href=\"https://discord.gg/oddlots\">discord.gg/oddlots</a></p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
+    "published": "2026-06-01",
+    "week": "2026-W23",
+    "audio_url": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/9d19da5c-6eca-418c-9fda-b4590139c80f/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
+    "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/9d19da5c-6eca-418c-9fda-b4590139c80f/transcript?format=TextWithTimestamps&t=1780081722",
+    "episode_url": "https://omny.fm/shows/odd-lots/the-hidden-plumbing-of-commodity-finance",
+    "type": "podcast",
+    "duration_secs": 2776,
+    "transcript_length": 45871,
+    "speaker": "Lewis Hart — Head of Corporate Advisory and Banking at Brown Brothers Harriman",
+    "one_line_summary": "Commodity finance is a specialized subset of trade finance, with a market size of approximately $4-5 trillion, and involves financing the procurement, mining, and delivery of commodities.",
+    "summary": "Commodity finance is a complex and specialized field that involves financing the procurement, mining, and delivery of commodities. The market size is approximately $4-5 trillion, which is a significant portion of the global trade in goods. The typical consumer of commodity finance is a physical merchant, such as a commodity merchant, who is responsible for managing the supply chain and is not a speculator. They purchase a line of credit, secured by inventory, which is self-liquidating and has a short term. The value of the loan changes as the price of the commodity changes, which is a unique aspect of commodity finance.",
+    "key_themes": [
+      "Commodity Finance",
+      "Trade Finance",
+      "Supply Chain Management"
+    ],
+    "market_signals": [
+      "The market size of commodity finance is approximately $4-5 trillion.",
+      "The typical consumer of commodity finance is a physical merchant, such as a commodity merchant.",
+      "The value of the loan changes as the price of the commodity changes.",
+      "Commodity lenders use the futures market to head price risk.",
+      "Margin calls can be a significant risk in commodity finance."
+    ],
+    "framework_insights": [
+      "Commodity finance is a specialized subset of trade finance that involves financing the procurement, mining, and delivery of commodities.",
+      "The typical consumer of commodity finance is a physical merchant who is responsible for managing the supply chain.",
+      "The value of the loan changes as the price of the commodity changes, which is a unique aspect of commodity finance.",
+      "Commodity lenders use the futures market to head price risk.",
+      "Margin calls can be a significant risk in commodity finance."
+    ],
+    "market_relevance": "This matters for investors and markets right now because commodity finance is a significant portion of global trade, and understanding its complexities can provide valuable insights into market trends and risks."
+  },
+  {
+    "id": "0e8339e1bab8e6f101df00fa6b1a4599",
+    "source_id": "capital_allocators",
+    "source_name": "Capital Allocators",
+    "source_org": "Ted Seides",
+    "source_color": "#f43f5e",
+    "title": "Operator-Led Private Equity at Ethos - Erik Brooks",
+    "description": "Erik Brooks is the Co-Founder and Managing Partner of Ethos Capital, a middle-market private equity firm built to bring seasoned C-Suite operators into every aspect of the investment process. Erik’s experience prior to founding Ethos in 2019 spanned privatizations in Eastern Europe, value investing at Baupost, and twenty years at Abry Partners.  \n\nOur conversation covers Erik’s path to private equity, lessons learned about risk, the importance of betting on people, and the evolution in his thinking that led to forming Ethos. We then cover Ethos’ focus on durable business models, one-deal-a-year cadence, operating system to evaluate and improve companies, and an investment example that brings it all to life. \n \nSubscribe to the mailing list‍: https://capitalallocators.com/ \nAccess Transcript with Premium Membership‍: https://capitalallocators.com/signup/ \nSubscribe on Apple Podcast: https://podcasts.apple.com/us/podcast/capital-allocators-inside-the-institutional/id1223764016 \nFollow Ted on Twitter: https://twitter.com/tseides \nFollow Ted on LinkedIn: https://www.linkedin.com/in/tedseides/ \n \nOriginal Publish Date: 06/01/26",
+    "published": "2026-06-01",
+    "week": "2026-W23",
+    "video_id": "3NGzD95VscY",
+    "episode_url": "https://www.youtube.com/watch?v=3NGzD95VscY",
+    "type": "youtube",
+    "duration_secs": null,
+    "transcript_length": 1140,
+    "speaker": "Erik Brooks — Co-Founder and Managing Partner of Ethos Capital",
+    "one_line_summary": "Erik Brooks discusses his path to private equity, lessons learned about risk, and the importance of betting on people.",
+    "summary": [
+      "Erik Brooks is the Co-Founder and Managing Partner of Ethos Capital, a middle-market private equity firm.",
+      "He has experience in privatizations in Eastern Europe, value investing at Baupost, and twenty years at Abry Partners.",
+      "Erik's conversation with Ted Seides covers his path to private equity, lessons learned about risk, and the importance of betting on people."
+    ],
+    "key_themes": [
+      "private equity",
+      "risk",
+      "betting on people"
+    ],
+    "market_signals": [],
+    "framework_insights": [
+      "Betting on people is important in private equity.",
+      "Durable business models are a focus for Ethos Capital.",
+      "A one-deal-a-year cadence is used by Ethos Capital."
+    ],
+    "market_relevance": "This conversation provides insights for investors interested in private equity and the importance of betting on people."
+  },
+  {
+    "id": "bbfd78b85e278e1bdcad253a85027c25",
+    "source_id": "odd_lots",
+    "source_name": "Odd Lots",
+    "source_org": "Bloomberg",
+    "source_color": "#06b6d4",
+    "title": "How the Invention of Rope Gave Us Modern Civilization",
+    "description": "<p>Rope is easy to take for granted. It seems obvious and straightforward. But of course, it had to be invented. Early humans discovered that by twisting fibers around each other, the resulting structure would be something durable and strong. Without rope, all kinds of things aren't possible, from lifting objects into the air to whaling or modern bridges. So how was it developed and what were the big breakthroughs in its history? On this episode, we speak with Tim Queeney, the author of the recent book <em>Rope: How a Bundle of Twisted Fibers Became the Backbone of Civilization</em>. He walks us through the history of the technology, and its ongoing evolution, including how it might one day allow to build an elevator into outer space.</p> <p>Read more:<br /><a href=\"https://www.bloomberg.com/news/articles/2026-05-25/japan-cablemaker-rout-exposes-cracks-in-ai-infrastructure-rally?utm_medium=referral&amp;utm_source=podcast&amp;utm_campaign=odd_lots&amp;utm_content=article\">Japan Cablemaker Rout Exposes Cracks in AI Infrastructure Rally</a><br /><a href=\"https://www.bloomberg.com/news/articles/2026-05-27/what-to-know-about-huawei-s-new-ai-chipmaking-plan-logicfolding-tech?utm_medium=referral&amp;utm_source=podcast&amp;utm_campaign=odd_lots&amp;utm_content=article\">Why Huawei&rsquo;s New Chipmaking Plan Has Investors Buzzing</a></p> <p>Only <a href=\"http://Bloomberg.com\">Bloomberg.com</a> subscribers can get the Odd Lots newsletter in their inbox each week, plus unlimited access to the site and app. Subscribe at&nbsp; <a href=\"https://www.bloomberg.com/subscriptions/oddlots?in_source=oddlotspodcast\">bloomberg.com/subscriptions/oddlots</a></p> <p><a href=\"http://bloomberg.com/subscriptions/oddlots\">Subscribe to the Odd Lots Newsletter</a><br /><strong>Join the conversation:</strong> <a href=\"https://discord.gg/oddlots\">discord.gg/oddlots</a></p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
+    "published": "2026-05-30",
+    "week": "2026-W22",
+    "audio_url": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/019909ba-ab60-4975-bbb2-b45900e53a59/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
+    "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/019909ba-ab60-4975-bbb2-b45900e53a59/transcript?format=TextWithTimestamps&t=1780063109",
+    "episode_url": "https://omny.fm/shows/odd-lots/how-the-invention-of-rope-gave-us-modern-civilization",
+    "type": "podcast",
+    "duration_secs": 2211,
+    "transcript_length": 37215,
+    "speaker": "",
+    "one_line_summary": "Rope is a fundamental technology that has enabled human civilization, with its design and production undergoing significant technological breakthroughs.",
+    "summary": "The hosts of the Odd Lots podcast discuss the importance of rope in human history, citing its use in whaling expeditions and its role in enabling technological advancements. They are joined by Tim Queeney, author of the book 'Rope: How a Bundle of Twisted Fibers Became the Backbone of Civilization'. Queeney explains that rope is made up of twisted fibers, which provides strength and durability. He also discusses the helix effect, which occurs when the fibers are twisted together, creating a strong and load-bearing material.",
+    "key_themes": [
+      "Rope as a fundamental technology",
+      "Technological breakthroughs in rope design and production",
+      "The importance of rope in human history"
+    ],
+    "market_signals": [],
+    "framework_insights": [
+      "Rope is a classic example of a 'tool that enables other tools', highlighting the importance of infrastructure and enabling technologies in human progress.",
+      "The helix effect is a key principle in understanding the strength and durability of rope, and can be applied to other areas of technology and engineering.",
+      "The pace of technological innovation has accelerated significantly in recent times, with new technologies becoming obsolete in a matter of years.",
+      "Historical technological innovations were often slow to develop, with significant periods of time passing between major breakthroughs.",
+      "The development of multi-strand rope was a significant technological innovation that enabled new uses and applications."
+    ],
+    "market_relevance": "This discussion highlights the importance of understanding the underlying technologies and infrastructure that enable human progress, and the need to consider the long-term implications of technological innovation."
+  },
+  {
+    "id": "d36a7ea48bbf539670a62114a41f388f",
+    "source_id": "odd_lots",
+    "source_name": "Odd Lots",
+    "source_org": "Bloomberg",
+    "source_color": "#06b6d4",
+    "title": "Gita Gopinath on Why Interest Rates Have Surged All Around the World",
+    "description": "<p>There's been a massive selloff in the bond market and rates are rising all around the world. Japan, Korea, the UK... You name it. Gita Gopinath, Harvard economics professor and the former first deputy managing director of the IMF, has long warned that bond markets are \"in a fragile place.\" She sees a confluence of demographics, high levels of public debt, and the intense capital needs of the AI boom creating inflationary pressure all around the world. Today we speak with Gopinath about the seeming disconnect between stocks and bonds and why investors may be wrong to assume that governments will have their back the next time there's a major shock.</p> <p>Read more:<br /><a href=\"https://www.bloomberg.com/news/articles/2026-05-27/us-bonds-return-to-pre-war-calm-fuels-bets-it-ll-be-short-lived?utm_medium=referral&amp;utm_source=podcast&amp;utm_campaign=odd_lots&amp;utm_content=article\">US Bonds&rsquo; Return to Pre-War Calm Fuels Bets It&rsquo;ll Be Short-Lived</a><br /><a href=\"https://www.bloomberg.com/news/articles/2026-05-28/china-markets-885-million-green-sovereign-bond-in-hong-kong?utm_medium=referral&amp;utm_source=podcast&amp;utm_campaign=odd_lots&amp;utm_content=article\">China Sells $885 Million of Green Bonds in Hong Kong Debut</a></p> <p>Only <a href=\"http://Bloomberg.com\">http://Bloomberg.com</a> subscribers can get the Odd Lots newsletter in their inbox each week, plus unlimited access to the site and app. Subscribe at&nbsp; <a href=\"https://www.bloomberg.com/subscriptions/oddlots?in_source=oddlotspodcast\">bloomberg.com/subscriptions/oddlots</a></p> <p><a href=\"http://bloomberg.com/subscriptions/oddlots\">Subscribe to the Odd Lots Newsletter</a><br /><strong>Join the conversation:</strong> <a href=\"https://discord.gg/oddlots\">discord.gg/oddlots</a></p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
+    "published": "2026-05-29",
+    "week": "2026-W22",
+    "audio_url": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/4fea018c-8268-43c3-bdb9-b45801086d9d/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
+    "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/4fea018c-8268-43c3-bdb9-b45801086d9d/transcript?format=TextWithTimestamps&t=1779984443",
+    "episode_url": "https://omny.fm/shows/odd-lots/gita-gopinath-on-why-interest-rates-have-surged-all-around-the-world",
+    "type": "podcast",
+    "duration_secs": 3104,
+    "transcript_length": 50205,
+    "speaker": "Gita Gopinath — Professor of Economics at Harvard University, First Deputy Managing Director of the IMF",
+    "one_line_summary": "Gita Gopinath believes the surge in interest rates is a result of a secular shift in the global economy, driven by inflation, AI boom, and high public debt.",
+    "summary": "Gita Gopinath starts by discussing the bond market sell-off, which she believes is a result of a global phenomenon. She notes that the real interest rate has drifted up, from 0.1% pre-pandemic to 1% now, due to higher inflation expectations and fiscal deficits. The AI boom is also contributing to this shift, as companies are investing heavily in capital expenditure, which is shifting the real interest rate even higher. Gopinath argues that the end of secular stagnation is a result of these factors, as there is now enough investment happening in the private sector.",
+    "key_themes": [
+      "Secular shift in the global economy",
+      "Inflation",
+      "AI boom"
+    ],
+    "market_signals": [
+      "The 10-year US Treasury yield was inching up towards 5%.",
+      "The long end of the UK gilt market hit its highest since 1998.",
+      "The proportion of AI in the corporate bond market is now 50% of all investment-grade issuance year-to-date.",
+      "The proportion of AI in junk-rated debt is creeping up to almost 40%.",
+      "Oil prices could increase to $160 per barrel if the Iran conflict is not resolved soon."
+    ],
+    "framework_insights": [
+      "The real interest rate has drifted up from 0.1% pre-pandemic to 1% now.",
+      "The AI boom is contributing to a secular shift in the global economy.",
+      "High public debt is a result of fiscal deficits, which are projected to stay at levels of around 7% of GDP.",
+      "The marginal buyer of debt is now more volatile investors, such as pension funds and market makers.",
+      "The composition of who's the marginal buyer of debt has changed, with central banks no longer buying as much government debt."
+    ],
+    "market_relevance": "This matters for investors and markets right now because it highlights the need to understand the secular shift in the global economy and its implications for interest rates and asset prices."
+  },
+  {
     "id": "0ee0ec6a58c7a497220d8d3ba4f862cb",
     "source_id": "odd_lots",
     "source_name": "Odd Lots",
@@ -30,6 +809,46 @@
       "The transition from metal to paper currency is a crucial moment in the dollar's development, but its significance is often overlooked."
     ],
     "market_relevance": "Understanding the dollar's complex history is essential for investors and policymakers, as it informs our understanding of monetary sovereignty and the global economy."
+  },
+  {
+    "id": "d0a3173c9c9d618d638272b61ef8032b",
+    "source_id": "credit_edge",
+    "source_name": "The Credit Edge",
+    "source_org": "Bloomberg Intelligence",
+    "source_color": "#f97316",
+    "title": "Veteran ABS Investor Sees ‘Max Uncertainty With Max Complacency’",
+    "description": "<p>Bad software loans will cause credit-market trouble that recalls aspects of the global financial crisis, according to American Century Investments. &ldquo;We call it max uncertainty with max complacency,&rdquo; says Paul Norris, referring to tight credit spreads, in this episode of the Credit Edge podcast. &ldquo;What&rsquo;s interesting to me is the subprime crisis was very similar,&rdquo; Norris, who leads the $330 billion asset manager&rsquo;s securitized markets team, tells Bloomberg News&rsquo; James Crombie and Bloomberg Intelligence&rsquo;s Reto Bachmann. They also discuss growing risks to business development companies and collateralized loan obligations, advantages of public over private asset-backed debt and why residential mortgages are a buy.</p> <p>&nbsp;</p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
+    "published": "2026-05-28",
+    "week": "2026-W22",
+    "audio_url": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/e74a35e9-c028-4e5f-a3f7-afb10164a717/549b458d-2b35-4198-96fb-b4580149cf37/audio.mp3?utm_source=Podcast&in_playlist=8792a2e9-d66c-4038-a1fe-afb101654894",
+    "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/549b458d-2b35-4198-96fb-b4580149cf37/transcript?format=TextWithTimestamps&t=1779998703",
+    "episode_url": "https://omny.fm/shows/the-credit-edge-by-bloomberg-intelligence/veteran-abs-investor-sees-max-uncertainty-with-max-complacency",
+    "type": "podcast",
+    "duration_secs": 3269,
+    "transcript_length": 46648,
+    "speaker": "Paul Noise — Senior Portfolio Manager, American Century Investments",
+    "one_line_summary": "Private credit markets are facing significant challenges, particularly in the software sector, with loan values already at 90 cents on the dollar and potential for further degradation.",
+    "summary": "Paul Noise, Senior Portfolio Manager at American Century Investments, expressed concerns about the private credit market, particularly in the software sector. He noted that loan values in collateralized loan obligations (CLOs) have already dropped from 97 to 90 cents on the dollar over the past few months. Noise attributed this decline to the impact of AI and other technological advancements on software companies. He also highlighted the issue of refinancing, as many private credit vehicles are facing redemptions and may struggle to meet them. Noise suggested that the good loans in these vehicles have already been sold to meet redemptions, leaving behind the less desirable loans.",
+    "key_themes": [
+      "Private credit market challenges",
+      "Software sector concerns",
+      "Refinancing issues"
+    ],
+    "market_signals": [
+      "Loan values in CLOs have dropped from 97 to 90 cents on the dollar over the past few months.",
+      "The software sector is experiencing significant challenges due to AI and other technological advancements.",
+      "Private credit vehicles are facing redemptions and may struggle to meet them.",
+      "The good loans in these vehicles have already been sold to meet redemptions.",
+      "The refinancing wave for private credit is starting soon, with 18-month terms for getting financing together."
+    ],
+    "framework_insights": [
+      "The private credit market is facing a 'rolling blackout' scenario, where some loans will default or be downgraded, causing significant issues for CLOs.",
+      "The software sector is particularly vulnerable to technological advancements, which can lead to significant declines in loan values.",
+      "Private credit vehicles are often 'extend and pretend' strategies, where issuers try to avoid refinancing by extending maturities or reducing interest rates.",
+      "The downgrade issue is a significant concern, as it can lead to mark-to-market adjustments and further declines in loan values.",
+      "The larger players in the private credit market are well-insulated and have tons of capital, but the smaller players may be in trouble."
+    ],
+    "market_relevance": "This matters for investors and markets right now because the private credit market is facing significant challenges, and the software sector is particularly vulnerable. The refinancing wave for private credit is starting soon, and the market may be missing the potential for further degradation in loan values."
   },
   {
     "id": "9977e74bc9e21d5c189be5911fc84806",
