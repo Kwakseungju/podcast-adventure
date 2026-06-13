@@ -1,5 +1,45 @@
 [
   {
+    "id": "776308b81ab2ed692b36a2f6006cd252",
+    "source_id": "odd_lots",
+    "source_name": "Odd Lots",
+    "source_org": "Bloomberg",
+    "source_color": "#06b6d4",
+    "title": "Anjney Midha's Plan to Radically Lower the Price of Compute",
+    "description": "<p>Anjney Midha wrote the first check to Anthropic. He teaches a viral course at Stanford on how AI works. And he was, until recently, a partner at a16z. In other words, he is AI-industry royalty. Midha's new project is AMP PBC, a company that believes it can radically lower the price of compute. To accomplish that, he is working on building a compute grid that turns GPUs into a standardized utility. But right now, compute is too fragmented. It's too heterogeneous. And given the way contracts are structured, he says that labs are being forced to spend money on capacity that often goes unused. In other words, small labs are forced to pay up for big, long-term contracts, even though their own demand (particularly during model training) may be very spiky. On this episode, Midha explains how the market for compute currently works and why he believes there's a software solution that could significantly improve compute utilization. He also tells us why he does not anticipate one company will emerge as the dominate player and that instead we'll have a wide range of models, each optimally used in specific applications.</p> <p>Read more:<br /><a href=\"https://www.bloomberg.com/news/articles/2026-06-11/amazon-says-its-data-centers-use-2-5-billion-gallons-of-water?utm_medium=referral&amp;utm_source=podcast&amp;utm_campaign=odd_lots&amp;utm_content=article\">Amazon Says Its Data Centers Use 2.5 Billion Gallons of Water</a><br /><a href=\"https://www.bloomberg.com/news/articles/2026-06-10/oracle-reports-higher-than-expected-data-center-spending?utm_medium=referral&amp;utm_source=podcast&amp;utm_campaign=odd_lots&amp;utm_content=article\">Oracle Falls Most in Six Months on Mounting Data Center Costs</a></p> <p>Only <a href=\"http://Bloomberg.com\">http://Bloomberg.com</a> subscribers can get the Odd Lots newsletter in their inbox each week, plus unlimited access to the site and app. Subscribe at&nbsp; <a href=\"https://www.bloomberg.com/subscriptions/oddlots?in_source=oddlotspodcast\">bloomberg.com/subscriptions/oddlots</a></p> <p><a href=\"http://bloomberg.com/subscriptions/oddlots\">Subscribe to the Odd Lots Newsletter</a><br /><strong>Join the conversation:</strong> <a href=\"https://discord.gg/oddlots\">discord.gg/oddlots</a></p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
+    "published": "2026-06-13",
+    "week": "2026-W24",
+    "audio_url": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/90cd8aa8-11c9-4cd3-813a-b467011c7f57/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
+    "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/90cd8aa8-11c9-4cd3-813a-b467011c7f57/transcript?format=TextWithTimestamps&t=1781284795",
+    "episode_url": "https://omny.fm/shows/odd-lots/anjney-midhas-plan-to-radically-lower-the-price-of-compute",
+    "type": "podcast",
+    "duration_secs": 3021,
+    "transcript_length": 54070,
+    "speaker": "Anjney Midha — Founder, AMPPBC",
+    "one_line_summary": "Anjney Midha's AMPPBC aims to make compute infrastructure accessible to all AI labs, enabling more to reach the frontier.",
+    "summary": "Anjney Midha, founder of AMPPBC, discussed his vision for making compute infrastructure accessible to all AI labs. He emphasized that the frontier is not a single point, but rather a series of frontiers to be conquered. Midha highlighted the importance of compute infrastructure, citing his experience with Anthropic, where he realized that infrastructure was a key requirement for creating modern AI labs. He also mentioned that the current market is seeing a surge in investment in AI, with people throwing money at almost any model. Midha's goal is to unblock the compute bottleneck for research teams, enabling more labs to reach the frontier.",
+    "key_themes": [
+      "AI frontier",
+      "compute infrastructure",
+      "accessibility"
+    ],
+    "market_signals": [
+      "The current market is seeing a surge in investment in AI, with people throwing money at almost any model.",
+      "There are many frontiers to be conquered in AI, not just one.",
+      "Compute infrastructure is a key requirement for creating modern AI labs.",
+      "The frontier models are close to each other, with the four-point a GPT and five-point five being not that different.",
+      "The Chinese labs are close to the frontier, possibly a few months behind the top labs."
+    ],
+    "framework_insights": [
+      "The frontier is not a single point, but rather a series of frontiers to be conquered.",
+      "Compute infrastructure is a key bottleneck for AI research teams.",
+      "The current market is seeing a surge in investment in AI, driven by an existential need to become number one in frontier models.",
+      "The stability or parody among frontier models may be due to inherent market dynamics or the ability of labs to access compute infrastructure.",
+      "The software engineering frontier is one of the frontiers to be conquered in AI."
+    ],
+    "market_relevance": "This discussion highlights the importance of compute infrastructure in AI research and the potential for more labs to reach the frontier with accessible infrastructure. Investors should take note of the surge in investment in AI and the potential for new frontiers to be conquered."
+  },
+  {
     "id": "38c39554f43ad9f7697985a7c7f3e332",
     "source_id": "odd_lots",
     "source_name": "Odd Lots",
@@ -38,6 +78,37 @@
       "The power of entrepreneurship and innovation in solving real-world problems and making markets more efficient."
     ],
     "market_relevance": "This matters for investors and markets right now because the hay market is opaque and lacks transparency, making it difficult to make informed decisions. Haywire's aggregation of public data and use of AI to analyze it provides valuable insights and fills a gap in the market."
+  },
+  {
+    "id": "7188acb6b9ca662b37d99c82443ebeaa",
+    "source_id": "goldman_sachs",
+    "source_name": "Goldman Sachs",
+    "source_org": "Goldman Sachs",
+    "source_color": "#3b82f6",
+    "title": "The Outlook for AI-Related Stocks and US Interest Rates",
+    "description": "Despite recent wobbles in the US equity market, Muhammad Qubbaj, co-head of US Interest Rate Products in Goldman Sachs Global Banking & Markets, believes the rally is on firm footing. He discusses the outlook for stocks and bonds, and explains why he’s not yet concerned about the rising issuance of bonds by tech companies and the US government, in this conversation with Chris Hussey.\n\nRecorded on Jun 11, 2026.\n\nThe opinions and views expressed herein are as of the date of publication, subject to change without notice, and may not necessarily reflect the institutional views of Goldman Sachs or its affiliates. The material provided is intended for informational purposes only, and does not constitute investment advice, a recommendation from any Goldman Sachs entity to take any particular action, or an offer or solicitation to purchase or sell any securities or financial products. This material may contain forward-looking statements. Past performance is not indicative of future results. Neither Goldman Sachs nor any of its affiliates make any representations or warranties, express or implied, as to the accuracy or completeness of the statements or information contained herein and disclaim any liability whatsoever for reliance on such information for any purpose. Each name of a third-party organization mentioned is the property of the company to which it relates, is used here strictly for informational and identification purposes only and is not used to imply any ownership or license rights between any such company and Goldman Sachs.\n\nA transcript is provided for convenience and may differ from the original video or audio content. Goldman Sachs is not responsible for any errors in the transcript. This material should not be copied, distributed, published, or reproduced in whole or in part or disclosed by any recipient to any other person without the express written consent of Goldman Sachs.\n\nDisclosures applicable to research with respect to issuers, if any, mentioned herein are available through your Goldman Sachs representative or at ⁠http://www.gs.com/research/hedge.html⁠\n\nGoldman Sachs does not endorse any candidate or any political party.\n\nCopyright 2026. All rights reserved.",
+    "published": "2026-06-12",
+    "week": "2026-W24",
+    "video_id": "yaMkjyeRolY",
+    "episode_url": "https://www.youtube.com/watch?v=yaMkjyeRolY",
+    "type": "youtube",
+    "duration_secs": null,
+    "transcript_length": 2214,
+    "speaker": "",
+    "one_line_summary": "Muhammad Qubbaj believes the US equity market rally is on firm footing.",
+    "summary": "Muhammad Qubbaj, co-head of US Interest Rate Products in Goldman Sachs Global Banking & Markets, discussed the outlook for stocks and bonds. He expressed that he's not yet concerned about the rising issuance of bonds by tech companies and the US government. The opinions and views expressed are as of the date of publication, subject to change without notice.",
+    "key_themes": [
+      "US equity market",
+      "US interest rates",
+      "bond issuance"
+    ],
+    "market_signals": [],
+    "framework_insights": [
+      "The market is missing a clear understanding of the impact of rising bond issuance on the economy.",
+      "The rally in the US equity market may be on firm footing, but it's essential to monitor the situation closely.",
+      "The opinions and views expressed are subject to change without notice, highlighting the importance of adaptability in market analysis."
+    ],
+    "market_relevance": "This matters for investors as it provides insight into the current market sentiment and potential risks associated with rising bond issuance."
   },
   {
     "id": "3c17cf4d292758bb55246f498385c38f",
