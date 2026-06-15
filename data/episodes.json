@@ -1,5 +1,80 @@
 [
   {
+    "id": "8dd7e69d9493cdec0ffce6167be2c702",
+    "source_id": "odd_lots",
+    "source_name": "Odd Lots",
+    "source_org": "Bloomberg",
+    "source_color": "#06b6d4",
+    "title": "Carmen Li's Plan to Build a Futures Market for Compute",
+    "description": "<p>When we spoke to DRW's Don Wilson last year, he talked about building out a GPU market that might be bigger than oil. Now, a year later, he is working with Carmen Li to do just that. Li is the CEO of two companies &mdash; Silicon Data and Compute Exchange (where she works alongside Wilson). The former company is building the index for GPU pricing while the latter is a spot marketplace for GPU procurement. Today's episode &mdash; recorded at our live show at City Winery in New York &mdash; gets into how Li is building a whole new market for GPUs at her two companies. We talk about the challenge of standardizing compute, GPU price volatility, if used GPUs are like used cars, what goes into constructing a GPU index, and what it means to win the GPU lottery.</p> <p>Read more:<br /><a href=\"https://www.bloomberg.com/news/articles/2026-06-04/jane-street-plans-new-data-center-as-compute-power-runs-scarce?utm_medium=referral&amp;utm_source=podcast&amp;utm_campaign=odd_lots&amp;utm_content=article\">Jane Street Plans New Data Center as Computing Power Runs Scarce</a><br /><a href=\"https://www.bloomberg.com/news/articles/2026-06-05/google-buying-computing-from-spacex-in-920-million-a-month-deal?utm_medium=referral&amp;utm_source=podcast&amp;utm_campaign=odd_lots&amp;utm_content=article\">SpaceX Inks $30 Billion Computing Power Deal With Google</a></p> <p>Only <a href=\"http://bloomberg.com/\">Bloomberg - Business News, Stock Markets, Finance, Breaking &amp; World News</a> subscribers can get the Odd Lots newsletter in their inbox each week, plus unlimited access to the site and app. Subscribe at&nbsp; <a href=\"https://www.bloomberg.com/subscriptions/oddlots?in_source=oddlotspodcast\">bloomberg.com/subscriptions/oddlots</a></p> <p><a href=\"http://bloomberg.com/subscriptions/oddlots\">Subscribe to the Odd Lots Newsletter</a><br /><strong>Join the conversation:</strong> <a href=\"https://discord.gg/oddlots\">discord.gg/oddlots</a></p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
+    "published": "2026-06-15",
+    "week": "2026-W25",
+    "audio_url": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/60472ab3-350e-4e47-a612-b4670121babd/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
+    "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/60472ab3-350e-4e47-a612-b4670121babd/transcript?format=TextWithTimestamps&t=1781286161",
+    "episode_url": "https://omny.fm/shows/odd-lots/carmen-lis-plan-to-build-a-futures-market-for-compute",
+    "type": "podcast",
+    "duration_secs": 1976,
+    "transcript_length": 32437,
+    "speaker": "Carmen Lee — CEO, Compute Exchange and Silicon Data",
+    "one_line_summary": "Carmen Lee discusses building a futures market for compute, leveraging GPU indices and partnerships with CME to provide tradable instruments for compute power.",
+    "summary": "Carmen Lee, CEO of Compute Exchange and Silicon Data, joins the podcast to discuss the development of a futures market for compute. She highlights the challenges of creating a tradable commodity out of GPU capacity, citing fungibility issues and the need for standardized benchmarks. Lee emphasizes the importance of providing a predictable margin for users, particularly in the context of scarce GPU resources. She also discusses the potential for compute futures to become a hedging instrument, similar to oil futures, and the need for a robust index model to capture price differentiation.",
+    "key_themes": [
+      "Compute futures market",
+      "GPU indices",
+      "Tradable instruments"
+    ],
+    "market_signals": [
+      "GPU prices have shown significant volatility, with prices going down last year and up this year.",
+      "The compute market is shifting from on-demand contracts to reserve contracts due to market conditions.",
+      "The neo cloud is a key player in the compute market, with many enterprises relying on them for GPU resources.",
+      "The H100 index is being developed as a benchmark for compute power, with the goal of providing a hedging instrument for users.",
+      "The compute futures market is expected to be highly correlated with the price of GPU resources, but will not be identical due to basis risk."
+    ],
+    "framework_insights": [
+      "The compute market is subject to significant price volatility, making it an attractive opportunity for hedging and risk management.",
+      "The development of a futures market for compute requires a robust index model that captures price differentiation and provides a predictable margin for users.",
+      "The compute market is shifting towards reserve contracts due to market conditions, highlighting the importance of standardized benchmarks and tradable instruments.",
+      "The neo cloud is a key player in the compute market, with many enterprises relying on them for GPU resources, making them a natural long in the compute futures market.",
+      "The compute futures market has the potential to become a major player in the financial markets, with significant implications for investors and traders."
+    ],
+    "market_relevance": "The development of a futures market for compute has significant implications for investors and traders, offering a new opportunity for hedging and risk management in a rapidly evolving market."
+  },
+  {
+    "id": "9577d1c95b489cc48114dac5c6ace2e5",
+    "source_id": "capital_allocators",
+    "source_name": "Capital Allocators",
+    "source_org": "Ted Seides",
+    "source_color": "#f43f5e",
+    "title": "Hotel Investing at EOS – Jonathan Wang",
+    "description": "Jonathan Wang is the founder and CEO of EOS Investors, where he has built three real estate investment platforms totaling $2 billion in assets under management across the hotel and residential sectors. Jonathan also created a wholly owned hotel management company that oversees 60 properties for the EOS funds and five core partners.  \n \n\nOur conversation covers Jonathan’s path to hotel investing and EOS’ hotel investment process across market selection, property type, underwriting, vertically integrated operations, and managing through cycles. We also discuss extensions into residential real estate, hotel credit, and opportunities and risks going forward. \n \nSubscribe to the mailing list‍: https://capitalallocators.com/ \nAccess Transcript with Premium Membership‍: https://capitalallocators.com/signup/ \nSubscribe on Apple Podcast: https://podcasts.apple.com/us/podcast/capital-allocators-inside-the-institutional/id1223764016 \nFollow Ted on Twitter: https://twitter.com/tseides \nFollow Ted on LinkedIn: https://www.linkedin.com/in/tedseides/ \n \nOriginal Publish Date: 06/15/2026",
+    "published": "2026-06-15",
+    "week": "2026-W25",
+    "video_id": "fljeR-Zei7k",
+    "episode_url": "https://www.youtube.com/watch?v=fljeR-Zei7k",
+    "type": "youtube",
+    "duration_secs": null,
+    "transcript_length": 1088,
+    "speaker": "Jonathan Wang — Founder and CEO, EOS Investors",
+    "one_line_summary": "Jonathan Wang discusses his path to hotel investing and EOS' hotel investment process.",
+    "summary": [
+      "Jonathan Wang is the founder and CEO of EOS Investors, with $2 billion in assets under management across hotel and residential sectors.",
+      "The conversation covers EOS' hotel investment process, including market selection, property type, underwriting, vertically integrated operations, and managing through cycles.",
+      "EOS has built a wholly owned hotel management company overseeing 60 properties for the EOS funds and five core partners."
+    ],
+    "key_themes": [
+      "Hotel Investing",
+      "EOS Investors",
+      "Real Estate"
+    ],
+    "market_signals": [],
+    "framework_insights": [
+      "Investing in hotel real estate requires a vertically integrated operations approach.",
+      "Market selection and underwriting are crucial steps in the hotel investment process.",
+      "Managing through cycles is essential for hotel investment success."
+    ],
+    "market_relevance": "This conversation provides insights into the hotel investing space, which may be relevant for investors considering real estate investments."
+  },
+  {
     "id": "776308b81ab2ed692b36a2f6006cd252",
     "source_id": "odd_lots",
     "source_name": "Odd Lots",
