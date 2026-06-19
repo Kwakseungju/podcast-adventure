@@ -1,5 +1,271 @@
 [
   {
+    "id": "8aac564284bf54b7442bc4d13f78f7bc",
+    "source_id": "odd_lots",
+    "source_name": "Odd Lots",
+    "source_org": "Bloomberg",
+    "source_color": "#06b6d4",
+    "title": "Anthropic's Co-Founder and Top Economist on Doing Research at the AI Frontier",
+    "description": "<p>There&rsquo;s a lot to unpack with AI right now &mdash; everything from its potential impacts on the labor market and society to more extreme questions about existential risk. Anthropic, which builds frontier models like Mythos, Fable, and Claude, is actively grappling with these issues, including whether governments should limit AI development. Just last week, the Trump administration forced Anthropic to block foreign access to its two leading models. In this episode, we speak with Jack Clark (co-founder and head of public benefit) and Peter McCrory (head economist) about how Anthropic approaches safety and economic risks. We talk about its preparations for recursive self-improvement, the engineers it's hiring now, and why Jack left Bloomberg to enter the early AI industry.</p> <p>Read more:<br /><a href=\"https://www.bloomberg.com/news/articles/2026-06-18/anthropic-lays-out-vision-for-how-to-bolster-ai-models-safety?utm_medium=referral&amp;utm_source=podcast&amp;utm_campaign=odd_lots&amp;utm_content=article\">Anthropic Lays Out Vision for How to Bolster AI Models&rsquo; Safety</a><br /><a href=\"https://www.bloomberg.com/news/articles/2026-06-17/microsoft-s-china-ai-business-grows-on-openai-model-sales?utm_medium=referral&amp;utm_source=podcast&amp;utm_campaign=odd_lots&amp;utm_content=article\">Microsoft Makes Big AI Inroads in China by Selling OpenAI Models</a></p> <p>Only <a href=\"http://bloomberg.com/\">Bloomberg - Business News, Stock Markets, Finance, Breaking &amp; World News</a> subscribers can get the Odd Lots newsletter in their inbox each week, plus unlimited access to the site and app. Subscribe at&nbsp; <a href=\"https://www.bloomberg.com/subscriptions/oddlots?in_source=oddlotspodcast\">bloomberg.com/subscriptions/oddlots</a></p> <p><a href=\"http://bloomberg.com/subscriptions/oddlots\">Subscribe to the Odd Lots Newsletter</a><br /><strong>Join the conversation:</strong> <a href=\"https://discord.gg/oddlots\">discord.gg/oddlots</a></p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
+    "published": "2026-06-19",
+    "week": "2026-W25",
+    "audio_url": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/3b7f6933-fbbc-4e6e-a0de-b46d00ff8723/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
+    "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/3b7f6933-fbbc-4e6e-a0de-b46d00ff8723/transcript?format=TextWithTimestamps&t=1781797113",
+    "episode_url": "https://omny.fm/shows/odd-lots/anthropics-co-founder-and-top-economist-on-doing-research-at-the-ai-frontier",
+    "type": "podcast",
+    "duration_secs": 3986,
+    "transcript_length": 71348,
+    "speaker": "Jack Clark — Head of Public Benefit, Anthropic, and Peter McCrory — Head of Economics, Anthropic",
+    "one_line_summary": "Anthropic's co-founders and top economist discuss AI's exponential growth, its potential impact on the labor market, and the company's research on recursive self-improvement.",
+    "summary": "Jack Clark, co-founder of Anthropic, shared his experience of recognizing AI's exponential growth in 2016 while working as a Google reporter. He started charting AI progress over time, measuring computer vision, and gameplaying skills, which led him to believe that AI was a general-purpose technology. Peter McCrory, head of economics at Anthropic, joined the company a year ago and was drawn to its commitment to understanding AI's impact on the labor market, productivity, and growth. He believes that AI's capabilities are extraordinary and that its impact has not yet materialized due to bottlenecks in deployment and the need for contextual information.",
+    "key_themes": [
+      "AI growth",
+      "Labor market impact",
+      "Recursive self-improvement"
+    ],
+    "market_signals": [
+      "AI progress has been exponential since 2016, with measurements of computer vision, sound, video, and gameplaying skills showing the same trend.",
+      "Anthropic's enterprise customers are experiencing bottlenecks in deploying AI capabilities due to the need for contextual information.",
+      "Labor productivity growth has been strong throughout the pandemic and has been sustained so far modestly.",
+      "Engineers at Anthropic are writing about eight times the amount of code than they did in 2021-2024, with a significant increase in 2026.",
+      "The line started last year with Opus 4 to 5 and Opus 4 to 6, and then really got going this year."
+    ],
+    "framework_insights": [
+      "The 'bitter lesson' concept, where the more compute and resources are dumped into generic neural networks, the smarter they get and the more emergent properties they have.",
+      "The bitter lesson implies significant implications for the labor market, as it suggests that specialized systems or human insight may not be necessary for AI to improve.",
+      "A job can be composed of three aspects: deciding what to do, implementing the work, and evaluating or setting up systems to evaluate.",
+      "Recursive self-improvement is a key area of research for Anthropic, where models improve on themselves, and this has implications for the labor market and productivity growth.",
+      "The exponential growth of AI capabilities is a general-purpose technology that can have a significant impact on the labor market and productivity growth."
+    ],
+    "market_relevance": "This discussion highlights the potential impact of AI on the labor market and productivity growth, which is relevant for investors and markets right now as they navigate the implications of this technology."
+  },
+  {
+    "id": "ae8d0e2164067f9df0db581e57f748cd",
+    "source_id": "goldman_sachs",
+    "source_name": "Goldman Sachs",
+    "source_org": "Goldman Sachs",
+    "source_color": "#3b82f6",
+    "title": "Why the Fed’s Hawkish Turn Could Support the AI Boom",
+    "description": "US stocks quickly brushed off the Fed’s hawkish turn, supported by Iran peace agreement headlines and the resilient AI story. Looking ahead, could moderate hawkishness actually be supportive for risk assets? \n \nTony Pasquariello, global head of hedge fund coverage, Josh Schiffrin, global head of risk, and Dominic Wilson, senior advisor in Goldman Sachs Research, dive into the macro themes that drive the global markets. \n\nRecorded on June 18, 2026",
+    "published": "2026-06-19",
+    "week": "2026-W25",
+    "video_id": "30ir9C1Im1M",
+    "episode_url": "https://www.youtube.com/watch?v=30ir9C1Im1M",
+    "type": "youtube",
+    "duration_secs": null,
+    "transcript_length": 450,
+    "speaker": "",
+    "one_line_summary": "US stocks quickly brushed off the Fed's hawkish turn, supported by Iran peace agreement headlines and the resilient AI story.",
+    "summary": [
+      "The transcript discusses the recent Fed's hawkish turn and its impact on the US stock market.",
+      "The market quickly recovered, supported by positive headlines about the Iran peace agreement and the AI story.",
+      "The guests, Tony Pasquariello, Josh Schiffrin, and Dominic Wilson, will dive into the macro themes that drive the global markets."
+    ],
+    "key_themes": [
+      "Fed's hawkish turn",
+      "US stock market",
+      "AI story"
+    ],
+    "market_signals": [
+      "US stocks quickly brushed off the Fed's hawkish turn",
+      "Supported by Iran peace agreement headlines",
+      "Supported by the resilient AI story"
+    ],
+    "framework_insights": [],
+    "market_relevance": "This matters for investors as it shows the market's resilience in the face of hawkish monetary policy and the potential for AI to drive growth."
+  },
+  {
+    "id": "2a6cb0f2ee98dba07639ce7fade3657c",
+    "source_id": "credit_edge",
+    "source_name": "The Credit Edge",
+    "source_org": "Bloomberg Intelligence",
+    "source_color": "#f97316",
+    "title": "Real Estate Is Next Bet for Debt Investors Avoiding Private Credit",
+    "description": "<p>Private credit disarray spells opportunity for housing giant Pretium, which targets high returns by lending to US homebuilders. &ldquo;Our private credit looks a little bit different than other private credit in the sense that we are secured, we have real good downside protection,&rdquo; Jon Pruzan, the company&rsquo;s co-president, tells Bloomberg News&rsquo; James Crombie and Bloomberg Intelligence&rsquo;s Erica Adelberg in this episode of the Credit Edge podcast. &ldquo;We have a lot of people who want capital and not a lot of people providing capital &mdash; that puts us in an opportunity to continue to generate attractive returns,&rdquo; says Pruzan, who was previously chief financial officer at Morgan Stanley. They also discuss housing fundamentals, opportunity by region, how Pretium achieves midteens returns and political risks going into the November US midterm elections.</p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
+    "published": "2026-06-18",
+    "week": "2026-W25",
+    "audio_url": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/e74a35e9-c028-4e5f-a3f7-afb10164a717/70f67b26-294f-4034-82da-b46d011c89f2/audio.mp3?utm_source=Podcast&in_playlist=8792a2e9-d66c-4038-a1fe-afb101654894",
+    "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/70f67b26-294f-4034-82da-b46d011c89f2/transcript?format=TextWithTimestamps&t=1781803173",
+    "episode_url": "https://omny.fm/shows/the-credit-edge-by-bloomberg-intelligence/real-estate-is-next-bet-for-debt-investors-avoiding-private-credit",
+    "type": "podcast",
+    "duration_secs": 2720,
+    "transcript_length": 45335,
+    "speaker": "John Prusan — Residential Credit, Pretium",
+    "one_line_summary": "Pretium's private credit strategy focuses on secured lending to home builders, offering attractive yields and downside protection.",
+    "summary": "Pretium's private credit strategy is distinct from other private credit offerings due to its secured lending approach, which provides attractive yields and downside protection. The company finances homes being built, renovated, or upgraded, securing its loans with physical assets. This approach allows Pretium to take advantage of the housing shortage in the US, which has resulted in low vacancy rates and high retention rates. The company's data-driven approach, leveraging its internal database and external appraisals, helps inform its underwriting decisions. Pretium's business is not significantly impacted by the proposed institutional investor ban, as the company's focus on secured lending and its ability to adapt to changing regulations make it well-positioned to continue supporting home building and renters in the US.",
+    "key_themes": [
+      "secured lending",
+      "housing shortage",
+      "data-driven approach"
+    ],
+    "market_signals": [
+      "The US has a four to six million housing unit shortage.",
+      "Low vacancy rates and high retention rates are driving demand for rental housing.",
+      "Pretium's secured lending approach offers attractive yields and downside protection.",
+      "The proposed institutional investor ban may have incremental regulation and reporting requirements, but Pretium can continue to support home building and renters.",
+      "The US housing market is resilient, with only two instances of double-digit price declines in the past century."
+    ],
+    "framework_insights": [
+      "Pretium's secured lending approach is a mental model for understanding the benefits of physical asset-backed lending.",
+      "The housing shortage in the US is a structural explanation for the demand for rental housing and the resilience of the housing market.",
+      "Data-driven underwriting decisions are a key investment principle for Pretium's business.",
+      "Adaptability to changing regulations is a critical decision-making heuristic for Pretium's business.",
+      "The US housing market's resilience is a historical analogy for understanding the long-term potential of the market."
+    ],
+    "market_relevance": "Pretium's private credit strategy and the US housing market's resilience are relevant for investors seeking attractive yields and downside protection, as well as those interested in the long-term potential of the US housing market."
+  },
+  {
+    "id": "72bc9fc0f070abe596e117fa7d7f6a8c",
+    "source_id": "odd_lots",
+    "source_name": "Odd Lots",
+    "source_org": "Bloomberg",
+    "source_color": "#06b6d4",
+    "title": "Jeremy Grantham on How to Tell If a Bubble Is About to Burst",
+    "description": "<p>Jeremy Grantham, co-founder and long-term strategist of GMO, has a long history of calling bubbles. As he recounts in his new memoir, <em>The Making of a Permabear: The Perils of Long-Term Investing in a Short-Term World</em>, that includes spotting the dot-com bubble of the early 2000s, which some people see as analogous to the current excitement over AI. And when it comes to today's market, there are a lot of signs of frothiness you could point to. In this episode, we speak to Grantham about how he sees markets right now, including a watershed change for Big Tech stocks, the signs he watches out for to spot when a bubble might burst, and what really keeps him up at night.</p> <p>Only Bloomberg.com subscribers can get the Odd Lots newsletter in their inbox &mdash; plus unlimited access to the site and app. Sign up at&nbsp;<a href=\"https://www.bloomberg.com/subscriptions/oddlots?in_source=oddlotspodcast\">bloomberg.com/subscriptions/oddlots</a></p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
+    "published": "2026-06-18",
+    "week": "2026-W25",
+    "audio_url": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/60f6b6ac-8fe5-49e8-80a2-b46c01750478/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
+    "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/60f6b6ac-8fe5-49e8-80a2-b46c01750478/transcript?format=TextWithTimestamps&t=1781736900",
+    "episode_url": "https://omny.fm/shows/odd-lots/jeremy-grantham-on-how-to-tell-if-a-bubbles-about-to-burst",
+    "type": "podcast",
+    "duration_secs": 3580,
+    "transcript_length": 51204,
+    "speaker": "Jeremy Grantham — Co-founder and long-term strategist at GMO",
+    "one_line_summary": "Jeremy Grantham advises investors to avoid high valuations and focus on mean reversion, warning of a potential bubble in the market.",
+    "summary": "Jeremy Grantham, co-founder and long-term strategist at GMO, joins the podcast to discuss the current market situation. He notes that the market is feeling frothy, with companies like SpaceX experiencing rapid growth and high valuations. Grantham advises investors to be cautious and avoid high valuations, citing the importance of mean reversion. He also shares his experience with clients during previous market bubbles, emphasizing the need for clear communication and fact-based decision-making.",
+    "key_themes": [
+      "Market Valuations",
+      "Mean Reversion",
+      "Bubble Warning"
+    ],
+    "market_signals": [
+      "The price to sales ratio of SpaceX is over 100.",
+      "The market is feeling frothy, with companies experiencing rapid growth and high valuations.",
+      "The world's five hundred richest people collectively added three hundred and sixty six billion dollars to their wealth in a single day.",
+      "SpaceX's revenue is twenty billion dollars, and its valuation is two point seven trillion dollars.",
+      "The market has been momentum-driven recently, with AI enthusiasm being a major factor."
+    ],
+    "framework_insights": [
+      "Grantham defines a bubble as a rare two-sigma event, based on price only.",
+      "He uses historical analogies, such as the South Sea Bubble, to understand market behavior.",
+      "Grantham emphasizes the importance of mean reversion in the market, warning of potential bubbles.",
+      "He shares his experience with clients during previous market bubbles, highlighting the need for clear communication and fact-based decision-making.",
+      "Grantham's approach to investing is focused on long-term existential threats to the market and society."
+    ],
+    "market_relevance": "Grantham's warnings about a potential bubble in the market are relevant for investors right now, as the market continues to feel frothy and valuations remain high."
+  },
+  {
+    "id": "451db8067772c2f3c0421f5ec1cdc6f2",
+    "source_id": "goldman_sachs",
+    "source_name": "Goldman Sachs",
+    "source_org": "Goldman Sachs",
+    "source_color": "#3b82f6",
+    "title": "Maverick Capital Co-CIOs on Finding the AI Winners",
+    "description": "Ben Silver and David Tykocinski, co-CIOs of Maverick Capital, say their investment strategy has, in some respects, been the same for three decades: Rather than trying to time the market, the firm aims to drive performance by taking a long-term view, partnering with management teams, and doing deep diligence on its investments. In an interview with Goldman Sachs’ Tony Pasquariello on the Great Investors podcast, they discuss the investment opportunities in AI and healthcare as well as their complementary skills in a shared role.\n\nThis episode was recorded on June 4th, 2026.\n\nThe opinions and views expressed herein are as of the date of publication, subject to change without notice, and may not necessarily reflect the institutional views of Goldman Sachs or its affiliates. The material provided is intended for informational purposes only, and does not constitute investment advice, a recommendation from any Goldman Sachs entity to take any particular action, or an offer or solicitation to purchase or sell any securities or financial products. This material may contain forward-looking statements. Past performance is not indicative of future results. Neither Goldman Sachs nor any of its affiliates make any representations or warranties, express or implied, as to the accuracy or completeness of the statements or information contained herein and disclaim any liability whatsoever for reliance on such information for any purpose. Each name of a third-party organization mentioned is the property of the company to which it relates, is used here strictly for informational and identification purposes only and is not used to imply any ownership or license rights between any such company and Goldman Sachs.\n\nA transcript is provided for convenience and may differ from the original video or audio content. Goldman Sachs is not responsible for any errors in the transcript. This material should not be copied, distributed, published, or reproduced in whole or in part or disclosed by any recipient to any other person without the express written consent of Goldman Sachs.\n\nDisclosures applicable to research with respect to issuers, if any, mentioned herein are available through your Goldman Sachs representative or at ⁠http://www.gs.com/research/hedge.html⁠\n\nGoldman Sachs does not endorse any candidate or any political party.\n\nCopyright 2026. All rights reserved.",
+    "published": "2026-06-18",
+    "week": "2026-W25",
+    "video_id": "OOZTXu_s_CE",
+    "episode_url": "https://www.youtube.com/watch?v=OOZTXu_s_CE",
+    "type": "youtube",
+    "duration_secs": null,
+    "transcript_length": 2380,
+    "speaker": "Ben Silver and David Tykocinski — co-CIOs of Maverick Capital",
+    "one_line_summary": "Maverick Capital's investment strategy focuses on long-term views, partnering with management teams, and deep diligence on investments.",
+    "summary": "Ben Silver and David Tykocinski, co-CIOs of Maverick Capital, discuss their investment strategy and opportunities in AI and healthcare. They emphasize taking a long-term view, partnering with management teams, and doing deep diligence on investments. This approach has been the same for three decades.",
+    "key_themes": [
+      "Investment Strategy",
+      "AI and Healthcare",
+      "Long-term View"
+    ],
+    "market_signals": [],
+    "framework_insights": [
+      "Investment strategy can be driven by taking a long-term view, partnering with management teams, and doing deep diligence on investments.",
+      "Deep diligence on investments is crucial for long-term success.",
+      "Long-term view is essential for investment strategy."
+    ],
+    "market_relevance": "This matters for investors as it highlights the importance of a long-term view and deep diligence in investment strategy, which can lead to more informed decision-making."
+  },
+  {
+    "id": "30900415d571d37bb8df4dfc10abf8be",
+    "source_id": "goldman_sachs",
+    "source_name": "Goldman Sachs",
+    "source_org": "Goldman Sachs",
+    "source_color": "#3b82f6",
+    "title": "How the US-Iran Deal Could Affect Oil Prices",
+    "description": "Oil prices are expected to fall further following news that the US and Iran agreed to end hostilities and reopen the Strait of Hormuz. But oil is unlikely to return to pre-war levels for some time, according to Goldman Sachs Research's Daan Struyven, co-head of global commodities research and head of oil research. Struyven says that oil is still at risk of rising because of lingering effects from the conflict, persistently low inventory levels, and the possibility that the Strait of Hormuz never fully reopens. Goldman Sachs Research projects Brent oil will average $75 per barrel next year, down from about $80 at the time the podcast was recorded.   \n\nThe opinions and views expressed herein are as of the date of publication, subject to change without notice, and may not necessarily reflect the institutional views of Goldman Sachs or its affiliates. The material provided is intended for informational purposes only, and does not constitute investment advice, a recommendation from any Goldman Sachs entity to take any particular action, or an offer or solicitation to purchase or sell any securities or financial products. This material may contain forward-looking statements. Past performance is not indicative of future results. Neither Goldman Sachs nor any of its affiliates make any representations or warranties, express or implied, as to the accuracy or completeness of the statements or information contained herein and disclaim any liability whatsoever for reliance on such information for any purpose. Each name of a third-party organization mentioned is the property of the company to which it relates, is used here strictly for informational and identification purposes only and is not used to imply any ownership or license rights between any such company and Goldman Sachs.\n\nA transcript is provided for convenience and may differ from the original video or audio content. Goldman Sachs is not responsible for any errors in the transcript. This material should not be copied, distributed, published, or reproduced in whole or in part or disclosed by any recipient to any other person without the express written consent of Goldman Sachs.\n\nDisclosures applicable to research with respect to issuers, if any, mentioned herein are available through your Goldman Sachs representative or at ⁠http://www.gs.com/research/hedge.html⁠\n\nGoldman Sachs does not endorse any candidate or any political party.\n\nCopyright 2026. All rights reserved.",
+    "published": "2026-06-17",
+    "week": "2026-W25",
+    "video_id": "PMszCn78MfU",
+    "episode_url": "https://www.youtube.com/watch?v=PMszCn78MfU",
+    "type": "youtube",
+    "duration_secs": null,
+    "transcript_length": 2458,
+    "speaker": "Daan Struyven — co-head of global commodities research and head of oil research, Goldman Sachs Research",
+    "one_line_summary": "Oil prices are expected to fall further due to the US-Iran deal, but may not return to pre-war levels for some time.",
+    "summary": [
+      "Goldman Sachs Research's Daan Struyven expects oil prices to fall further following the US-Iran deal. However, oil is unlikely to return to pre-war levels for some time due to lingering effects from the conflict, persistently low inventory levels, and the possibility that the Strait of Hormuz never fully reopens.",
+      "Goldman Sachs Research projects Brent oil will average $75 per barrel next year, down from about $80 at the time the podcast was recorded."
+    ],
+    "key_themes": [
+      "US-Iran deal",
+      "Oil prices",
+      "Global commodities"
+    ],
+    "market_signals": [
+      "Oil prices are expected to fall further.",
+      "Brent oil will average $75 per barrel next year.",
+      "Oil is unlikely to return to pre-war levels for some time.",
+      "Lingering effects from the conflict and persistently low inventory levels are risks to oil prices.",
+      "The possibility that the Strait of Hormuz never fully reopens is a risk to oil prices."
+    ],
+    "framework_insights": [
+      "The market is missing the potential for lingering effects from the conflict to impact oil prices.",
+      "The Strait of Hormuz's reopening status is a key factor in determining oil prices.",
+      "Persistently low inventory levels can impact oil prices."
+    ],
+    "market_relevance": "This matters for investors and markets right now as it affects oil prices and global commodities."
+  },
+  {
+    "id": "b36c47f1cf088612ffa3fc7e16b7b8b9",
+    "source_id": "odd_lots",
+    "source_name": "Odd Lots",
+    "source_org": "Bloomberg",
+    "source_color": "#06b6d4",
+    "title": "The Iran War’s Lasting Scars Across Asia",
+    "description": "<p><em> </em>An interim deal to reopen the Strait of Hormuz offers relief, but Asia&rsquo;s economic woes are far from over. Beyond the chokepoint, the conflict has forced long-lasting shifts in Asia&rsquo;s food and energy flows.<br /><br />On today&rsquo;s Big Take Asia podcast, Oanh Ha joins Odd Lots co-hosts Tracy Alloway and Joe Weisenthal to discuss why Asia is reeling from the conflict and what the &ldquo;new normal&rdquo; looks like for global supply chains.</p> <p>Only <a href=\"http://bloomberg.com/\">Bloomberg - Business News, Stock Markets, Finance, Breaking &amp; World News</a> subscribers can get the Odd Lots newsletter in their inbox each week, plus unlimited access to the site and app. Subscribe at&nbsp; <a href=\"https://www.bloomberg.com/subscriptions/oddlots?in_source=oddlotspodcast\">bloomberg.com/subscriptions/oddlots</a></p> <p><a href=\"http://bloomberg.com/subscriptions/oddlots\">Subscribe to the Odd Lots Newsletter</a><br /><strong>Join the conversation:</strong> <a href=\"https://discord.gg/oddlots\">discord.gg/oddlots</a></p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
+    "published": "2026-06-16",
+    "week": "2026-W25",
+    "audio_url": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/bd6581ca-5dff-41c1-b4c5-b46b01441d87/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
+    "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/bd6581ca-5dff-41c1-b4c5-b46b01441d87/transcript?format=TextWithTimestamps&t=1781638970",
+    "episode_url": "https://omny.fm/shows/odd-lots/the-iran-war-s-lasting-scars-across-asia",
+    "type": "podcast",
+    "duration_secs": 1204,
+    "transcript_length": 18636,
+    "speaker": "Tracey Allyway — co-host, Odd Lots podcast",
+    "one_line_summary": "The Iran-US conflict has caused lasting scars across Asia, with countries struggling to cope with soaring fuel prices and supply chain disruptions.",
+    "summary": "The US and Iran have reached an interim deal to reopen the Strait of Hormuz, but the structural shifts caused by the conflict have fundamentally changed businesses across Asia. The resulting pressure on food and energy supplies and prices isn't going away anytime soon. Wealthier countries like the US and Japan have opted to drain their stockpiles of crude oil, while poorer countries are turning to demand destruction by encouraging industries and consumers to use less.",
+    "key_themes": [
+      "Iran-US conflict",
+      "Strait of Hormuz",
+      "Fuel prices"
+    ],
+    "market_signals": [
+      "Oil prices have plummeted down after the US and Iran reached a deal to reopen the Strait of Hormuz.",
+      "Demand for oil from China has fallen by 9%.",
+      "The US is now getting close to its operational minimum of 250 million barrels in the Strategic Petroleum Reserve.",
+      "The US dollar is strengthening, which is not good for emerging Asian economies.",
+      "The price of gas in Hong Kong has increased by 15% since the Iran war began, and diesel prices have jumped by 50%"
+    ],
+    "framework_insights": [
+      "The conflict highlights a structural vulnerability in the global economy, where wealthy countries can afford to absorb the sticker shock at the pump, while poorer countries struggle to cope.",
+      "The US can only offset the pain of higher prices for so long before it runs out of options.",
+      "The strength of the dollar is real, but it's being swamped by the spending on AI infrastructure.",
+      "The persistent closure of the Strait of Hormuz might intersect with the helium supply, which is crucial for advanced semiconductor manufacturing.",
+      "Prolonged inflation across Asia will put pressure on the Bank of Japan to hike interest rates."
+    ],
+    "market_relevance": "This matters for investors and markets right now because the conflict has caused lasting scars across Asia, and the resulting pressure on food and energy supplies and prices will continue to impact the global economy."
+  },
+  {
     "id": "8dd7e69d9493cdec0ffce6167be2c702",
     "source_id": "odd_lots",
     "source_name": "Odd Lots",
