@@ -1,5 +1,45 @@
 [
   {
+    "id": "b4f7b1fb4a3fae5e60f5d558d3d9a430",
+    "source_id": "odd_lots",
+    "source_name": "Odd Lots",
+    "source_org": "Bloomberg",
+    "source_color": "#06b6d4",
+    "title": "How Substack Creators Are Covering This Strange Markets Era",
+    "description": "<p>We closed out our New York live show on May 28 with a panel that featured three of our favorite Substackers: James van Geelen of Citrini Research, Sam Ro, founder of The TKer, and journalist Jasmine Sun. They've all been <em>Odd Lots</em> guests before, and we wanted to get them together to discuss how journalists and analysts are supposed to cover this incredibly strange and highly pressurized moment in markets. Not only has AI basically infected every corner of the world, the media included, but there's just so much news that it's sometimes hard to figure out what the focus should be. But James, Sam, and Jasmine have all found their own niches, and cover AI in a really unique way. This panel discussion debates how the media has covered fears over the AI bubble and the possibility of mass job loss, if people in Silicon Valley are scared about the future of society, if AI can really mimic a writer's voice and personality, and (if they can) how writers can hedge against that future.</p> <p>Read more:<br /><a href=\"https://www.bloomberg.com/news/articles/2026-06-18/amazon-is-in-talks-to-sell-nvidia-rival-chips-to-other-companies?utm_medium=referral&amp;utm_source=podcast&amp;utm_campaign=odd_lots&amp;utm_content=article\">Amazon in Talks to Sell Custom AI Chips in Bid to Undercut Nvidia</a><br /><a href=\"https://www.bloomberg.com/news/articles/2026-06-18/ai-company-dream-triples-value-to-3-billion-in-funding-round?utm_medium=referral&amp;utm_source=podcast&amp;utm_campaign=odd_lots&amp;utm_content=article\">AI Company Dream Triples Value to $3 Billion in Funding Round</a></p> <p>Only <a href=\"http://Bloomberg.com\">http://Bloomberg.com</a> subscribers can get the Odd Lots newsletter in their inbox each week, plus unlimited access to the site and app. Subscribe at&nbsp; <a href=\"https://www.bloomberg.com/subscriptions/oddlots?in_source=oddlotspodcast\">bloomberg.com/subscriptions/oddlots</a></p> <p><a href=\"http://bloomberg.com/subscriptions/oddlots\">Subscribe to the Odd Lots Newsletter</a><br /><strong>Join the conversation:</strong> <a href=\"https://discord.gg/oddlots\">discord.gg/oddlots</a></p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
+    "published": "2026-06-20",
+    "week": "2026-W25",
+    "audio_url": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/af2e1113-d234-4b94-89ce-b46d0139fa3f/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
+    "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/af2e1113-d234-4b94-89ce-b46d0139fa3f/transcript?format=TextWithTimestamps&t=1781809876",
+    "episode_url": "https://omny.fm/shows/odd-lots/how-substack-creators-are-covering-this-strange-markets-era",
+    "type": "podcast",
+    "duration_secs": 1874,
+    "transcript_length": 33544,
+    "speaker": "",
+    "one_line_summary": "AI's impact on job markets and society is a pressing concern, with potential benefits and risks.",
+    "summary": "The discussion centered around AI's influence on job markets and society. James van Gelan, founder of Satrini Research, has written about the potential for AI to displace jobs, while Jasmine, a Substack writer, focuses on the cultural and societal implications of AI. Sam, author of the 't kre' newsletter, emphasized the importance of understanding the risks and benefits of AI, including its potential to create new jobs and improve productivity. The guests also discussed the need for a more nuanced conversation about AI's impact, moving beyond the 'AI will take all our jobs' narrative.",
+    "key_themes": [
+      "AI's impact on job markets",
+      "societal implications of AI",
+      "need for nuanced conversation"
+    ],
+    "market_signals": [
+      "AI is impacting people's lives, whether they want to or not, with questions about the intersection of AI and politics, affordability, parenting, and education.",
+      "The majority of AI media has focused on the business and technology community, neglecting the broader public's concerns.",
+      "AI will likely create new jobs and improve productivity, but the transition period may be challenging.",
+      "The economy stops working when no one has jobs and no income, making the promise of AI's productivity gains meaningless.",
+      "The pace of AI's development is a concern, with potential risks of misalignment and job displacement."
+    ],
+    "framework_insights": [
+      "The history of technological advancements has shown that they often lead to positive outcomes, but the pace of AI's development is unprecedented.",
+      "The safety and alignment of AI models are crucial for their economic utility and potential benefits.",
+      "The economy's ability to adapt to technological changes is essential for its continued growth and prosperity.",
+      "The conversation around AI's impact should focus on the benefits and risks, rather than just the potential job displacement.",
+      "The intersection of AI and societal factors, such as politics and affordability, is a critical area of discussion."
+    ],
+    "market_relevance": "This discussion highlights the need for investors and market participants to understand the complex implications of AI on job markets and society, and to consider the potential risks and benefits of this technology."
+  },
+  {
     "id": "8aac564284bf54b7442bc4d13f78f7bc",
     "source_id": "odd_lots",
     "source_name": "Odd Lots",
