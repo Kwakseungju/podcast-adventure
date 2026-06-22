@@ -1,5 +1,84 @@
 [
   {
+    "id": "3b705194c12d8f9080646ff48f62e749",
+    "source_id": "odd_lots",
+    "source_name": "Odd Lots",
+    "source_org": "Bloomberg",
+    "source_color": "#06b6d4",
+    "title": "Grace Shao on What the World Should Know About Chinese AI",
+    "description": "<p>China's AI industry has changed a lot since DeepSeek released its cheap frontier model last year, and briefly sent US tech stocks falling. After being locked out of the most advanced chips, Chinese companies are now allowed to buy some Nvidia H200s. In fact, many of the big Chinese tech companies &mdash; like Baidu &mdash; are making a push to become full-stack players, with their own chips, models, and cloud infrastructure. Today's guest is Grace Shao, an independent AI researcher and the author of the AI Proem Substack. She's a bit of an insider when it comes to China's AI industry, and when we were in Hong Kong we spoke with her about the latest in open-source models, the competition among Chinese frontier labs, DeepSeek's place in an increasingly crowded Chinese AI market, China's manufacturing edge, where bottlenecks exist right now (spoiler: it isn't data centers), if Chinese grandmas are actually using OpenClaw, and finally, of course, AI psychosis.</p> <p>Read More:<br /><a href=\"https://www.bloomberg.com/news/articles/2026-06-18/china-s-ai-race-spurs-emergence-of-winner-laggard-pair-trade?utm_medium=referral&amp;utm_source=podcast&amp;utm_campaign=odd_lots&amp;utm_content=article\">China AI Lab&rsquo;s 170% Stock Surge Cements Winner-Loser Pair Trade</a> <br /><a href=\"https://www.bloomberg.com/news/articles/2026-06-17/china-plans-mechanism-to-evaluate-ai-impacts-on-job-market?utm_medium=referral&amp;utm_source=podcast&amp;utm_campaign=odd_lots&amp;utm_content=article\">China Plans Mechanism to Evaluate AI Impacts on Job Market</a></p> <p>Only <a href=\"http://Bloomberg.com\">http://Bloomberg.com</a> subscribers can get the Odd Lots newsletter in their inbox each week, plus unlimited access to the site and app. Subscribe at&nbsp; <a href=\"https://www.bloomberg.com/subscriptions/oddlots?in_source=oddlotspodcast\">bloomberg.com/subscriptions/oddlots</a></p> <p><a href=\"http://bloomberg.com/subscriptions/oddlots\">Subscribe to the Odd Lots Newsletter</a><br /><strong>Join the conversation:</strong> <a href=\"https://discord.gg/oddlots\">discord.gg/oddlots</a></p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
+    "published": "2026-06-22",
+    "week": "2026-W26",
+    "audio_url": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/ec8ef41e-9021-43ba-a6fb-b46d013a0fc5/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
+    "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/ec8ef41e-9021-43ba-a6fb-b46d013a0fc5/transcript?format=TextWithTimestamps&t=1781809943",
+    "episode_url": "https://omny.fm/shows/odd-lots/grace-shao-on-what-the-world-should-know-about-chinese-ai",
+    "type": "podcast",
+    "duration_secs": 3064,
+    "transcript_length": 52067,
+    "speaker": "Grace Shao — Independent Researcher",
+    "one_line_summary": "Chinese AI models are open source due to a pragmatic business reason to build trust and credibility with Western companies.",
+    "summary": "The Chinese AI ecosystem is characterized by open-source models, which was initially driven by a pragmatic business reason to build trust and credibility with Western companies. This has led to a strong open-source ecosystem, where labs integrate each other's breakthroughs. However, the culture has shifted since the Deep Seek moment, with increased competition and a focus on capturing market share. The labs are now competing with each other to capture developer mind share and market share, with some focusing on specific verticals such as coding capabilities or multimodality.",
+    "key_themes": [
+      "Open-source models",
+      "Chinese AI ecosystem",
+      "Competition"
+    ],
+    "market_signals": [
+      "Chinese AI models are open source.",
+      "The Deep Seek model was delayed for 3-4 months to re-engineer inference onto Huawei.",
+      "Minimax is a $20 billion company in US dollar terms.",
+      "Chinese labs are focusing on different verticals to capture market share.",
+      "The Chinese VC space has been less vibrant since the internet crackdown."
+    ],
+    "framework_insights": [
+      "The Chinese AI ecosystem is driven by a pragmatic business reason to build trust and credibility with Western companies.",
+      "The culture in the Chinese AI ecosystem has shifted since the Deep Seek moment, with increased competition and a focus on capturing market share.",
+      "The labs in the Chinese AI ecosystem are competing with each other to capture developer mind share and market share.",
+      "The Chinese AI ecosystem is characterized by a strong open-source ecosystem, where labs integrate each other's breakthroughs.",
+      "The Chinese labs are facing constraints such as compute, talent, and capital constraints, which are driving their focus on specific verticals."
+    ],
+    "market_relevance": "This matters for investors and markets right now because it highlights the differences in the Chinese AI ecosystem compared to the US, and the potential for Chinese companies to capture market share in the AI space."
+  },
+  {
+    "id": "75efc6101b812ae2f9b45085a0cdde65",
+    "source_id": "capital_allocators",
+    "source_name": "Capital Allocators",
+    "source_org": "Ted Seides",
+    "source_color": "#f43f5e",
+    "title": "Abigail Wattley – Inside the $4.5B Williams Endowment | Capital Allocators EP.507",
+    "description": "Abigail Wattley is the Chief Investment Officer of Williams College, where she oversees the $4.5 billion endowment. She's one of the rare CIOs who rose entirely from within — joining the Williams Investment Office as an analyst in 2007 when it was newly formed, and succeeding founding CIO Collette Chilton in 2023 after nearly two decades inside the office.\n\nTed and Abigail trace that twenty-year path: writing her own job description, learning the asset classes nobody else wanted, and the tension between honoring an institution's history and putting her own stamp on a $4.5B portfolio. They cover hedge funds and why they're still 27% of the book, private markets, liquidity management against a 5% annual spend, real assets, building and developing the team, and where AI fits.\n\nChapters:\n00:00 Introduction\n00:10 From Williams undergrad to the investment office\n01:45 Twenty years of learning inside the office\n03:33 The asset classes nobody wanted\n09:05 How Collette Chilton let her make mistakes\n11:29 Earning the right to win as an LP\n14:19 The CIO transition and internal succession\n18:14 Building a team with outside perspectives\n22:45 Hedge funds: still 27% of the book\n25:40 Private market liquidity and the spending math\n31:46 Bonds and real assets, revisited\n36:19 Mistakes coming into the CIO seat\n38:50 Running a 7-person team and the analyst program\n45:07 Where AI fits in the portfolio\n50:42 What success looks like\n52:32 Closing questions\n\n—\nEditing and post-production by The Podcast Consultant: https://thepodcastconsultant.com\n\nFollow Ted on Twitter/X: https://twitter.com/tseides\nFollow Ted on LinkedIn: https://www.linkedin.com/in/tedseides/\nSubscribe to the mailing list: https://capitalallocators.com/\nAccess the transcript with Premium Membership: https://capitalallocators.com/signup",
+    "published": "2026-06-22",
+    "week": "2026-W26",
+    "video_id": "DUYNbOYaFds",
+    "episode_url": "https://www.youtube.com/watch?v=DUYNbOYaFds",
+    "type": "youtube",
+    "duration_secs": null,
+    "transcript_length": 1813,
+    "speaker": "Abigail Wattley — Chief Investment Officer of Williams College",
+    "one_line_summary": "Abigail Wattley, CIO of Williams College, shares her 20-year journey from analyst to leading a $4.5 billion endowment.",
+    "summary": "Abigail Wattley joined the Williams Investment Office as an analyst in 2007 and succeeded founding CIO Collette Chilton in 2023. She oversees the $4.5 billion endowment and has a unique perspective on asset classes, hedge funds, and private markets. Abigail emphasizes the importance of learning from mistakes and earning the right to win as an LP.",
+    "key_themes": [
+      "Asset Classes",
+      "Hedge Funds",
+      "Private Markets"
+    ],
+    "market_signals": [
+      "Hedge funds still make up 27% of the endowment's portfolio.",
+      "The endowment spends 5% annually.",
+      "Abigail's team is 7 people, including herself.",
+      "The endowment has a 20-year history of learning and growth.",
+      "Abigail's team is building and developing the analyst program."
+    ],
+    "framework_insights": [
+      "Learning from mistakes is essential for growth and success.",
+      "Earning the right to win as an LP is crucial in private markets.",
+      "A 20-year history of learning and growth can provide valuable insights.",
+      "Building a team with outside perspectives is essential for success.",
+      "Mistakes coming into the CIO seat can be valuable learning experiences."
+    ],
+    "market_relevance": "Abigail's insights on asset classes, hedge funds, and private markets are relevant for investors looking to optimize their portfolios and navigate the complexities of the endowment market."
+  },
+  {
     "id": "b4f7b1fb4a3fae5e60f5d558d3d9a430",
     "source_id": "odd_lots",
     "source_name": "Odd Lots",
