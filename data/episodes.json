@@ -1,5 +1,45 @@
 [
   {
+    "id": "d4cac7e72006928f1ddd5cdcf71117c9",
+    "source_id": "odd_lots",
+    "source_name": "Odd Lots",
+    "source_org": "Bloomberg",
+    "source_color": "#06b6d4",
+    "title": "How Lenovo's CFO Is Allocating Capital During One of History's Biggest Booms",
+    "description": "<p>We know that companies around the world are investing heavily in AI. So intense is the race to win the AI battle, that it feels like there's almost no upward limit on how much you could spend on it. So how are CFOs thinking about capex in the AI age? In this episode we speak with Winston Cheng, CFO of Chinese-founded multinational tech firm Lenovo. Lenovo is known for its personal computers, especially its Thinkpad line of laptops, but they are making a push to move beyond its role as one of the leaders in personal computing, integrating AI agents into their devices and investing in building out an &ldquo;AI Cloud&rdquo; infrastructure alongside Nvidia. We talk to Cheng about how Lenovo's allocating capital during one of the biggest capex booms in history. We also discuss involution and market competition in China, and how Lenovo's been adapting its supply chain to tariffs.</p> <p>Read more:<br /><a href=\"https://www.bloomberg.com/news/articles/2026-06-25/ai-demand-begins-to-justify-massive-cost-of-data-center-buildout?utm_medium=referral&amp;utm_source=podcast&amp;utm_campaign=odd_lots&amp;utm_content=article\">AI Sales Start to Justify Data-Center Spending Boom, Report Says</a><br /><a href=\"https://www.bloomberg.com/news/articles/2026-06-24/anthropic-accuses-alibaba-of-illicitly-accessing-its-ai-models?utm_medium=referral&amp;utm_source=podcast&amp;utm_campaign=odd_lots&amp;utm_content=article\">Anthropic Accuses Alibaba of &lsquo;Illicitly&rsquo; Accessing AI Models</a></p> <p>Only <a href=\"http://bloomberg.com/\">Bloomberg - Business News, Stock Markets, Finance, Breaking &amp; World News</a> subscribers can get the Odd Lots newsletter in their inbox each week, plus unlimited access to the site and app. Subscribe at&nbsp; <a href=\"https://www.bloomberg.com/subscriptions/oddlots?in_source=oddlotspodcast\">bloomberg.com/subscriptions/oddlots</a></p> <p><a href=\"http://bloomberg.com/subscriptions/oddlots\">Subscribe to the Odd Lots Newsletter</a><br /><strong>Join the conversation:</strong> <a href=\"https://discord.gg/oddlots\">discord.gg/oddlots</a></p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
+    "published": "2026-06-27",
+    "week": "2026-W26",
+    "audio_url": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/b1fa9369-e153-4071-8b62-b47400f4a30f/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
+    "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/b1fa9369-e153-4071-8b62-b47400f4a30f/transcript?format=TextWithTimestamps&t=1782399317",
+    "episode_url": "https://omny.fm/shows/odd-lots/how-lenovos-cfo-is-allocating-capital-during-one-of-historys-biggest-booms",
+    "type": "podcast",
+    "duration_secs": 3372,
+    "transcript_length": 54986,
+    "speaker": "Winston Chang — CFO, Lenovo",
+    "one_line_summary": "Lenovo's CFO allocates capital during one of history's biggest booms, emphasizing the importance of return on investment and productivity gains from AI adoption.",
+    "summary": "Lenovo's CFO, Winston Chang, discussed the company's AI play and its implications for capital allocation. Chang emphasized the need for a return on investment and productivity gains from AI adoption. He highlighted the importance of tracking token spend and measuring its impact on business outcomes. Chang also mentioned the potential for AI to optimize various business functions, such as data spend, inventory management, and marketing.",
+    "key_themes": [
+      "AI adoption",
+      "Capital allocation",
+      "Productivity gains"
+    ],
+    "market_signals": [
+      "An engineer at a company spent $100 million a month on tokens, which is not in the budget.",
+      "Lenovo is well-positioned for inferencing needs of the enterprise and hyperscalers in terms of cloud computing.",
+      "The company is exploring ways to optimize token spend and measure its impact on business outcomes.",
+      "AI can optimize various business functions, such as data spend, inventory management, and marketing.",
+      "Lenovo is integrating AI into its devices and cloud infrastructure."
+    ],
+    "framework_insights": [
+      "AI adoption is in the early stages, and companies are still figuring out how to track and measure its impact on business outcomes.",
+      "The return on investment is key to justifying AI adoption and capital allocation.",
+      "AI can optimize various business functions, such as data spend, inventory management, and marketing.",
+      "Companies need to be open to the possibility that AI can deliver significant productivity gains and cost savings.",
+      "The token spend is a key metric to track and measure the impact of AI adoption."
+    ],
+    "market_relevance": "This discussion highlights the importance of AI adoption and its implications for capital allocation and productivity gains. It matters for investors and markets right now as companies continue to explore ways to optimize their AI spend and measure its impact on business outcomes."
+  },
+  {
     "id": "b7e46f910a0af3536cbddc64c93a7f95",
     "source_id": "odd_lots",
     "source_name": "Odd Lots",
@@ -73,6 +113,37 @@
       "The conversation highlights the importance of technical analysis in understanding market trends."
     ],
     "market_relevance": "This matters for investors as it provides insight into the current market action and potential drivers of the rally, which can inform investment decisions."
+  },
+  {
+    "id": "f106654f6a2ed5996424091dc14ed18c",
+    "source_id": "goldman_sachs",
+    "source_name": "Goldman Sachs",
+    "source_org": "Goldman Sachs",
+    "source_color": "#3b82f6",
+    "title": "Emma Grede on Building Iconic Brands and the Inspiration Behind 'Start with Yourself'",
+    "description": "Emma Grede has redefined the modern consumer brand landscape, emerging as a global leader in fashion and lifestyle as the co-founder and CEO of Good American, founding partner of SKIMS and co-founder of Off Season. In a discussion with Kim Posnett, global co-head of Investment Banking at Goldman Sachs, Grede details her journey from East London to becoming one of America’s wealthiest self-made women. During the session, she shares insights from her new book, Start With Yourself, emphasizing the importance of financial fluency for women and explaining how a commitment to authenticity has fueled her success as a serial entrepreneur. \n\nThis episode was recorded on April 14, 2026.   \nThe opinions and views expressed herein are as of the date of publication, subject to change without notice, and may not necessarily reflect the institutional views of Goldman Sachs or its affiliates. The material provided is intended for informational purposes only, and does not constitute investment advice, a recommendation from any Goldman Sachs entity to take any particular action, or an offer or solicitation to purchase or sell any securities or financial products. This material may contain forward-looking statements. Past performance is not indicative of future results. Neither Goldman Sachs nor any of its affiliates make any representations or warranties, express or implied, as to the accuracy or completeness of the statements or information contained herein and disclaim any liability whatsoever for reliance on such information for any purpose. Each name of a third-party organization mentioned is the property of the company to which it relates, is used here strictly for informational and identification purposes only and is not used to imply any ownership or license rights between any such company and Goldman Sachs.\n\nA transcript is provided for convenience and may differ from the original video or audio content. Goldman Sachs is not responsible for any errors in the transcript. This material should not be copied, distributed, published, or reproduced in whole or in part or disclosed by any recipient to any other person without the express written consent of Goldman Sachs.\n\nDisclosures applicable to research with respect to issuers, if any, mentioned herein are available through your Goldman Sachs representative or at ⁠http://www.gs.com/research/hedge.html⁠\n\nGoldman Sachs does not endorse any candidate or any political party.\n\nCopyright 2026. All rights reserved.",
+    "published": "2026-06-26",
+    "week": "2026-W26",
+    "video_id": "UHnGBmr8PUc",
+    "episode_url": "https://www.youtube.com/watch?v=UHnGBmr8PUc",
+    "type": "youtube",
+    "duration_secs": null,
+    "transcript_length": 2488,
+    "speaker": "",
+    "one_line_summary": "Emma Grede shares insights from her new book, Start With Yourself, emphasizing the importance of financial fluency for women and explaining how a commitment to authenticity has fueled her success as a serial entrepreneur.",
+    "summary": "Emma Grede has redefined the modern consumer brand landscape as the co-founder and CEO of Good American, founding partner of SKIMS, and co-founder of Off Season. She shares her journey from East London to becoming one of America's wealthiest self-made women. The discussion focuses on her new book, Start With Yourself, highlighting the importance of financial fluency for women and the role of authenticity in her success.",
+    "key_themes": [
+      "Authenticity",
+      "Financial Fluency",
+      "Entrepreneurship"
+    ],
+    "market_signals": [],
+    "framework_insights": [
+      "A commitment to authenticity has fueled success as a serial entrepreneur.",
+      "Financial fluency is crucial for women's success.",
+      "The importance of authenticity in business and personal life."
+    ],
+    "market_relevance": "This discussion highlights the importance of authenticity and financial fluency in business and personal life, which is relevant for investors and entrepreneurs looking to build successful and sustainable brands."
   },
   {
     "id": "1a69307086a9c53f6528de42724f5c88",
