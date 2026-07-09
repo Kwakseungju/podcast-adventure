@@ -1,5 +1,116 @@
 [
   {
+    "id": "a3b72374e75c7c2d9a6aa172611593eb",
+    "source_id": "odd_lots",
+    "source_name": "Odd Lots",
+    "source_org": "Bloomberg",
+    "source_color": "#06b6d4",
+    "title": "One of the World's Largest Hedge Funds on Its 86x Growth in Token Spending",
+    "description": "<p>We've gone through a number of a technological revolutions in investing, whether it was the dawn of the high frequency trading era or the introduction of robotraders. When it comes to AI, the big question that remains in the investment context is whether or not the technology will be implemented like those past tech innovations &mdash; meaning it will be integrated into the flow of the business without upending everything as we know it &mdash; or if AI will transform the very nature of investing. Right now, AI's use in investing is a mixed bag: People are excited about its potential, but several firms are still trying to figure out its value. Today, we speak with Man Group's CTO Gary Collier and Head of Data and AI Tushara Fernando about how one of the largest publicly-traded hedge funds in the world is actually implementing AI into its work. We speak with them about empowering their quants with AI tools, the challenge of integrating AI safely, and the creative ways their staff is thinking about token spending, which is up 86-fold this year.</p> <p><br />Only Bloomberg.com subscribers can get the Odd Lots newsletter in their inbox &mdash; plus unlimited access to the site and app. Sign up here: <a href=\"https://www.bloomberg.com/subscriptions/oddlots?in_source=oddlotspodcast\">bloomberg.com/subscriptions/oddlots</a></p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
+    "published": "2026-07-09",
+    "week": "2026-W28",
+    "audio_url": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/ee665e22-5abb-4981-a58d-b481016ff97e/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
+    "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/ee665e22-5abb-4981-a58d-b481016ff97e/transcript?format=TextWithTimestamps&t=1783549461",
+    "episode_url": "https://omny.fm/shows/odd-lots/one-of-the-worlds-largest-hedge-funds-on-its-86x-growth-in-token-spending",
+    "type": "podcast",
+    "duration_secs": 3149,
+    "transcript_length": 48627,
+    "speaker": "Gary Collier — CTO, Man Group",
+    "one_line_summary": "Man Group's use of AI is augmenting research and improving efficiency across all roles, from discretionary to systematic investing.",
+    "summary": "Man Group's CTO, Gary Collier, discussed the firm's use of AI in a recent podcast. He noted that AI has allowed the firm to access and synthesize various types of data, including podcasts, alternative data, and broker research reports. This has enabled portfolio managers to asynchronously receive meaningful insights, allowing them to focus on higher-level tasks. Collier also highlighted the importance of proprietary data in fine-tuning AI models, citing a recent paper by Bridgewater that demonstrated the effectiveness of combining open-source models with proprietary data.",
+    "key_themes": [
+      "AI in investing",
+      "augmenting research",
+      "efficiency"
+    ],
+    "market_signals": [
+      "AI has allowed Man Group to access and synthesize various types of data, including podcasts, alternative data, and broker research reports.",
+      "Portfolio managers can asynchronously receive meaningful insights, allowing them to focus on higher-level tasks.",
+      "Proprietary data is essential in fine-tuning AI models, as demonstrated by a recent paper by Bridgewater.",
+      "Generative AI is enabling the creation of new things, not just traditional machine learning techniques.",
+      "AI is affecting every role at Man Group, from trading to discretionary investing."
+    ],
+    "framework_insights": [
+      "AI can augment research by synthesizing various types of data, freeing up portfolio managers to focus on higher-level tasks.",
+      "Proprietary data is crucial in fine-tuning AI models, and its importance will only grow as AI becomes more prevalent.",
+      "Generative AI is a significant development, enabling the creation of new things and not just traditional machine learning techniques.",
+      "AI is a game-changer for the investment industry, offering new opportunities for efficiency and productivity.",
+      "The distinction between machine learning and AI is becoming increasingly blurred, with generative AI being a key driver of this change."
+    ],
+    "market_relevance": "Man Group's use of AI is a significant development in the investment industry, offering new opportunities for efficiency and productivity. As AI becomes more prevalent, proprietary data will become increasingly important in fine-tuning AI models."
+  },
+  {
+    "id": "54fb8ae3c5353f547b6f064642c61fc3",
+    "source_id": "view_from_apollo",
+    "source_name": "The View from Apollo",
+    "source_org": "Apollo Global Management",
+    "source_color": "#a855f7",
+    "title": "Hybrid: Rethinking Risk and Return",
+    "description": "Head of Hybrid Matt Nord shares Apollo’s view of hybrid as a risk-reward framework that can provide the flexibility to invest across the capital structure. He explains why demand for flexible capital solutions is growing and why investors are increasingly drawn to hybrid's combination of equity-like return potential and credit-like downside protection.",
+    "published": "2026-07-08",
+    "week": "2026-W28",
+    "audio_url": "https://media.blubrry.com/theviewfromapollo/ins.blubrry.com/theviewfromapollo/53_TVFA_Hybrid_Rethinking_Risk_and_Return.mp3",
+    "transcript_url": null,
+    "episode_url": "https://podcast.show/theviewfromapollo/episode/154284489/",
+    "type": "podcast",
+    "duration_secs": 1349,
+    "transcript_length": 20976,
+    "speaker": "Matt Nord — Head of Hybrid Business at Apollo Global Management",
+    "one_line_summary": "Apollo's hybrid business offers a risk-reward framework that combines equity-like returns with credit-like downside protection.",
+    "summary": "Apollo's hybrid business has grown to over $100 billion in assets under management, with a focus on long-term durable compounding and downside protection. The business has evolved to meet the needs of clients, offering a flexible framework to find the best risk-reward in any market environment. Hybrid investments are particularly relevant in today's market, where investors are looking for ways to generate equity-like returns in a more diversified and less correlated way.",
+    "key_themes": [
+      "Hybrid Business",
+      "Risk-Reward Framework",
+      "Long-Term Durable Compounding"
+    ],
+    "market_signals": [
+      "The single biggest issue confronting the private equity industry is the need for realizations, with $4 trillion in unrealized NAV across sponsor portfolios.",
+      "The global industrial renaissance and reindustrialization of the U.S. are creating opportunities for hybrid and structured capital, with numbers in the tens of trillions of dollars.",
+      "Investors are looking for ways to generate equity-like returns in a more diversified and less correlated way, with hybrid investments offering a solution.",
+      "The market is concentrated and correlated, with the MAG-7 stocks making up 35-40% of the public equity markets.",
+      "The returns on some of the spend in areas like digital infrastructure, AI, and the energy transition may be uncertain, making hybrid investments more attractive."
+    ],
+    "framework_insights": [
+      "Hybrid investments can be thought of as a risk-reward framework that combines equity-like returns with credit-like downside protection.",
+      "The focus on downside protection is key to hybrid investments, with a focus on companies with hard assets, low-obsolescence risk, and insulation from disruption.",
+      "The global industrial renaissance and reindustrialization of the U.S. are creating opportunities for hybrid and structured capital, with numbers in the tens of trillions of dollars.",
+      "Investors can use hybrid investments to stay invested in a more defensive way, generating attractive absolute returns and strong risk-adjusted returns.",
+      "The need for realizations in the private equity industry is driving demand for hybrid investments, with $4 trillion in unrealized NAV across sponsor portfolios."
+    ],
+    "market_relevance": "This matters for investors and markets right now because hybrid investments offer a solution to the need for diversified and less correlated returns, and the global industrial renaissance and reindustrialization of the U.S. are creating opportunities for hybrid and structured capital."
+  },
+  {
+    "id": "d4d24aa679abf0c43139735fcdb2c378",
+    "source_id": "capital_allocators",
+    "source_name": "Capital Allocators",
+    "source_org": "Ted Seides",
+    "source_color": "#f43f5e",
+    "title": "Adobe Is a Warning About Pricing Power",
+    "description": "Adobe as a live case study: what happens when a company keeps raising prices without raising value. Pat Dorsey on the pricing power trap — and why AI tools are the release valve. From Capital Allocators with Ted Seides. \n\nFull episode: https://youtu.be/P25Ahug2-eQ?si=CmHccImY82X1Ymtg\n#Adobe #AI",
+    "published": "2026-07-08",
+    "week": "2026-W28",
+    "video_id": "Pv9XodNE5AY",
+    "episode_url": "https://www.youtube.com/watch?v=Pv9XodNE5AY",
+    "type": "youtube",
+    "duration_secs": null,
+    "transcript_length": 295,
+    "speaker": "",
+    "one_line_summary": "Adobe serves as a live case study for the consequences of a company raising prices without increasing value.",
+    "summary": "The transcript discusses Adobe as a live case study for the consequences of a company raising prices without increasing value. Pat Dorsey is mentioned as an expert on the pricing power trap. AI tools are mentioned as a potential release valve.",
+    "key_themes": [
+      "Pricing Power",
+      "Adobe",
+      "AI"
+    ],
+    "market_signals": [],
+    "framework_insights": [
+      "Adobe serves as a live case study for the consequences of a company raising prices without increasing value.",
+      "AI tools can serve as a release valve for companies struggling with pricing power.",
+      "Pricing power can be a trap for companies that fail to increase value."
+    ],
+    "market_relevance": "This discussion highlights the importance of maintaining value when raising prices, particularly in the context of emerging technologies like AI."
+  },
+  {
     "id": "fec46a8a846689c0e61c5539e6400779",
     "source_id": "odd_lots",
     "source_name": "Odd Lots",
