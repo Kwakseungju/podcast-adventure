@@ -1,5 +1,45 @@
 [
   {
+    "id": "bd1e69bb0b2b7b4e1a95eded3a569267",
+    "source_id": "odd_lots",
+    "source_name": "Odd Lots",
+    "source_org": "Bloomberg",
+    "source_color": "#06b6d4",
+    "title": "The Korean Levered ETFs Shaking Markets All Around the World",
+    "description": "<p>Retail participation in the stock market is booming. And of course the biggest story in markets is the AI trade, which has created an incredible amount of demand for chips and memory. These two broad themes have come together in the form of leveraged, single-stock ETFs. And while these products are popular in the US, the scale coming out of Korea is enormous. It's a good week to talk about this intersection, because some of the biggest stories of the week include Samsung's earnings and SK Hynix's new US listing. Barclays's Global Head of Equities Tactical Strategies Alexander Altmann has used the word &ldquo;terrifying&rdquo; to describe the amount of notional exposure coming from these levered ETFs. He explains to us why that is and we talk to him about why, in such a short period of time, the world of levered ETFs has gotten to be so large, with AUM increasing threefold in Asia alone. He also us gets into how he is thinking through risk management and how we as society &mdash; and retail investors in particular &mdash; got to be overexposed on equities and why that keeps him up at night.</p> <p>Read: <a href=\"https://bloom.bg/4f68KA5\">SK Hynix&rsquo;s $26.5 Billion Listing Reopens Asia Route to US Market</a><br /><br />Only Bloomberg.com subscribers can get the Odd Lots newsletter in their inbox, plus unlimited access to the site and app. Sign up: <a href=\"https://www.bloomberg.com/subscriptions/oddlots?in_source=oddlotspodcast\">bloomberg.com/subscriptions/oddlots</a></p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
+    "published": "2026-07-10",
+    "week": "2026-W28",
+    "audio_url": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/59c7d65a-dfbb-447c-8ed4-b482014569c9/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
+    "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/59c7d65a-dfbb-447c-8ed4-b482014569c9/transcript?format=TextWithTimestamps&t=1783626792",
+    "episode_url": "https://omny.fm/shows/odd-lots/the-korean-levered-etfs-shaking-markets-all-around-the-world",
+    "type": "podcast",
+    "duration_secs": 2608,
+    "transcript_length": 45093,
+    "speaker": "Alex Altman — Global Head of Equities Tactical Strategies, Barkley's",
+    "one_line_summary": "Levered ETFs have grown exponentially, reaching $250-270 billion in AUM, and are creating a new short gamma dimension in the market.",
+    "summary": "The Korean market has been a major focus this week, with Samsung earnings and a US listing from SK Heinex. Levered ETFs, which have grown to $250-270 billion in AUM, are creating a new short gamma dimension in the market. This is due to the mechanics of how these products work, where the leverage is typically provided by a banking partner through swap agreements.",
+    "key_themes": [
+      "Levered ETFs",
+      "Market Gamma",
+      "Korean Market"
+    ],
+    "market_signals": [
+      "The AUM of levered ETFs has grown to $250-270 billion.",
+      "The Korean market has seen a threefold increase in AUM for levered ETFs in Asia, from $12-13 billion to $50-55 billion.",
+      "The US market has seen a significant increase in AUM for levered ETFs, from $120 billion to $200 billion.",
+      "The underlying share price of Korean stocks has a direct impact on the AUM of levered ETFs, causing big spikes in AUM.",
+      "The leverage in levered ETFs is typically provided by a banking partner through swap agreements."
+    ],
+    "framework_insights": [
+      "The growth of levered ETFs is creating a new short gamma dimension in the market.",
+      "The mechanics of levered ETFs, where leverage is provided by a banking partner through swap agreements, are creating a new dynamic in the market.",
+      "The increase in AUM for levered ETFs is not just due to inflows, but also due to price performance.",
+      "The growth of levered ETFs is not isolated to the Korean market, but is also happening in the US and other regions.",
+      "The SEC has approved all levered ETFs, and the regulator has a role in overseeing the growth of these products."
+    ],
+    "market_relevance": "The growth of levered ETFs is a significant market development that is creating new dynamics in the market, and investors should be aware of the potential risks and opportunities."
+  },
+  {
     "id": "a3b72374e75c7c2d9a6aa172611593eb",
     "source_id": "odd_lots",
     "source_name": "Odd Lots",
@@ -38,6 +78,148 @@
       "The distinction between machine learning and AI is becoming increasingly blurred, with generative AI being a key driver of this change."
     ],
     "market_relevance": "Man Group's use of AI is a significant development in the investment industry, offering new opportunities for efficiency and productivity. As AI becomes more prevalent, proprietary data will become increasingly important in fine-tuning AI models."
+  },
+  {
+    "id": "ae8c3f54481c82e0425fd6a8dbbafa9e",
+    "source_id": "credit_edge",
+    "source_name": "The Credit Edge",
+    "source_org": "Bloomberg Intelligence",
+    "source_color": "#f97316",
+    "title": "Sona’s CEO Sees ‘Exciting’ Growth in Asset-Based Finance, SRTs",
+    "description": "<p>Sona Asset Management is looking to expand its business in asset-based finance and significant risk transfers as public and private debt markets converge. &ldquo;The thing that excites us the most is the scope for growth in ABF markets here in Europe,&rdquo; Henrik Johnsson, the London-based hedge fund&rsquo;s chief executive officer, tells Bloomberg News&rsquo; James Crombie and Bloomberg Intelligence&rsquo;s Aidan Cheslin in the latest Credit Edge podcast. &ldquo;We really like SRTs, although spreads have obviously come in a lot over the last couple of years,&rdquo; Johnsson adds. They also discuss how to short corporate debt, software-loan distress, secondary sales of private credit assets and investing in the AI boom.</p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
+    "published": "2026-07-09",
+    "week": "2026-W28",
+    "audio_url": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/e74a35e9-c028-4e5f-a3f7-afb10164a717/ef21fa03-6dd0-4a7d-88bc-b482010814af/audio.mp3?utm_source=Podcast&in_playlist=8792a2e9-d66c-4038-a1fe-afb101654894",
+    "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/ef21fa03-6dd0-4a7d-88bc-b482010814af/transcript?format=TextWithTimestamps&t=1783613105",
+    "episode_url": "https://omny.fm/shows/the-credit-edge-by-bloomberg-intelligence/sona-s-ceo-sees-exciting-growth-in-asset-based-finance-srts",
+    "type": "podcast",
+    "duration_secs": 2700,
+    "transcript_length": 42243,
+    "speaker": "Henrik Johns — CEO and Partner, Sona Asset Management",
+    "one_line_summary": "Sona Asset Management's CEO, Henrik Johns, sees 'exciting' growth in asset-based finance and warns of a tougher credit cycle ahead.",
+    "summary": "Henrik Johns, CEO of Sona Asset Management, discussed the firm's growth and positioning in the credit market. Sona manages $20 billion, up from $6 billion in 2024, and has a long-short European-focused fund. Johns emphasized the importance of fundamental analysis and scale in navigating the credit market. He highlighted the potential for stress in the BSL market, driven by defaults and low recoveries, which creates opportunities for Sona's investment strategies.",
+    "key_themes": [
+      "credit market stress",
+      "BSL market defaults",
+      "fundamental analysis"
+    ],
+    "market_signals": [
+      "The BSL market has aggregate defaults at a pretty high level.",
+      "There's a 20% maturity cliff in 2028 for software companies in the leverage finance space.",
+      "The European chemical sector was one of the worst performing sectors last year, but has quickly recovered due to shifting industry dynamics.",
+      "Sona Asset Management is bearish on the software sector due to AI-driven disruption.",
+      "The software business is not like it goes away in the space of one quarter, especially for subscription-based models."
+    ],
+    "framework_insights": [
+      "Fundamental analysis and scale are crucial in navigating the credit market.",
+      "The BSL market defaults and low recoveries create opportunities for investment strategies.",
+      "Industry dynamics can shift quickly, leading to changes in sector performance.",
+      "AI-driven disruption can have a significant impact on certain sectors, such as software.",
+      "The software business has a unique characteristic of not disappearing in a short period, especially for subscription-based models."
+    ],
+    "market_relevance": "This discussion is relevant for investors and markets right now due to the potential for stress in the credit market and the impact of AI-driven disruption on certain sectors."
+  },
+  {
+    "id": "886524d7081ee826264c5694c327e914",
+    "source_id": "goldman_sachs",
+    "source_name": "Goldman Sachs",
+    "source_org": "Goldman Sachs",
+    "source_color": "#3b82f6",
+    "title": "Citadel's Ken Griffin on AI, US-China Tensions, and US Data Centers",
+    "description": "Ken Griffin, the founder and CEO of Citadel, expects agentic artificial intelligence (AI) to enable a “golden age” of entrepreneurship and eliminate some corporate moats, even as the cost of using AI creates a deep moat around other companies. And while some jobs may be replaced by technology, Griffin says he has found that productivity increases from AI have, instead of reducing headcount, allowed his company to pursue new opportunities.  \n\nGriffin shares his views on geopolitical tensions between the US and China, the need for domestic data center construction in the US, and a range of other factors rippling through global markets in this episode of Goldman Sachs Exchanges: Great Investors, recorded at Goldman Sachs's Apex Symposium. \n\nThis episode was recorded on June 2, 2026.\n\nThe opinions and views expressed herein are as of the date of publication, subject to change without notice, and may not necessarily reflect the institutional views of Goldman Sachs or its affiliates. The material provided is intended for informational purposes only, and does not constitute investment advice, a recommendation from any Goldman Sachs entity to take any particular action, or an offer or solicitation to purchase or sell any securities or financial products. This material may contain forward-looking statements. Past performance is not indicative of future results. Neither Goldman Sachs nor any of its affiliates make any representations or warranties, express or implied, as to the accuracy or completeness of the statements or information contained herein and disclaim any liability whatsoever for reliance on such information for any purpose. Each name of a third-party organization mentioned is the property of the company to which it relates, is used here strictly for informational and identification purposes only and is not used to imply any ownership or license rights between any such company and Goldman Sachs.\n\nA transcript is provided for convenience and may differ from the original video or audio content. Goldman Sachs is not responsible for any errors in the transcript. This material should not be copied, distributed, published, or reproduced in whole or in part or disclosed by any recipient to any other person without the express written consent of Goldman Sachs.\n\nDisclosures applicable to research with respect to issuers, if any, mentioned herein are available through your Goldman Sachs representative or at ⁠http://www.gs.com/research/hedge.html⁠\n\nGoldman Sachs does not endorse any candidate or any political party.\n\nViews of the interviewee do not necessarily reflect the views of Goldman Sachs. \n\nCopyright 2026. All rights reserved.",
+    "published": "2026-07-09",
+    "week": "2026-W28",
+    "video_id": "gZweef8LX7M",
+    "episode_url": "https://www.youtube.com/watch?v=gZweef8LX7M",
+    "type": "youtube",
+    "duration_secs": null,
+    "transcript_length": 2673,
+    "speaker": "Ken Griffin — Founder and CEO, Citadel",
+    "one_line_summary": "Ken Griffin expects agentic artificial intelligence to enable a 'golden age' of entrepreneurship and eliminate some corporate moats.",
+    "summary": "Ken Griffin, the founder and CEO of Citadel, shared his views on the impact of artificial intelligence (AI) on entrepreneurship and corporate moats. He believes that agentic AI will enable a 'golden age' of entrepreneurship and eliminate some corporate moats. However, the cost of using AI creates a deep moat around other companies. Griffin also discussed geopolitical tensions between the US and China, the need for domestic data center construction in the US, and other factors affecting global markets.",
+    "key_themes": [
+      "Artificial Intelligence",
+      "Entrepreneurship",
+      "Corporate Moats"
+    ],
+    "market_signals": [
+      "The cost of using AI creates a deep moat around other companies.",
+      "Productivity increases from AI have allowed Citadel to pursue new opportunities.",
+      "Some jobs may be replaced by technology, but productivity increases have not reduced headcount.",
+      "Griffin expects a 'golden age' of entrepreneurship due to agentic AI.",
+      "The need for domestic data center construction in the US is a significant factor."
+    ],
+    "framework_insights": [
+      "Agentic AI can create both opportunities and challenges for companies.",
+      "Productivity increases from AI can lead to new opportunities, not just job losses.",
+      "Geopolitical tensions between the US and China can impact global markets.",
+      "Domestic data center construction is crucial for the US economy.",
+      "The impact of AI on corporate moats is a key consideration for businesses."
+    ],
+    "market_relevance": "Griffin's views on AI, US-China tensions, and data centers are relevant for investors and markets right now due to the significant impact these factors can have on global economies and businesses."
+  },
+  {
+    "id": "38c6196504074b8b2bcecde8a4c23e9d",
+    "source_id": "capital_allocators",
+    "source_name": "Capital Allocators",
+    "source_org": "Ted Seides",
+    "source_color": "#f43f5e",
+    "title": "Why Most Fortune 500 CEOs Are Bad at Capital Allocation",
+    "description": "How does someone become CEO of a Fortune 500 company? Rarely by demonstrating capital allocation skill. Pat Dorsey on what actually gets executives promoted — and why it matters for how you evaluate management. From Capital Allocators with Ted Seides. \n\nFull episode: https://youtu.be/P25Ahug2-eQ?si=CmHccImY82X1Ymtg",
+    "published": "2026-07-09",
+    "week": "2026-W28",
+    "video_id": "USq-PdWkPe8",
+    "episode_url": "https://www.youtube.com/watch?v=USq-PdWkPe8",
+    "type": "youtube",
+    "duration_secs": null,
+    "transcript_length": 316,
+    "speaker": "",
+    "one_line_summary": "Rarely do Fortune 500 CEOs become CEOs by demonstrating capital allocation skill.",
+    "summary": "The transcript discusses how CEOs of Fortune 500 companies are promoted. It is rare for them to be promoted based on capital allocation skills. The full episode is available at https://youtu.be/P25Ahug2-eQ?si=CmHccImY82X1Ymtg.",
+    "key_themes": [
+      "Capital Allocation",
+      "CEO Promotion",
+      "Management Evaluation"
+    ],
+    "market_signals": [],
+    "framework_insights": [
+      "Executives are promoted based on factors other than capital allocation skill.",
+      "Capital allocation skill is important for evaluating management."
+    ],
+    "market_relevance": "This matters for investors as it affects how they evaluate management and make investment decisions."
+  },
+  {
+    "id": "7e9e25de789f543efc6a75a6939dd68a",
+    "source_id": "capital_allocators",
+    "source_name": "Capital Allocators",
+    "source_org": "Ted Seides",
+    "source_color": "#f43f5e",
+    "title": "Warren Buffett's Favorite Rule Doesn't Hold Up",
+    "description": "\"My favorite holding period is forever\" — Warren Buffett's most quoted line on investing. Pat Dorsey explains why that's the wrong default, and what should actually decide when you sell. From Capital Allocators with Ted Seides. \n\nFull episode: https://youtu.be/P25Ahug2-eQ?si=CmHccImY82X1Ymtg\n\n#WarrenBuffett #ValueInvesting",
+    "published": "2026-07-09",
+    "week": "2026-W28",
+    "video_id": "XRm5c7BuaJU",
+    "episode_url": "https://www.youtube.com/watch?v=XRm5c7BuaJU",
+    "type": "youtube",
+    "duration_secs": null,
+    "transcript_length": 324,
+    "speaker": "",
+    "one_line_summary": "Warren Buffett's favorite holding period rule may not be the best default.",
+    "summary": [
+      "The transcript discusses Warren Buffett's most quoted line on investing, 'My favorite holding period is forever.'",
+      "Pat Dorsey explains why this rule may not be the best default for investors.",
+      "However, the transcript does not provide specific details on what should decide when to sell."
+    ],
+    "key_themes": [
+      "Warren Buffett",
+      "Value Investing"
+    ],
+    "market_signals": [],
+    "framework_insights": [
+      "Warren Buffett's favorite holding period rule may not be the best default.",
+      "Investors should consider other factors when deciding when to sell."
+    ],
+    "market_relevance": "This discussion may be relevant for investors who follow Warren Buffett's value investing approach and are considering their holding periods."
   },
   {
     "id": "54fb8ae3c5353f547b6f064642c61fc3",
