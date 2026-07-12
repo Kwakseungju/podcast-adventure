@@ -1,5 +1,33 @@
 [
   {
+    "id": "db31beeb6e3d861923e89d029237efac",
+    "source_id": "capital_allocators",
+    "source_name": "Capital Allocators",
+    "source_org": "Ted Seides",
+    "source_color": "#f43f5e",
+    "title": "The \"I vs. We\" Red Flag in Management",
+    "description": "A one-sentence heuristic for spotting misaligned management: how they talk about the company they run. Pat Dorsey on Capital Allocators with Ted Seides. \n\nFull episode: https://youtu.be/P25Ahug2-eQ?si=CmHccImY82X1Ymtg",
+    "published": "2026-07-11",
+    "week": "2026-W28",
+    "video_id": "zO0NAFtXuRU",
+    "episode_url": "https://www.youtube.com/watch?v=zO0NAFtXuRU",
+    "type": "youtube",
+    "duration_secs": null,
+    "transcript_length": 217,
+    "speaker": "",
+    "one_line_summary": "Pat Dorsey shares a one-sentence heuristic for spotting misaligned management.",
+    "summary": "",
+    "key_themes": [
+      "misaligned management",
+      "company talk"
+    ],
+    "market_signals": [],
+    "framework_insights": [
+      "A one-sentence heuristic for spotting misaligned management: how they talk about the company they run."
+    ],
+    "market_relevance": "This matters for investors as it can help identify potential mismanagement in companies."
+  },
+  {
     "id": "bd1e69bb0b2b7b4e1a95eded3a569267",
     "source_id": "odd_lots",
     "source_name": "Odd Lots",
