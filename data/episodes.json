@@ -1,5 +1,76 @@
 [
   {
+    "id": "594e6e2288a563190c4b6d0856bc4b7c",
+    "source_id": "odd_lots",
+    "source_name": "Odd Lots",
+    "source_org": "Bloomberg",
+    "source_color": "#06b6d4",
+    "title": "NY Governor Kathy Hochul on Her One Year Data Center Moratorium",
+    "description": "<p>On July 14, New York Governor Kathy Hochul announced a one-year moratorium on new large data center projects in the state. It's the nation's first such pause at a time when anti-data center politics is on the rise around the country. But Hochul insists that she's not anti-AI, and that she's an avid user of the technology, as well as a believer that it can be a force for economic growth. On this episode, we talk to Hochul about the logic of the pause, and what she hopes it will achieve. We also discuss energy and housing stress in the state, and what it would take for New York to welcome in driverless cars.<br /><br />Read more: <a href=\"https://www.bloomberg.com/news/articles/2026-07-13/meta-s-louisiana-data-center-to-surpass-250-billion-price-tag?utm_medium=referral&amp;utm_source=podcast&amp;utm_campaign=odd_lots&amp;utm_content=article\">Meta&rsquo;s Louisiana Data Center to Surpass $250 Billion Price Tag</a><br /><br />Only <a href=\"http://bloomberg.com/\">Bloomberg - Business News, Stock Markets, Finance, Breaking &amp; World News</a> subscribers can get the Odd Lots newsletter in their inbox each week, plus unlimited access to the site and app. Subscribe at&nbsp; <a href=\"https://www.bloomberg.com/subscriptions/oddlots?in_source=oddlotspodcast\">bloomberg.com/subscriptions/oddlots</a></p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
+    "published": "2026-07-15",
+    "week": "2026-W29",
+    "audio_url": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/b0947973-da0c-4120-9104-b4870172c604/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
+    "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/b0947973-da0c-4120-9104-b4870172c604/transcript?format=TextWithTimestamps&t=1784069459",
+    "episode_url": "https://omny.fm/shows/odd-lots/ny-governor-kathy-hochul-on-her-one-year-data-center-moratorium",
+    "type": "podcast",
+    "duration_secs": 2536,
+    "transcript_length": 43140,
+    "speaker": "Governor Kathy Hochul",
+    "one_line_summary": "New York State institutes a one-year moratorium on new data centers to address energy consumption and community benefits.",
+    "summary": "Governor Kathy Hochul announced a one-year moratorium on new data centers in New York State to address energy consumption and community benefits. The moratorium aims to give the state time to develop a community investment framework to ensure that data centers contribute to the local grid and invest in the community. The governor emphasized the importance of addressing the challenges posed by data centers, including energy consumption and the need for community benefits.",
+    "key_themes": [
+      "data centers",
+      "energy consumption",
+      "community benefits"
+    ],
+    "market_signals": [
+      "The moratorium will last for one year.",
+      "Data centers require 50 megawatts of power, equivalent to 50,000 homes.",
+      "The governor wants data centers to contribute to the local grid and invest in the community.",
+      "The Public Service Commission will develop a plan to ensure data centers bring their own power or contribute to the grid.",
+      "The governor is establishing a grid resiliency fund to invest in the energy grid and transmission lines."
+    ],
+    "framework_insights": [
+      "The governor is using AI to analyze regulations and make recommendations for improvement.",
+      "The use of AI can help governments rethink their approach and become more efficient.",
+      "The governor is committed to innovation and wants to capitalize on New York's status as a hub for tech companies.",
+      "The uncertainty around AI is causing anxiety among young people and the governor is addressing this through the Future of Work Commission.",
+      "The commission is studying the positive benefits of AI and how to make students AI-competent."
+    ],
+    "market_relevance": "This moratorium and the governor's approach to data centers and AI have significant implications for investors and markets, particularly in the tech and energy sectors."
+  },
+  {
+    "id": "2a5b4a34833f6b8da1dd5710e31e86dd",
+    "source_id": "goldman_sachs",
+    "source_name": "Goldman Sachs",
+    "source_org": "Goldman Sachs",
+    "source_color": "#3b82f6",
+    "title": "Will Hyperscalers Justify AI Spend?",
+    "description": "As the AI infrastructure buildout continues at a historic pace, the monetization debate is taking center stage once again. Can hyperscalers deliver the ROI required to justify this massive capital wave?\n\nIn this month's highlight from The Macro Call, host Mark Wilson, Head of EMEA Equities Hedge Fund Coverage and Equities Franchise Sales, sits down with Rich Privorotsky, Head of EMEA Equites Flow Intermediation, to discuss the outlook for AI CapEx, concentration risks in global equities, and what Q2 earnings could reveal about the path to AI ROI. \n\nClients can access the weekly episodes on Goldman Sachs Marquee, our digital platform for institutional investors. \n\nRecorded on July 13, 2026.",
+    "published": "2026-07-15",
+    "week": "2026-W29",
+    "video_id": "mlPGrvruhfk",
+    "episode_url": "https://www.youtube.com/watch?v=mlPGrvruhfk",
+    "type": "youtube",
+    "duration_secs": null,
+    "transcript_length": 698,
+    "speaker": "",
+    "one_line_summary": "The monetization debate for AI infrastructure is taking center stage as hyperscalers face pressure to deliver ROI.",
+    "summary": [
+      "The AI infrastructure buildout continues at a historic pace, with the monetization debate taking center stage.",
+      "Hyperscalers are under pressure to deliver the required ROI to justify the massive capital wave.",
+      "The discussion will cover the outlook for AI CapEx, concentration risks in global equities, and what Q2 earnings could reveal about the path to AI ROI."
+    ],
+    "key_themes": [
+      "AI infrastructure",
+      "monetization debate",
+      "hyperscalers"
+    ],
+    "market_signals": [],
+    "framework_insights": [],
+    "market_relevance": "This matters for investors as the outcome of the AI infrastructure buildout will have significant implications for the tech sector and the broader market."
+  },
+  {
     "id": "8e8523af947872c831b48b9956566d80",
     "source_id": "odd_lots",
     "source_name": "Odd Lots",
