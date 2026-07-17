@@ -1,5 +1,45 @@
 [
   {
+    "id": "2361ed7df5bba70db0ebea29a9ed1e91",
+    "source_id": "odd_lots",
+    "source_name": "Odd Lots",
+    "source_org": "Bloomberg",
+    "source_color": "#06b6d4",
+    "title": "Lev Menand and Nathan Tankus on Why Fed Independence Is Now Hanging by a Thread",
+    "description": "<p>Last August, President Trump made the unprecedented choice of moving to fire Fed governor Lisa Cook. The administration claimed she was being terminated with cause, citing an ongoing investigation in alleged mortgage fraud committed by Cook. The legal battle between Cook and the administration has been tangled in the courts for the last year, eventually reaching the Supreme Court. This June, in a 5-4 decision, the court ruled in favor of Cook. However at the same time, in a different case, the court allowed the President to fire individual members of the FTC, undermining its role as quasi-independent body not beholden to the executive branch. So what are the implications here? How can the court change the status of a body like the FTC while allowing the Fed to continue operating as is? And for how long will the Fed maintain some amount of operational autonomy? On this episode we speak with Columbia Law School's Lev Menand who just wrote a piece on these two cases for Just Security called The Federal Reserve Exception to the&nbsp;<em>Slaughter</em> Rule as well as Nathan Tankus (writer and president of Notes on the Crises). The two of them lay out the consequences of these two decisions and they dig into the generations-long legal history, starting with Alexander Hamilton, that explains how we got here.<br /><br />Read more: <a href=\"https://www.bloomberg.com/news/articles/2026-07-02/can-trump-still-fire-lisa-cook-after-supreme-court-ruling?utm_medium=referral&amp;utm_source=podcast&amp;utm_campaign=odd_lots&amp;utm_content=article\">Can Trump Still Fire Lisa Cook After Her Supreme Court Win?</a><br /><br /></p> <p>Only Bloomberg.com subscribers can get the <em>Odd Lots</em> newsletter in their inbox now delivered every weekday plus unlimited access to the site and app.&nbsp;<a href=\"https://www.bloomberg.com/subscriptions/oddlots?in_source=oddlotspodcast\"><strong>bloomberg.com/subscriptions/oddlots</strong></a></p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
+    "published": "2026-07-17",
+    "week": "2026-W29",
+    "audio_url": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/4e48ebd0-0b41-4721-8e45-b489014fc1c7/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
+    "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/4e48ebd0-0b41-4721-8e45-b489014fc1c7/transcript?format=TextWithTimestamps&t=1784236356",
+    "episode_url": "https://omny.fm/shows/odd-lots/lev-menand-and-nathan-tankus-on-why-fed-independence-is-now",
+    "type": "podcast",
+    "duration_secs": 3948,
+    "transcript_length": 60744,
+    "speaker": "Lev Menand — Columbia Law Professor",
+    "one_line_summary": "The US Federal Reserve's independence is now hanging by a thread due to recent Supreme Court decisions.",
+    "summary": "The conversation revolves around the recent Supreme Court decisions that have impacted the Federal Reserve's independence. The guests discuss the history of the Federal Reserve and its relationship with the executive branch, citing the Humphrey's Executor decision from 1935. They also touch on the concept of 'independent monetary policy' and how it relates to the Federal Reserve's role in the economy.",
+    "key_themes": [
+      "Federal Reserve independence",
+      "Supreme Court decisions",
+      "Humphrey's Executor"
+    ],
+    "market_signals": [
+      "The Federal Reserve's independence is now hanging by a thread due to recent Supreme Court decisions.",
+      "The Supreme Court decision carved out an exception for the FED, citing its tradition going back to Alexander Hamilton.",
+      "The FED's regulatory tools look a little bit more like an agency, which could impact its independence.",
+      "The president can now fire people at the FTC or the SEC but not at the Central Bank.",
+      "The Humphrey's Executor decision from 1935 rejected President Roosevelt's attempt to remove a member of the Federal Trade Commission without cause."
+    ],
+    "framework_insights": [
+      "The concept of 'independent monetary policy' is a key factor in the Federal Reserve's role in the economy.",
+      "The Federal Reserve's independence is not just a legal concept, but also an ideological one.",
+      "The history of central banks and their relationship with the executive branch is complex and multifaceted.",
+      "The Supreme Court decisions have implications for the balance of power between the executive and legislative branches.",
+      "The Federal Reserve's regulatory tools and its relationship with the executive branch are key factors in its independence."
+    ],
+    "market_relevance": "This matters for investors and markets right now because the Federal Reserve's independence is crucial for maintaining economic stability and predictability."
+  },
+  {
     "id": "cb1c735c8a1f9d6c81a45e6d882e4ffb",
     "source_id": "odd_lots",
     "source_name": "Odd Lots",
@@ -38,6 +78,118 @@
       "Soccer analytics is a rapidly evolving field with many potential applications"
     ],
     "market_relevance": "The growing importance of soccer analytics has significant implications for the sports industry, with teams and investors seeking to leverage data to gain a competitive edge. As the field continues to evolve, we can expect to see new applications and innovations in the use of soccer analytics."
+  },
+  {
+    "id": "01f4386dd6bcb569f3602193f520b7cf",
+    "source_id": "credit_edge",
+    "source_name": "The Credit Edge",
+    "source_org": "Bloomberg Intelligence",
+    "source_color": "#f97316",
+    "title": "Bull Run in Loans Slams CLO Equity Buyers, Says Eagle Point’s Majewski",
+    "description": "<p>Collateralized loan obligations face a second straight year of equity losses, according to Eagle Point Credit Management, a major buyer. &ldquo;Where we stand right now, it&rsquo;s certainly possible,&rdquo; Tom Majewski, the $14 billion private-credit manager&rsquo;s founder and managing partner, says in this episode of the Credit Edge podcast, when asked about the chance of negative returns. &ldquo;While there were some credit problems, oddly the bigger issue was the bull market and repricing of loans,&rdquo; Majewski tells Bloomberg News&rsquo; James Crombie and Bloomberg Intelligence&rsquo;s Reto Bachmann. They also discuss software-loan stress, business-development-company turmoil, lower returns in significant risk transfers and how Eagle Point is diversifying into hard assets like midmarket infrastructure lending.</p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
+    "published": "2026-07-16",
+    "week": "2026-W29",
+    "audio_url": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/e74a35e9-c028-4e5f-a3f7-afb10164a717/195c8f19-fc33-4d13-b39f-b489012c5229/audio.mp3?utm_source=Podcast&in_playlist=8792a2e9-d66c-4038-a1fe-afb101654894",
+    "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/195c8f19-fc33-4d13-b39f-b489012c5229/transcript?format=TextWithTimestamps&t=1784226477",
+    "episode_url": "https://omny.fm/shows/the-credit-edge-by-bloomberg-intelligence/bull-run-in-loans-slams-clo-equity-buyers-says-eagle-point-s-majewski",
+    "type": "podcast",
+    "duration_secs": 2829,
+    "transcript_length": 45887,
+    "speaker": "Tom Moyevsky — Founder, Eagle Point Credit",
+    "one_line_summary": "The impact of AI on software companies will be significant, but it will take longer than expected to materialize.",
+    "summary": "Tom Moyevsky, Founder of Eagle Point Credit, discussed the impact of AI on software companies. He noted that the concerns about AI replacing software companies are fair, but the timing may be subject to question. Moyevsky drew an analogy to Amazon's IPO in 1997, which was initially met with skepticism, but ultimately proved successful. He emphasized that AI is still an additional cost for businesses, and it will take time for it to become a savings. Moyevsky also discussed the maturity wall in the CLO market, which is a common phenomenon where maturities move forward in time as the market moves forward. He noted that the difficulty with AI exposure is that it is still a new field, and people are trying to figure out what the scenario will be.",
+    "key_themes": [
+      "AI impact on software companies",
+      "Maturity wall in CLO market",
+      "Timing of AI impact"
+    ],
+    "market_signals": [
+      "Loan prices fell a lot at the start of the year as the AI story really took off.",
+      "The private credit market may refinance companies facing AI headwinds, providing them with a couple of years of runway on their debt.",
+      "Less than two or three percent of loans in our syndicated programs mature in the next eighteen months.",
+      "The market has the trend right, but the slope is far less steep in the beginning years, but may ultimately be more severe even than people are predicting.",
+      "The private credit market is larger than the syndicated market, with a market size of around two trillion dollars."
+    ],
+    "framework_insights": [
+      "The impact of AI on software companies will be significant, but it will take longer than expected to materialize.",
+      "The maturity wall in the CLO market is a common phenomenon where maturities move forward in time as the market moves forward.",
+      "The difficulty with AI exposure is that it is still a new field, and people are trying to figure out what the scenario will be.",
+      "The pace of innovation or the implementation of innovation just takes longer.",
+      "The market has a longer runway than predicted, but it's not smooth sailing for the next few years."
+    ],
+    "market_relevance": "This discussion is relevant for investors and markets right now because it highlights the potential impact of AI on software companies and the maturity wall in the CLO market. Understanding these dynamics is crucial for making informed investment decisions."
+  },
+  {
+    "id": "dcf5b33acb8a1a023d2a64a285b18942",
+    "source_id": "capital_allocators",
+    "source_name": "Capital Allocators",
+    "source_org": "Ted Seides",
+    "source_color": "#f43f5e",
+    "title": "Dambisa Moyo: What the Chevron and Starbucks Boards Taught Me About Judgment",
+    "description": "Dambisa Moyo (House of Lords; Chevron, Starbucks, Condé Nast) on the first rule of board work — anything can happen — why she reads a new boardroom like the middle of a movie, and why Chevron runs on IQ while Starbucks runs on EQ. \n\nFrom our full conversation: https://youtu.be/Drhg2aAfqxg",
+    "published": "2026-07-16",
+    "week": "2026-W29",
+    "video_id": "aPcl5hGmVJI",
+    "episode_url": "https://www.youtube.com/watch?v=aPcl5hGmVJI",
+    "type": "youtube",
+    "duration_secs": null,
+    "transcript_length": 289,
+    "speaker": "Dambisa Moyo — House of Lords; Chevron, Starbucks, Condé Nast",
+    "one_line_summary": "Dambisa Moyo shares her experience on board work, emphasizing the importance of judgment and adaptability.",
+    "summary": [
+      "Dambisa Moyo discusses the first rule of board work, which is that anything can happen. She compares reading a new boardroom to being in the middle of a movie, where one must be prepared for unexpected events.",
+      "Moyo highlights the difference between Chevron and Starbucks, stating that Chevron runs on IQ (intelligence quotient) while Starbucks runs on EQ (emotional quotient)."
+    ],
+    "key_themes": [
+      "board work",
+      "judgment",
+      "adaptability"
+    ],
+    "market_signals": [],
+    "framework_insights": [
+      "Anything can happen in a boardroom, so one must be prepared for unexpected events.",
+      "Companies can be categorized based on their reliance on IQ or EQ, with Chevron being an example of the former and Starbucks being an example of the latter."
+    ],
+    "market_relevance": "This conversation highlights the importance of adaptability and judgment in board work, which can be relevant for investors and companies looking to navigate complex and unpredictable environments."
+  },
+  {
+    "id": "91ed287ea9c611b39dbbbc180a58c210",
+    "source_id": "capital_allocators",
+    "source_name": "Capital Allocators",
+    "source_org": "Ted Seides",
+    "source_color": "#f43f5e",
+    "title": "Frank Danieli – Roadmap for Private Credit from Australia",
+    "description": "Frank Danieli, Head of Global Credit Solutions at MA Financial Group, an ASX-listed alternative asset manager that oversees A$15 billion ($10 billion) across a broad range of private credit and lending strategies and A$179 billion ($125 billion) in a lending ecosystem platform. Frank began his career in restructurings, the self-described 'dark side of credit', and has used the lessons from special situations and distressed loans to build a performing credit platform across asset backed finance, direct asset lending and corporate private credit.\n\nOur conversation discusses what global investors can learn from the model of private credit in Australia. We explore the evolution of private credit in Australia and why it developed differently from the sponsor-backed lending market in the U.S., the regulatory shift that pushed lending off bank balance sheets, the role of Australia's pension system, and MA Financial's strategy for building proprietary origination across the lending ecosystem.\n\nWe then turn to MA Financial's investment process, including the separation of investment selection from portfolio management, red teams, war games, and rigorous stress testing. Along the way, Frank shares why sourcing - not fundraising - will define long-term winners, why private credit requires diversified balance sheets, and why portfolio management and risk management are the largest sources of alpha in the asset class.\n\nChapters:\n00:00 Introduction\n00:12 From restructuring to a performing credit platform\n01:47 Why Australian private credit looks nothing like the US\n04:15 Superannuation: the $4 trillion capital base\n05:40 Building the asset manager on workout lessons\n06:50 The constraint is sourcing, not AUM\n08:50 Two cohorts: investment team vs. portfolio management\n10:52 The tension in practice: a childcare loan and a healthcare deal\n12:49 \"What you have to believe\" — knowing where a loan breaks\n13:27 Creating opportunities instead of waiting for auctions\n15:49 Units of risk and building an uncorrelated book\n17:50 Portfolio construction vs. the monoline peers\n19:16 Moral hazard: how lending discipline erodes in stages\n21:23 Growth vs. selectivity, and the cost of proprietary origination\n22:59 Acquisitions, organic builds, and the Finsure platform\n25:38 The platform today\n26:33 Going global from Australia\n28:36 Red teams\n30:19 Quarterly war games and the break-the-glass plan\n33:26 Credit risk, structure risk, and fraud risk\n35:40 \"The only certainty is uncertainty\"\n36:38 Predicting rain doesn't count — building the ark does\n39:33 Optimistically pessimistic\n41:12 Checklists and the airline pilot\n42:05 What makes war games actually work\n44:25 The opportunity set: Australia, Asia, and the US\n47:55 Advisory alongside asset management\n48:51 Life as a public company\n50:42 Ambitions for MA Financial\n51:08 The noise around private credit: disclosure and transparency\n52:42 Private credit as a long-duration asset class\n54:07 Closing questions\n\n---\n\nJoin the Capital Allocators mailing list: https://capitalallocators.com/join\nAccess the premium transcript of this episode: https://capitalallocators.com/premium\nListen on Apple Podcasts: https://podcasts.apple.com/podcast/capital-allocators/id1223764016\nFollow Ted on Twitter/X: https://twitter.com/tseides\nFollow Ted on LinkedIn: https://www.linkedin.com/in/tseides/\n\nPodcast production by The Podcast Consultant: https://thepodcastconsultant.com\n\n#PrivateCredit #AssetBackedFinance #InstitutionalInvesting #CapitalAllocators #MAFinancial",
+    "published": "2026-07-16",
+    "week": "2026-W29",
+    "video_id": "OF1pmrUIJTA",
+    "episode_url": "https://www.youtube.com/watch?v=OF1pmrUIJTA",
+    "type": "youtube",
+    "duration_secs": null,
+    "transcript_length": 3519,
+    "speaker": "Frank Danieli — Head of Global Credit Solutions at MA Financial Group",
+    "one_line_summary": "Australian private credit has developed differently from the US, driven by regulatory shifts and a large pension system.",
+    "summary": "Frank Danieli, Head of Global Credit Solutions at MA Financial Group, discussed the evolution of private credit in Australia. He noted that Australian private credit looks nothing like the US, citing regulatory shifts and a large pension system as key factors. The Australian pension system, with a $4 trillion capital base, has driven the growth of private credit in the country.",
+    "key_themes": [
+      "Australian private credit",
+      "regulatory shifts",
+      "pension system"
+    ],
+    "market_signals": [
+      "The Australian pension system has a $4 trillion capital base.",
+      "MA Financial Group oversees A$15 billion ($10 billion) across a broad range of private credit and lending strategies.",
+      "MA Financial's strategy for building proprietary origination across the lending ecosystem.",
+      "The constraint is sourcing, not AUM.",
+      "Portfolio management and risk management are the largest sources of alpha in the asset class."
+    ],
+    "framework_insights": [
+      "Sourcing, not fundraising, will define long-term winners in private credit.",
+      "Private credit requires diversified balance sheets.",
+      "Knowing where a loan breaks is crucial in private credit.",
+      "Creating opportunities instead of waiting for auctions is key in private credit.",
+      "Portfolio construction vs. the monoline peers is a key consideration in private credit."
+    ],
+    "market_relevance": "This discussion highlights the importance of understanding local market conditions and regulatory environments in private credit investing. It also underscores the need for diversified balance sheets and a focus on sourcing opportunities."
   },
   {
     "id": "594e6e2288a563190c4b6d0856bc4b7c",
