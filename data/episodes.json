@@ -1,5 +1,45 @@
 [
   {
+    "id": "d8d1abdfba88e817f92c315825c09887",
+    "source_id": "odd_lots",
+    "source_name": "Odd Lots",
+    "source_org": "Bloomberg",
+    "source_color": "#06b6d4",
+    "title": "The Creator of Claude Code on The Hottest Piece of Software in the World",
+    "description": "<p>2026 has been, in terms of software, the year everyone is talking about Claude Code. Indeed, Anthropic's coding agent incited a market scare &mdash; and helped usher in the era of vibe coding &mdash; through its promise of streamlining software development for both pros and amateurs. Famously, Claude Code began as a side project of Anthropic led by Boris Cherny, who speaks to us today about the early days of Claude Code and how he and his team approach building an agentic coding tool. We also talk about the business aims of a harness like Claude Code, safety and alignment research, the specific skillset he looks for in engineers now that code writing is a deemphasized skill, and what happens when Claude Code feels more like a co-worker than a tool.</p> <p>Read more:<br /><a href=\"https://www.bloomberg.com/news/features/2026-07-16/anthropic-and-openai-tools-transform-the-profession-of-coding?utm_medium=referral&amp;utm_source=podcast&amp;utm_campaign=odd_lots&amp;utm_content=article\">For Software Engineers, the AI Reckoning Is Already Here</a><br /><a href=\"https://www.bloomberg.com/news/articles/2026-07-15/dimon-warns-about-broad-mythos-access-calling-it-a-real-issue?utm_medium=referral&amp;utm_source=podcast&amp;utm_campaign=odd_lots&amp;utm_content=article\">Dimon Warns of Broad Mythos Access, Calling It a Real Issue</a></p> <p>Only <a href=\"http://Bloomberg.com\">http://Bloomberg.com</a> subscribers can get the Odd Lots newsletter in their inbox each week, plus unlimited access to the site and app. Subscribe at&nbsp; <a href=\"https://www.bloomberg.com/subscriptions/oddlots?in_source=oddlotspodcast\">bloomberg.com/subscriptions/oddlots</a></p> <p><a href=\"http://bloomberg.com/subscriptions/oddlots\">Subscribe to the Odd Lots Newsletter</a><br /><strong>Join the conversation:</strong> <a href=\"https://discord.gg/oddlots\">discord.gg/oddlots</a></p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
+    "published": "2026-07-20",
+    "week": "2026-W30",
+    "audio_url": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/ef32f81a-cd8d-4184-8eb6-b48a015709b4/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
+    "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/ef32f81a-cd8d-4184-8eb6-b48a015709b4/transcript?format=TextWithTimestamps&t=1784321660",
+    "episode_url": "https://omny.fm/shows/odd-lots/the-creator-of-claude-code-on-the-hottest-piece-of-software-in-the-world",
+    "type": "podcast",
+    "duration_secs": 3997,
+    "transcript_length": 74324,
+    "speaker": "Boris Journey — Head of Cloud Code at Anthropic",
+    "one_line_summary": "Cloud Code's creator discusses the rapid growth of AI-powered coding and its implications for software engineering and model safety.",
+    "summary": "The creator of Cloud Code, Boris Journey, joined the Odd Lots podcast to discuss the rapid growth of AI-powered coding and its implications for software engineering and model safety. Journey explained that Cloud Code was initially a side project at Anthropic, an AI lab focused on safety, but it has become a significant contributor to the company's business. He attributed the growth of Cloud Code to the improvement of the underlying model, Opus, which has seen several inflection points, including Opus 4.5 and Opus 4.6. Journey emphasized that Cloud Code serves multiple purposes, including learning about safety and providing a practical application of AI technology.",
+    "key_themes": [
+      "AI-powered coding",
+      "model safety",
+      "software engineering"
+    ],
+    "market_signals": [
+      "The model Opus 4.5 was released in November, and Opus 4.6 in February, which led to growth inflection points for Cloud Code.",
+      "Cloud Code's growth is attributed to the improvement of the underlying model, Opus.",
+      "The model Opus 4.5 and Opus 4.6 have seen significant growth inflection points.",
+      "Cloud Code is a big contributor to Anthropic's business.",
+      "The biggest purpose of Cloud Code is learning about safety."
+    ],
+    "framework_insights": [
+      "The growth of AI-powered coding is driven by the improvement of underlying models.",
+      "Model safety is a critical aspect of AI development, and Cloud Code provides a practical application of this technology.",
+      "The intersection of AI and software engineering is a key area of growth and innovation.",
+      "The use of public models and APIs can lead to significant growth and adoption.",
+      "Learning about safety is a key purpose of Cloud Code."
+    ],
+    "market_relevance": "The rapid growth of AI-powered coding and its implications for software engineering and model safety are highly relevant for investors and markets right now, as they indicate a significant shift in the way technology is developed and used."
+  },
+  {
     "id": "2361ed7df5bba70db0ebea29a9ed1e91",
     "source_id": "odd_lots",
     "source_name": "Odd Lots",
