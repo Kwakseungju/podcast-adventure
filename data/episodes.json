@@ -1,5 +1,79 @@
 [
   {
+    "id": "791e25da24542ed0862470143f581456",
+    "source_id": "odd_lots",
+    "source_name": "Odd Lots",
+    "source_org": "Bloomberg",
+    "source_color": "#06b6d4",
+    "title": "Why Apple Is Heading Into a Pivotal Moment",
+    "description": "<p>There used to be a time when the latest product release from Apple was a huge deal. But lately, it's been kind of 'meh,' and a lot of the hype in the tech world has been directed at companies doing things with AI. For better or worse, Apple seems to have largely missed the AI boom. But there are signs things might be changing. In addition to appointing John Ternus as the new CEO to replace Tim Cook, Apple is expected to unleash a slate of new products, including AirPods with cameras and foldable phones. Meanwhile, it's also raising prices on a bunch of its devices for the first time in its history, thanks to a shortage of memory. So can Apple recapture the hype and find new products to entice customers? In this episode we speak with Mark Gurman, managing editor for consumer tech at Bloomberg and one of the world's most prominent Apple-watchers. We talk to him about Apple's AI strategy, the origins of the OpenAI and Apple legal battle, what to expect with Ternus in the CEO seat, and when and why iPhones stopped being a sexy piece of hardware.</p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
+    "published": "2026-07-23",
+    "week": "2026-W30",
+    "audio_url": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/0d6108b3-8435-4010-9141-b48f0145a86f/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
+    "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/0d6108b3-8435-4010-9141-b48f0145a86f/transcript?format=TextWithTimestamps&t=1784749789",
+    "episode_url": "https://omny.fm/shows/odd-lots/why-apple-is-heading-into-a-pivotal-moment",
+    "type": "podcast",
+    "duration_secs": 2946,
+    "transcript_length": 51814,
+    "speaker": "Mark German — Managing Editor, Consumer Tech at Bloomberg",
+    "one_line_summary": "Apple is at a pivotal moment, with recent price increases and a changing relationship with consumers.",
+    "summary": "The hosts discuss Apple's recent price increases, which mark a departure from the decades-long trend of declining prices in the tech industry. Mark German, a Bloomberg journalist and Apple expert, joins the conversation to provide context and insights. He notes that Apple's products have become so good that consumers no longer feel the need to upgrade every two years, and that the company's focus on innovation has led to a lack of 'sexiness' in its products.",
+    "key_themes": [
+      "Apple's price increases",
+      "Changing consumer behavior",
+      "Innovation and product design"
+    ],
+    "market_signals": [
+      "Apple has raised prices on its products for the first time in its history.",
+      "The iPhone has become so good that consumers no longer feel the need to upgrade every two years.",
+      "The orange iPhone is a hot color in China, particularly among consumers who want to show off their new phone.",
+      "Tim Cook is set to leave Apple soon, and John Ternus will take over as CEO.",
+      "The new CEO will inherit an Apple company that is lacking in 'sexiness' and innovation."
+    ],
+    "framework_insights": [
+      "The concept of 'sexiness' in product design is a key factor in driving consumer behavior and sales.",
+      "The trend of declining prices in the tech industry is reversing, and companies like Apple are responding by raising prices.",
+      "The importance of innovation and product design in driving consumer loyalty and sales.",
+      "The role of cultural and social factors, such as the popularity of certain colors in China, in shaping consumer behavior.",
+      "The impact of leadership changes on company culture and direction."
+    ],
+    "market_relevance": "Apple's price increases and changing relationship with consumers have significant implications for investors and the broader tech industry, highlighting the need for companies to innovate and adapt to shifting consumer behavior."
+  },
+  {
+    "id": "5eb1f03e41559dff3730faa981ce570a",
+    "source_id": "capital_allocators",
+    "source_name": "Capital Allocators",
+    "source_org": "Ted Seides",
+    "source_color": "#f43f5e",
+    "title": "Luis Laboy: Choose the Manager You Need, Not the One You Want",
+    "description": "Luis Laboy (Hewlett Foundation) on why the most dangerous move in manager selection is picking what resonates with you — and the “kill list” he borrowed from Annie Duke.\n\nFull episode - https://youtu.be/JWjxw5lQCXo?si=dJ21brppBKnvkNwP",
+    "published": "2026-07-22",
+    "week": "2026-W30",
+    "video_id": "1f6kiIIqCSQ",
+    "episode_url": "https://www.youtube.com/watch?v=1f6kiIIqCSQ",
+    "type": "youtube",
+    "duration_secs": null,
+    "transcript_length": 234,
+    "speaker": "Luis Laboy — Hewlett Foundation",
+    "one_line_summary": "Picking a manager based on personal resonance can be a dangerous move.",
+    "summary": [
+      "Luis Laboy from the Hewlett Foundation discussed the importance of choosing a manager based on their skills and expertise rather than personal preferences.",
+      "He mentioned a 'kill list' borrowed from Annie Duke, but the details of the list are not provided in the transcript.",
+      "The conversation highlights the need for investors to focus on the manager's capabilities rather than their personal connection."
+    ],
+    "key_themes": [
+      "Manager selection",
+      "Personal resonance",
+      "Expertise"
+    ],
+    "market_signals": [],
+    "framework_insights": [
+      "Choosing a manager based on personal resonance can be a dangerous move.",
+      "A 'kill list' can be a useful tool in manager selection, but its specifics are not provided."
+    ],
+    "market_relevance": "This conversation is relevant for investors who need to make informed decisions about manager selection and want to avoid common pitfalls."
+  },
+  {
     "id": "b3cc797d161d5056c39262b360783e40",
     "source_id": "goldman_sachs",
     "source_name": "Goldman Sachs",
