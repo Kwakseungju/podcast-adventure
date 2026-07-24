@@ -1,5 +1,45 @@
 [
   {
+    "id": "5862912631a370831b38a5479244a865",
+    "source_id": "odd_lots",
+    "source_name": "Odd Lots",
+    "source_org": "Bloomberg",
+    "source_color": "#06b6d4",
+    "title": "How Franchise Restaurants Opened the Door to the Gig Economy",
+    "description": "<p>When the fast food industry began booming in the 1950s, it did so via a new business model known as the franchise. This model allowed independent operators to license trademarks from a business like McDonald's or Dunkin Donuts, and it soon spread across the country, with huge consequences for how Americans are employed. Legal battles fought by franchises eventually opened the door to what's now known as the gig economy, allowing Uber drivers to be treated in much the same way as the operator of a local Chick-fil-A. To better understand the history of the franchise model, we speak with Brian Callaci, chief economist of the Open Markets Institute, and author of the book <em>Chains of Command: The Rise and Cruel Reign of the Franchise Economy</em>. Callaci helps break down how the franchise model works, how franchise contracts are structured to precisely dictate how franchisees are supposed to run their businesses, the relationship between the franchise model and gig work, as well as how franchises pioneered worker surveillance.</p> <p>Read more:<br /><a href=\"https://www.bloomberg.com/news/articles/2026-07-20/taco-bell-traffic-sinks-after-lettuce-tied-to-parasite-outbreak?srnd=homepage-americas?utm_medium=referral&amp;utm_source=podcast&amp;utm_campaign=odd_lots&amp;utm_content=article\">Taco Bell Traffic Sinks After Lettuce Tied to Parasite Cases</a><br /><a href=\"https://www.bloomberg.com/news/articles/2026-07-22/chicken-back-on-menu-as-cyber-hit-nichirei-restores-operations?utm_medium=referral&amp;utm_source=podcast&amp;utm_campaign=odd_lots&amp;utm_content=article\">Chicken Back on Menu as Cyber-Hit Nichirei Restores Operations</a></p> <p>Only <a href=\"http://Bloomberg.com\">http://Bloomberg.com</a> subscribers can get the Odd Lots newsletter in their inbox each week, plus unlimited access to the site and app. Subscribe at&nbsp; <a href=\"https://www.bloomberg.com/subscriptions/oddlots?in_source=oddlotspodcast\">bloomberg.com/subscriptions/oddlots</a></p> <p><a href=\"http://bloomberg.com/subscriptions/oddlots\">Subscribe to the Odd Lots Newsletter</a><br /><strong>Join the conversation:</strong> <a href=\"https://discord.gg/oddlots\">discord.gg/oddlots</a></p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
+    "published": "2026-07-24",
+    "week": "2026-W30",
+    "audio_url": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/2050514a-2131-40e9-bc90-b48f0113d17c/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
+    "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/2050514a-2131-40e9-bc90-b48f0113d17c/transcript?format=TextWithTimestamps&t=1784738903",
+    "episode_url": "https://omny.fm/shows/odd-lots/how-franchise-restaurants-opened-the-door-to-the-gig-economy",
+    "type": "podcast",
+    "duration_secs": 2671,
+    "transcript_length": 52984,
+    "speaker": "Brian Colachi — Chief Economist, Open Markets Institute",
+    "one_line_summary": "The franchise model is a complex structure that combines entrepreneurship with significant constraints, creating a high-stress, high-motivated workforce.",
+    "summary": "The franchise model has its roots in the post-war period, with innovators like Colonel Sanders and Ray Kroc developing the business model. They openly acknowledged that their approach wasn't entirely legal and sought to change the laws to make it permissible. The initial legal structure came from auto dealers and manufacturing companies in the 19th and early 20th centuries. The franchise model is characterized by a license agreement between the brand owner and the independent business owner, with the latter agreeing to follow minute instructions from the former, including prices, hours of operation, product mix, and even employee interactions.",
+    "key_themes": [
+      "Franchise model",
+      "Entrepreneurship",
+      "Incentives"
+    ],
+    "market_signals": [
+      "Franchisees are incentivized to extract effort and push down wages for their employees.",
+      "The franchise model is a high-stress, high-motivated workforce.",
+      "Franchisees have limited control over their businesses, with many decisions dictated by the brand owner.",
+      "The franchise model has its roots in the post-war period, with innovators like Colonel Sanders and Ray Kroc.",
+      "The initial legal structure came from auto dealers and manufacturing companies in the 19th and early 20th centuries."
+    ],
+    "framework_insights": [
+      "The franchise model is a complex structure that combines entrepreneurship with significant constraints.",
+      "The principal-agent problem is a key issue in the franchise model, where the local manager is incentivized to exert effort to put in work.",
+      "The franchise model has a history of seeking to change laws to make it permissible, with innovators openly acknowledging its illegality.",
+      "The franchise model is characterized by a license agreement between the brand owner and the independent business owner.",
+      "The franchise model has a high-stress, high-motivated workforce due to the constraints and incentives involved."
+    ],
+    "market_relevance": "The franchise model's complex structure and history of seeking to change laws to make it permissible have significant implications for investors and markets right now, particularly in the context of the gig economy and the rise of independent business owners."
+  },
+  {
     "id": "791e25da24542ed0862470143f581456",
     "source_id": "odd_lots",
     "source_name": "Odd Lots",
@@ -38,6 +78,46 @@
       "The impact of leadership changes on company culture and direction."
     ],
     "market_relevance": "Apple's price increases and changing relationship with consumers have significant implications for investors and the broader tech industry, highlighting the need for companies to innovate and adapt to shifting consumer behavior."
+  },
+  {
+    "id": "580ef73c4267143fe0425c39038b675e",
+    "source_id": "credit_edge",
+    "source_name": "The Credit Edge",
+    "source_org": "Bloomberg Intelligence",
+    "source_color": "#f97316",
+    "title": "Wellington Passes on Data Center Debt, Questioning Long-Term Value",
+    "description": "<p>Data-center debt returns are falling, risk is rising and there&rsquo;s uncertainty over what the properties may be worth in the long run, Wellington Management says. &ldquo;We think a lot about that replacement value when evaluating data centers,&rdquo; Sonali Wilson, the $1.3 trillion manager&rsquo;s lead investment director for private credit, tells Bloomberg News&rsquo; James Crombie and Bloomberg Intelligence&rsquo;s David Havens in the latest Credit Edge podcast. &ldquo;Today, I&rsquo;ll say &mdash; not every situation &mdash; but, by and large, it&rsquo;s a pass,&rdquo; she says. They also discuss commercial real estate investment strategies, how to position for AI disruption and why Wellington is building out a private-debt platform now.</p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
+    "published": "2026-07-23",
+    "week": "2026-W30",
+    "audio_url": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/e74a35e9-c028-4e5f-a3f7-afb10164a717/8370f325-6c71-41dd-adb0-b490014b1ea8/audio.mp3?utm_source=Podcast&in_playlist=8792a2e9-d66c-4038-a1fe-afb101654894",
+    "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/8370f325-6c71-41dd-adb0-b490014b1ea8/transcript?format=TextWithTimestamps&t=1784837358",
+    "episode_url": "https://omny.fm/shows/the-credit-edge-by-bloomberg-intelligence/wellington-passes-on-data-center-debt-questioning-long-term-value",
+    "type": "podcast",
+    "duration_secs": 2923,
+    "transcript_length": 44642,
+    "speaker": "Sonali Wilson — Lead Investment Director for Private Credit at Wellington Management",
+    "one_line_summary": "Wellington Management is cautiously entering the private credit market, focusing on areas where they have a competitive edge and can provide integrated solutions to clients.",
+    "summary": "Wellington Management is expanding into private credit, but with a cautious approach. Sonali Wilson, Lead Investment Director for Private Credit, emphasized the importance of being deliberate and thoughtful in their entry into this market. They are focusing on areas where they have a competitive edge and can provide integrated solutions to clients. This includes investment grade private credit, commercial real estate, structured lending, and growth lending. Wilson highlighted the need to peel back the layers of the private credit ecosystem, which she estimates to be a $40 trillion market, and not just focus on the corporate segment.",
+    "key_themes": [
+      "Private Credit",
+      "Wellington Management",
+      "Investment Grade"
+    ],
+    "market_signals": [
+      "The private credit ecosystem is estimated to be a $40 trillion market.",
+      "The corporate segment of private credit is about $2 trillion, which is a quarter of the overall exposure.",
+      "Borrowers are increasingly able to choose between banks, public bond markets, and private credit markets.",
+      "Investment grade private credit borrowers may prefer to finance deals quietly, using private placements or for a type of deals.",
+      "There is a growing demand for private credit managers to take on whole loan origination and provide liquidity to borrowers."
+    ],
+    "framework_insights": [
+      "The private credit market is an interconnected ecosystem, and borrowers are increasingly able to choose between different financing options.",
+      "Investment grade private credit can offer flexibility and structuring options that are not available in public markets.",
+      "The choice of financing option will depend on factors beyond just pricing, such as flexibility and structuring.",
+      "Private credit managers need to be able to manage liquidity risk and have the skill set to do so.",
+      "The education and management of expectations are critical in the private credit market."
+    ],
+    "market_relevance": "This matters for investors and markets right now because the private credit market is evolving rapidly, and understanding the nuances of this market is crucial for making informed investment decisions."
   },
   {
     "id": "5eb1f03e41559dff3730faa981ce570a",
