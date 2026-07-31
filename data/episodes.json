@@ -1,5 +1,45 @@
 [
   {
+    "id": "0c884c8bb0557b61d5d439ec903c4edc",
+    "source_id": "odd_lots",
+    "source_name": "Odd Lots",
+    "source_org": "Bloomberg",
+    "source_color": "#06b6d4",
+    "title": "Why Private Credit Got Entangled With Insurance",
+    "description": "<p>Insurers have quietly become a major driver of the private credit boom, with numerous private equity shops striking deals with insurance companies or buying them outright. But the entanglement with private credit is also changing the insurance industry itself, raising a number of questions about risk and regulation. Today we speak to Andrew Granato and Pranjal Drall, authors of a new paper, &ldquo;Private Credit's State Backstop: How Private Equity Socializes Risk Through Insurers,\" examining the relationship between private credit and insurance. Granato (an assistant professor at the UT Austin Law School) and Drall (JD-PhD student in Financial Economics at Yale) talk to us about how PE got so interested in insurance in the first place, how both sides benefit from the relationship, and why taxpayers might ultimately be on the hook.</p> <p>Read more:<br /><a href=\"https://www.bloomberg.com/news/articles/2026-07-30/blue-owl-reports-fund-raising-slow-down-amid-credit-pullback?utm_medium=referral&amp;utm_source=podcast&amp;utm_campaign=odd_lots&amp;utm_content=article\">Blue Owl Surges as Leaders Stress It&rsquo;s More Than a Direct Lender</a><br /><a href=\"https://www.bloomberg.com/news/articles/2026-07-29/ares-29-billion-private-credit-fund-sees-uptick-in-non-accruals?utm_medium=referral&amp;utm_source=podcast&amp;utm_campaign=odd_lots&amp;utm_content=article\">Ares $29 Billion Private Credit Fund Sees Uptick in Non-Accruals</a></p> <p>Only <a href=\"http://bloomberg.com/\">Bloomberg - Business News, Stock Markets, Finance, Breaking &amp; World News</a> subscribers can get the Odd Lots newsletter in their inbox each week, plus unlimited access to the site and app. Subscribe at&nbsp; <a href=\"https://www.bloomberg.com/subscriptions/oddlots?in_source=oddlotspodcast\">bloomberg.com/subscriptions/oddlots</a></p> <p><a href=\"http://bloomberg.com/subscriptions/oddlots\">Subscribe to the Odd Lots Newsletter</a><br /><strong>Join the conversation:</strong> <a href=\"https://discord.gg/oddlots\">discord.gg/oddlots</a></p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
+    "published": "2026-07-31",
+    "week": "2026-W31",
+    "audio_url": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/f004446b-a024-4773-bd04-b497017ec344/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
+    "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/f004446b-a024-4773-bd04-b497017ec344/transcript?format=TextWithTimestamps&t=1785453793",
+    "episode_url": "https://omny.fm/shows/odd-lots/why-private-credit-got-entangled-with-insurance",
+    "type": "podcast",
+    "duration_secs": 3103,
+    "transcript_length": 52900,
+    "speaker": "Andrew Gnado — Assistant Professor of Law, UT Austin, and Pranjel Drawl — JD PhD Candidate in Financial Economics, Yale University",
+    "one_line_summary": "Private credit has grown significantly due to its linkages with insurers, but this relationship raises concerns about losses and who bears them.",
+    "summary": "The growth of private credit has been driven in part by its connection to insurers. Insurers have long-dated liabilities and patient capital, making them a natural fit for private credit investments. However, this relationship also raises concerns about losses and who bears them. The podcast discusses how private equity firms have partnered with insurers to create a new asset class, but this has also led to a shift in the portfolios of life insurance firms. They are now investing in riskier assets, such as private credit, rather than traditional, low-risk investments.",
+    "key_themes": [
+      "Private Credit",
+      "Insurers",
+      "Risk"
+    ],
+    "market_signals": [
+      "Recent estimates have maybe like something like seven hundred and fifty billion dollars or so of life insurance assets kind of within private equities purview.",
+      "Private equity firms have purchased life insurance companies at high volumes, with some estimates suggesting seven hundred and fifty billion dollars worth of life insurance assets.",
+      "The degree to which private equity firms are shifting the portfolios of their life insurance firms from traditional, low-risk investments to riskier assets like private credit is a trend being led by private equity.",
+      "The idea of having an asset manager make investments on behalf of the insurer is not new, but the variation in how this contract works out is a concern.",
+      "The most problematic or concerned we should be is about when the insurer is not getting the best deal, but rather the asset manager is making investments that benefit themselves rather than the insurer."
+    ],
+    "framework_insights": [
+      "The relationship between private credit and insurers is a flywheel, where private equity firms use their life insurance entities to issue debt and capture the illiquidity premium.",
+      "Private equity firms are using their life insurance entities to outsource part of the lending and capture economies of scale, rather than having an in-house team to do private credit investments.",
+      "The partnership between private equity and insurers is not new, but the degree to which private equity firms are ramping up the aggression of their investment strategy is a recent trend.",
+      "The shift in the portfolios of life insurance firms from traditional, low-risk investments to riskier assets like private credit is a structural explanation for how things work in the market.",
+      "The relationship between private credit and insurers raises concerns about losses and who bears them, which is a key theme in the podcast."
+    ],
+    "market_relevance": "This matters for investors and markets right now because the growth of private credit and its linkages with insurers raises concerns about risk and losses, and investors need to be aware of these structural changes in the market."
+  },
+  {
     "id": "cde461154d515163ac1c5ffa9b08a8c4",
     "source_id": "odd_lots",
     "source_name": "Odd Lots",
@@ -38,6 +78,45 @@
       "The government's corruption and lack of transparency have led to a lack of trust in the economy."
     ],
     "market_relevance": "Understanding Iran's economy and its complex system of loyalty and patronage is crucial for investors and policymakers looking to navigate the country's economic and political landscape."
+  },
+  {
+    "id": "039458b5ffd850d422cd514e89f97235",
+    "source_id": "capital_allocators",
+    "source_name": "Capital Allocators",
+    "source_org": "Ted Seides",
+    "source_color": "#f43f5e",
+    "title": "Lauren Hochfelder: Investing Behind Structural Demand in Real Assets",
+    "description": "Lauren Hochfelder is Head of Global Real Assets at Morgan Stanley, where she oversees 300 investment professionals across 13 countries managing $80 billion in real estate, infrastructure, equity, and credit. She joined Morgan Stanley as an investment banking analyst straight out of Yale 26 years ago and has spent her entire career at the firm, helping build one of the institutional real estate industry's leading global platforms.\n\nThe conversation traces Lauren's path from analyst to Global Head and the arc of Morgan Stanley's real estate business through the Global Financial Crisis and its aftermath — including how the GFC reshaped the firm's approach to simplification and capital discipline. Lauren explains why structural demand tailwinds, not just sector selection, drive the firm's thematic framework, and how operating at scale creates proprietary leading indicators that public data will always lag.\n\nLauren and Ted also cover portfolio construction discipline — the mechanical constraint that scale imposes even on the world's most skilled investors, the tension between AUM growth and LP returns, and why mid-market positioning can be a structural advantage. She makes the case that with real estate values below replacement cost for the first time since the GFC and new supply sharply curtailed, now may be a time to lean into real estate rather than away from it. Specific themes include industrial real estate and infrastructure, senior housing demographics, and net lease properties, alongside a candid look at where risk is building and how the real estate–infrastructure convergence is reshaping Lauren's expanded mandate.\n\nChapters:\n0:00 Introduction\n3:07 Appeal of real estate investing\n6:13 Evolving skills as responsibilities grew\n8:12 Hiring and team culture\n10:51 Evolution of the Morgan Stanley real estate platform\n13:00 GFC impact on the real estate business\n16:02 Post-GFC strategy and focus decisions\n18:13 Translating themes into investment ideas\n21:15 Balancing top-down themes with local teams\n24:25 AI in real estate and infrastructure\n26:41 Underwriting: theme vs. asset improvement\n28:14 Operational value-add: improving assets\n30:48 Portfolio construction and diversification\n32:13 Mid-market fund sizing and competition\n35:24 Strengths and drawbacks of a global bank\n36:19 Client demand amid liquidity constraints\n39:20 Favored portfolio themes today\n41:01 Sectors being avoided\n43:12 US office market post-COVID\n46:02 Expanding the mandate to infrastructure\n47:53 Cyclical outlook: below replacement cost\n48:52 Career outlook and succession\n50:07 Closing personal questions\n\nSubscribe to the mailing list: https://capitalallocators.com/\nAccess Transcript with Premium Membership: https://capitalallocators.com/signup/\nSubscribe on Apple Podcast: https://podcasts.apple.com/us/podcast/capital-allocators-inside-the-institutional/id1223764016\nFollow Ted on Twitter: https://twitter.com/tseides\nFollow Ted on LinkedIn: https://www.linkedin.com/in/tedseides/\n\nEditing and post-production work for this episode was provided by The Podcast Consultant (https://thepodcastconsultant.com)\n\n#LaurenHochfelder #RealAssets #RealEstate #CapitalAllocators #InstitutionalInvesting",
+    "published": "2026-07-30",
+    "week": "2026-W31",
+    "video_id": "BkNFolwlX2U",
+    "episode_url": "https://www.youtube.com/watch?v=BkNFolwlX2U",
+    "type": "youtube",
+    "duration_secs": null,
+    "transcript_length": 3209,
+    "speaker": "Lauren Hochfelder — Head of Global Real Assets at Morgan Stanley",
+    "one_line_summary": "Lauren Hochfelder emphasizes the importance of structural demand tailwinds in real assets, particularly in industrial real estate and infrastructure.",
+    "summary": "Lauren Hochfelder, Head of Global Real Assets at Morgan Stanley, discussed her career path and the evolution of Morgan Stanley's real estate business. The firm has $80 billion in real estate, infrastructure, equity, and credit under management, with 300 investment professionals across 13 countries. Lauren highlighted the significance of structural demand tailwinds in real assets, citing industrial real estate and infrastructure as key areas. She also emphasized the importance of operating at scale, which creates proprietary leading indicators that public data will always lag.",
+    "key_themes": [
+      "structural demand tailwinds",
+      "industrial real estate",
+      "infrastructure"
+    ],
+    "market_signals": [
+      "Real estate values are below replacement cost for the first time since the Global Financial Crisis.",
+      "New supply in real estate is sharply curtailed.",
+      "Now may be a time to lean into real estate rather than away from it.",
+      "The US office market is being avoided.",
+      "Real estate–infrastructure convergence is reshaping Lauren's expanded mandate."
+    ],
+    "framework_insights": [
+      "Structural demand tailwinds drive the firm's thematic framework, not just sector selection.",
+      "Operating at scale creates proprietary leading indicators that public data will always lag.",
+      "Mid-market positioning can be a structural advantage.",
+      "The tension between AUM growth and LP returns is a key consideration in portfolio construction.",
+      "Real estate values below replacement cost is a key indicator of market conditions."
+    ],
+    "market_relevance": "This discussion highlights the importance of structural demand tailwinds in real assets, particularly in industrial real estate and infrastructure, and provides insights into the current market conditions and investment opportunities."
   },
   {
     "id": "4212431309c45eed61acb89cac24c0b4",
@@ -139,6 +218,45 @@
       "The market may be missing or mispricing the risks associated with the surge in US IPOs."
     ],
     "market_relevance": "This matters for investors as it may indicate a late-cycle warning sign, which could impact the equity market."
+  },
+  {
+    "id": "bc170a458a742aa3a111408fc4dae041",
+    "source_id": "goldman_sachs",
+    "source_name": "Goldman Sachs",
+    "source_org": "Goldman Sachs",
+    "source_color": "#3b82f6",
+    "title": "What the Surge in IPOs Means for Investors",
+    "description": "US IPO issuance has surged to a record high in 2026. But this resurgence raises two concerns for the equity market: whether it is flashing a late-cycle warning sign and whether the market can digest so much new issuance. Jay Ritter of The IPO Initiative and Owen Lamont of Acadian Asset Management discuss whether the IPO surge is a red flag for markets. This episode explores the latest Top of Mind report.\n\nThis episode was recorded on July 8, 15, and 23, 2026. \n\nThe opinions and views expressed herein are as of the date of publication, subject to change without notice, and may not necessarily reflect the institutional views of Goldman Sachs or its affiliates. The material provided is intended for informational purposes only, and does not constitute investment advice, a recommendation from any Goldman Sachs entity to take any particular action, or an offer or solicitation to purchase or sell any securities or financial products. This material may contain forward-looking statements. Past performance is not indicative of future results. Neither Goldman Sachs nor any of its affiliates make any representations or warranties, express or implied, as to the accuracy or completeness of the statements or information contained herein and disclaim any liability whatsoever for reliance on such information for any purpose. Each name of a third-party organization mentioned is the property of the company to which it relates, is used here strictly for informational and identification purposes only and is not used to imply any ownership or license rights between any such company and Goldman Sachs.\n\nA transcript is provided for convenience and may differ from the original video or audio content. Goldman Sachs is not responsible for any errors in the transcript. This material should not be copied, distributed, published, or reproduced in whole or in part or disclosed by any recipient to any other person without the express written consent of Goldman Sachs.\n\nDisclosures applicable to research with respect to issuers, if any, mentioned herein are available through your Goldman Sachs representative or at ⁠http://www.gs.com/research/hedge.html⁠ Goldman Sachs does not endorse any candidate or any political party.\n\nCopyright 2026. All rights reserved.",
+    "published": "2026-07-28",
+    "week": "2026-W31",
+    "video_id": "hX1Qk84gUgI",
+    "episode_url": "https://www.youtube.com/watch?v=hX1Qk84gUgI",
+    "type": "youtube",
+    "duration_secs": null,
+    "transcript_length": 2264,
+    "speaker": "",
+    "one_line_summary": "The surge in US IPO issuance in 2026 raises concerns about a late-cycle warning sign and market digestion.",
+    "summary": "The transcript discusses the surge in US IPO issuance in 2026, which has reached a record high. This resurgence raises two concerns for the equity market: whether it is flashing a late-cycle warning sign and whether the market can digest so much new issuance. Jay Ritter and Owen Lamont discuss the implications of this trend.",
+    "key_themes": [
+      "IPO surge",
+      "late-cycle warning sign",
+      "market digestion"
+    ],
+    "market_signals": [
+      "US IPO issuance has surged to a record high in 2026.",
+      "The resurgence raises two concerns for the equity market: whether it is flashing a late-cycle warning sign and whether the market can digest so much new issuance.",
+      "This episode explores the latest Top of Mind report.",
+      "This episode was recorded on July 8, 15, and 23, 2026.",
+      "The opinions and views expressed herein are as of the date of publication, subject to change without notice, and may not necessarily reflect the institutional views of Goldman Sachs or its affiliates."
+    ],
+    "framework_insights": [
+      "The surge in IPOs may be a red flag for markets.",
+      "The market may be missing or mispricing the implications of the IPO surge.",
+      "The IPO surge may be a late-cycle warning sign.",
+      "The market's ability to digest new issuance is a concern.",
+      "The Top of Mind report provides insights into the latest market trends."
+    ],
+    "market_relevance": "This matters for investors and markets right now because the surge in IPOs may signal a late-cycle warning sign and impact market digestion."
   },
   {
     "id": "612f8e96843ce82a41c6446eb339039c",
