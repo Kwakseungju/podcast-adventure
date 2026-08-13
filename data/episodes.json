@@ -1,5 +1,114 @@
 [
   {
+    "id": "2be06ff464fcf297d2f6b2ea4248a000",
+    "source_id": "odd_lots",
+    "source_name": "Odd Lots",
+    "source_org": "Bloomberg",
+    "source_color": "#06b6d4",
+    "title": "Trucking Is Booming Again, And Drivers Aren't Happy About It",
+    "description": "<p>In the last year, freight companies have seen a significant upturn in the business. Volumes are up. Billing is up. And in addition to growing demand, we've also seen new constraints on the supply side, with the administration cracking down on who is even allowed on the road. As we know, trucking is an especially cyclical industry, but is this current boom structurally different from past booms? Why is it that despite the boom, many of today's drivers are unhappy with the state of the industry? On this episode, we speak with Reed Loustalot, the chief marketing officer at the the Truck Parking Club, a company which aims to help drivers find parking, so that they're not using up valuable road hours just looking for a place to stop for the night. We talk about the crackdown on the supply side of the market, the rise of surveillance, and how a recent Supreme Court ruling could impair capacity even further.</p> <p>Read more:<br /><a href=\"https://www.bloomberg.com/news/articles/2026-08-11/ship-pays-4-million-to-cut-10-day-line-to-cross-panama-canal?utm_medium=referral&amp;utm_source=podcast&amp;utm_campaign=odd_lots&amp;utm_content=article\">Ship Pays $4 Million to Skip Line to Cross Panama Canal</a><br /><a href=\"https://www.bloomberg.com/news/articles/2026-07-31/trucking-stocks-fall-on-legal-risk-in-worst-month-since-tariffs?utm_medium=referral&amp;utm_source=podcast&amp;utm_campaign=odd_lots&amp;utm_content=article\">Trucking Stocks Fall on Legal Risk in Worst Month Since Tariffs</a></p> <p>Only <a href=\"http://Bloomberg.com\">http://Bloomberg.com</a> subscribers can get the Odd Lots newsletter in their inbox each week, plus unlimited access to the site and app. Subscribe at&nbsp; <a href=\"https://www.bloomberg.com/subscriptions/oddlots?in_source=oddlotspodcast\">bloomberg.com/subscriptions/oddlots</a></p> <p><a href=\"http://bloomberg.com/subscriptions/oddlots\">Subscribe to the Odd Lots Newsletter</a><br /><strong>Join the conversation:</strong> <a href=\"https://discord.gg/oddlots\">discord.gg/oddlots</a></p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
+    "published": "2026-08-13",
+    "week": "2026-W33",
+    "audio_url": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/bfd63d35-c7ad-4a5c-a603-b4a400dbfa65/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
+    "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/bfd63d35-c7ad-4a5c-a603-b4a400dbfa65/transcript?format=TextWithTimestamps&t=1786541077",
+    "episode_url": "https://omny.fm/shows/odd-lots/trucking-is-booming-again-and-drivers-arent-happy-about-it",
+    "type": "podcast",
+    "duration_secs": 2781,
+    "transcript_length": 49620,
+    "speaker": "Red Lusblow — Chief Marketing Officer, Truck Parking Club",
+    "one_line_summary": "Trucking rates have surged due to a combination of factors, including a crackdown on English language proficiency, non-domiciled CDLs, and a Supreme Court ruling affecting freight brokers.",
+    "summary": "The trucking market has seen a significant surge in rates over the past two to three quarters. This is attributed to a combination of factors, including a crackdown on English language proficiency and non-domiciled CDLs, which has led to a reduction in capacity. Additionally, a Supreme Court ruling has affected freight brokers, making them more liable for carriers' negligence or accidents. This has resulted in a premium being placed on certain types of capacity, such as safety-rated carriers. The market is also seeing a shift towards more technology adoption, with companies like Truck Parking Club leveraging existing space to provide a marketplace for truck parking.",
+    "key_themes": [
+      "Trucking rates surge",
+      "Capacity reduction",
+      "Freight brokers' liability"
+    ],
+    "market_signals": [
+      "Rates have surged from $1.94 per mile in December 2022 to $1.30 per mile in the current market.",
+      "The spread between spot and contract rates has flipped, indicating limited capacity.",
+      "Capacity has been structurally chopped out of the market due to the crackdown on English language proficiency and non-domiciled CDLs.",
+      "Freight brokers are now more liable for carriers' negligence or accidents, affecting the market.",
+      "Safety ratings are becoming a premium factor in carrier selection."
+    ],
+    "framework_insights": [
+      "Trucking is a highly cyclical industry with low barriers to entry, leading to frequent boom-and-bust cycles.",
+      "The market is shifting towards more technology adoption, with companies leveraging existing space to provide new services.",
+      "Capacity reduction can be a structural issue, rather than just a short-term phenomenon.",
+      "Freight brokers play a critical role in the market, and changes to their liability can have significant effects.",
+      "Safety ratings are becoming a key factor in carrier selection, driven by changes in the market."
+    ],
+    "market_relevance": "This matters for investors and markets right now as it highlights the structural changes affecting the trucking industry, including capacity reduction and changes in freight brokers' liability. These factors are driving up rates and affecting the market's dynamics."
+  },
+  {
+    "id": "7498b4e848b633ebff3fb20e72b62436",
+    "source_id": "goldman_sachs",
+    "source_name": "Goldman Sachs",
+    "source_org": "Goldman Sachs",
+    "source_color": "#3b82f6",
+    "title": "What the US-Japan Currency Intervention Means for the Yen, Rates, and the Dollar",
+    "description": "The US and Japan coordinated on the biggest currency market intervention in 15 years, helping to stabilize a weakening yen. Karen Fishman, senior FX strategist in Goldman Sachs Research, and Praneet Shah, global head of FX options trading in Global Banking & Markets, discuss why the US joined the action, why the yen still appears undervalued, and whether another intervention might follow. \n\nKey takeaways: \n\nThe scale of Japan’s intervention was historic, but the US role was symbolic. Japan's operation, estimated to be worth up to $85 billion over July 30 and July 31, was its largest two-day intervention on record outside of October 2011. The US leg was much smaller, but pushed the yen further by signaling the US’ willingness to help. \n\nWashington's involvement was likely aimed at limiting volatility in US markets. The timing of US support coincided with some volatility in US interest rates, in addition to other factors. \n\nIntervention may buy time, but it is a short-term measure. In the longer term, policy measures convincing Japanese investors to shift back towards Japanese assets could help reverse the yen's low valuation. \n\nThis episode was recorded on August 10, 2026.\n\nThe opinions and views expressed herein are as of the date of publication, subject to change without notice, and may not necessarily reflect the institutional views of Goldman Sachs or its affiliates. The material provided is intended for informational purposes only, and does not constitute investment advice, a recommendation from any Goldman Sachs entity to take any particular action, or an offer or solicitation to purchase or sell any securities or financial products. This material may contain forward-looking statements. Past performance is not indicative of future results. Neither Goldman Sachs nor any of its affiliates make any representations or warranties, express or implied, as to the accuracy or completeness of the statements or information contained herein and disclaim any liability whatsoever for reliance on such information for any purpose. Each name of a third-party organization mentioned is the property of the company to which it relates, is used here strictly for informational and identification purposes only and is not used to imply any ownership or license rights between any such company and Goldman Sachs. A transcript is provided for convenience and may differ from the original video or audio content. Goldman Sachs is not responsible for any errors in the transcript. This material should not be copied, distributed, published, or reproduced in whole or in part or disclosed by any recipient to any other person without the express written consent of Goldman Sachs. Disclosures applicable to research with respect to issuers, if any, mentioned herein are available through your Goldman Sachs representative or at ⁠http://www.gs.com/research/hedge.html⁠ Goldman Sachs does not endorse any candidate or any political party.",
+    "published": "2026-08-13",
+    "week": "2026-W33",
+    "video_id": "iV51YcDgY5w",
+    "episode_url": "https://www.youtube.com/watch?v=iV51YcDgY5w",
+    "type": "youtube",
+    "duration_secs": null,
+    "transcript_length": 2950,
+    "speaker": "Karen Fishman — senior FX strategist in Goldman Sachs Research, Praneet Shah — global head of FX options trading in Global Banking & Markets",
+    "one_line_summary": "The US and Japan coordinated on the biggest currency market intervention in 15 years, helping to stabilize a weakening yen.",
+    "summary": "The US and Japan coordinated on the biggest currency market intervention in 15 years, helping to stabilize a weakening yen. The scale of Japan's intervention was historic, but the US role was symbolic. Japan's operation, estimated to be worth up to $85 billion over July 30 and July 31, was its largest two-day intervention on record outside of October 2011. The US leg was much smaller, but pushed the yen further by signaling the US' willingness to help.",
+    "key_themes": [
+      "Currency Intervention",
+      "Yen Valuation",
+      "Market Volatility"
+    ],
+    "market_signals": [
+      "Japan's operation was estimated to be worth up to $85 billion over July 30 and July 31.",
+      "The US leg of the intervention was much smaller than Japan's.",
+      "The intervention may buy time, but it is a short-term measure.",
+      "The yen still appears undervalued.",
+      "Another intervention might follow."
+    ],
+    "framework_insights": [
+      "Intervention is a short-term measure.",
+      "Policy measures convincing Japanese investors to shift back towards Japanese assets could help reverse the yen's low valuation.",
+      "The US involvement was likely aimed at limiting volatility in US markets.",
+      "The timing of US support coincided with some volatility in US interest rates.",
+      "The intervention was a symbolic move by the US."
+    ],
+    "market_relevance": "This intervention has significant implications for investors and markets, particularly in terms of currency valuation and market volatility."
+  },
+  {
+    "id": "65226217fb109a36ff817265fc90e498",
+    "source_id": "capital_allocators",
+    "source_name": "Capital Allocators",
+    "source_org": "Ted Seides",
+    "source_color": "#f43f5e",
+    "title": "Ted Seides: How He Prepares for an Interview",
+    "description": "Ted Seides prepares hard for every conversation — and then walks in with no scripted questions at all, a discipline he learned the hard way. Re-listening to one of his early interviews, he caught an obvious follow-up he had missed because he was reading from a question list instead of listening. He lays out the prep formula he settled on — deep research, a guest call, and a simple bullet-point outline of topics — and why, unlike David Rubenstein’s memorized questions or Tim Ferriss’s pages of notes, he trusts that if he is listening, the next question will come.\n \nA Key Moment from the Capital Allocators Summer Series on Interdisciplinary Skills: Interviewing — a rare role reversal, with host Ted Seides interviewed by Apollo's Matt Breitfelder.\n \nFull episode this clip is from - The Art of the Interview (Ep. 330, July 2023): https://www.capitalallocators.com/podcast/the-art-of-the-interview/\n \nSubscribe to the mailing list: https://capitalallocators.com/\nAccess Transcript with Premium Membership: https://capitalallocators.com/signup/\nSubscribe on Apple Podcast: https://podcasts.apple.com/us/podcast/capital-allocators-inside-the-institutional/id1223764016\nFollow Ted on Twitter: https://twitter.com/tseides\nFollow Ted on LinkedIn: https://www.linkedin.com/in/tedseides/\nEditing and post-production work for this episode was provided by The Podcast Consultant (https://thepodcastconsultant.com)\n \n#CapitalAllocators #TedSeides #Interviewing",
+    "published": "2026-08-12",
+    "week": "2026-W33",
+    "video_id": "ozjDAUY_xEA",
+    "episode_url": "https://www.youtube.com/watch?v=ozjDAUY_xEA",
+    "type": "youtube",
+    "duration_secs": null,
+    "transcript_length": 1456,
+    "speaker": "",
+    "one_line_summary": "Ted Seides prepares for interviews by deep research, a guest call, and a simple bullet-point outline of topics.",
+    "summary": "Ted Seides prepares hard for every conversation by doing deep research, making a guest call, and creating a simple bullet-point outline of topics. He learned this discipline the hard way after re-listening to one of his early interviews and catching an obvious follow-up he had missed. Unlike David Rubenstein and Tim Ferriss, Ted trusts that if he is listening, the next question will come.",
+    "key_themes": [
+      "Interview Preparation",
+      "Active Listening"
+    ],
+    "market_signals": [],
+    "framework_insights": [
+      "Trust that if you are listening, the next question will come.",
+      "Deep research, a guest call, and a simple bullet-point outline of topics is a good preparation formula for interviews.",
+      "Active listening is a discipline that can be learned and is essential for effective interviewing."
+    ],
+    "market_relevance": "This matters for investors or markets right now because effective interviewing is a valuable skill for anyone in the financial industry, and active listening is essential for making informed decisions."
+  },
+  {
     "id": "be0a81cc95995b1c16361fd794cd06a8",
     "source_id": "odd_lots",
     "source_name": "Odd Lots",
