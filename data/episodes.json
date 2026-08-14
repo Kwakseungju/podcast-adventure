@@ -1,5 +1,45 @@
 [
   {
+    "id": "b861b5143978755bc7f16494697e5d73",
+    "source_id": "odd_lots",
+    "source_name": "Odd Lots",
+    "source_org": "Bloomberg",
+    "source_color": "#06b6d4",
+    "title": "A Historic El Niño Is Coming That Could Cost the World Trillions",
+    "description": "<p>Every few years, weather nerds and agriculture analysts will talk about an upcoming El Ni&ntilde;o, and then they mostly pass by with relatively few headlines. But sometimes El Ni&ntilde;os end up being massively destabilizing -- leading to devastating droughts, flooding, and other catastrophes. And this year's emerging El Ni&ntilde;o could end up being one of the big ones, with forecasters predicting record-breaking intensity. But what exactly is an El Ni&ntilde;o, and what does it mean that this year's could be so big? On this episode, we speak with Justin Mankin, professor of geography at Dartmouth and director of the Climate Modeling and Impacts Group. We discuss the forecasting of El Ni&ntilde;os, and why they can lead to large and long-lasting economic damage.</p> <p>Read more:<br /><a href=\"https://www.bloomberg.com/news/articles/2026-07-09/super-el-nino-will-give-us-a-glimpse-of-life-in-2035?utm_medium=referral&amp;utm_source=podcast&amp;utm_campaign=odd_lots&amp;utm_content=article\">Super El Ni&ntilde;o Will Give Us a Glimpse of Life in 2035</a><br /><a href=\"https://www.bloomberg.com/news/articles/2026-08-13/uk-economy-weathers-early-months-of-iran-war-with-0-4-growth?utm_medium=referral&amp;utm_source=podcast&amp;utm_campaign=odd_lots&amp;utm_content=article\">Heat Wave and World Cup Hand UK Economy a Surprise Boost</a></p> <p>Only <a href=\"http://Bloomberg.com\">http://Bloomberg.com</a> subscribers can get the Odd Lots newsletter in their inbox each week, plus unlimited access to the site and app. Subscribe at&nbsp; <a href=\"https://www.bloomberg.com/subscriptions/oddlots?in_source=oddlotspodcast\">bloomberg.com/subscriptions/oddlots</a></p> <p><a href=\"http://bloomberg.com/subscriptions/oddlots\">Subscribe to the Odd Lots Newsletter</a><br /><strong>Join the conversation:</strong> <a href=\"https://discord.gg/oddlots\">discord.gg/oddlots</a></p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
+    "published": "2026-08-14",
+    "week": "2026-W33",
+    "audio_url": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/906e5071-7abc-4f2c-acb5-b4a5013ff33f/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
+    "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/906e5071-7abc-4f2c-acb5-b4a5013ff33f/transcript?format=TextWithTimestamps&t=1786649810",
+    "episode_url": "https://omny.fm/shows/odd-lots/a-historic-el-ni-o-is-coming-that-could-cost-the-world-trillions",
+    "type": "podcast",
+    "duration_secs": 3353,
+    "transcript_length": 52266,
+    "speaker": "Justin Mankin — Professor of Geography at Dartmouth and Director of the Climate Modeling and Impacts Group",
+    "one_line_summary": "El Nino is a potentially record-breaking event that could have a significant impact on the global economy and investment landscape.",
+    "summary": "El Nino is a complex weather phenomenon that occurs when the trade winds in the eastern tropical Pacific weaken, allowing a pile of warm water to spread across the tropical Pacific. This can have a significant impact on global weather and climate, with far-reaching consequences for economies and investments. The guest, Justin Mankin, explains that El Nino is akin to a wave phenomenon, with a canonical path that induces physical responses that can be characterized and used for prediction.",
+    "key_themes": [
+      "El Nino",
+      "Global Economy",
+      "Investment Landscape"
+    ],
+    "market_signals": [
+      "A potentially record-breaking El Nino event is forecasted, with a range of probabilities involved.",
+      "El Nino could have a significant impact on the global economy and investment landscape.",
+      "The guest notes that El Nino is a complex phenomenon that can have far-reaching consequences for economies and investments.",
+      "The guest mentions that El Nino is a mode of variability, with a canonical path that induces physical responses that can be characterized and used for prediction.",
+      "The guest notes that El Nino is a wave phenomenon, with a simple analogy being a room with wall-to-wall radiators instead of a single space heater."
+    ],
+    "framework_insights": [
+      "El Nino is a mode of variability, with a canonical path that induces physical responses that can be characterized and used for prediction.",
+      "The guest notes that El Nino is a complex phenomenon that can have far-reaching consequences for economies and investments.",
+      "The guest explains that El Nino is akin to a wave phenomenon, with a simple analogy being a room with wall-to-wall radiators instead of a single space heater.",
+      "The guest mentions that El Nino is a function of living on a complex planet with geophysical fluid dynamics.",
+      "The guest notes that the precise mechanism of action that leads to the breakdown of the easterly trade winds can come from myriad different places."
+    ],
+    "market_relevance": "This matters for investors and markets right now because El Nino could have a significant impact on the global economy and investment landscape, with far-reaching consequences for economies and investments."
+  },
+  {
     "id": "2be06ff464fcf297d2f6b2ea4248a000",
     "source_id": "odd_lots",
     "source_name": "Odd Lots",
@@ -77,6 +117,46 @@
       "The intervention was a symbolic move by the US."
     ],
     "market_relevance": "This intervention has significant implications for investors and markets, particularly in terms of currency valuation and market volatility."
+  },
+  {
+    "id": "42298d42777e7a2e9870f37f9dc26f76",
+    "source_id": "credit_edge",
+    "source_name": "The Credit Edge",
+    "source_org": "Bloomberg Intelligence",
+    "source_color": "#f97316",
+    "title": "LBO Debt Coming Due Is Next Big Test for Credit Markets, Says ICG",
+    "description": "<p>Companies need to move fast to refinance leveraged-buyout debt coming due over the next few years, according to ICG. &ldquo;Folks should start getting ahead of it because the traffic jam may be more the issue than anything,&rdquo; David Saitowitz, the $126 billion global alternative asset manager&rsquo;s head of US liquid credit, tells Bloomberg News&rsquo; James Crombie and Bloomberg Intelligence&rsquo;s Mike Holland in the latest Credit Edge podcast. &ldquo;That could be the kind of risk event that may push the market wider for a period of time,&rdquo; he says, referring to credit spreads. They also discuss the AI funding bubble, collateralized loan obligation performance and fallen-angel risk.</p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
+    "published": "2026-08-13",
+    "week": "2026-W33",
+    "audio_url": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/e74a35e9-c028-4e5f-a3f7-afb10164a717/e23bb1f0-bd86-4ccc-8ebb-b4a501394cf9/audio.mp3?utm_source=Podcast&in_playlist=8792a2e9-d66c-4038-a1fe-afb101654894",
+    "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/e23bb1f0-bd86-4ccc-8ebb-b4a501394cf9/transcript?format=TextWithTimestamps&t=1786648286",
+    "episode_url": "https://omny.fm/shows/the-credit-edge-by-bloomberg-intelligence/lbo-debt-coming-due-is-next-big-test-for-credit-markets-says-icg",
+    "type": "podcast",
+    "duration_secs": 2736,
+    "transcript_length": 45856,
+    "speaker": "David Seidowitz — Head of US Liquid Credit at ICG",
+    "one_line_summary": "LBO debt coming due is the next big test for credit markets, with refinancing challenges and potential spread widening.",
+    "summary": "David Seidowitz, Head of US Liquid Credit at ICG, joins The Credit Edge to discuss the challenges facing credit markets. He notes that the opportunity in the market is actually the tumult, with refinancing becoming harder due to rising interest rates. This will lead to spread widening, which can be an opportunity for investors who can pick the right deals. However, this also comes with risk, and David emphasizes the need to balance spread widening with potential risks.",
+    "key_themes": [
+      "LBO debt refinancing challenges",
+      "Spread widening",
+      "Refinancing opportunities"
+    ],
+    "market_signals": [
+      "Widening spreads are expected, with new companies coming to market having to do wider spreads.",
+      "The 2021 LBO vintage has 25% of its cohort in software and services, which are experiencing weakness.",
+      "The opportunity is not broad, but rather focused on specific names and sectors.",
+      "The Federal Reserve raising interest rates will push up the cost of refinancing for junk-rated companies.",
+      "The CLO market is seeing a mix shift, with less new issue due to tight spreads, but a good amount of resets."
+    ],
+    "framework_insights": [
+      "The opportunity in the market is actually the tumult, which can be an opportunity for investors who can pick the right deals.",
+      "The need to balance spread widening with potential risks is crucial in credit markets.",
+      "The CLO market is a trillion-dollar market that shifts and finds opportunities, but is currently seeing a mix shift.",
+      "The liability market is a little more concentrated than the loan buying universe, and liability investors are not as used to repricing.",
+      "The risk is appropriately priced given the demand for CLOs, but from a manager perspective, it should be tighter."
+    ],
+    "market_relevance": "This discussion is highly relevant for investors and markets right now, as it highlights the challenges facing credit markets and the potential opportunities that arise from these challenges."
   },
   {
     "id": "65226217fb109a36ff817265fc90e498",
