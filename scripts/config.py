@@ -65,5 +65,11 @@ MAX_EPISODES_PER_SOURCE = 20
 # Look back this many days when checking for new episodes
 DAYS_LOOKBACK = 30
 
-# Max transcript length to send to Groq — keep under 9000 tokens (~36000 chars)
-MAX_TRANSCRIPT_CHARS = 12_000
+# Max transcript length to send to Groq. ~4.5K tokens, which has to leave room
+# for the completion budget inside the free tier's 8K tokens/minute ceiling.
+# Raising this meaningfully requires a paid Groq tier, not just a bigger number.
+MAX_TRANSCRIPT_CHARS = 18_000
+
+# Pause between summarization calls. The free tier allows 8K tokens/minute and
+# each call spends ~5.3K, so this keeps a sustained run just under the limit.
+SUMMARIZE_SLEEP_SECS = 45

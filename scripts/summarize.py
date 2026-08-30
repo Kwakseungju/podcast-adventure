@@ -5,9 +5,9 @@ import time
 
 from groq import Groq
 
-from scripts.config import MAX_TRANSCRIPT_CHARS
+from scripts.config import MAX_TRANSCRIPT_CHARS, SUMMARIZE_SLEEP_SECS
 
-_GROQ_MODEL = "llama-3.1-8b-instant"
+_GROQ_MODEL = "openai/gpt-oss-20b"
 
 _SYSTEM = (
     "You are a senior financial analyst specializing in credit markets, "
@@ -126,12 +126,15 @@ def summarize_episode(episode: dict) -> dict:
             {"role": "user",   "content": prompt},
         ],
         temperature=0.1,
-        max_tokens=1000,
+        # gpt-oss spends reasoning tokens from this budget before emitting the
+        # JSON, so 1000 truncates it. Ceiling is the free tier's 8K/min, which
+        # this shares with the ~4.5K-token transcript above.
+        max_tokens=2500,
+        reasoning_effort="low",
         response_format={"type": "json_object"},
     )
 
-    # Free tier: 6k tokens/min. Sleep so the window resets before the next call.
-    time.sleep(65)
+    time.sleep(SUMMARIZE_SLEEP_SECS)
 
     raw = response.choices[0].message.content.strip()
     data = _extract_json(raw)

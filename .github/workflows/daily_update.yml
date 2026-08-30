@@ -11,7 +11,9 @@ permissions:
 jobs:
   update:
     runs-on: ubuntu-latest
-    timeout-minutes: 60
+    # A cancelled job never reaches the commit step, discarding every episode it
+    # already paid for. Sized for the rate-limited backlog run, not a daily one.
+    timeout-minutes: 90
 
     steps:
       - name: Checkout repository

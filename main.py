@@ -89,8 +89,15 @@ def main() -> None:
     generate_html(HTML_FILE, episodes)
     print(f"Generated report → {HTML_FILE}")
 
-    # Only fail if we couldn't even generate the HTML
-    pass
+    # A run that had candidates but landed none of them is broken, not idle.
+    # Exiting non-zero also skips the commit step, so a failing pipeline stops
+    # publishing timestamp-only updates that make the site look current.
+    if new_episodes and processed == 0:
+        print(
+            f"\nERROR: {len(new_episodes)} episode(s) were queued but none were "
+            f"processed ({failed} failed). Pipeline is broken — not publishing."
+        )
+        sys.exit(1)
 
 
 if __name__ == "__main__":
