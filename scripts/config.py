@@ -65,6 +65,12 @@ MAX_EPISODES_PER_SOURCE = 20
 # Look back this many days when checking for new episodes
 DAYS_LOOKBACK = 30
 
+# YouTube Shorts and promo clips publish with an empty description. Since
+# YouTube's caption API is blocked from cloud runners, the description is the
+# only text this pipeline ever gets for a video — so anything shorter than this
+# has nothing summarizable in it and is skipped at fetch time.
+MIN_YOUTUBE_DESC_CHARS = 300
+
 # Max transcript length to send to Groq. ~4.5K tokens, which has to leave room
 # for the completion budget inside the free tier's 8K tokens/minute ceiling.
 # Raising this meaningfully requires a paid Groq tier, not just a bigger number.

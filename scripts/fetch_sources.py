@@ -6,6 +6,7 @@ import feedparser
 from scripts.config import (
     DAYS_LOOKBACK,
     MAX_EPISODES_PER_SOURCE,
+    MIN_YOUTUBE_DESC_CHARS,
     PODCAST_SOURCES,
     YOUTUBE_SOURCES,
 )
@@ -116,9 +117,15 @@ def fetch_youtube_rss_episodes(source: dict, cutoff: datetime) -> list[dict]:
         return []
 
     episodes = []
+    skipped_shorts = 0
     for entry in feed.entries:
         pub_date = _parse_date(entry)
         if pub_date is None or pub_date < cutoff:
+            continue
+
+        description = getattr(entry, "summary", "") or ""
+        if len(description.strip()) < MIN_YOUTUBE_DESC_CHARS:
+            skipped_shorts += 1
             continue
 
         title = getattr(entry, "title", "Untitled")
@@ -151,6 +158,8 @@ def fetch_youtube_rss_episodes(source: dict, cutoff: datetime) -> list[dict]:
         if len(episodes) >= MAX_EPISODES_PER_SOURCE:
             break
 
+    if skipped_shorts:
+        print(f"  Skipped {skipped_shorts} short/clip with no usable description")
     return episodes
 
 
