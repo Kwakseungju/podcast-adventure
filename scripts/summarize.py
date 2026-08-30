@@ -74,6 +74,15 @@ Respond with ONLY a valid JSON object matching this schema exactly:
 }}"""
 
 
+_LABEL_PREFIX = re.compile(r"^(?:Signal|Insight)\s*\d+\s*[—–-]\s*", re.IGNORECASE)
+
+
+def _clean_bullets(items: list) -> list[str]:
+    """Drop 'Signal 1 — ' style prefixes the model sometimes copies verbatim
+    out of the schema's placeholder text."""
+    return [_LABEL_PREFIX.sub("", str(s)).strip() for s in items if str(s).strip()]
+
+
 def _extract_json(raw: str) -> dict:
     """Try multiple strategies to extract JSON from the model response."""
     try:
@@ -147,7 +156,7 @@ def summarize_episode(episode: dict) -> dict:
         "one_line_summary": data.get("one_line_summary", ""),
         "summary":          data.get("summary", ""),
         "key_themes":       data.get("key_themes", [])[:3],
-        "market_signals":   data.get("market_signals", [])[:5],
-        "framework_insights": data.get("framework_insights", [])[:5],
+        "market_signals":   _clean_bullets(data.get("market_signals", []))[:5],
+        "framework_insights": _clean_bullets(data.get("framework_insights", []))[:5],
         "market_relevance": data.get("market_relevance", ""),
     }
