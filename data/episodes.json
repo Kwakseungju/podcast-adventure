@@ -1,5 +1,78 @@
 [
   {
+    "id": "88f6bc94d10afcf9cc0690f5b7c7eeb5",
+    "source_id": "odd_lots",
+    "source_name": "Odd Lots",
+    "source_org": "Bloomberg",
+    "source_color": "#06b6d4",
+    "title": "Richmond Fed’s Tom Barkin on the Surprisingly Resilient Real Economy",
+    "description": "<p>The implications of Fed Chair Kevin Warsh's Jackson Hole speech are pretty clear: Traders expect a rate hike given the hawkish hints littered in his address, largely focused on inflation. There are still a number of open questions and Warsh's lack of forward guidance does not exactly lend clarity to how the Fed will act in the coming months. Today, we recap the speech &mdash; in a conversation recorded from the Lodge at Jackson Hole &mdash; with Richmond Federal Reserve Bank President Tom Barkin and he explains why his thinking around the Fed's communication policy is changing, and he gets into what is still useful about things like the dot plot. He also tells us what he's hearing at Chamber of Commerce meetings about the impact of AI on local communities, how businesses are using their tariff refund checks, and whether the Fed will have to start paying attention to the economic effects of data center politicization.</p> <p>Read more:<br /><a href=\"https://www.bloomberg.com/news/articles/2026-08-30/bond-investors-wary-after-warsh-fans-wagers-fed-poised-to-hike?utm_medium=referral&amp;utm_source=podcast&amp;utm_campaign=odd_lots&amp;utm_content=article\">Bond Investors Wary After Warsh Fuels Wagers That Fed Is Poised to Hike</a><br /><a href=\"https://www.bloomberg.com/news/articles/2026-08-28/ai-data-center-boom-power-grids-strengthen-investment-case-for-copper?utm_medium=referral&amp;utm_source=podcast&amp;utm_campaign=odd_lots&amp;utm_content=article\">Where to Invest Now as Data Centers Turn Copper Into a Hot Commodity</a></p> <p>Only <a href=\"http://Bloomberg.com\">http://Bloomberg.com</a> subscribers can get the Odd Lots newsletter in their inbox each week, plus unlimited access to the site and app. Subscribe at&nbsp; <a href=\"https://www.bloomberg.com/subscriptions/oddlots?in_source=oddlotspodcast\">bloomberg.com/subscriptions/oddlots</a></p> <p><a href=\"http://bloomberg.com/subscriptions/oddlots\">Subscribe to the Odd Lots Newsletter</a><br /><strong>Join the conversation:</strong> <a href=\"https://discord.gg/oddlots\">discord.gg/oddlots</a></p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
+    "published": "2026-08-31",
+    "week": "2026-W36",
+    "audio_url": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/095923e3-5c15-4936-b26b-b4b70018f8d6/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
+    "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/095923e3-5c15-4936-b26b-b4b70018f8d6/transcript?format=TextWithTimestamps&t=1788186924",
+    "episode_url": "https://omny.fm/shows/odd-lots/richmond-fed-s-tom-barkin-on-the-surprisingly-resilient-real-economy",
+    "type": "podcast",
+    "duration_secs": 1877,
+    "transcript_length": 36591,
+    "speaker": "Tom Barkin — Richmond Fed President",
+    "one_line_summary": "The Richmond Fed’s Tom Barkin argues that the U.S. economy remains resilient because consumers are borrowing from the future and spending, even amid high inflation and supply constraints, and that policy should remain cautious about forward guidance.",
+    "summary": "Tom Barkin, speaking at Odd Lots, praised Fed Chair Kevin Warsh’s speech for its clarity and alignment with his view that the economy is solid, citing strong GDP and consumer spending, low unemployment, and a stable job market. Barkin highlighted that consumers are finding ways to spend—through borrowing, reduced savings rates, and spending on housing and discretionary items—despite high gas prices and inflation. He noted that AI investment is creating construction constraints, especially in data centers, but is not yet delivering a broad productivity boom. Barkin also discussed the Fed’s approach to forward guidance, expressing support for the SEP but cautioning against the dot plot’s potential to mislead markets.\n\nKey points include the resilience of consumer spending driven by future borrowing, the impact of AI on construction labor and materials, and the Fed’s balanced view on transparency versus the risks of over‑guidance.\n\nThe transcript ends with Barkin emphasizing the importance of maintaining a clear but flexible policy stance in the face of ongoing inflationary shocks.",
+    "key_themes": [
+      "Consumer Spending Resilience",
+      "AI and Construction Constraints",
+      "Fed Communication Strategy"
+    ],
+    "market_signals": [
+      "Consumers are borrowing from the future to sustain spending",
+      "AI investment is crowding out construction, raising labor and material costs",
+      "The Fed’s SEP is valued for sharpening policy thinking but dot plots may mislead",
+      "Inflationary shocks are becoming more frequent and may require tighter policy",
+      "The Fed is cautious about forward guidance to avoid being trapped"
+    ],
+    "framework_insights": [
+      "Consumer spending resilience is driven by future borrowing and reduced savings rates",
+      "AI’s productivity impact is currently limited to niche areas like call centers and programming",
+      "Construction sector is shifting from office to multifamily and industrial due to labor constraints",
+      "The Fed balances transparency with the risk of over‑guidance, using the SEP to refine policy",
+      "Inflationary shocks are increasingly common, requiring a flexible policy response"
+    ],
+    "market_relevance": "Investors should monitor consumer spending trends and construction labor markets for signals of economic resilience, and be aware that the Fed’s cautious stance on forward guidance may affect rate expectations and market volatility."
+  },
+  {
+    "id": "592b8edf5ee91f60607334908823dd94",
+    "source_id": "capital_allocators",
+    "source_name": "Capital Allocators",
+    "source_org": "Ted Seides",
+    "source_color": "#f43f5e",
+    "title": "Daylian Cain on the Theory of the Pie",
+    "description": "In this clip from Ted Seides’ conversation with Yale negotiations professor Daylian Cain, Daylian lays out Barry Nalebuff’s “theory of the pie” — the idea that a deal’s real value is the unique synergy two sides cannot create without each other.\n\nMarket power shrinks that pie, but it doesn’t hand the stronger party a bigger slice — which is why even the smaller player can fight for half. Essential framing for any allocator negotiating fees, terms, or a co-investment with a larger counterpart.\n\nListen to the full episode: https://www.capitalallocators.com/podcast/best-of-negotiations-daylian-cain/\n\n\nLearn more about Capital Allocators University: https://www.capitalallocators.com/capital-allocators-university/\n\nTry ALEX by Admired Leadership: https://tryalex.admiredleadership.com/\n\nSubscribe to the mailing list: https://capitalallocators.com/\nAccess Transcript with Premium Membership: https://capitalallocators.com/signup/\nSubscribe on Apple Podcast: https://podcasts.apple.com/us/podcast/capital-allocators-with-ted-seides/id1223764016\nFollow Ted on Twitter: https://twitter.com/tseides\nFollow Ted on LinkedIn: https://www.linkedin.com/in/tedseides/\n\nEditing and post-production work for this episode was provided by The Podcast Consultant (https://thepodcastconsultant.com)\n\n#DaylianCain #CapitalAllocators #negotiations",
+    "published": "2026-08-31",
+    "week": "2026-W36",
+    "video_id": "sziz95HW5Vk",
+    "episode_url": "https://www.youtube.com/watch?v=sziz95HW5Vk",
+    "type": "youtube",
+    "duration_secs": null,
+    "transcript_length": 1334,
+    "speaker": "Daylian Cain — Yale negotiations professor",
+    "one_line_summary": "Barry Nalebuff’s theory of the pie shows that a deal’s real value is the unique synergy two sides cannot create without each other, and market power only shrinks that pie, not the slice each side gets.",
+    "summary": "Daylian Cain explains Barry Nalebuff’s theory of the pie, emphasizing that the true value of a deal lies in the unique synergy that cannot be replicated by either party alone. Market power reduces the overall pie but does not grant the stronger party a larger share, meaning even the smaller player can negotiate for a substantial portion. This framing is crucial for allocators negotiating fees, terms, or co‑investments with larger counterparts.",
+    "key_themes": [
+      "Synergy as deal value",
+      "Market power reduces pie size",
+      "Negotiation leverage for smaller players"
+    ],
+    "market_signals": [],
+    "framework_insights": [
+      "Theory of the pie: deal value = unique synergy",
+      "Market power shrinks pie but not slice size",
+      "Smaller player can fight for half of the pie",
+      "Negotiation framing matters for fee and term negotiations",
+      "Co‑investment terms should consider synergy value"
+    ],
+    "market_relevance": "Understanding that market power only shrinks the overall pie, not the slice, helps investors negotiate more effectively with larger partners and avoid overpaying for limited synergies."
+  },
+  {
     "id": "a4a7f5a926ce61cc97108e0e306783cc",
     "source_id": "odd_lots",
     "source_name": "Odd Lots",
