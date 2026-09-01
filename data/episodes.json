@@ -1,5 +1,113 @@
 [
   {
+    "id": "61b44dbb38aab16d63bbcfa3495e5229",
+    "source_id": "odd_lots",
+    "source_name": "Odd Lots",
+    "source_org": "Bloomberg",
+    "source_color": "#06b6d4",
+    "title": "Adam Posen Thinks Things Could Get Very 'Messy' for the Fed",
+    "description": "<p>Kevin Warsh gave a hawkish speech at this year's annual Kansas City Fed Symposium in Jackson Hole, but that doesn't mean the challenges are over. Will the Fed actually pull the trigger on rate hikes? What happens if the central bank doesn't act quickly enough to curb inflation? And how exactly will the new chair want to leave his mark on the Fed? In this episode, we speak with Adam Posen, president of the Peterson Institute for International Economics, who gives us his take on the direction of monetary policy and he grades Warsh's speech. We also discuss why high inflation in the US is different than the inflation seen in other countries, how the Treasury's wading into the bond market affects Fed independence, which of the Fed task forces might be the most impactful, the \"messy jobs\" theory of AI, and what Warsh really means when he says he wants the FOMC to have a &ldquo;good family fight.&rdquo;<br /><br />Get tickets to see <a href=\"https://events.bloombergevents.com/event/ODDLOTSLA/summary\">Odd Lots live</a> in LA!</p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
+    "published": "2026-09-01",
+    "week": "2026-W36",
+    "audio_url": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/ffabb0eb-48cc-4ad4-8c96-b4b701728958/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
+    "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/ffabb0eb-48cc-4ad4-8c96-b4b701728958/transcript?format=TextWithTimestamps&t=1788215601",
+    "episode_url": "https://omny.fm/shows/odd-lots/adam-posen-thinks-things-could-get-very-messy-for-the-fed",
+    "type": "podcast",
+    "duration_secs": 3582,
+    "transcript_length": 56304,
+    "speaker": "Adam Posen — President, Peterson Institute",
+    "one_line_summary": "Adam Posen warns that Fed Chair Warsh’s heavy discretion and lack of clear forward guidance could lead to a messy inflation trajectory.",
+    "summary": "Adam Posen critiques Fed Chair Warsh’s recent speech, noting its B‑minus rating and the confusion it caused among observers. He highlights Warsh’s emphasis on a 2% core PCE target and his view that wage inflation is not a reliable predictor of overall inflation, while also stressing the importance of financial conditions. Posen expresses concern that Warsh’s preference for last‑minute discretion, rather than a rule‑based approach, risks undermining the Fed’s credibility and could exacerbate inflation if rates are not raised decisively. He contrasts this with the more consensus‑driven cultures of the ECB and BoE, and warns that fiscal dominance—particularly the U.S. fiscal laxity—may pressure the Fed to act more aggressively.\n\nKey points include Warsh’s mixed messaging on inflation speed and direction, the potential for fiscal policy to influence monetary stance, and the historical tension between discretion and accountability in Fed governance.\n\nThe discussion underscores the delicate balance the Fed must maintain between flexibility and transparency to preserve its credibility in a high‑inflation environment.",
+    "key_themes": [
+      "Fed discretion vs rules",
+      "Fiscal dominance",
+      "Inflation targeting"
+    ],
+    "market_signals": [
+      "core PCE 2% target",
+      "64, 65 months of above target inflation",
+      "Warsh’s emphasis on inflation speed and direction",
+      "Warsh’s preference for last‑minute discretion",
+      "Fiscal dominance pressure on Fed rate hikes"
+    ],
+    "framework_insights": [
+      "Discretion vs rule debate: a central bank’s credibility hinges on clear, consistent policy signals",
+      "Committee dynamics: consensus‑driven institutions (ECB, BoE) differ from the Fed’s historically chair‑centric model",
+      "Fiscal dominance: excessive fiscal laxity can constrain monetary policy effectiveness",
+      "Inflation targeting: setting a clear numeric target (2% core PCE) provides a benchmark for policy decisions",
+      "Forward guidance: lack of explicit guidance can increase market uncertainty and risk of mispricing"
+    ],
+    "market_relevance": "Investors should monitor Fed speeches for clarity on inflation speed and direction, as ambiguity may lead to volatility in bond yields and risk‑premium adjustments."
+  },
+  {
+    "id": "6d984778c48903e85939929f95415c4c",
+    "source_id": "goldman_sachs",
+    "source_name": "Goldman Sachs",
+    "source_org": "Goldman Sachs",
+    "source_color": "#3b82f6",
+    "title": "The Outlook for Data Center Power Demand as AI Token Use Grows",
+    "description": "Global data center power demand could rise 170% by 2030 from 2025 levels according to Goldman Sachs Research’s Brian Singer and Carly Davenport. They joined hosts Allison Nathan and George Lee on the Goldman Sachs Exchanges podcast to  discuss how data centers will source that power, the key bottlenecks, and the impact of growing pushback from some local communities. \n\nKey takeaways: \n\nThe rise in power demand from AI more broadly is forecast to be the equivalent of adding another Japan to the world’s power consumption by 2030 compared to the start of 2024. \n\nGoldman Sachs Research sees seven key binding constraints for data center power today including price, policy, and people. Delays for connecting data centers to regional US power grids are as long as seven years. \n\nThe Mid-Atlantic region should remain the largest US data center power market until at least 2030, but the Midwest is set to overtake Texas for second place.  \n\nThe opinions and views expressed herein are as of the date of publication, subject to change without notice, and may not necessarily reflect the institutional views of Goldman Sachs or its affiliates. The material provided is intended for informational purposes only, and does not constitute investment, legal, or tax advice, a recommendation from any Goldman Sachs entity to take any particular action or be used as a basis for any other investment decision, or an offer or solicitation to purchase or sell any securities or financial products. Any forward-looking statements, case studies, computations or examples set forth herein are for illustrative purposes only. Past performance is not indicative of future results. Neither Goldman Sachs nor any of its affiliates make any representations or warranties, express or implied, as to the accuracy or completeness of the statements or information contained herein and disclaim any liability whatsoever for reliance on such information for any purpose. Each name of a third-party organization mentioned is the property of the company to which it relates, is used here strictly for informational and identification purposes only and is not used to imply any sponsorship, affiliation, endorsement, ownership or license rights between any such company and Goldman Sachs. This material should not be copied, distributed, published, or reproduced in whole or in part or disclosed by any recipient to any other person without the express written consent of Goldman Sachs. \n\nDisclosures applicable to research with respect to issuers, if any, mentioned herein are available through your Goldman Sachs representative or at http://www.gs.com/research/hedge.html. \n\nA transcript is provided for convenience and may differ from the original video or audio content. Goldman Sachs is not responsible for any errors in the transcript. \n\nDate of Recording August 12, 2026. \n\n© 2026 Goldman Sachs. All rights reserved.",
+    "published": "2026-09-01",
+    "week": "2026-W36",
+    "video_id": "FmswURvExaA",
+    "episode_url": "https://www.youtube.com/watch?v=FmswURvExaA",
+    "type": "youtube",
+    "duration_secs": null,
+    "transcript_length": 2896,
+    "speaker": "Brian Singer — Goldman Sachs Research",
+    "one_line_summary": "Global data‑center power demand could rise 170% by 2030, driven by AI, with major bottlenecks and regional shifts.",
+    "summary": "Goldman Sachs Research forecasts a 170% increase in global data‑center power demand by 2030 relative to 2025 levels, driven largely by AI workloads. The growth is described as equivalent to adding another Japan to world power consumption by 2030. Seven binding constraints—price, policy, people, and others—are cited, with grid connection delays up to seven years. Regionally, the Mid‑Atlantic remains the largest U.S. market through 2030, while the Midwest is set to overtake Texas for second place.",
+    "key_themes": [
+      "Data‑center power demand growth",
+      "AI‑driven energy consumption",
+      "Bottlenecks and constraints"
+    ],
+    "market_signals": [
+      "170% rise in global data‑center power demand by 2030",
+      "Equivalent to adding another Japan to world power consumption by 2030",
+      "Delays for connecting data centers to regional US power grids can be as long as seven years",
+      "Mid‑Atlantic region will remain the largest US data center power market until at least 2030",
+      "Midwest is set to overtake Texas for second place in US data center power market"
+    ],
+    "framework_insights": [
+      "Seven key binding constraints for data center power: price, policy, people, and others",
+      "Power demand growth is driven by AI workloads, creating a new macro‑scale consumption pattern",
+      "Grid connection delays highlight infrastructure bottlenecks that can constrain supply",
+      "Regional shifts in data center markets reflect differing regulatory and supply environments",
+      "The comparison to adding another Japan frames the scale of AI‑driven demand in familiar terms"
+    ],
+    "market_relevance": "Investors should monitor utility pricing, policy developments, and regional infrastructure projects, as these factors will shape the cost and availability of data‑center power and influence the valuation of energy and tech companies tied to AI growth."
+  },
+  {
+    "id": "d782a377fd877a71862be4ba5de0dd6f",
+    "source_id": "capital_allocators",
+    "source_name": "Capital Allocators",
+    "source_org": "Ted Seides",
+    "source_color": "#f43f5e",
+    "title": "Chris Voss on ‘No’-Oriented Questions",
+    "description": "Former FBI lead international kidnapping negotiator Chris Voss explains why the best negotiators get out of the “yes” business. Yes-oriented questions make people feel cornered; a well-placed “no”-oriented question gives them the freedom to surface their real objections.\n\nA practical tool for any high-stakes conversation — a manager meeting, a board discussion, a term sheet — from this clip of Ted Seides’ conversation with Chris on Capital Allocators.\n\nListen to the full episode: https://www.capitalallocators.com/podcast/best-of-negotiations-chris-voss/\n\n\nLearn more about Capital Allocators University: https://www.capitalallocators.com/capital-allocators-university/\n\nTry ALEX by Admired Leadership: https://tryalex.admiredleadership.com/\n\nSubscribe to the mailing list: https://capitalallocators.com/\nAccess Transcript with Premium Membership: https://capitalallocators.com/signup/\nSubscribe on Apple Podcast: https://podcasts.apple.com/us/podcast/capital-allocators-with-ted-seides/id1223764016\nFollow Ted on Twitter: https://twitter.com/tseides\nFollow Ted on LinkedIn: https://www.linkedin.com/in/tedseides/\n\nEditing and post-production work for this episode was provided by The Podcast Consultant (https://thepodcastconsultant.com)\n\n#Negotiation #Persuasion #Communication #Leadership #Dealmaking",
+    "published": "2026-09-01",
+    "week": "2026-W36",
+    "video_id": "BSzkVyE7XpI",
+    "episode_url": "https://www.youtube.com/watch?v=BSzkVyE7XpI",
+    "type": "youtube",
+    "duration_secs": null,
+    "transcript_length": 1308,
+    "speaker": "Chris Voss — Former FBI lead international kidnapping negotiator",
+    "one_line_summary": "Best negotiators avoid yes-oriented questions, using no-oriented ones to let others reveal true objections.",
+    "summary": "Chris Voss explains that effective negotiators steer clear of yes-oriented questions, which can make people feel cornered. Instead, a well-placed no-oriented question grants the other party freedom to surface their real objections. This approach is presented as a practical tool for high-stakes conversations such as manager meetings, board discussions, or term sheet negotiations.",
+    "key_themes": [
+      "Negotiation strategy",
+      "Question framing",
+      "High-stakes communication"
+    ],
+    "market_signals": [],
+    "framework_insights": [
+      "Use no-oriented questions to give interlocutors freedom to express objections, thereby uncovering true concerns."
+    ],
+    "market_relevance": "Understanding how question framing influences negotiation dynamics can improve deal-making efficiency and reduce the risk of misaligned agreements."
+  },
+  {
     "id": "88f6bc94d10afcf9cc0690f5b7c7eeb5",
     "source_id": "odd_lots",
     "source_name": "Odd Lots",
