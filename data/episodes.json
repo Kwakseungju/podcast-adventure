@@ -1,5 +1,85 @@
 [
   {
+    "id": "8e268b5ccb6ff31e541de03d4997ad16",
+    "source_id": "odd_lots",
+    "source_name": "Odd Lots",
+    "source_org": "Bloomberg",
+    "source_color": "#06b6d4",
+    "title": "What's Behind the Big Surge in US Government Bond Yields",
+    "description": "<p>Global bond yields are at their highest level since 2008, with the 30-year US Treasury touching 5% just before Treasury Secretary Scott Bessent announced a surprise increase of his department's bond buyback program and Fed Chairman Kevin Warsh made his hawkish speech at Jackson Hole. So what's driving yields higher? And what options do policymakers have to bring them down? In this episode we speak with Stanford Professor Darrell Duffie, who's been researching bonds for years, including presenting a paper at Jackson Hole in 2023 about how to fix the US Treasury market. A lot has changed since then, and at this year's Jackson Hole symposium, we caught up with Duffie to talk about everything going on in the bond market, as well as the challenge of shrinking the Fed's balance sheet.&nbsp;</p> <p>Get tickets to see&nbsp;<a href=\"https://events.bloombergevents.com/event/ODDLOTSLA/summary\">Odd Lots live</a> in LA!</p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
+    "published": "2026-09-03",
+    "week": "2026-W36",
+    "audio_url": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/52b31e33-08b2-4ea7-a5d0-b4b9014b34d9/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
+    "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/52b31e33-08b2-4ea7-a5d0-b4b9014b34d9/transcript?format=TextWithTimestamps&t=1788379713",
+    "episode_url": "https://omny.fm/shows/odd-lots/whats-behind-the-big-surge-in-us-government-bond-yields",
+    "type": "podcast",
+    "duration_secs": 2196,
+    "transcript_length": 36742,
+    "speaker": "Daryl Duffy — Professor of Finance, Stanford University",
+    "one_line_summary": "US bond yields are climbing because the Treasury’s massive debt supply is outpacing demand from domestic discretionary investors, and Treasury buybacks and Fed actions are not enough to curb the pressure.",
+    "summary": "The discussion centers on the sharp rise in long‑term US Treasury yields, with the 30‑year now above 5%.  Daryl Duffy explains that the Treasury’s debt has grown from about $18 trillion a decade ago to $31 trillion today, creating a supply shock that domestic investors—mutual funds, hedge funds, banks, insurance companies, pension funds—must absorb.  Foreign central banks have largely stopped buying, leaving the burden on domestic discretionary investors who demand higher yields for the added duration.  Treasury buyback programs, such as the recent expansion announced by Scott Besson, are intended to signal that yields are too high, but the market reaction was short‑lived because the Treasury’s power to set yields is limited.  The Fed is avoiding fiscal dominance and will not engage in yield‑curve control, leaving the Treasury to manage its debt maturity profile, which remains around six years on average.",
+    "key_themes": [
+      "Debt supply vs demand",
+      "Treasury buyback strategy",
+      "Fiscal dominance avoidance"
+    ],
+    "market_signals": [
+      "30‑year yield above 5%",
+      "Treasury debt now $31 trillion",
+      "Foreign central banks not buying more",
+      "Domestic discretionary investors need higher yield",
+      "Treasury buyback program signals yields too high"
+    ],
+    "framework_insights": [
+      "Supply‑demand framework for bond yields",
+      "Fiscal dominance is avoided by the Fed",
+      "Bond market power outweighs Treasury interventions",
+      "Debt crowding out risk‑free asset demand",
+      "Investor competition shapes yield levels"
+    ],
+    "market_relevance": "Investors should monitor the 30‑year yield trend, Treasury debt growth, and the effectiveness of buyback signals, as these factors directly influence borrowing costs and portfolio allocation decisions."
+  },
+  {
+    "id": "fad2b1c04dd630afea3b8ba41275f70e",
+    "source_id": "view_from_apollo",
+    "source_name": "The View from Apollo",
+    "source_org": "Apollo Global Management",
+    "source_color": "#a855f7",
+    "title": "Can AI Earn It Back? The $2 Trillion Test and Other Forces Reshaping Markets and Portfolios",
+    "description": "Between now and 2030, roughly $5 trillion will be spent building the infrastructure for AI. To justify that investment, businesses and individuals will need to spend $2 trillion a year on AI services. Whether AI can earn back what's being spent on it is a defining question of this investment cycle, with impacts to be felt across debt and equity markets.\n\nRob Bittencourt, who leads Apollo Thematic Investing, has spent his career tracking exactly these kinds of non-linear shifts.\n\nIn this conversation, Rob breaks down the state of AI adoption and what enterprise ROI pressure means for the cycle and investor portfolios. He also discusses two other themes his team is tracking: US reindustrialization and why private capital may be better positioned than public markets to finance it, and the forces that are beginning to reshape finance itself.\n\nFor more analysis from Apollo Thematic Investing, check out these links:\n\nThe Growing Compute Shortage: https://www.apollo.com/wealth/insights-news/insights/2026/06/growing-compute-shortage\n\nAI’s Labor Ambitions: Separating Myth From Reality: https://www.apollo.com/wealth/insights-news/insights/2026/05/ai-labor-ambitions-separating-myth-from-reality\n\nThe Balance Sheet Behind the AI Revolution: https://www.apollo.com/wealth/insights-news/insights/2026/03/balance-sheet-behind-the-ai-revolution",
+    "published": "2026-09-02",
+    "week": "2026-W36",
+    "audio_url": "https://media.blubrry.com/theviewfromapollo/ins.blubrry.com/theviewfromapollo/56_Allocation_Can_AI_Earn_It_Back_The_2_Trillion_Test_and_Other_Forces_Reshaping_Markets_and_Portfolios_V2.mp3",
+    "transcript_url": null,
+    "episode_url": "https://podcast.show/theviewfromapollo/episode/155247765/",
+    "type": "podcast",
+    "duration_secs": 2327,
+    "transcript_length": 32782,
+    "speaker": "Rob Bittencourt — leads Apollo Thematic Investing",
+    "one_line_summary": "AI’s rapid adoption is driving a $5 trillion infrastructure spend, but investors must navigate concentration risk and mixed ROI signals across hyperscalers and AI‑canary firms.",
+    "summary": "Rob Bittencourt explains that the AI boom, sparked by ChatGPT’s 2022 launch, has accelerated into a multi‑phase cycle: initial hype, compute‑intensive reasoning models, and the recent agentic AI explosion. NVIDIA’s Q2 2023 revenue grew 100% YoY, highlighting the financial impact of AI. The industry is projected to spend roughly $5–6 trillion on AI infrastructure by 2030, with $2 trillion per year on AI‑related services—surpassing the combined size of online advertising ($750–800 bn) and enterprise software (>1 tr). Financing is shifting from free cash flow to investment‑grade bonds, with hyperscalers issuing over $100 bn net last year and $200 bn this year. Meanwhile, a cohort of “AI canaries”—about 200 software and business‑service firms—shows mixed signals: 10 have consensus EBITDA declines, yet valuation multiples are already contracting. Investors face heightened concentration risk as AI exposure permeates equity, high‑yield, and leveraged‑loan markets, especially within the major indices.\n\nKey themes include the accelerating AI cycle, the financing shift toward debt and equity for hyperscalers, and the use of AI canaries as early disruption indicators.",
+    "key_themes": [
+      "AI adoption cycle",
+      "Hyperscaler financing",
+      "AI canary disruption"
+    ],
+    "market_signals": [
+      "NVIDIA Q2 2023 revenue grew 100% YoY",
+      "Hyperscalers issued $100 bn net bonds last year, $200 bn this year",
+      "Projected $5–6 trillion AI infrastructure spend by 2030",
+      "AI services spending projected at $2 trillion per year",
+      "10 of 200 AI canaries have consensus EBITDA declines"
+    ],
+    "framework_insights": [
+      "AI cycle phases: hype → compute demand → agentic AI explosion",
+      "Financing shift: free cash flow → investment‑grade bonds → private credit and equity",
+      "AI canaries as micro‑level disruption signals for macro assessment",
+      "Hyperscalers are not monoliths; evaluate legacy businesses separately",
+      "Concentration risk grows as AI exposure spreads across indices"
+    ],
+    "market_relevance": "Investors must monitor AI‑related capital deployment and valuation compression in hyperscalers and AI canaries to manage concentration risk and capture early ROI opportunities."
+  },
+  {
     "id": "61b44dbb38aab16d63bbcfa3495e5229",
     "source_id": "odd_lots",
     "source_name": "Odd Lots",
