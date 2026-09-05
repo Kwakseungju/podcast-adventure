@@ -1,5 +1,131 @@
 [
   {
+    "id": "108be9dc96fe1d4c7feea761e204f08d",
+    "source_id": "odd_lots",
+    "source_name": "Odd Lots",
+    "source_org": "Bloomberg",
+    "source_color": "#06b6d4",
+    "title": "Why Laser Beams Are the Hottest New Tech in Defense",
+    "description": "<p>Our guest today is Colonel Sanders. More precisely, we speak with Wayne Sanders, a retired US army colonel who is currently senior defense research analyst for Bloomberg Intelligence. During his military career, Sanders specialized in cybersecurity and weapon systems research and his work for BI has recently focused on directed energy weapon systems &mdash; better known as lasers. Just a few decades ago, programs like Star Wars, the Reagan-era missile defense system, seemed like a pipedream; today lasers can shoot down missiles and much more. Sanders tells us about the physics problems researchers had to solve to make laser weapons a reality, why we still don't have laser guns, what makes a weapons system \"exquisite,\" the economic costs that factor into battlefield decisions, and the unique supply chain constraints that affect laser development.</p> <p>Read more:<br /><a href=\"https://www.bloomberg.com/news/features/2026-09-03/uss-abraham-lincoln-sailors-in-pattaya-tell-of-strain-after-months-at-sea?utm_medium=referral&amp;utm_source=podcast&amp;utm_campaign=odd_lots&amp;utm_content=article\">Weary US Sailors Lay Bare War&rsquo;s Strain During Thailand Shore Leave</a><br /><a href=\"https://www.bloomberg.com/news/articles/2026-09-02/german-navy-tests-ballistic-missile-for-the-first-time-at-sea?utm_medium=referral&amp;utm_source=podcast&amp;utm_campaign=odd_lots&amp;utm_content=article\">German Navy Tests Ballistic Missile for the First Time at Sea</a></p> <p>Only <a href=\"http://Bloomberg.com\">http://Bloomberg.com</a> subscribers can get the Odd Lots newsletter in their inbox each week, plus unlimited access to the site and app. Subscribe at&nbsp; <a href=\"https://www.bloomberg.com/subscriptions/oddlots?in_source=oddlotspodcast\">bloomberg.com/subscriptions/oddlots</a></p> <p><a href=\"http://bloomberg.com/subscriptions/oddlots\">Subscribe to the Odd Lots Newsletter</a><br /><strong>Join the conversation:</strong> <a href=\"https://discord.gg/oddlots\">discord.gg/oddlots</a></p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
+    "published": "2026-09-04",
+    "week": "2026-W36",
+    "audio_url": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/7d156235-f387-442d-92d2-b4ba0105ac94/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
+    "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/7d156235-f387-442d-92d2-b4ba0105ac94/transcript?format=TextWithTimestamps&t=1788458850",
+    "episode_url": "https://omny.fm/shows/odd-lots/why-laser-beams-are-the-hottest-new-tech-in-defense",
+    "type": "podcast",
+    "duration_secs": 3197,
+    "transcript_length": 55975,
+    "speaker": "Wayne Sanders — Senior Defense Research Analyst, Bloomberg Intelligence",
+    "one_line_summary": "Directed‑energy weapons are moving from laboratory concepts to field‑ready systems, driven by advances in power density and the need to counter low‑cost drone swarms and ballistic threats.",
+    "summary": "Wayne Sanders explains that laser and high‑powered microwave (HPM) systems fall under directed‑energy weapons, a subset of electronic warfare. He contrasts a laser as a precision “sniper rifle” that concentrates energy on a single target, with an HPM as an “electronic shotgun” that can disable multiple drones or electronics simultaneously. Sanders notes that the U.S. and Israel are advancing deployment programs—Israel’s Iron Beam (also called Laser Dome) and the U.S. Tactical High Energy Laser (FEL) and DARPA’s MIRACLE—while the U.S. ballistic missile supply is dwindling, making energy weapons attractive for cost‑effective defense. He highlights the historical evolution from 1960s chemical lasers to modern solid‑state lasers, noting that the 2006 program termination was due to size and power constraints. The key technical hurdle remains power: lasers require large, high‑power diodes and can be ship‑ or truck‑mounted only if they can draw from shore power or large batteries, whereas HPM can generate peak powers up to 100 megawatts but still faces deployment challenges.\n\nKey themes include the trade‑off between size, weight, and power (SWaP), the shift from chemical to solid‑state lasers, and the strategic imperative to counter inexpensive aerial threats with high‑energy weapons.\n\n",
+    "key_themes": [
+      "Directed‑energy weapons",
+      "Power and SWaP constraints",
+      "Historical evolution of laser tech"
+    ],
+    "market_signals": [
+      "Israel is getting ready to deploy its iron beam program",
+      "The U.S.'s ballistic missile supply has been dwindling",
+      "High powered microwave weapons can generate peak powers up to like 100 megawatts",
+      "Laser kilowatt ratings are misleading compared to HPM megawatt ratings",
+      "The Tactical High Energy Laser (FEL) and DARPA’s MIRACLE programs ended in 2006 due to size and logistics"
+    ],
+    "framework_insights": [
+      "Directed energy is a form of electronic warfare that uses harnessed energy to degrade or destroy targets",
+      "A laser is a precision weapon (sniper rifle) while an HPM is a broader‑area weapon (shotgun)",
+      "Power density and SWaP tradeoffs dictate whether a system can be deployed on a truck, ship, or fixed base",
+      "Historical progression from chemical lasers to solid‑state lasers shows that technological maturity is driven by power availability",
+      "The strategic value of directed energy increases when conventional munitions become cost‑prohibitive for low‑value targets"
+    ],
+    "market_relevance": "Investors in defense contractors and semiconductor suppliers should watch for shifts in R&D spending toward solid‑state laser components and power electronics, as these firms could benefit from the growing demand for deployable directed‑energy systems."
+  },
+  {
+    "id": "135f902be999456e320be04be9119324",
+    "source_id": "goldman_sachs",
+    "source_name": "Goldman Sachs",
+    "source_org": "Goldman Sachs",
+    "source_color": "#3b82f6",
+    "title": "Why Gold Is Expected to Rise to Record Highs",
+    "description": "Gold set a record high in January, but uncertainty about US interest rates and disruption from the Iran war have led to an “elongated pause” in the rally, according to Tony Kim, global head of Metals Trading in Goldman Sachs FICC and Equities. Ultimately, Kim expects strong central bank demand for the yellow metal to help drive gold to new highs, he says on The Markets podcast. Kim also discusses whether fiscal sustainability concerns could spur a rotation into gold, how reduced investment demand from Asia is impacting gold markets, and why silver has been volatile in 2026.\n\nThe opinions and views expressed herein are as of the date of publication, subject to change without notice, and may not necessarily reflect the institutional views of Goldman Sachs or its affiliates. The material provided is intended for informational purposes only, and does not constitute investment advice, a recommendation from any Goldman Sachs entity to take any particular action, or an offer or solicitation to purchase or sell any securities or financial products. This material may contain forward-looking statements. Past performance is not indicative of future results. Neither Goldman Sachs nor any of its affiliates make any representations or warranties, express or implied, as to the accuracy or completeness of the statements or information contained herein and disclaim any liability whatsoever for reliance on such information for any purpose. Each name of a third-party organization mentioned is the property of the company to which it relates, is used here strictly for informational and identification purposes only and is not used to imply any ownership or license rights between any such company and Goldman Sachs. \n\nA transcript is provided for convenience and may differ from the original video or audio content. Goldman Sachs is not responsible for any errors in the transcript. This material should not be copied, distributed, published, or reproduced in whole or in part or disclosed by any recipient to any other person without the express written consent of Goldman Sachs. \n\n© 2026 Goldman Sachs. All rights reserved.",
+    "published": "2026-09-04",
+    "week": "2026-W36",
+    "video_id": "0_Q_sProWjw",
+    "episode_url": "https://www.youtube.com/watch?v=0_Q_sProWjw",
+    "type": "youtube",
+    "duration_secs": null,
+    "transcript_length": 2131,
+    "speaker": "Tony Kim — Global Head of Metals Trading, Goldman Sachs FICC and Equities",
+    "one_line_summary": "Gold’s January record high is stalled by US rate uncertainty and the Iran war, but central bank demand may push it to new peaks.",
+    "summary": "Gold reached a record high in January, but the rally has entered an \"elongated pause\" due to uncertainty about US interest rates and disruption from the Iran war, according to Tony Kim, global head of Metals Trading at Goldman Sachs. Kim believes that strong central bank demand for the yellow metal will ultimately drive gold to new highs. He also touches on fiscal sustainability concerns that could trigger a rotation into gold, the impact of reduced investment demand from Asia on gold markets, and the volatility of silver in 2026.",
+    "key_themes": [
+      "Gold price dynamics",
+      "Central bank demand",
+      "Geopolitical and fiscal drivers"
+    ],
+    "market_signals": [
+      "Gold set a record high in January",
+      "Uncertainty about US interest rates and Iran war have led to an \"elongated pause\" in the rally",
+      "Kim expects strong central bank demand for the yellow metal to help drive gold to new highs"
+    ],
+    "framework_insights": [
+      "Kim highlights central bank demand as a key driver for gold price movements",
+      "He notes that fiscal sustainability concerns can spur a rotation into gold",
+      "He observes that reduced investment demand from Asia impacts gold markets",
+      "He points out that silver volatility in 2026 is linked to broader market conditions"
+    ],
+    "market_relevance": "Investors should monitor US rate policy and geopolitical tensions for short‑term gold price swings, while keeping an eye on central bank buying for long‑term upside."
+  },
+  {
+    "id": "c41e95e7c1e9ee3e95b754116ed0825c",
+    "source_id": "goldman_sachs",
+    "source_name": "Goldman Sachs",
+    "source_org": "Goldman Sachs",
+    "source_color": "#3b82f6",
+    "title": "Dipan Patel on Permira’s ‘Artisanal’ Approach to Private Equity",
+    "description": "Dipan Patel, co-CEO of Permira, joins Goldman Sachs Exchanges: Great Investors to discuss how Permira’s sector-specialized investment approach and private partnership structure differs from firms which have grown through platform scale and breadth. He also discusses Permira’s strategy for transforming portfolio companies and what has made those assets attractive to strategic buyers, and he shares how Permira assesses technology risk in its portfolio.\n\n[00:00] Introduction\n\n[01:07] Early Career Lessons\n\n[01:52] Inside Permira Today\n\n[06:02] Staying Private\n\n[07:26] A Landmark Early Deal\n\n[10:51] Co-Leading at the Top\n\n[14:03] AI and Portfolio Risk\n\n[16:33] Where Capital Goes Next\n\n[20:01] The Liquidity Challenge\n\n[23:01] Culture Under Pressure\n\n[29:52] Philanthropy With Purpose\n\n[31:11] Private Equity's Future\n\n[33:32] Founder Empathy\n\n[35 : 34] Lightning Round\n\nThe opinions and views expressed herein are as of the date of publication, subject to change without notice, and may not necessarily reflect the institutional views of Goldman Sachs or its affiliates. The material provided is intended for informational purposes only, and does not constitute investment advice, a recommendation from any Goldman Sachs entity to take any particular action, or an offer or solicitation to purchase or sell any securities or financial products.  This material may contain forward-looking statements.  Past performance is not indicative of future results. Neither Goldman Sachs nor any of its affiliates make any representations or warranties, express or implied, as to the accuracy or completeness of the statements or information contained herein and disclaim any liability whatsoever for reliance on such information for any purpose.  Each name of a third-party organization mentioned is the property of the company to which it relates, is used here strictly for informational and identification purposes only and is not used to imply any ownership or license rights between any such company and Goldman Sachs.\n\nA transcript is provided for convenience and may differ from the original video or audio content. Goldman Sachs is not responsible for any errors in the transcript. This material should not be copied, distributed, published, or reproduced in whole or in part or disclosed by any recipient to any other person without the express written consent of Goldman Sachs. \n\n© 2026 Goldman Sachs. All rights reserved.",
+    "published": "2026-09-04",
+    "week": "2026-W36",
+    "video_id": "KInzRPEzalU",
+    "episode_url": "https://www.youtube.com/watch?v=KInzRPEzalU",
+    "type": "youtube",
+    "duration_secs": null,
+    "transcript_length": 2425,
+    "speaker": "",
+    "one_line_summary": "",
+    "summary": "",
+    "key_themes": [],
+    "market_signals": [],
+    "framework_insights": [],
+    "market_relevance": ""
+  },
+  {
+    "id": "ffd64fb155301165ce4035eaf0cc5a7a",
+    "source_id": "goldman_sachs",
+    "source_name": "Goldman Sachs",
+    "source_org": "Goldman Sachs",
+    "source_color": "#3b82f6",
+    "title": "Why AI Spending is Driving Rates Higher",
+    "description": "Are global bond markets pricing in a structural shift to higher interest rates?\nIn this month's highlight from The Macro Call, host Mark Wilson, Head of Equities Franchise Sales in Global Banking & Markets, is joined by Jan Scheffel, Global Co-Head of Short Term Macro Trading, and George Cole, Head of European Rates Strategy, to discuss what multi-decade yield highs, hawkish central bank messaging, commodity inflation risks, massive AI infrastructure borrowing, and European elections could mean for global interest rates and fixed income markets.\n\nRecorded on Sept 2, 2026.",
+    "published": "2026-09-04",
+    "week": "2026-W36",
+    "video_id": "jXcrNaMbwgk",
+    "episode_url": "https://www.youtube.com/watch?v=jXcrNaMbwgk",
+    "type": "youtube",
+    "duration_secs": null,
+    "transcript_length": 578,
+    "speaker": "",
+    "one_line_summary": "The episode previews a discussion on factors that could push global interest rates higher, including AI infrastructure borrowing and European elections.",
+    "summary": "The podcast episode, recorded on September 2, 2026, features Mark Wilson, Jan Scheffel, and George Cole discussing potential drivers of higher global interest rates. They highlight multi-decade yield highs, hawkish central bank messaging, commodity inflation risks, massive AI infrastructure borrowing, and European elections as key themes. No specific data or quantitative details are provided in the transcript.",
+    "key_themes": [
+      "Multi-decade yield highs",
+      "Hawkish central bank messaging",
+      "Commodity inflation risks"
+    ],
+    "market_signals": [],
+    "framework_insights": [],
+    "market_relevance": "The discussion signals that several macro factors may converge to elevate rates, which could affect bond pricing and portfolio allocation decisions."
+  },
+  {
     "id": "8e268b5ccb6ff31e541de03d4997ad16",
     "source_id": "odd_lots",
     "source_name": "Odd Lots",
@@ -38,6 +164,85 @@
       "Investor competition shapes yield levels"
     ],
     "market_relevance": "Investors should monitor the 30‑year yield trend, Treasury debt growth, and the effectiveness of buyback signals, as these factors directly influence borrowing costs and portfolio allocation decisions."
+  },
+  {
+    "id": "1a032f10187da5a8ea79dfac006bfac1",
+    "source_id": "credit_edge",
+    "source_name": "The Credit Edge",
+    "source_org": "Bloomberg Intelligence",
+    "source_color": "#f97316",
+    "title": "Columbia Threadneedle Scans AI Debt Rush for Alpha Opportunity",
+    "description": "<p>Columbia Threadneedle is looking to outperform by buying into the flood of debt from companies building artificial intelligence infrastructure. &ldquo;It&rsquo;s really the best place to try to find some volatility and some alpha opportunities here, as long as you can remain nimble,&rdquo; Tom Murphy, the $715 billion manager&rsquo;s head of investment-grade credit, tells Bloomberg News&rsquo; James Crombie and Bloomberg Intelligence&rsquo;s David Havens in the latest Credit Edge podcast. &ldquo;If we start to see all of this investment turn into cash flow, it could really be tremendous,&rdquo; he says. They also discuss fundamental and technical credit market indicators, the September issuance rush and relative value in financial sector bonds.</p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
+    "published": "2026-09-03",
+    "week": "2026-W36",
+    "audio_url": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/e74a35e9-c028-4e5f-a3f7-afb10164a717/c34cb447-3211-4e54-9d42-b4ba011c59e3/audio.mp3?utm_source=Podcast&in_playlist=8792a2e9-d66c-4038-a1fe-afb101654894",
+    "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/c34cb447-3211-4e54-9d42-b4ba011c59e3/transcript?format=TextWithTimestamps&t=1788456166",
+    "episode_url": "https://omny.fm/shows/the-credit-edge-by-bloomberg-intelligence/columbia-threadneedle-scans-ai-debt-rush-for-alpha-opportunity-podcast",
+    "type": "podcast",
+    "duration_secs": 2983,
+    "transcript_length": 56348,
+    "speaker": "Tom Murphy — Head of Investment Grade Credit, Columbia Threadneedle Investments",
+    "one_line_summary": "AI‑driven debt issuance is flooding the market, compressing spreads and forcing credit managers to stay nimble and focus on fundamentals to capture value.",
+    "summary": "Columbia Threadneedle notes that investment‑grade credit is under pressure from a surge in AI infrastructure debt, with issuances of $200‑$250 billion from hyperscalers year‑to‑date and $50 billion in IG data‑center deals. Yields are attractive—Bloomberg Corporate Index at 5.4%, long‑duration credit at 6%—but spreads are thin, with the Bloomberg Corporate Index spread at 15% of yield, a 25‑year low. The firm’s strategy is to maintain a fundamentals‑plus‑technicals framework, stay liquid, and avoid over‑exposure to high‑volatility AI debt while capitalizing on solid balance sheets and over‑funded pension funds. They emphasize the need to monitor spreads as a percentage of yield and to be cautious of construction and leasing risks in new AI debt.\n\nKey data points include record IG issuance in June‑August, AI debt’s rapid pace (seven $25 billion deals this year), and the shift from traditional bank debt cadence to hyperscaler‑driven releases. The discussion highlights the importance of understanding the new risk profile of AI debt and the potential for mispricing as the market adjusts.\n\nThe conversation underscores that while yields remain enticing, the compressed spreads and rapid issuance pace demand a disciplined, fundamentals‑driven approach to avoid being caught in the “sword of Damocles” of AI debt volatility.",
+    "key_themes": [
+      "AI Debt Surge",
+      "Compressed Spreads",
+      "Fundamentals‑Driven Strategy"
+    ],
+    "market_signals": [
+      "Bloomberg Corporate Index spread 15% of yield, 25‑year low",
+      "$200‑$250 billion senior unsecured AI debt issuance year‑to‑date",
+      "$50 billion IG data‑center deals, $60 billion HY data‑center deals",
+      "Record IG issuance June‑August, expectations 200‑250 billion for September",
+      "Seven $25 billion AI debt issuances this year"
+    ],
+    "framework_insights": [
+      "Focus on fundamentals plus technicals plus valuations to navigate volatile markets",
+      "Maintain liquidity and stay nimble to capture opportunistic AI debt while avoiding over‑exposure",
+      "Use spreads as a percentage of yield as a risk metric in high‑yield environments",
+      "Leverage over‑funded pension funds’ glide path to shift into long‑duration credit",
+      "Integrate cross‑asset insights (equity, HY, structured) to assess new AI debt risks"
+    ],
+    "market_relevance": "Investors must recognize that AI debt is redefining credit risk profiles and that compressed spreads may mask underlying construction and leasing risks, making disciplined, fundamentals‑based analysis essential for navigating this evolving landscape."
+  },
+  {
+    "id": "f01c48c452745f34f726a25816385555",
+    "source_id": "goldman_sachs",
+    "source_name": "Goldman Sachs",
+    "source_org": "Goldman Sachs",
+    "source_color": "#3b82f6",
+    "title": "Chairman and CEO David Solomon Joins CNBC to Discuss His Outlook for the US Economy",
+    "description": "David Solomon joined CNBC from the recent G20 meeting to share a constructive US economic outlook, citing resilient consumer behavior and strong earnings and investment activity. He emphasized AI’s potential to boost productivity and long-term growth, while noting trade policy and geopolitics as risks to monitor. He also discussed the firm’s growing presence in Dallas, Salt Lake City, and across the US.",
+    "published": "2026-09-03",
+    "week": "2026-W36",
+    "video_id": "zWn6Q9qGBGA",
+    "episode_url": "https://www.youtube.com/watch?v=zWn6Q9qGBGA",
+    "type": "youtube",
+    "duration_secs": null,
+    "transcript_length": 406,
+    "speaker": "David Solomon — Chairman and CEO, Goldman Sachs",
+    "one_line_summary": "David Solomon projects a constructive US economic outlook, highlighting resilient consumer behavior, strong earnings, AI-driven productivity gains, while warning of trade and geopolitical risks.",
+    "summary": "David Solomon, speaking after the G20 meeting, emphasized a positive US economic outlook grounded in resilient consumer behavior and robust earnings and investment activity. He underscored the transformative potential of AI to boost productivity and long‑term growth, while cautioning that trade policy and geopolitical developments pose significant risks that investors should monitor. Solomon also noted Goldman Sachs’ expanding footprint in Dallas, Salt Lake City, and across the United States as part of its broader growth strategy.",
+    "key_themes": [
+      "Consumer resilience",
+      "AI productivity",
+      "Trade and geopolitical risks"
+    ],
+    "market_signals": [
+      "resilient consumer behavior",
+      "strong earnings and investment activity",
+      "AI’s potential to boost productivity and long‑term growth",
+      "trade policy and geopolitics as risks to monitor",
+      "growing presence in Dallas, Salt Lake City, and across the US"
+    ],
+    "framework_insights": [
+      "AI as a productivity catalyst for long‑term growth",
+      "Consumer resilience as a barometer of economic health",
+      "Trade and geopolitical risk monitoring as a risk management framework",
+      "Geographic expansion to diversify market presence",
+      "Balancing growth optimism with caution on external risks"
+    ],
+    "market_relevance": "The insights highlight key drivers of US economic momentum and potential headwinds, informing portfolio allocation and risk assessment for investors navigating current market dynamics."
   },
   {
     "id": "fad2b1c04dd630afea3b8ba41275f70e",
