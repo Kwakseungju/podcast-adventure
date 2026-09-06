@@ -98,6 +98,18 @@ h1 { font-size: 1.7rem; font-weight: 700; letter-spacing: -.3px; }
 }
 .filter-btn:hover { border-color: var(--accent); color: var(--accent); }
 .filter-btn.active { background: var(--accent); border-color: var(--accent); color: #fff; font-weight: 600; }
+.filter-count {
+  display: inline-block;
+  margin-left: 5px;
+  padding: 0 5px;
+  border-radius: 8px;
+  background: var(--border);
+  color: var(--text-dim);
+  font-size: .7rem;
+  font-variant-numeric: tabular-nums;
+}
+.filter-btn:hover .filter-count { color: var(--accent); }
+.filter-btn.active .filter-count { background: rgba(255,255,255,.22); color: #fff; }
 .stats { display: flex; gap: 16px; }
 .stat { font-size: .82rem; color: var(--text-muted); }
 .stat strong { color: var(--text); }
@@ -395,12 +407,12 @@ footer {
       <span class="brand-icon">◈</span>
       <div>
         <h1>Finance Intelligence</h1>
-        <p class="tagline">Weekly briefings from Credit Edge · Odd Lots · Apollo · Oaktree · Goldman Sachs · Capital Allocators</p>
+        <p class="tagline">Credit Edge · Apollo · Odd Lots · Oaktree · Masters in Business · Invest Like the Best · Asia Centric · Goldman Sachs · Capital Allocators</p>
       </div>
     </div>
     <div class="header-meta">
       <span class="updated-label">Last updated</span>
-      <span class="updated-date">September 6, 2026 at 12:19 UTC</span>
+      <span class="updated-date">September 6, 2026 at 12:32 UTC</span>
     </div>
   </div>
 </header>
@@ -410,17 +422,21 @@ footer {
     <div class="filter-group">
       <span class="filter-label">Filter by source</span>
       <div class="filter-btns">
-        <button class="filter-btn active" data-source="all">All Sources</button>
-        <button class="filter-btn" data-source="credit_edge">Credit Edge</button>
-        <button class="filter-btn" data-source="odd_lots">Odd Lots</button>
-        <button class="filter-btn" data-source="view_from_apollo">Apollo</button>
-        <button class="filter-btn" data-source="oaktree_insight">Oaktree</button>
-        <button class="filter-btn" data-source="goldman_sachs">Goldman Sachs</button>
-        <button class="filter-btn" data-source="capital_allocators">Capital Allocators</button>
+        <button class="filter-btn active" data-source="all">All Sources <span class="filter-count">272</span></button>
+        <button class="filter-btn" data-source="credit_edge">Credit Edge <span class="filter-count">23</span></button>
+        <button class="filter-btn" data-source="view_from_apollo">Apollo <span class="filter-count">10</span></button>
+        <button class="filter-btn" data-source="odd_lots">Odd Lots <span class="filter-count">87</span></button>
+        <button class="filter-btn" data-source="oaktree_insight">Oaktree <span class="filter-count">1</span></button>
+        <button class="filter-btn" data-source="masters_in_business">Masters in Business <span class="filter-count">9</span></button>
+        <button class="filter-btn" data-source="invest_like_the_best">Invest Like the Best <span class="filter-count">4</span></button>
+        <button class="filter-btn" data-source="asia_centric">Asia Centric <span class="filter-count">4</span></button>
+        <button class="filter-btn" data-source="goldman_sachs">Goldman Sachs <span class="filter-count">73</span></button>
+        <button class="filter-btn" data-source="capital_allocators">Capital Allocators <span class="filter-count">61</span></button>
       </div>
     </div>
     <div class="stats">
       <span class="stat"><strong>272</strong> episodes</span>
+      <span class="stat"><strong>9</strong> sources</span>
       <span class="stat"><strong>23</strong> weeks tracked</span>
     </div>
   </div>
@@ -589,7 +605,7 @@ Key themes include the trade‑off between size, weight, and power (SWaP), the s
 <article class="episode-card" data-source="masters_in_business">
   <div class="card-top">
     <div class="card-meta">
-      <span class="source-badge" style="color:#eab308;border-color:#eab308;background:rgba(0,0,0,.3)">◉ Masters in Business</span>
+      <span class="source-badge" style="color:#eab308;border-color:#eab308;background:rgba(0,0,0,.3)">🎧 Bloomberg</span>
       <div style="display:flex;gap:8px;align-items:center">
         <span class="ep-type-badge">Podcast</span>
         <span class="ep-date">2026-09-04</span>
@@ -790,7 +806,7 @@ Key themes include the accelerating AI cycle, the financing shift toward debt an
 <article class="episode-card" data-source="masters_in_business">
   <div class="card-top">
     <div class="card-meta">
-      <span class="source-badge" style="color:#eab308;border-color:#eab308;background:rgba(0,0,0,.3)">◉ Masters in Business</span>
+      <span class="source-badge" style="color:#eab308;border-color:#eab308;background:rgba(0,0,0,.3)">🎧 Bloomberg</span>
       <div style="display:flex;gap:8px;align-items:center">
         <span class="ep-type-badge">Podcast</span>
         <span class="ep-date">2026-09-02</span>
@@ -829,7 +845,7 @@ Key themes include the accelerating AI cycle, the financing shift toward debt an
 <article class="episode-card" data-source="asia_centric">
   <div class="card-top">
     <div class="card-meta">
-      <span class="source-badge" style="color:#d946ef;border-color:#d946ef;background:rgba(0,0,0,.3)">◉ Asia Centric</span>
+      <span class="source-badge" style="color:#d946ef;border-color:#d946ef;background:rgba(0,0,0,.3)">🌏 Bloomberg Intelligence</span>
       <div style="display:flex;gap:8px;align-items:center">
         <span class="ep-type-badge">Podcast</span>
         <span class="ep-date">2026-09-02</span>
@@ -989,7 +1005,7 @@ The discussion underscores the delicate balance the Fed must maintain between fl
 <article class="episode-card" data-source="invest_like_the_best">
   <div class="card-top">
     <div class="card-meta">
-      <span class="source-badge" style="color:#6366f1;border-color:#6366f1;background:rgba(0,0,0,.3)">◉ Invest Like the Best</span>
+      <span class="source-badge" style="color:#6366f1;border-color:#6366f1;background:rgba(0,0,0,.3)">🧭 Colossus</span>
       <div style="display:flex;gap:8px;align-items:center">
         <span class="ep-type-badge">Podcast</span>
         <span class="ep-date">2026-09-01</span>
@@ -1205,7 +1221,7 @@ The discussion highlights that the Fed’s policy is still restrictive, that AI 
 <article class="episode-card" data-source="masters_in_business">
   <div class="card-top">
     <div class="card-meta">
-      <span class="source-badge" style="color:#eab308;border-color:#eab308;background:rgba(0,0,0,.3)">◉ Masters in Business</span>
+      <span class="source-badge" style="color:#eab308;border-color:#eab308;background:rgba(0,0,0,.3)">🎧 Bloomberg</span>
       <div style="display:flex;gap:8px;align-items:center">
         <span class="ep-type-badge">Podcast</span>
         <span class="ep-date">2026-08-28</span>
@@ -1331,7 +1347,7 @@ The discussion underscores how technology, labor dynamics, and yield curve movem
 <article class="episode-card" data-source="masters_in_business">
   <div class="card-top">
     <div class="card-meta">
-      <span class="source-badge" style="color:#eab308;border-color:#eab308;background:rgba(0,0,0,.3)">◉ Masters in Business</span>
+      <span class="source-badge" style="color:#eab308;border-color:#eab308;background:rgba(0,0,0,.3)">🎧 Bloomberg</span>
       <div style="display:flex;gap:8px;align-items:center">
         <span class="ep-type-badge">Podcast</span>
         <span class="ep-date">2026-08-26</span>
@@ -1370,7 +1386,7 @@ The discussion underscores how technology, labor dynamics, and yield curve movem
 <article class="episode-card" data-source="asia_centric">
   <div class="card-top">
     <div class="card-meta">
-      <span class="source-badge" style="color:#d946ef;border-color:#d946ef;background:rgba(0,0,0,.3)">◉ Asia Centric</span>
+      <span class="source-badge" style="color:#d946ef;border-color:#d946ef;background:rgba(0,0,0,.3)">🌏 Bloomberg Intelligence</span>
       <div style="display:flex;gap:8px;align-items:center">
         <span class="ep-type-badge">Podcast</span>
         <span class="ep-date">2026-08-26</span>
@@ -1448,7 +1464,7 @@ The discussion underscores how technology, labor dynamics, and yield curve movem
 <article class="episode-card" data-source="invest_like_the_best">
   <div class="card-top">
     <div class="card-meta">
-      <span class="source-badge" style="color:#6366f1;border-color:#6366f1;background:rgba(0,0,0,.3)">◉ Invest Like the Best</span>
+      <span class="source-badge" style="color:#6366f1;border-color:#6366f1;background:rgba(0,0,0,.3)">🧭 Colossus</span>
       <div style="display:flex;gap:8px;align-items:center">
         <span class="ep-type-badge">Podcast</span>
         <span class="ep-date">2026-08-25</span>
@@ -1745,7 +1761,7 @@ The conversation reveals that while data‑center expansion is technically feasi
 <article class="episode-card" data-source="masters_in_business">
   <div class="card-top">
     <div class="card-meta">
-      <span class="source-badge" style="color:#eab308;border-color:#eab308;background:rgba(0,0,0,.3)">◉ Masters in Business</span>
+      <span class="source-badge" style="color:#eab308;border-color:#eab308;background:rgba(0,0,0,.3)">🎧 Bloomberg</span>
       <div style="display:flex;gap:8px;align-items:center">
         <span class="ep-type-badge">Podcast</span>
         <span class="ep-date">2026-08-21</span>
@@ -1993,7 +2009,7 @@ Overall, the briefing highlights how Apollo’s strategy leverages institutional
 <article class="episode-card" data-source="masters_in_business">
   <div class="card-top">
     <div class="card-meta">
-      <span class="source-badge" style="color:#eab308;border-color:#eab308;background:rgba(0,0,0,.3)">◉ Masters in Business</span>
+      <span class="source-badge" style="color:#eab308;border-color:#eab308;background:rgba(0,0,0,.3)">🎧 Bloomberg</span>
       <div style="display:flex;gap:8px;align-items:center">
         <span class="ep-type-badge">Podcast</span>
         <span class="ep-date">2026-08-19</span>
@@ -2036,7 +2052,7 @@ The overarching message is that divorce is fundamentally a financial and tax iss
 <article class="episode-card" data-source="asia_centric">
   <div class="card-top">
     <div class="card-meta">
-      <span class="source-badge" style="color:#d946ef;border-color:#d946ef;background:rgba(0,0,0,.3)">◉ Asia Centric</span>
+      <span class="source-badge" style="color:#d946ef;border-color:#d946ef;background:rgba(0,0,0,.3)">🌏 Bloomberg Intelligence</span>
       <div style="display:flex;gap:8px;align-items:center">
         <span class="ep-type-badge">Podcast</span>
         <span class="ep-date">2026-08-19</span>
@@ -2182,7 +2198,7 @@ The overarching message is that divorce is fundamentally a financial and tax iss
 <article class="episode-card" data-source="invest_like_the_best">
   <div class="card-top">
     <div class="card-meta">
-      <span class="source-badge" style="color:#6366f1;border-color:#6366f1;background:rgba(0,0,0,.3)">◉ Invest Like the Best</span>
+      <span class="source-badge" style="color:#6366f1;border-color:#6366f1;background:rgba(0,0,0,.3)">🧭 Colossus</span>
       <div style="display:flex;gap:8px;align-items:center">
         <span class="ep-type-badge">Podcast</span>
         <span class="ep-date">2026-08-18</span>
@@ -2395,7 +2411,7 @@ The conversation underscores that AI safety is not a technical problem alone but
 <article class="episode-card" data-source="masters_in_business">
   <div class="card-top">
     <div class="card-meta">
-      <span class="source-badge" style="color:#eab308;border-color:#eab308;background:rgba(0,0,0,.3)">◉ Masters in Business</span>
+      <span class="source-badge" style="color:#eab308;border-color:#eab308;background:rgba(0,0,0,.3)">🎧 Bloomberg</span>
       <div style="display:flex;gap:8px;align-items:center">
         <span class="ep-type-badge">Podcast</span>
         <span class="ep-date">2026-08-14</span>
@@ -2593,7 +2609,7 @@ Key themes include the value of technical expertise in investing, the influence 
 <article class="episode-card" data-source="masters_in_business">
   <div class="card-top">
     <div class="card-meta">
-      <span class="source-badge" style="color:#eab308;border-color:#eab308;background:rgba(0,0,0,.3)">◉ Masters in Business</span>
+      <span class="source-badge" style="color:#eab308;border-color:#eab308;background:rgba(0,0,0,.3)">🎧 Bloomberg</span>
       <div style="display:flex;gap:8px;align-items:center">
         <span class="ep-type-badge">Podcast</span>
         <span class="ep-date">2026-08-12</span>
@@ -2636,7 +2652,7 @@ Key themes include the importance of cultural nuance in Asia, the resilience of 
 <article class="episode-card" data-source="asia_centric">
   <div class="card-top">
     <div class="card-meta">
-      <span class="source-badge" style="color:#d946ef;border-color:#d946ef;background:rgba(0,0,0,.3)">◉ Asia Centric</span>
+      <span class="source-badge" style="color:#d946ef;border-color:#d946ef;background:rgba(0,0,0,.3)">🌏 Bloomberg Intelligence</span>
       <div style="display:flex;gap:8px;align-items:center">
         <span class="ep-type-badge">Podcast</span>
         <span class="ep-date">2026-08-12</span>
@@ -2679,7 +2695,7 @@ The episode underscores the importance of monitoring Fed communication, Treasury
 <article class="episode-card" data-source="invest_like_the_best">
   <div class="card-top">
     <div class="card-meta">
-      <span class="source-badge" style="color:#6366f1;border-color:#6366f1;background:rgba(0,0,0,.3)">◉ Invest Like the Best</span>
+      <span class="source-badge" style="color:#6366f1;border-color:#6366f1;background:rgba(0,0,0,.3)">🧭 Colossus</span>
       <div style="display:flex;gap:8px;align-items:center">
         <span class="ep-type-badge">Podcast</span>
         <span class="ep-date">2026-08-11</span>
@@ -2965,7 +2981,7 @@ The discussion underscores that the next wave of winners will be those who can c
 <article class="episode-card" data-source="masters_in_business">
   <div class="card-top">
     <div class="card-meta">
-      <span class="source-badge" style="color:#eab308;border-color:#eab308;background:rgba(0,0,0,.3)">◉ Masters in Business</span>
+      <span class="source-badge" style="color:#eab308;border-color:#eab308;background:rgba(0,0,0,.3)">🎧 Bloomberg</span>
       <div style="display:flex;gap:8px;align-items:center">
         <span class="ep-type-badge">Podcast</span>
         <span class="ep-date">2026-08-07</span>
@@ -11325,10 +11341,16 @@ Key themes include the value of experiential learning, the importance of alignin
         }
       });
 
-      // Hide weeks that have no visible cards
+      // Hide weeks with no visible cards, and keep each week's count honest
+      // about what the filter is actually showing.
       weekSections.forEach(section => {
         const visible = section.querySelectorAll('.episode-card:not(.filtered-out)');
         section.classList.toggle('hidden', visible.length === 0);
+        const label = section.querySelector('.week-count');
+        if (label) {
+          label.textContent = visible.length +
+            (visible.length === 1 ? ' episode' : ' episodes');
+        }
       });
     });
   });

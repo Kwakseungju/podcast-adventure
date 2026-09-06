@@ -1,22 +1,80 @@
 """Generates a self-contained HTML report from episode data."""
 
+from collections import Counter
 from datetime import datetime, timezone
 from itertools import groupby
 from pathlib import Path
 
+from scripts.config import ALL_SOURCES
+
 
 # ---------------------------------------------------------------------------
-# Source metadata (badge labels / icons)
+# Source metadata
+#   label — badge text on each card
+#   short — filter button text
+#   icon  — badge glyph
+# A source missing here still renders, falling back to the name in config.
 # ---------------------------------------------------------------------------
 
 _SOURCE_META = {
-    "credit_edge":        {"label": "Bloomberg Intelligence", "icon": "📡"},
-    "view_from_apollo":   {"label": "Apollo Global Mgmt",     "icon": "🔭"},
-    "goldman_sachs":      {"label": "Goldman Sachs",           "icon": "▶"},
-    "odd_lots":           {"label": "Bloomberg Odd Lots",      "icon": "🎙"},
-    "oaktree_insight":    {"label": "Oaktree Capital",         "icon": "🌳"},
-    "capital_allocators": {"label": "Capital Allocators",      "icon": "▶"},
+    "credit_edge":          {"label": "Bloomberg Intelligence", "short": "Credit Edge",          "icon": "📡"},
+    "view_from_apollo":     {"label": "Apollo Global Mgmt",     "short": "Apollo",               "icon": "🔭"},
+    "goldman_sachs":        {"label": "Goldman Sachs",          "short": "Goldman Sachs",        "icon": "▶"},
+    "odd_lots":             {"label": "Bloomberg Odd Lots",     "short": "Odd Lots",             "icon": "🎙"},
+    "oaktree_insight":      {"label": "Oaktree Capital",        "short": "Oaktree",              "icon": "🌳"},
+    "capital_allocators":   {"label": "Capital Allocators",     "short": "Capital Allocators",   "icon": "▶"},
+    "masters_in_business":  {"label": "Bloomberg",              "short": "Masters in Business",  "icon": "🎧"},
+    "in_good_company":      {"label": "Norges Bank IM",         "short": "In Good Company",      "icon": "🏛"},
+    "invest_like_the_best": {"label": "Colossus",               "short": "Invest Like the Best", "icon": "🧭"},
+    "asia_centric":         {"label": "Bloomberg Intelligence", "short": "Asia Centric",         "icon": "🌏"},
 }
+
+_CONFIG_NAMES = {s["id"]: s["name"] for s in ALL_SOURCES}
+
+
+def _meta(source_id: str, fallback_name: str = "") -> dict:
+    """Metadata for a source, degrading gracefully for one not listed above."""
+    m = _SOURCE_META.get(source_id)
+    if m:
+        return m
+    name = _CONFIG_NAMES.get(source_id) or fallback_name or source_id
+    return {"label": name, "short": name, "icon": "◉"}
+
+
+def _ordered_source_ids(episodes: list[dict]) -> list[str]:
+    """Sources that actually have episodes, in config order.
+
+    Only sources present in the data get a button — a filter that always
+    yields nothing is worse than no filter. Anything in the data but no
+    longer in config still appears, so removing a source does not orphan
+    its back catalogue.
+    """
+    counts = Counter(e.get("source_id", "") for e in episodes)
+    configured = [s["id"] for s in ALL_SOURCES if counts.get(s["id"])]
+    orphaned = sorted(
+        sid for sid in counts if sid and sid not in {s["id"] for s in ALL_SOURCES}
+    )
+    return configured + orphaned
+
+
+def _filter_buttons(episodes: list[dict]) -> str:
+    counts = Counter(e.get("source_id", "") for e in episodes)
+    names = {e.get("source_id"): e.get("source_name", "") for e in episodes}
+    out = ['<button class="filter-btn active" data-source="all">All Sources '
+           f'<span class="filter-count">{len(episodes)}</span></button>']
+    for sid in _ordered_source_ids(episodes):
+        short = _meta(sid, names.get(sid, ""))["short"]
+        out.append(
+            f'<button class="filter-btn" data-source="{sid}">{short} '
+            f'<span class="filter-count">{counts[sid]}</span></button>'
+        )
+    return "\n        ".join(out)
+
+
+def _tagline(episodes: list[dict]) -> str:
+    ids = _ordered_source_ids(episodes)
+    names = {e.get("source_id"): e.get("source_name", "") for e in episodes}
+    return " · ".join(_meta(sid, names.get(sid, ""))["short"] for sid in ids)
 
 # ---------------------------------------------------------------------------
 # HTML skeleton
@@ -40,7 +98,7 @@ _HTML = """\
       <span class="brand-icon">◈</span>
       <div>
         <h1>Finance Intelligence</h1>
-        <p class="tagline">Weekly briefings from Credit Edge · Odd Lots · Apollo · Oaktree · Goldman Sachs · Capital Allocators</p>
+        <p class="tagline">{tagline}</p>
       </div>
     </div>
     <div class="header-meta">
@@ -55,17 +113,12 @@ _HTML = """\
     <div class="filter-group">
       <span class="filter-label">Filter by source</span>
       <div class="filter-btns">
-        <button class="filter-btn active" data-source="all">All Sources</button>
-        <button class="filter-btn" data-source="credit_edge">Credit Edge</button>
-        <button class="filter-btn" data-source="odd_lots">Odd Lots</button>
-        <button class="filter-btn" data-source="view_from_apollo">Apollo</button>
-        <button class="filter-btn" data-source="oaktree_insight">Oaktree</button>
-        <button class="filter-btn" data-source="goldman_sachs">Goldman Sachs</button>
-        <button class="filter-btn" data-source="capital_allocators">Capital Allocators</button>
+        {filter_buttons}
       </div>
     </div>
     <div class="stats">
       <span class="stat"><strong>{total_episodes}</strong> episodes</span>
+      <span class="stat"><strong>{total_sources}</strong> sources</span>
       <span class="stat"><strong>{total_weeks}</strong> weeks tracked</span>
     </div>
   </div>
@@ -195,6 +248,18 @@ h1 { font-size: 1.7rem; font-weight: 700; letter-spacing: -.3px; }
 }
 .filter-btn:hover { border-color: var(--accent); color: var(--accent); }
 .filter-btn.active { background: var(--accent); border-color: var(--accent); color: #fff; font-weight: 600; }
+.filter-count {
+  display: inline-block;
+  margin-left: 5px;
+  padding: 0 5px;
+  border-radius: 8px;
+  background: var(--border);
+  color: var(--text-dim);
+  font-size: .7rem;
+  font-variant-numeric: tabular-nums;
+}
+.filter-btn:hover .filter-count { color: var(--accent); }
+.filter-btn.active .filter-count { background: rgba(255,255,255,.22); color: #fff; }
 .stats { display: flex; gap: 16px; }
 .stat { font-size: .82rem; color: var(--text-muted); }
 .stat strong { color: var(--text); }
@@ -509,10 +574,16 @@ _JS = """\
         }
       });
 
-      // Hide weeks that have no visible cards
+      // Hide weeks with no visible cards, and keep each week's count honest
+      // about what the filter is actually showing.
       weekSections.forEach(section => {
         const visible = section.querySelectorAll('.episode-card:not(.filtered-out)');
         section.classList.toggle('hidden', visible.length === 0);
+        const label = section.querySelector('.week-count');
+        if (label) {
+          label.textContent = visible.length +
+            (visible.length === 1 ? ' episode' : ' episodes');
+        }
       });
     });
   });
@@ -564,7 +635,7 @@ def _render_takeaways(market_signals: list, framework_insights: list, key_takeaw
 
 
 def _render_card(ep: dict) -> str:
-    meta = _SOURCE_META.get(ep.get("source_id", ""), {"label": ep.get("source_name", ""), "icon": "◉"})
+    meta = _meta(ep.get("source_id", ""), ep.get("source_name", ""))
     color = ep.get("source_color", "#58a6ff")
     source_id = ep.get("source_id", "")
     ep_type = ep.get("type", "podcast")
@@ -680,6 +751,9 @@ def generate_html(output_path: Path, episodes: list[dict]) -> None:
         updated=updated,
         total_episodes=len(episodes),
         total_weeks=total_weeks,
+        total_sources=len(_ordered_source_ids(episodes)),
+        tagline=_tagline(episodes),
+        filter_buttons=_filter_buttons(episodes),
         weeks_html=weeks_html,
         empty_msg=empty_msg,
     )
