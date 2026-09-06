@@ -13,6 +13,8 @@ import uuid
 
 import requests
 
+from scripts.config import MAX_AUDIO_MINUTES
+
 _TMP = tempfile.gettempdir()  # works on both Windows and Linux
 
 
@@ -112,10 +114,11 @@ def _whisper_from_url(url: str, is_youtube: bool) -> str | None:
                 with open(raw, "wb") as f:
                     for chunk in r.iter_content(chunk_size=65536):
                         f.write(chunk)
-            # Compress to mono 32kHz mp3 via ffmpeg
+            # Compress to mono 16kHz mp3 via ffmpeg, keeping only the opening
+            # stretch — see MAX_AUDIO_MINUTES for why truncating is free here.
             ffmpeg_result = subprocess.run(
-                ["ffmpeg", "-y", "-i", raw, "-ac", "1", "-ar", "16000",
-                 "-b:a", "32k", tmp],
+                ["ffmpeg", "-y", "-i", raw, "-t", str(MAX_AUDIO_MINUTES * 60),
+                 "-ac", "1", "-ar", "16000", "-b:a", "32k", tmp],
                 capture_output=True, timeout=180,
             )
             os.unlink(raw)

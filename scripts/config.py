@@ -115,3 +115,11 @@ MAX_TRANSCRIPT_CHARS = 18_000
 # Pause between summarization calls. The free tier allows 8K tokens/minute and
 # each call spends ~5.3K, so this keeps a sustained run just under the limit.
 SUMMARIZE_SLEEP_SECS = 45
+
+# Only transcribe this much of an episode's audio. Whisper's API rejects files
+# over 25MB, and a 3-hour show still exceeds that at 32kbps mono — which is why
+# long-form feeds used to fall back to their description. Truncating costs
+# nothing today because MAX_TRANSCRIPT_CHARS already caps what reaches the
+# summarizer at roughly the first 30 minutes of speech; this just stops us
+# downloading and compressing audio no one ever reads.
+MAX_AUDIO_MINUTES = 40
