@@ -1,5 +1,8 @@
+import gzip
 import hashlib
 import traceback
+import urllib.request
+import zlib
 from datetime import datetime, timedelta, timezone
 
 import feedparser
@@ -11,6 +14,51 @@ from scripts.config import (
     PODCAST_SOURCES,
     YOUTUBE_SOURCES,
 )
+
+
+_USER_AGENT = (
+    "Mozilla/5.0 (compatible; PodcastIntelligence/1.0; "
+    "+https://github.com/Kwakseungju/podcast-adventure)"
+)
+
+
+def _fetch_feed_bytes(url: str, timeout: int = 30) -> bytes:
+    """Fetch a feed's bytes rather than letting feedparser fetch it.
+
+    feedparser trusts the Content-Encoding header and gunzips the body
+    unconditionally. Megaphone's CDN sometimes labels a response gzip while
+    returning a stream zlib rejects ("invalid stored block lengths"), and that
+    error raises straight out of feedparser.parse(). The same URL serves a
+    valid body to other clients, so this is only reproducible from some hosts.
+
+    Ask for gzip first — these feeds run to several megabytes — and retry
+    uncompressed when the body will not decompress.
+    """
+    last_exc: Exception | None = None
+    for accept in ("gzip, deflate", "identity"):
+        req = urllib.request.Request(
+            url, headers={"User-Agent": _USER_AGENT, "Accept-Encoding": accept}
+        )
+        try:
+            with urllib.request.urlopen(req, timeout=timeout) as resp:
+                raw = resp.read()
+                encoding = (resp.headers.get("Content-Encoding") or "").lower()
+        except Exception as exc:  # network/HTTP error — retry, then give up
+            last_exc = exc
+            continue
+
+        if "gzip" in encoding or raw[:2] == b"\x1f\x8b":
+            try:
+                return gzip.decompress(raw)
+            # A corrupt body raises zlib.error; a truncated one raises
+            # EOFError, which is not an OSError subclass. Catch both.
+            except (OSError, zlib.error, EOFError) as exc:
+                print(f"  gzip body rejected ({exc}); retrying uncompressed")
+                last_exc = exc
+                continue
+        return raw
+
+    raise RuntimeError(f"could not fetch {url}: {last_exc}")
 
 
 def _episode_id(source_id: str, title: str, published: str) -> str:
@@ -53,7 +101,7 @@ def _get_transcript_url(entry) -> str | None:
 
 def fetch_rss_episodes(source: dict, cutoff: datetime) -> list[dict]:
     print(f"  Parsing RSS: {source['feed_url']}")
-    feed = feedparser.parse(source["feed_url"])
+    feed = feedparser.parse(_fetch_feed_bytes(source["feed_url"]))
 
     if feed.bozo and not feed.entries:
         print(f"  Feed parse error: {feed.bozo_exception}")
@@ -112,7 +160,7 @@ def fetch_youtube_rss_episodes(source: dict, cutoff: datetime) -> list[dict]:
     feed_url = f"https://www.youtube.com/feeds/videos.xml?channel_id={channel_id}"
     print(f"  Parsing YouTube RSS: {feed_url}")
 
-    feed = feedparser.parse(feed_url)
+    feed = feedparser.parse(_fetch_feed_bytes(feed_url))
     if feed.bozo and not feed.entries:
         print(f"  YouTube RSS parse error: {feed.bozo_exception}")
         return []
