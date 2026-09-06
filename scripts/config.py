@@ -116,10 +116,16 @@ MAX_TRANSCRIPT_CHARS = 18_000
 # each call spends ~5.3K, so this keeps a sustained run just under the limit.
 SUMMARIZE_SLEEP_SECS = 45
 
-# Only transcribe this much of an episode's audio. Whisper's API rejects files
-# over 25MB, and a 3-hour show still exceeds that at 32kbps mono — which is why
-# long-form feeds used to fall back to their description. Truncating costs
-# nothing today because MAX_TRANSCRIPT_CHARS already caps what reaches the
-# summarizer at roughly the first 30 minutes of speech; this just stops us
-# downloading and compressing audio no one ever reads.
+# Only transcribe this much of an episode's audio. Costs nothing today because
+# MAX_TRANSCRIPT_CHARS already caps what reaches the summarizer at roughly the
+# first 30 minutes of speech, so the tail was downloaded, compressed, and then
+# discarded unread. Also keeps the Whisper upload well under its 25MB limit.
 MAX_AUDIO_MINUTES = 40
+
+# Skip an episode entirely when the feed says it runs longer than this. A
+# single marathon episode would otherwise monopolize a run's download, ffmpeg,
+# and Whisper budget for one entry out of twenty. Nothing in the current
+# lineup comes close — the longest across all nine sources is 82 minutes —
+# so this is a guard against a future outlier, not a filter on today's shows.
+# Episodes with no duration in the feed are kept; absence is not length.
+MAX_EPISODE_MINUTES = 150

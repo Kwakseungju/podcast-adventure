@@ -9,6 +9,7 @@ import feedparser
 
 from scripts.config import (
     DAYS_LOOKBACK,
+    MAX_EPISODE_MINUTES,
     MAX_EPISODES_PER_SOURCE,
     MIN_YOUTUBE_DESC_CHARS,
     PODCAST_SOURCES,
@@ -107,6 +108,8 @@ def fetch_rss_episodes(source: dict, cutoff: datetime) -> list[dict]:
         print(f"  Feed parse error: {feed.bozo_exception}")
         return []
 
+    skipped_long = 0
+
     episodes = []
     for entry in feed.entries:
         pub_date = _parse_date(entry)
@@ -147,10 +150,19 @@ def fetch_rss_episodes(source: dict, cutoff: datetime) -> list[dict]:
             except (ValueError, IndexError):
                 pass
 
+        secs = ep["duration_secs"]
+        if secs and secs > MAX_EPISODE_MINUTES * 60:
+            print(f"  Skipping {secs // 60}min episode (over "
+                  f"{MAX_EPISODE_MINUTES}min): {title[:48]}")
+            skipped_long += 1
+            continue
+
         episodes.append(ep)
         if len(episodes) >= MAX_EPISODES_PER_SOURCE:
             break
 
+    if skipped_long:
+        print(f"  Skipped {skipped_long} episode(s) over {MAX_EPISODE_MINUTES}min")
     return episodes
 
 
