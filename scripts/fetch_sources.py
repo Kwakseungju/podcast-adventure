@@ -1,4 +1,5 @@
 import hashlib
+import traceback
 from datetime import datetime, timedelta, timezone
 
 import feedparser
@@ -167,18 +168,25 @@ def fetch_all_new_episodes(existing_ids: set[str]) -> list[dict]:
     cutoff = datetime.now(timezone.utc) - timedelta(days=DAYS_LOOKBACK)
     new_episodes = []
 
-    for source in PODCAST_SOURCES:
-        print(f"Fetching podcast: {source['name']}")
-        eps = fetch_rss_episodes(source, cutoff)
+    def _collect(source: dict, label: str, fetcher) -> None:
+        # One unreachable or malformed feed must not take down the whole run.
+        # Print the traceback so a broken source is diagnosable from the job
+        # log rather than silently dropping out of the report.
+        print(f"Fetching {label}: {source['name']}")
+        try:
+            eps = fetcher(source, cutoff)
+        except Exception:
+            print(f"  FEED ERROR for {source['id']} — skipping this source:")
+            traceback.print_exc()
+            return
         fresh = [e for e in eps if e["id"] not in existing_ids]
         print(f"  {len(fresh)} new episode(s) out of {len(eps)} fetched")
         new_episodes.extend(fresh)
 
+    for source in PODCAST_SOURCES:
+        _collect(source, "podcast", fetch_rss_episodes)
+
     for source in YOUTUBE_SOURCES:
-        print(f"Fetching YouTube: {source['name']}")
-        eps = fetch_youtube_rss_episodes(source, cutoff)
-        fresh = [e for e in eps if e["id"] not in existing_ids]
-        print(f"  {len(fresh)} new episode(s) out of {len(eps)} fetched")
-        new_episodes.extend(fresh)
+        _collect(source, "YouTube", fetch_youtube_rss_episodes)
 
     return new_episodes
