@@ -35,6 +35,42 @@ PODCAST_SOURCES = [
         "color": "#10b981",  # green
         "episode_url_base": "https://open.spotify.com/show/6UllvbuIsyPESs38EWPanH",
     },
+    {
+        "id": "masters_in_business",
+        "name": "Masters in Business",
+        "org": "Bloomberg",
+        "type": "rss",
+        "feed_url": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/4e4cd910-40a1-4619-a5f3-ae2b0012ffff/5873a3cb-298f-40bc-b71f-ae2b0013000d/podcast.rss",
+        "color": "#eab308",  # amber
+        "episode_url_base": "https://podcasts.apple.com/us/podcast/masters-in-business/id730188152",
+    },
+    {
+        "id": "in_good_company",
+        "name": "In Good Company",
+        "org": "Norges Bank Investment Management",
+        "type": "rss",
+        "feed_url": "https://feeds.acast.com/public/shows/622618c7057f3400120d15db",
+        "color": "#14b8a6",  # teal
+        "episode_url_base": "https://podcasts.apple.com/us/podcast/in-good-company-with-nicolai-tangen/id1614211565",
+    },
+    {
+        "id": "invest_like_the_best",
+        "name": "Invest Like the Best",
+        "org": "Colossus",
+        "type": "rss",
+        "feed_url": "https://feeds.megaphone.fm/CLS2859450455",
+        "color": "#6366f1",  # indigo
+        "episode_url_base": "https://podcasts.apple.com/us/podcast/invest-like-the-best-with-patrick-oshaughnessy/id1154105909",
+    },
+    {
+        "id": "asia_centric",
+        "name": "Asia Centric",
+        "org": "Bloomberg Intelligence",
+        "type": "rss",
+        "feed_url": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/992d604b-06ca-40cb-88b2-af6c016f5aa0/75a9f17c-2ff1-42c9-9a27-af6c016fae89/podcast.rss",
+        "color": "#d946ef",  # fuchsia
+        "episode_url_base": "https://podcasts.apple.com/us/podcast/asia-centric-by-bloomberg-intelligence/id1567680325",
+    },
 ]
 
 YOUTUBE_SOURCES = [

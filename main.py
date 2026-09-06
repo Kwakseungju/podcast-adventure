@@ -29,6 +29,10 @@ def main() -> None:
     print(f"Loaded {len(episodes)} existing episode(s)\n")
 
     new_episodes = fetch_all_new_episodes(existing_ids)
+    # Newest first. If the run is cut short by quota, what lands is the most
+    # recent episodes across every source, rather than everything from the
+    # first few feeds and nothing from the rest.
+    new_episodes.sort(key=lambda e: e.get("published", ""), reverse=True)
     print(f"\nFound {len(new_episodes)} new episode(s) to process")
     for ep in new_episodes:
         print(f"  - [{ep['source_id']}] {ep['title'][:60]} | desc={len(ep.get('description',''))}c")
@@ -36,6 +40,7 @@ def main() -> None:
 
     processed = 0
     failed = 0
+    rate_limited = False
 
     for ep in new_episodes:
         print(f"--- Processing: [{ep['source_name']}] {ep['title']} ({ep['published']}) ---")
@@ -64,6 +69,7 @@ def main() -> None:
             if "429" in err:
                 print(f"  API rate limit reached: {exc}\n")
                 del ep["transcript"]
+                rate_limited = True
                 break  # quota exhausted; remaining episodes will be picked up tomorrow
             print(f"  Summarization failed: {exc}\n")
             failed += 1
@@ -93,6 +99,14 @@ def main() -> None:
     # Exiting non-zero also skips the commit step, so a failing pipeline stops
     # publishing timestamp-only updates that make the site look current.
     if new_episodes and processed == 0:
+        if rate_limited:
+            # Out of quota, not broken. Nothing new to publish today, but the
+            # backlog is intact and tomorrow's run will pick it up.
+            print(
+                f"\nGroq quota exhausted before any episode completed. "
+                f"{len(new_episodes)} episode(s) deferred to the next run."
+            )
+            return
         print(
             f"\nERROR: {len(new_episodes)} episode(s) were queued but none were "
             f"processed ({failed} failed). Pipeline is broken — not publishing."
