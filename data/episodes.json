@@ -1,5 +1,102 @@
 [
   {
+    "id": "b39c3e21ad1f8e82adb36dea3579d2c6",
+    "source_id": "odd_lots",
+    "source_name": "Odd Lots",
+    "source_org": "Bloomberg",
+    "source_color": "#06b6d4",
+    "title": "Why Money Launderers Love $100 Bills",
+    "description": "<p>Hardly anyone nowadays seems to carry much cash, never mind carrying around a bunch of $100 bills. So why does the amount of physical cash in circulation &mdash; especially big denominations like the $100 bill &mdash; keep increasing? There's a pretty obvious answer. All those dollars are being laundered and used by criminal enterprises. In this episode, we speak with journalist Oliver Bullough, author of <em>Everybody Loves Our Dollars: How Money Laundering Won</em>, about this cash paradox. We discuss how cartels balance their books by trading drugs for farm equipment, the gigantic parallel financial system that undergirds global money laundering networks, and why money laundering resembles Renaissance-era banking.</p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
+    "published": "2026-09-07",
+    "week": "2026-W37",
+    "audio_url": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/bbee8dff-1ad3-4ccd-b707-b4bb00f7df11/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
+    "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/bbee8dff-1ad3-4ccd-b707-b4bb00f7df11/transcript?format=TextWithTimestamps&t=1788534490",
+    "episode_url": "https://omny.fm/shows/odd-lots/why-money-launderers-love-100-bills",
+    "type": "podcast",
+    "duration_secs": 3271,
+    "transcript_length": 59789,
+    "speaker": "Oliver Bullough — journalist and author of Everybody Loves Our Dollars",
+    "one_line_summary": "Money laundering is estimated at 2–5% of global GDP, or $2–5 trillion, largely hidden in cash and trade, and current AML compliance costs $200 billion a year with limited effectiveness.",
+    "summary": "The episode discusses the scale of money laundering, citing estimates of 2–5% of global GDP—$2–5 trillion—based on a 1990s IMF estimate. It highlights that cash remains a major vehicle, with 85% of $2.4 trillion in circulation being $100 bills, and that trade‑based laundering may reach $1 trillion annually. The hosts note that AML compliance costs $200 billion per year, yet the system is described as laborious and largely ineffective, with banks filing millions of suspicious activity reports but still failing to stop launderers. Examples include drug money exchanged for tractors or luxury goods, and the use of high‑value items like watches to move wealth across borders.\n\nKey themes include the persistence of cash in illicit flows, the inadequacy of current regulatory frameworks, the scale of trade‑based laundering, and the economic cost of AML compliance.\n\nThe discussion underscores that money laundering remains a hidden, growing part of the global economy, with significant implications for financial stability and regulatory policy.",
+    "key_themes": [
+      "Cash dominance in illicit flows",
+      "Regulatory inefficacy and cost",
+      "Trade‑based laundering scale"
+    ],
+    "market_signals": [
+      "85% of $2.4 trillion in circulation is $100 bills",
+      "Money laundering estimated at 2–5% of global GDP, $2–5 trillion",
+      "Global AML compliance costs $200 billion a year",
+      "Trade‑based laundering estimated at $1 trillion a year",
+      "Banks file millions of suspicious activity reports but still fail to stop laundering"
+    ],
+    "framework_insights": [
+      "Money laundering estimates rely on historical IMF data and remain a guesstimate, illustrating the difficulty of measuring illicit activity",
+      "Cash remains a preferred tool for criminals because it is hard to trace, showing the importance of physical currency in illicit networks",
+      "Trade‑based laundering exploits legitimate trade channels, demonstrating how value can be moved without moving money",
+      "Regulatory frameworks can be intrusive and costly yet ineffective, highlighting the need for smarter enforcement mechanisms",
+      "The persistence of money laundering at a share of global GDP suggests that regulatory efforts have not reduced its relative size, indicating a need for systemic change"
+    ],
+    "market_relevance": "Investors should be aware that a large, hidden portion of global wealth circulates outside regulated channels, potentially impacting financial stability and the effectiveness of AML policies that could influence banking costs and risk assessments."
+  },
+  {
+    "id": "10815149c9ee62e0bdd3832704e5943f",
+    "source_id": "masters_in_business",
+    "source_name": "Masters in Business",
+    "source_org": "Bloomberg",
+    "source_color": "#eab308",
+    "title": "Introducing: Bloomberg Money",
+    "description": "<p>Bloomberg Money is a new, weekly podcast focused on YOUR money. Listen for wealth strategies, retirement tips and a personal finance insights. Join Tom Keene and Scarlet Fu for new episodes every Friday.&nbsp; &nbsp;<br /><br />Listen on Apple: &nbsp;<a href=\"https://podcasts.apple.com/us/podcast/bloomberg-money/id6803227140\">https://podcasts.apple.com/us/podcast/bloomberg-money/id6803227140</a>&nbsp; &nbsp; &nbsp;<br />Listen on Spotify: &nbsp;<a href=\"https://open.spotify.com/show/3lvzLLAZMdrxTB6y68Nb5g\">https://open.spotify.com/show/3lvzLLAZMdrxTB6y68Nb5g</a></p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
+    "published": "2026-09-07",
+    "week": "2026-W37",
+    "audio_url": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/4e4cd910-40a1-4619-a5f3-ae2b0012ffff/9f8773fe-2345-4ea7-8455-b4b100a0d8c9/audio.mp3?utm_source=Podcast&in_playlist=5873a3cb-298f-40bc-b71f-ae2b0013000d",
+    "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/9f8773fe-2345-4ea7-8455-b4b100a0d8c9/transcript?format=TextWithTimestamps&t=1787651655",
+    "episode_url": "https://omny.fm/shows/masters-in-business/introducing-bloomberg-money",
+    "type": "podcast",
+    "duration_secs": 30,
+    "transcript_length": 609,
+    "speaker": "",
+    "one_line_summary": "Bloomberg Money introduces a weekly podcast focused on personal finance, investing, and retirement.",
+    "summary": "Bloomberg Money is a new weekly podcast that aims to help listeners understand how market and economic developments affect their personal finances. The show will feature conversations with leading economists, strategists, and wealth managers, and will be available on Apple, Spotify, and other platforms. The hosts, Scarlet Foo and Tom Keen, emphasize smart conversations that help listeners make better financial decisions.",
+    "key_themes": [
+      "Personal finance",
+      "Investing",
+      "Retirement"
+    ],
+    "market_signals": [],
+    "framework_insights": [],
+    "market_relevance": "The podcast offers a platform for investors to gain insights into how macroeconomic trends translate into personal financial decisions, potentially influencing individual investment strategies."
+  },
+  {
+    "id": "67bfddb67a395f5640523a124fc216a5",
+    "source_id": "capital_allocators",
+    "source_name": "Capital Allocators",
+    "source_org": "Ted Seides",
+    "source_color": "#f43f5e",
+    "title": "Katy Milkman: Temptation Bundling, Explained",
+    "description": "Katy Milkman, the James G. Dinan Professor at Wharton and author of How to Change, explains temptation bundling — pairing something you love with something you should do, so the hard habit becomes instantly rewarding. She only let herself enjoy page-turner audiobooks at the gym, and soon couldn’t wait to work out.\n\nFrom Ted Seides’s conversation with Katy Milkman — How to Change (Capital Allocators, EP.199). Full episode: https://www.capitalallocators.com/podcast/how-to-change/\n\nLearn more about Capital Allocators University: https://www.capitalallocators.com/capital-allocators-university/\nTry ALEX by Admired Leadership: https://tryalex.admiredleadership.com/\n\nSubscribe to the mailing list: https://capitalallocators.com/\nAccess the transcript with Premium Membership: https://capitalallocators.com/signup\nListen on Apple Podcasts: https://podcasts.apple.com/us/podcast/capital-allocators-inside-the-institutional/id1223764016\nFollow Ted on Twitter/X: https://twitter.com/tseides\nTed on LinkedIn: https://www.linkedin.com/in/tedseides/\n\nEditing and post-production by The Podcast Consultant: https://thepodcastconsultant.com\n\n\n#KatyMilkman #HowToChange #TemptationBundling #BehaviorChange #Habits #CapitalAllocators #BehavioralEconomics",
+    "published": "2026-09-07",
+    "week": "2026-W37",
+    "video_id": "p2l4QYA79UE",
+    "episode_url": "https://www.youtube.com/watch?v=p2l4QYA79UE",
+    "type": "youtube",
+    "duration_secs": null,
+    "transcript_length": 1245,
+    "speaker": "Katy Milkman — James G. Dinan Professor at Wharton",
+    "one_line_summary": "Temptation bundling pairs a rewarding activity with a necessary one to make hard habits instantly rewarding.",
+    "summary": "Katy Milkman explains temptation bundling, a behavioral technique that pairs something you love with something you should do, turning a difficult habit into an instantly rewarding experience. She illustrates the concept with her personal example of only listening to page‑turner audiobooks at the gym, which eventually made her eager to work out. The discussion is framed within her broader work on behavior change and habit formation, as highlighted in her book \"How to Change.\"",
+    "key_themes": [
+      "Behavioral economics",
+      "Habit formation",
+      "Behavior change techniques"
+    ],
+    "market_signals": [],
+    "framework_insights": [
+      "Temptation bundling: pair a desirable reward with a necessary action to create instant gratification and reinforce the desired behavior."
+    ],
+    "market_relevance": "Understanding simple behavioral nudges like temptation bundling can inform product design, employee wellness programs, and consumer engagement strategies, offering a low‑cost lever to influence habits in real time."
+  },
+  {
     "id": "108be9dc96fe1d4c7feea761e204f08d",
     "source_id": "odd_lots",
     "source_name": "Odd Lots",
@@ -164,6 +261,34 @@
       "Behavioral finance in 401(k) design: automate enrollment and escalation to reduce human bias"
     ],
     "market_relevance": "Vanguard’s emphasis on low‑cost, long‑term investing and its proven ability to navigate crises offer a benchmark for asset managers today, while its behavioral‑finance‑driven 401(k) strategies illustrate how automation can improve retirement outcomes in a volatile market."
+  },
+  {
+    "id": "2e0670498f5cc42b7dd97c04444c52ee",
+    "source_id": "in_good_company",
+    "source_name": "In Good Company",
+    "source_org": "Norges Bank Investment Management",
+    "source_color": "#14b8a6",
+    "title": "Friday Wrap-Up: Leadership Longevity and Nicolai's biggest regret",
+    "description": "<p>In this week's Friday Wrap-Up, Marthe Skaar sits down with Nicolai Tangen for a debrief on the podcast episode with the CEO of John Deere, news about the fund and the markets, and what's on Nicolai’s agenda for the weekend. Nicolai reflects on what surprised him most from the conversation wit the CEO of John Deere: how far AI has come in agriculture, and what it takes for a company to keep reinventing itself over nearly two centuries. He also opens up about a personal regret that has stayed with him over the years. Tune in!</p><br /><p>Listen to In Good Company with John May, CEO of John Deere: <a href=\"https://podcasts.apple.com/no/podcast/john-deere-ceo-farmings-future-autonomous-tractors/id1614211565?i=1000787298658\" rel=\"noopener noreferrer\" target=\"_blank\">https://podcasts.apple.com/no/podcast/john-deere-ceo-farmings-future-autonomous-tractors/id1614211565?i=1000787298658</a></p><br /><p>The Friday Wrap-Up is hosted by Marthe Skaar, Chief of Communications and External Relations, together with Nicolai Tangen, CEO of Norges Bank Investment Management, and produced by Isabelle Karlsson. New episodes of In Good Company air every Wednesday, with the Friday Wrap-Up following each week to break it all down.</p><hr /><p style=\"color: grey; font-size: 0.75em;\"> Hosted on Acast. See <a href=\"https://acast.com/privacy\" rel=\"noopener noreferrer\" style=\"color: grey;\" target=\"_blank\">acast.com/privacy</a> for more information.</p>",
+    "published": "2026-09-04",
+    "week": "2026-W36",
+    "audio_url": "https://sphinx.acast.com/p/open/s/622618c7057f3400120d15db/e/6a997eda809ae7c2f44b7529/media.mp3",
+    "transcript_url": null,
+    "episode_url": "https://shows.acast.com/in-good-company-with-nicolai-tangen/episodes/friday-wrap-up-leadership-longevity-and-nicolais-biggest-reg",
+    "type": "podcast",
+    "duration_secs": 872,
+    "transcript_length": 1449,
+    "speaker": "",
+    "one_line_summary": "Nicolai Tangen reflects on AI’s progress in agriculture and shares a personal regret.",
+    "summary": "In the Friday Wrap‑Up, Marthe Skaar interviews Nicolai Tangen, CEO of Norges Bank Investment Management, about a recent podcast with John Deere’s CEO. Tangen highlights the surprising extent of AI in agriculture and the importance of continuous reinvention over nearly two centuries. He also opens up about a personal regret that has lingered over the years. The episode is part of the weekly In Good Company series, with new episodes airing every Wednesday and a wrap‑up each Friday.",
+    "key_themes": [
+      "AI in agriculture",
+      "Long‑term reinvention",
+      "Personal reflection"
+    ],
+    "market_signals": [],
+    "framework_insights": [],
+    "market_relevance": "The discussion underscores the accelerating role of AI in traditional industries, a factor investors should monitor as it may reshape competitive dynamics and long‑term value creation."
   },
   {
     "id": "8e268b5ccb6ff31e541de03d4997ad16",
@@ -403,6 +528,46 @@
       "De‑dollarisation can be accelerated by central‑bank gold backing and offshore settlement reforms"
     ],
     "market_relevance": "Investors should monitor the pace of rate hikes in North‑Asia and the resulting currency appreciation, as these moves are likely to boost bank profitability while potentially dampening dollar‑priced tech exports."
+  },
+  {
+    "id": "8920210a1092b9c4b6cc354a237288fa",
+    "source_id": "in_good_company",
+    "source_name": "In Good Company",
+    "source_org": "Norges Bank Investment Management",
+    "source_color": "#14b8a6",
+    "title": "John Deere CEO: Farming's Future, Autonomous Tractors and AI in the Field",
+    "description": "<p>What does farming look like when the tractor drives itself? Nicolai Tangen sits down with John May, CEO of John Deere, to explore how a 190-year-old tractor maker became one of the most advanced technology companies in agriculture. They discuss AI-powered computer vision that cut herbicide use by 60%, the shift toward subscription-based farming technology, and John Deere's ambition to make US corn production fully autonomous by 2030. May also opens up about navigating a tough farm-income cycle, rebuilding trust after the \"right to repair\" dispute, and his leadership philosophy of putting the customer first, shaped by his own rural upbringing in Maine. Tune in for an insightful conversation!</p><p>In Good Company is hosted by Nicolai Tangen, CEO of Norges Bank Investment Management. New episodes every Wednesday, and don't miss our weekly wrap-up on Friday’s.</p><p>The production team for this episode includes Isabelle Karlsson and PLAN-B's Niklas Figenschau Johansen and Håkon Klemsdal. Background research was conducted by Karoline Woie.</p><p>&nbsp;</p><ul><li>Watch the episode on YouTube: <a href=\"https://www.youtube.com/@norgesbankinvestmentmanagement/videos\" rel=\"noopener noreferrer\" target=\"_blank\"><u>Norges Bank Investment Management - YouTube</u></a></li><li>Want to learn more about the fund? <a href=\"https://www.nbim.no/en/\" rel=\"noopener noreferrer\" target=\"_blank\"><u>The fund | Norges Bank Investment Management (nbim.no)</u></a></li><li>Follow Nicolai Tangen on LinkedIn: <a href=\"https://www.linkedin.com/in/nicolai-tangen/\" rel=\"noopener noreferrer\" target=\"_blank\"><u>Nicolai Tangen | LinkedIn</u></a></li><li>Follow NBIM on LinkedIn: <a href=\"https://www.linkedin.com/company/12557/admin/feed/posts/\" rel=\"noopener noreferrer\" target=\"_blank\"><u>Norges Bank Investment Management: Administrator for bedriftsside | LinkedIn</u></a></li><li>Follow NBIM on Instagram: <a href=\"https://www.instagram.com/explore/locations/1688331664768381/norges-bank-investment-management/\" rel=\"noopener noreferrer\" target=\"_blank\"><u>Explore Norges Bank Investment Management on Instagram</u></a></li></ul><p><br /></p><hr /><p style=\"color: grey; font-size: 0.75em;\"> Hosted on Acast. See <a href=\"https://acast.com/privacy\" rel=\"noopener noreferrer\" style=\"color: grey;\" target=\"_blank\">acast.com/privacy</a> for more information.</p>",
+    "published": "2026-09-02",
+    "week": "2026-W36",
+    "audio_url": "https://sphinx.acast.com/p/open/s/622618c7057f3400120d15db/e/6a9555dfcb03bea43d4c43d4/media.mp3",
+    "transcript_url": null,
+    "episode_url": "https://shows.acast.com/in-good-company-with-nicolai-tangen/episodes/john-deere-ceo-farmings-future-autonomous-tractors-and-ai-in",
+    "type": "podcast",
+    "duration_secs": 2287,
+    "transcript_length": 2357,
+    "speaker": "John May — CEO, John Deere",
+    "one_line_summary": "John Deere’s CEO reveals a 60% herbicide reduction from AI vision and a 2030 goal to fully automate U.S. corn production.",
+    "summary": "John May, CEO of John Deere, discusses how the company has evolved from a 190‑year‑old tractor maker into a leading ag‑tech firm. He highlights AI‑powered computer vision that has cut herbicide use by 60% and the shift toward subscription‑based farming technology. May also outlines the company’s ambition to make U.S. corn production fully autonomous by 2030, while navigating a tough farm‑income cycle and rebuilding trust after a “right to repair” dispute. His leadership philosophy centers on putting the customer first, shaped by his rural upbringing in Maine.",
+    "key_themes": [
+      "AI in agriculture",
+      "Subscription business models",
+      "Autonomous farming"
+    ],
+    "market_signals": [
+      "AI-powered computer vision cut herbicide use by 60%",
+      "Shift toward subscription-based farming technology",
+      "Ambition to make U.S. corn production fully autonomous by 2030",
+      "Tough farm‑income cycle",
+      "Rebuilding trust after the \"right to repair\" dispute"
+    ],
+    "framework_insights": [
+      "AI vision as a driver of operational efficiency and cost reduction",
+      "Subscription models create recurring revenue and tighter customer relationships",
+      "Autonomy targets signal a long‑term shift toward precision agriculture",
+      "Customer‑first philosophy aligns product development with farmer needs",
+      "Rural upbringing informs a deep understanding of end‑user challenges"
+    ],
+    "market_relevance": "These developments indicate a rapid technological transformation in agriculture that could reshape commodity supply chains, influence commodity pricing, and create new investment opportunities in ag‑tech and precision farming."
   },
   {
     "id": "61b44dbb38aab16d63bbcfa3495e5229",
@@ -733,6 +898,34 @@
     "market_relevance": "The conversation underscores why low‑cost, data‑driven index and factor strategies continue to outperform most active managers, a lesson that remains critical for investors navigating today’s fee‑heavy market environment."
   },
   {
+    "id": "9840a9e793f6e64948831ab75a1e1db1",
+    "source_id": "in_good_company",
+    "source_name": "In Good Company",
+    "source_org": "Norges Bank Investment Management",
+    "source_color": "#14b8a6",
+    "title": "Friday Wrap-Up: A Hedge Fund Legend and Reflections on the Global AI Race",
+    "description": "<p>Introducing a brand-new podcast series: The Friday Wrap-Up! Tables have turned. Marthe Skaar, Chief of Communications and External Relations at NBIM, sits down with Nicolai Tangen, for a debrief on the latest podcast episode, news about the fund and the markets, and life behind the scenes. In this first edition, they revisit Nicolai's conversation with Sir Paul Marshall, co-founder of Marshall Wace, as Nicolai reflects on what he took away from it: why humility matters more than ever in asset management, and how Marshall's thinking on AI echoes his own. He also opens up on a more personal note, sharing what helps him recharge outside of work. Tune in!</p><br /><p>Listen to In Good Company with Paul Marshall: <a href=\"https://podcasts.apple.com/no/podcast/sir-paul-marshall-why-markets-are-getting-more-competitive/id1614211565?i=1000785904913\" rel=\"noopener noreferrer\" target=\"_blank\">https://podcasts.apple.com/no/podcast/sir-paul-marshall-why-markets-are-getting-more-competitive/id1614211565?i=1000785904913</a></p><br /><p>The Friday Wrap-Up is hosted by Marthe Skaar, Chief of Communications and External Relations, together with Nicolai Tangen, CEO of Norges Bank Investment Management, and produced by Isabelle Karlsson. New episodes of In Good Company air every Wednesday, with the Friday Wrap-Up following each week to break it all down.</p><br /><p><br /></p><hr /><p style=\"color: grey; font-size: 0.75em;\"> Hosted on Acast. See <a href=\"https://acast.com/privacy\" rel=\"noopener noreferrer\" style=\"color: grey;\" target=\"_blank\">acast.com/privacy</a> for more information.</p>",
+    "published": "2026-08-28",
+    "week": "2026-W35",
+    "audio_url": "https://sphinx.acast.com/p/open/s/622618c7057f3400120d15db/e/6a9035d5d8ffec4c4142aac0/media.mp3",
+    "transcript_url": null,
+    "episode_url": "https://shows.acast.com/in-good-company-with-nicolai-tangen/episodes/friday-wrap-up-a-hedge-fund-legend-and-reflections-on-the-gl",
+    "type": "podcast",
+    "duration_secs": 775,
+    "transcript_length": 1600,
+    "speaker": "",
+    "one_line_summary": "A brief introduction to a new podcast series featuring a conversation between Marthe Skaar and Nicolai Tangen about a prior interview with Sir Paul Marshall.",
+    "summary": "The episode announces the launch of the Friday Wrap‑Up podcast series, hosted by Marthe Skaar, Chief of Communications and External Relations at NBIM, and featuring Nicolai Tangen, CEO of Norges Bank Investment Management.  The discussion centers on Nicolai’s reflections from a previous conversation with Sir Paul Marshall, co‑founder of Marshall Wace, touching on humility in asset management and AI thinking.  Nicolai also shares personal insights on how he recharges outside of work.  The episode provides a link to the original interview with Sir Paul Marshall and notes that new episodes of In Good Company air every Wednesday, with the Friday Wrap‑Up following each week.",
+    "key_themes": [
+      "Podcast launch",
+      "Reflection on AI and humility",
+      "Personal recharge"
+    ],
+    "market_signals": [],
+    "framework_insights": [],
+    "market_relevance": "The content offers limited actionable market information; it primarily serves as a platform for thought leadership and internal communication within NBIM."
+  },
+  {
     "id": "95789e3080d74bd7a20c66c999993ca3",
     "source_id": "credit_edge",
     "source_name": "The Credit Edge",
@@ -891,6 +1084,38 @@
       "Multi‑annual financial frameworks can shift budget weights to prioritize strategic sectors"
     ],
     "market_relevance": "Investors should monitor European defense and tech stocks for upside as the €14 trillion agenda unfolds, while also watching policy developments that unlock €11 trillion of citizen savings and €500 billion from pension reforms."
+  },
+  {
+    "id": "bfa0feb1d3d7e3cddbdfe97513ee4049",
+    "source_id": "in_good_company",
+    "source_name": "In Good Company",
+    "source_org": "Norges Bank Investment Management",
+    "source_color": "#14b8a6",
+    "title": "Sir Paul Marshall: Why Markets Are Getting More Competitive, The Logic of Shorting, and Building TOPS",
+    "description": "<p>What does it take to build one of the world's most successful hedge funds, and keep innovating for nearly 30 years? Nicolai Tangen sits down with Sir Paul Marshall, co-founder of Marshall Wace, to unpack the firm's journey from a $50 million startup in 1997 to a firm managing $90 billion today. They dig into TOPS, the pioneering AlphaCapture system that reshaped how buy-side and sell-side interact, the \"man plus machine beats a machine\" philosophy that shapes how Marshall Wace blends human judgment with AI, and why disagreeableness and agency now matter more than a fancy degree. Paul also opens up on his Christian faith, his education charity ARK, and his ventures into media through UnHerd, GB News, and The Spectator. Tune in for an insightful conversation!</p><p>In Good Company is hosted by Nicolai Tangen, CEO of Norges Bank Investment Management. New episodes every Wednesday, and don't miss our weekly wrap-up on Friday’s.</p><p>The production team for this episode includes Isabelle Karlsson and PLAN-B's Niklas Figenschau Johansen and Håkon Klemsdal. Background research was conducted by Karoline Woie.</p><p>&nbsp;</p><ul><li>Watch the episode on YouTube: <a href=\"https://www.youtube.com/@norgesbankinvestmentmanage223\" rel=\"noopener noreferrer\" target=\"_blank\"><u>Norges Bank Investment Management - YouTube</u></a></li><li>Want to learn more about the fund? <a href=\"https://www.nbim.no/en/\" rel=\"noopener noreferrer\" target=\"_blank\"><u>The fund | Norges Bank Investment Management (nbim.no)</u></a></li><li>Follow Nicolai Tangen on LinkedIn: <a href=\"https://www.linkedin.com/in/nicolai-tangen/\" rel=\"noopener noreferrer\" target=\"_blank\"><u>Nicolai Tangen | LinkedIn</u></a></li><li>Follow NBIM on LinkedIn: <a href=\"https://www.linkedin.com/company/12557/admin/feed/posts/\" rel=\"noopener noreferrer\" target=\"_blank\"><u>Norges Bank Investment Management: Administrator for bedriftsside | LinkedIn</u></a></li><li>Follow NBIM on Instagram: <a href=\"https://www.instagram.com/explore/locations/1688331664768381/norges-bank-investment-management/\" rel=\"noopener noreferrer\" target=\"_blank\"><u>Explore Norges Bank Investment Management on Instagram</u></a></li></ul><p><br /></p><hr /><p style=\"color: grey; font-size: 0.75em;\"> Hosted on Acast. See <a href=\"https://acast.com/privacy\" rel=\"noopener noreferrer\" style=\"color: grey;\" target=\"_blank\">acast.com/privacy</a> for more information.</p>",
+    "published": "2026-08-26",
+    "week": "2026-W35",
+    "audio_url": "https://sphinx.acast.com/p/open/s/622618c7057f3400120d15db/e/6a8d804c66c4a1e81a55402e/media.mp3",
+    "transcript_url": null,
+    "episode_url": "https://shows.acast.com/in-good-company-with-nicolai-tangen/episodes/sir-paul-marshall-why-markets-are-getting-more-competitive-t",
+    "type": "podcast",
+    "duration_secs": 4297,
+    "transcript_length": 2417,
+    "speaker": "Sir Paul Marshall — co‑founder, Marshall Wace",
+    "one_line_summary": "Marshall Wace grew from a $50 million startup in 1997 to a $90 billion firm, driven by a blend of human judgment and AI and a philosophy that “man plus machine beats a machine.”",
+    "summary": "Sir Paul Marshall discusses the evolution of Marshall Wace from its $50 million inception in 1997 to its current $90 billion asset base. He highlights the firm’s pioneering AlphaCapture system, TOPS, which reshaped buy‑side and sell‑side interactions. Marshall emphasizes a “man plus machine beats a machine” philosophy, underscoring the importance of human judgment alongside AI. He also notes that disagreeableness and agency now matter more than a fancy degree, and touches on his Christian faith, education charity ARK, and media ventures such as UnHerd, GB News, and The Spectator.",
+    "key_themes": [
+      "Human‑AI integration",
+      "AlphaCapture/TOPS innovation",
+      "Agency and disagreeableness"
+    ],
+    "market_signals": [],
+    "framework_insights": [
+      "\"man plus machine beats a machine\" philosophy: blend human judgment with AI for superior outcomes.",
+      "TOPS AlphaCapture system reshaped buy‑side and sell‑side interactions, illustrating the power of proprietary technology.",
+      "disagreeableness and agency now matter more than a fancy degree, highlighting the value of strong personality and decision‑making in investment leadership."
+    ],
+    "market_relevance": "The discussion underscores the growing importance of integrating human insight with AI in investment strategies, a trend that can influence portfolio construction and risk management today."
   },
   {
     "id": "c3969f9008298dd1930b52412e5f557a",
@@ -1490,6 +1715,42 @@
     "market_relevance": "Investors should monitor token pricing trends and enterprise subscription growth as indicators of which side of the AI race will generate sustainable profits in the near term."
   },
   {
+    "id": "8cc5346f2f6ab5cb885688145ada9f58",
+    "source_id": "in_good_company",
+    "source_name": "In Good Company",
+    "source_org": "Norges Bank Investment Management",
+    "source_color": "#14b8a6",
+    "title": "Ørsted CEO: Offshore Wind's Boom and Bust, America's Pushback and Rebuilding Trust",
+    "description": "<p>Nicolai Tangen sits down with Rasmus Errboe, CEO of Ørsted, the world's largest offshore wind company, to discuss the company's evolution from a Danish oil and gas business into a pure-play renewables leader. They talk through the US government's stop-work order on an 80%-built project, the lawsuit that followed, and the record €8 billion capital raise that supported Ørsted's turnaround plan. The conversation also covers what has driven offshore wind costs up and down over the past decade, and how Errboe has approached leadership during a demanding period. He also reflects on a personal decision from earlier in his life that he later came to see differently. Tune in!</p><p>In Good Company is hosted by Nicolai Tangen, CEO of Norges Bank Investment Management. New episodes every Wednesday.</p><p>The production team for this episode includes Isabelle Karlsson, Halvor Njerve and PLAN-B's Niklas Figenschau Johansen and Håkon Klemsdal. Background research was conducted by Karoline Woie.</p><p>&nbsp;</p><p><br /></p><ul><li>Watch the episode on YouTube: <a href=\"https://www.youtube.com/@norgesbankinvestmentmanage223\" rel=\"noopener noreferrer\" target=\"_blank\"><u>Norges Bank Investment Management - YouTube</u></a></li><li>Want to learn more about the fund? <a href=\"https://www.nbim.no/en/\" rel=\"noopener noreferrer\" target=\"_blank\"><u>The fund | Norges Bank Investment Management (nbim.no)</u></a></li><li>Follow Nicolai Tangen on LinkedIn: <a href=\"https://www.linkedin.com/in/nicolai-tangen/\" rel=\"noopener noreferrer\" target=\"_blank\"><u>Nicolai Tangen | LinkedIn</u></a></li><li>Follow NBIM on LinkedIn: <a href=\"https://www.linkedin.com/company/12557/admin/feed/posts/\" rel=\"noopener noreferrer\" target=\"_blank\"><u>Norges Bank Investment Management: Administrator for bedriftsside | LinkedIn</u></a></li><li>Follow NBIM on Instagram: <a href=\"https://www.instagram.com/explore/locations/1688331664768381/norges-bank-investment-management/\" rel=\"noopener noreferrer\" target=\"_blank\"><u>Explore Norges Bank Investment Management on Instagram</u></a></li></ul><hr /><p style=\"color: grey; font-size: 0.75em;\"> Hosted on Acast. See <a href=\"https://acast.com/privacy\" rel=\"noopener noreferrer\" style=\"color: grey;\" target=\"_blank\">acast.com/privacy</a> for more information.</p>",
+    "published": "2026-08-19",
+    "week": "2026-W34",
+    "audio_url": "https://sphinx.acast.com/p/open/s/622618c7057f3400120d15db/e/6a84b9039cb9faa61afda01b/media.mp3",
+    "transcript_url": null,
+    "episode_url": "https://shows.acast.com/in-good-company-with-nicolai-tangen/episodes/rsted-ceo-offshore-winds-boom-and-bust-americas-pushback-and",
+    "type": "podcast",
+    "duration_secs": 2988,
+    "transcript_length": 2293,
+    "speaker": "Rasmus Errboe — CEO, Ørsted",
+    "one_line_summary": "Ørsted’s CEO discusses the company’s shift to renewables, a US stop‑work order, a lawsuit, and a record €8 billion capital raise that underpins its turnaround.",
+    "summary": "The conversation covers Ørsted’s evolution from a Danish oil and gas firm to a pure‑play offshore wind leader, highlighting a US government stop‑work order on an 80%‑built project and the subsequent lawsuit. The CEO explains how a record €8 billion capital raise has supported the company’s turnaround plan. He also touches on the drivers of offshore wind cost fluctuations over the past decade and reflects on a personal decision from earlier in his life that he later viewed differently.",
+    "key_themes": [
+      "Offshore wind transition",
+      "Capital raising",
+      "Legal challenges"
+    ],
+    "market_signals": [
+      "Record €8 billion capital raise that supported Ørsted's turnaround plan"
+    ],
+    "framework_insights": [
+      "Ørsted’s shift from oil and gas to renewables illustrates a strategic pivot in response to market and regulatory pressures.",
+      "The company’s ability to secure a record capital raise demonstrates the importance of capital structure in enabling large‑scale renewable projects.",
+      "Legal challenges such as the US stop‑work order can create significant operational risk and require robust risk management frameworks.",
+      "Cost fluctuations in offshore wind over the past decade underscore the need for continuous cost optimization and technology improvement.",
+      "Leadership decisions and personal reflections can influence corporate culture and stakeholder trust during transformative periods."
+    ],
+    "market_relevance": ""
+  },
+  {
     "id": "b37aa3a1fc17c910546e09a0a5d5b907",
     "source_id": "goldman_sachs",
     "source_name": "Goldman Sachs",
@@ -2050,6 +2311,34 @@
       "Product management must shift from specifying implementation to translating customer problems into feasible AI solutions"
     ],
     "market_relevance": "Investors should look for companies that combine deep AI infrastructure expertise with a clear path to enterprise adoption, as these firms are positioned to capture the growing demand for high‑performance, low‑latency AI services."
+  },
+  {
+    "id": "eb4375806236ffa4a127b5e159691298",
+    "source_id": "in_good_company",
+    "source_name": "In Good Company",
+    "source_org": "Norges Bank Investment Management",
+    "source_color": "#14b8a6",
+    "title": "Bonus: Advice to young people",
+    "description": "<p>In this special episode of In Good Company, Nicolai Tangen revisits the question he asks all his guests – what's your advice to young people? McLaren Racing's Zak Brown explains why you need mentors at every stage. Novartis CEO Vas Narasimhan reflects on a career that rarely went to plan. Investor Paul Singer offers his thoughts on education, and Chris Hohn gives perhaps the most personal answer of all. You'll also hear from Karin Rådström, Dylan Field, Christel Heydemann, David Rubenstein and Amanda Blanc – and to finish, Nicolai shares his own advice to all of you. Wisdom worth pressing play for, whatever stage you're at. Tune in!</p><br /><p>In Good Company is hosted by Nicolai Tangen, CEO of Norges Bank Investment Management. New full episodes every Wednesday, and don't miss our Highlight episodes every Friday.</p><p>&nbsp;</p><p>The production team for this episode includes Isabelle Karlsson and PLAN-B's Niklas Figenschau Johansen and Håkon Klemsdal. Background research was conducted by Isabelle Karlsson.</p><p>&nbsp;</p><p><br /></p><ul><li>Watch the episode on YouTube: <a href=\"https://www.youtube.com/@norgesbankinvestmentmanage223\" rel=\"noopener noreferrer\" target=\"_blank\"><u>Norges Bank Investment Management - YouTube</u></a></li><li>Want to learn more about the fund? <a href=\"https://www.nbim.no/en/\" rel=\"noopener noreferrer\" target=\"_blank\"><u>The fund | Norges Bank Investment Management (nbim.no)</u></a></li><li>Follow Nicolai Tangen on LinkedIn: <a href=\"https://www.linkedin.com/in/nicolai-tangen/\" rel=\"noopener noreferrer\" target=\"_blank\"><u>Nicolai Tangen | LinkedIn</u></a></li><li>Follow NBIM on LinkedIn: <a href=\"https://www.linkedin.com/company/12557/admin/feed/posts/\" rel=\"noopener noreferrer\" target=\"_blank\"><u>Norges Bank Investment Management: Administrator for bedriftsside | LinkedIn</u></a></li></ul><p><br /></p><hr /><p style=\"color: grey; font-size: 0.75em;\"> Hosted on Acast. See <a href=\"https://acast.com/privacy\" rel=\"noopener noreferrer\" style=\"color: grey;\" target=\"_blank\">acast.com/privacy</a> for more information.</p>",
+    "published": "2026-08-11",
+    "week": "2026-W33",
+    "audio_url": "https://sphinx.acast.com/p/open/s/622618c7057f3400120d15db/e/6a77b71ab5c73bab7c7535d0/media.mp3",
+    "transcript_url": null,
+    "episode_url": "https://shows.acast.com/in-good-company-with-nicolai-tangen/episodes/bonus-advice-to-young-people2",
+    "type": "podcast",
+    "duration_secs": 855,
+    "transcript_length": 2088,
+    "speaker": "",
+    "one_line_summary": "The episode features a panel of high-profile leaders sharing advice for young people, with Nicolai Tangen concluding the discussion.",
+    "summary": "In this special episode of In Good Company, Nicolai Tangen hosts a diverse group of leaders—including Zak Brown of McLaren Racing, Novartis CEO Vas Narasimhan, investor Paul Singer, and Chris Hohn—who each offer personal advice to young people. The conversation highlights the importance of mentorship, the unpredictability of career paths, and the value of education. Tangen wraps up by sharing his own guidance for listeners at any stage of their journey.",
+    "key_themes": [
+      "Mentorship",
+      "Career unpredictability",
+      "Education"
+    ],
+    "market_signals": [],
+    "framework_insights": [],
+    "market_relevance": "The episode provides inspirational insights rather than actionable market data, offering no direct implications for current investment decisions."
   },
   {
     "id": "be0a81cc95995b1c16361fd794cd06a8",
