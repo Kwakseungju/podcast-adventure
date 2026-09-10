@@ -1,5 +1,224 @@
 [
   {
+    "id": "bf786c2d68ef16f7d511312d226935a9",
+    "source_id": "odd_lots",
+    "source_name": "Odd Lots",
+    "source_org": "Bloomberg",
+    "source_color": "#06b6d4",
+    "title": "The Rise of Organized Retail Crime at Big Box Stores",
+    "description": "<p>If you walk into a local pharmacy in New York City, more likely than not, lots of the merchandise is locked behind closed doors as a measure to mitigate shoplifting. So how big is the &ldquo;retail shrink&rdquo; problem really? And why are stores willing to sacrifice customer experience to protect their inventory? According to today&rsquo;s guest, the Home Depot&rsquo;s VP of Asset Protection Scott Glenn, shoplifting is just the tip of the iceberg when it comes to retail theft. What is really bedeviling companies like the Home Depot is something called organized retail crime &mdash; heists by criminal outfits that seek to nab large quantities of merchandise that eventually ends up in the black market. Today, we speak with Glenn about the in-and-outs of organized retail crime, the retail shrink problem, and what stores are doing to bring down theft right now.</p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
+    "published": "2026-09-10",
+    "week": "2026-W37",
+    "audio_url": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/ac7406bd-0582-4820-af93-b4c100274867/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
+    "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/ac7406bd-0582-4820-af93-b4c100274867/transcript?format=TextWithTimestamps&t=1789007675",
+    "episode_url": "https://omny.fm/shows/odd-lots/the-rise-of-organized-retail-crime-at-big-box-stores",
+    "type": "podcast",
+    "duration_secs": 3159,
+    "transcript_length": 56311,
+    "speaker": "Scott Glenn — Vice President of Asset Protection, Home Depot",
+    "one_line_summary": "Organized retail crime is a multi‑billion‑dollar, multi‑tiered problem that has grown more sophisticated and pervasive since COVID, with 40% of shrink driven by insiders and 35% by external thieves.",
+    "summary": "Scott Glenn explains that retail shrink is a spectrum ranging from opportunistic shoplifters to transnational organized crime rings. He breaks shrink into operational, financial, and malicious categories, noting that about 30% of Home Depot’s shrink is operational and the rest is malicious. Malicious shrink is split roughly 40% by associates, 35% by external thieves, and the remainder by other operational factors. He highlights copper and wire as high‑value items that are frequently stolen, and notes that the overall shrink problem is in the tens of billions of dollars. Glenn stresses that the rise of omni‑channel sales and the pandemic have amplified organized retail crime, making it more lucrative and dangerous, and that accurate measurement is hampered by under‑reporting.\n\nKey themes include the taxonomy of shrink, the role of insider theft, the impact of commodity price swings on theft incentives, and the importance of intelligence‑driven, technology‑enabled responses to identify and disrupt sophisticated theft networks.",
+    "key_themes": [
+      "Taxonomy of Retail Shrink",
+      "Insider vs External Theft",
+      "Commodity‑Driven Theft Incentives"
+    ],
+    "market_signals": [
+      "40% of shrink is malicious by associates",
+      "35% of shrink is caused by external thieves",
+      "20‑25% of shrink is operational administrative loss",
+      "Shrink is in the tens of billions of dollars",
+      "Organized retail crime has become more lucrative, pervasive, and dangerous since COVID"
+    ],
+    "framework_insights": [
+      "Shrink can be decomposed into operational, financial, and malicious categories, allowing targeted mitigation strategies",
+      "Insider theft accounts for a significant portion of shrink, underscoring the need for internal controls and employee monitoring",
+      "Commodity price volatility (e.g., copper) drives theft incentives, linking macro price movements to retail loss",
+      "Technology such as video analytics and cross‑store intelligence stitching helps identify repeat offenders across locations",
+      "The rise of omni‑channel sales expands the attack surface, requiring integrated physical and digital loss prevention measures"
+    ],
+    "market_relevance": "Retail investors should monitor shrink trends as a proxy for operational risk and cost pressures; supply‑chain disruptions and commodity‑driven theft can materially affect margins and earnings in the retail sector."
+  },
+  {
+    "id": "924d88c9c610a8954a91cef266dcdc95",
+    "source_id": "oaktree_insight",
+    "source_name": "The Insight",
+    "source_org": "Oaktree Capital",
+    "source_color": "#10b981",
+    "title": "Crossroads",
+    "description": "<p>Bob O’Leary and Armen Panossian (Co-CEOs, Credit) shared their latest credit market insights in a recent webcast held for clients. They discussed the forces reshaping the direct lending landscape and examined how investors can assess risk and capture opportunities in an increasingly complex lending environment. Listen to an excerpt from the conversation in the latest episode of <em>The Insight: Conversations</em>.</p>",
+    "published": "2026-09-10",
+    "week": "2026-W37",
+    "audio_url": "https://rss.art19.com/episodes/324fbf2c-2ff8-443d-af29-bac1f05c75b7.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94",
+    "transcript_url": null,
+    "episode_url": "https://open.spotify.com/show/6UllvbuIsyPESs38EWPanH",
+    "type": "podcast",
+    "duration_secs": 2016,
+    "transcript_length": 34935,
+    "speaker": "Armin Panozian — co‑CEO, Brookfield Credit Group",
+    "one_line_summary": "Treasury yields have spiked 80 bps, widening CCC spreads to 2000 bps, and software‑heavy direct lending is under pressure from AI and liquidity mismatches, creating a 75 % default risk in 2021‑22 vintages.",
+    "summary": "The discussion highlights a sharp rise in treasury yields—two‑year treasuries up about 80 bps since the start of the year—driving higher credit spreads. CCC loans now trade with spreads of roughly 2000 bps versus about 500 bps on the overall index, underscoring growing dispersion. Direct lending faces existential threats from generative AI, fraud, and deteriorating recovery rates (from 60 cents to 33 cents). BDCs suffer from asset‑liability duration mismatches and liquidity constraints, with many hitting the 5 % liquidity threshold and selling assets at discounts. The 2021‑22 vintage is a hot spot, accounting for about 75 % of recent defaults, as high‑rate leverage and weak cash flows converge on a 2028‑29 maturity wall.",
+    "key_themes": [
+      "Treasury yield rise and spread widening",
+      "Direct lending software risk and AI disruption",
+      "BDC liquidity and duration mismatch"
+    ],
+    "market_signals": [
+      "Two‑year treasuries have moved up about 80 basis points since the beginning of the year",
+      "CCC loans have almost 2,000 basis points of spreads versus about 500 in the overall index",
+      "Default recovery in the loan sector fell from 60 cents to 33 cents",
+      "About 75 % of the defaults seen in the last year and a half are from the 2021‑22 vintage",
+      "Software exposure ranges from 3‑5 % in high‑yield, 12‑15 % in syndicated loans, and 9‑10 % in direct lending, with some BDCs at 30‑70 %"
+    ],
+    "framework_insights": [
+      "Asset‑liability duration mismatch: short‑term revolvers versus long‑term illiquid assets create liquidity risk when redemptions surge",
+      "Liquidity thresholds: BDCs hitting the 5 % quarterly liquidity cap must sell assets at discounts, reducing portfolio quality",
+      "Secondary market as a liquidity solution: LPs bundle stakes and sell, creating opportunities for opportunistic buyers",
+      "Vintage risk: 2021‑22 leveraged deals are approaching a 2028‑29 maturity wall, amplifying default severity",
+      "Software selectivity: focus on mission‑critical, high switching‑cost software to mitigate AI‑driven disruption"
+    ],
+    "market_relevance": "Investors should monitor treasury yield momentum, CCC spread expansion, and the 2021‑22 vintage’s default trajectory, while evaluating BDC liquidity constraints and the selective nature of software exposure in direct lending."
+  },
+  {
+    "id": "5731408ad39b5259e965a6c6ad19977f",
+    "source_id": "in_good_company",
+    "source_name": "In Good Company",
+    "source_org": "Norges Bank Investment Management",
+    "source_color": "#14b8a6",
+    "title": "XPeng Co-President: China's EV Race, Flying Cars and Humanoid Robots",
+    "description": "<p>When<strong> </strong>will humanoid robots outnumber humans? Nicolai Tangen sits down with Brian Gu, Vice Chairman and Co-President of XPeng, who describes XPeng as a \"physical AI\" business rather than just a carmaker. They discuss XPeng's ventures into flying cars and humanoid robots, both built on the same core technology as its vehicles, and a Chinese EV market where new-energy cars now outsell combustion ones. Brian also reflects on his path from a chemistry PhD alongside a future Nobel laureate to a career in tech. With Norway as its flagship European market, XPeng's ambitions keep growing. Tune in!&nbsp;</p><p>In Good Company is hosted by Nicolai Tangen, CEO of Norges Bank Investment Management. New episodes every Wednesday, and don't miss our weekly Friday Wrap-Up.</p><p>The production team for this episode includes Isabelle Karlsson and PLAN-B's Guttorm Andreasen and Håkon Klemsdal. Background research was conducted by Simran Sahajpal.</p><p>&nbsp;</p><ul><li>Watch the episode on YouTube: <a href=\"https://www.youtube.com/@norgesbankinvestmentmanagement/videos\" rel=\"noopener noreferrer\" target=\"_blank\"><u>Norges Bank Investment Management - YouTube</u></a></li><li>Want to learn more about the fund? <a href=\"https://www.nbim.no/en/\" rel=\"noopener noreferrer\" target=\"_blank\"><u>The fund | Norges Bank Investment Management (nbim.no)</u></a></li><li>Follow Nicolai Tangen on LinkedIn: <a href=\"https://www.linkedin.com/in/nicolai-tangen/\" rel=\"noopener noreferrer\" target=\"_blank\"><u>Nicolai Tangen | LinkedIn</u></a></li><li>Follow NBIM on LinkedIn: <a href=\"https://www.linkedin.com/company/12557/admin/feed/posts/\" rel=\"noopener noreferrer\" target=\"_blank\"><u>Norges Bank Investment Management: Administrator for bedriftsside | LinkedIn</u></a></li><li>Follow NBIM on Instagram: <a href=\"https://www.instagram.com/explore/locations/1688331664768381/norges-bank-investment-management/\" rel=\"noopener noreferrer\" target=\"_blank\"><u>Explore Norges Bank Investment Management on Instagram</u></a></li></ul><p><br /></p><hr /><p style=\"color: grey; font-size: 0.75em;\"> Hosted on Acast. See <a href=\"https://acast.com/privacy\" rel=\"noopener noreferrer\" style=\"color: grey;\" target=\"_blank\">acast.com/privacy</a> for more information.</p>",
+    "published": "2026-09-10",
+    "week": "2026-W37",
+    "audio_url": "https://sphinx.acast.com/p/open/s/622618c7057f3400120d15db/e/6a9eb387d024784c996d6b3e/media.mp3",
+    "transcript_url": null,
+    "episode_url": "https://shows.acast.com/in-good-company-with-nicolai-tangen/episodes/xpeng-co-president-chinas-ev-race-flying-cars-and-humanoid-r",
+    "type": "podcast",
+    "duration_secs": 2962,
+    "transcript_length": 2263,
+    "speaker": "Brian Gu — Vice Chairman and Co-President of XPeng",
+    "one_line_summary": "XPeng positions itself as a physical AI company expanding beyond cars into flying vehicles and humanoid robots, leveraging core tech across all products.",
+    "summary": "Brian Gu explains that XPeng is a \"physical AI\" business rather than just a carmaker, with its core technology underpinning vehicles, flying cars, and humanoid robots. He highlights the Chinese new‑energy vehicle market where new‑energy cars now outsell combustion ones, and notes Norway as XPeng’s flagship European market. Gu also reflects on his background, having earned a chemistry PhD alongside a future Nobel laureate before moving into tech.",
+    "key_themes": [
+      "physical AI business",
+      "flying cars and humanoid robots",
+      "Chinese EV market"
+    ],
+    "market_signals": [],
+    "framework_insights": [],
+    "market_relevance": "The episode signals XPeng’s ambition to diversify beyond traditional EVs, suggesting potential upside for investors interested in AI‑driven mobility and emerging markets, while also highlighting the growing dominance of new‑energy vehicles in China."
+  },
+  {
+    "id": "70000f8d340637f631f521a356b25c83",
+    "source_id": "masters_in_business",
+    "source_name": "Masters in Business",
+    "source_org": "Bloomberg",
+    "source_color": "#eab308",
+    "title": "At The Money: Considering a Career Change? How About FINFLUENCER?",
+    "description": "<p>Ever think of a career change? Have you thought about becoming a &ldquo;finfluencer&rdquo; on TikTok, Insta, or YouTube? It could be both interesting AND lucrative.</p> <p>Tyler Gardner is a former financial adviser and portfolio manager who pivoted to a financial-media business, reaching more than six million followers.&nbsp; His book &ldquo;Real Wealth: Make Money Work for You&rdquo; arrives Dec 1, 2026.</p> <p>Each week, &ldquo;At the Money&rdquo; discusses an important topic in money management. From portfolio construction to taxes and cutting down on fees, join Barry Ritholtz to learn the best ways to put your money to work.</p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
+    "published": "2026-09-09",
+    "week": "2026-W37",
+    "audio_url": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/4e4cd910-40a1-4619-a5f3-ae2b0012ffff/620a27ee-8907-4f6b-9009-b4c001681c89/audio.mp3?utm_source=Podcast&in_playlist=5873a3cb-298f-40bc-b71f-ae2b0013000d",
+    "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/620a27ee-8907-4f6b-9009-b4c001681c89/transcript?format=TextWithTimestamps&t=1788991357",
+    "episode_url": "https://omny.fm/shows/masters-in-business/at-the-money-considering-a-career-change-how-about-finfluencer",
+    "type": "podcast",
+    "duration_secs": 1834,
+    "transcript_length": 28798,
+    "speaker": "Tyler Gardner — Financial Media Entrepreneur, 6 million followers",
+    "one_line_summary": "Tyler Gardner turned a lack of financial education into a 6‑million‑follower media empire by leveraging compliant, high‑quality content on TikTok, Instagram, and YouTube.",
+    "summary": "Tyler Gardner began as an economics teacher and financial advisor, frustrated by the public’s lack of understanding of basic concepts like expense ratios. He pivoted to social media after realizing that clients wanted management, not education, and that there was a gap for accurate, engaging finance content. Starting with a small RIA in Vermont, he and his firm produced short‑form videos that initially failed to reach audiences until he embraced TikTok and Instagram’s algorithms. A pivotal moment was a 2‑million‑view misinformation video about Roth IRAs, which highlighted the need for trustworthy education. Gardner left two stable jobs to focus on content, building a coaching platform and eventually a media business that now commands 6 million followers across platforms. He stresses the importance of regulatory compliance—avoiding specific fund or security recommendations—and the value of authenticity over clickbait, noting that reach depends on engaging, accurate 30‑second videos rather than sheer follower count.\n\nKey themes include the education‑gap in finance, the regulatory challenges of social‑media advising, the power of algorithmic reach, and the necessity of authenticity and quality in content creation.",
+    "key_themes": [
+      "Financial Education Gap",
+      "Regulatory Compliance in Social Media",
+      "Authenticity vs Clickbait"
+    ],
+    "market_signals": [
+      "6 million followers across TikTok, Instagram, and YouTube",
+      "2 million views on a Roth IRA misinformation video",
+      "10 videos produced by the firm before pivot",
+      "Book \"Real Wealth, Make Money Work for You\" releases December 1 2026",
+      "Compliance rule: no specific fund or security recommendations allowed"
+    ],
+    "framework_insights": [
+      "Education as a service: identify a knowledge gap and fill it with accessible content",
+      "Regulatory compliance can be a competitive advantage if followed strictly",
+      "Authenticity beats clickbait: audience engagement is driven by accurate, valuable content",
+      "Algorithmic reach is democratized: any creator can go viral with the right 30‑second video",
+      "Sustainability requires continuous learning and adaptation, not a single milestone"
+    ],
+    "market_relevance": "Investors should note the growing influence of compliant financial influencers who can shape retail investor behavior, and the regulatory environment that both limits and protects such content."
+  },
+  {
+    "id": "fd2f60059d26999e3c60c4362081e1db",
+    "source_id": "asia_centric",
+    "source_name": "Asia Centric",
+    "source_org": "Bloomberg Intelligence",
+    "source_color": "#d946ef",
+    "title": "Japan's Activism Boom Shifts to Small Caps",
+    "description": "<p>Shareholder activism is surging in Japan, with 120 campaigns launched in the first half of the year, making the country the second most active market globally after the US. With a record number of companies going private and M&amp;A takeover battles on the rise, activist investors are increasingly becoming kingmakers in securing maximum value for minority shareholders.</p> <p>Jamie Halse, chief investment officer at Senjin Capital, joins Bloomberg Intelligence's John Lee on the Asia Centric podcast. He explains that while much of the headlines have focused on Japan's corporate giants like Toyota and Sony, the most compelling value lies in the under-researched small- and mid-cap space. Halse unpacks why smaller firms are only in the early innings of governance reform, how unwinding cross-shareholdings is stripping away corporate protection, and the cultural nuances of working with Japanese management teams on capital allocation and shareholder value.</p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
+    "published": "2026-09-09",
+    "week": "2026-W37",
+    "audio_url": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/992d604b-06ca-40cb-88b2-af6c016f5aa0/0d618822-2682-48b3-8449-b4c000d9d9df/audio.mp3?utm_source=Podcast&in_playlist=75a9f17c-2ff1-42c9-9a27-af6c016fae89",
+    "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/0d618822-2682-48b3-8449-b4c000d9d9df/transcript?format=TextWithTimestamps&t=1788959822",
+    "episode_url": "https://omny.fm/shows/asia-centric-by-bloomberg-intelligence/japans-activism-boom-shifts-to-small-caps",
+    "type": "podcast",
+    "duration_secs": 1747,
+    "transcript_length": 30260,
+    "speaker": "Jamie Hulse — Chief Investment Officer at Senjin Capital and Activist Fund Manager focused on Japan",
+    "one_line_summary": "Japan’s activist momentum has shifted from large caps to a fertile small‑cap arena, where governance reforms, cross‑shareholding divestitures, and a new corporate governance code create mispriced opportunities.",
+    "summary": "The conversation highlights that Japan’s activist scene has reached historic highs, with 120 campaigns launched in the first half of the year, making it the second most active market after the US. While large conglomerates such as Toyota and Sony have seen modest gains in capital efficiency—dividends and buybacks have doubled over the past four years—Jamie Hulse argues that the real upside lies in small and mid‑caps, where dividend payout ratios have risen from 15% to 30% and median price‑to‑book ratios are below 1.0, especially for companies under ¥50 billion market cap. The Tokyo Stock Exchange’s “good company” list, which requires a trading value above one times price‑to‑book, has exposed 400‑500 firms (20‑25%) trading below that threshold, and the median price‑to‑book for the 2,500‑odd smaller firms is 0.9. Hulse notes that cross‑shareholding sell‑downs by banks and insurers are opening the market to outside shareholders, while the new corporate governance code focuses on growth and profitability rather than rigid board composition rules. Activist tactics range from confrontational campaigns that force management to pay higher takeover prices to constructive engagement that educates boards on financial fundamentals and capital allocation.\n\nKey data points include the doubling of dividends and buybacks over four years, the 400‑500 companies below the one‑times‑book threshold, and the 2,500‑odd small firms with a median price‑to‑book of 0.9. The discussion also underscores the role of private equity and activist funds in driving higher minority shareholder returns, citing examples such as EQT vs. Bain for Kakaku.com and Elliott Management’s intervention at Toyota Industries.\n\nThe overarching theme is that Japan’s corporate governance reforms are still in early stages for small caps, creating a window of mispricing and value creation that savvy investors can exploit.",
+    "key_themes": [
+      "Small‑cap activist opportunities",
+      "Cross‑shareholding divestitures",
+      "Corporate governance code evolution"
+    ],
+    "market_signals": [
+      "120 activist campaigns launched in first half of year, Japan second most active after US",
+      "Dividends and buybacks have doubled over the past four years",
+      "400‑500 companies (20‑25%) trading below one times price‑to‑book threshold",
+      "Median price‑to‑book of 0.9 for 2,500‑odd small firms under ¥50 billion market cap",
+      "Cross‑shareholding sell‑downs by banks and insurers are opening market to outside shareholders"
+    ],
+    "framework_insights": [
+      "Activist success in Japan often hinges on first‑hand education of boards on basic financial concepts, then gradual engagement before public campaigns",
+      "Small‑cap firms with undervalued book values present a structural mispricing due to historic cost accounting and lack of capital allocation discipline",
+      "Corporate governance reforms that shift focus from board composition to growth and profitability create a more flexible environment for activist influence",
+      "Cross‑shareholding divestitures reduce protective ownership, increasing outside shareholder power and aligning management with economic shareholders",
+      "Private equity and activist synergy can force higher takeover prices, benefiting minority shareholders and creating a win‑win for both parties"
+    ],
+    "market_relevance": "Investors should monitor small‑cap Japanese stocks trading below one times price‑to‑book, as the ongoing governance reforms and cross‑shareholding divestitures are likely to unlock value. The activist landscape’s shift toward constructive engagement offers a lower‑risk entry point for capital allocation plays in this market."
+  },
+  {
+    "id": "efa6b4b4a6cce849d6d9ef4c0e0be795",
+    "source_id": "goldman_sachs",
+    "source_name": "Goldman Sachs",
+    "source_org": "Goldman Sachs",
+    "source_color": "#3b82f6",
+    "title": "How Will Less Fed Transparency Affect Markets and the Economy?",
+    "description": "Federal Reserve Chairman Kevin Warsh has steered the central bank into an era of less transparency. Former Fed governors Donald Kohn and Stephen Miran, as well as Goldman Sachs Chief Economist and Head of Goldman Sachs Research Jan Hatzius, discuss on the Goldman Sachs Exchanges podcast the merits of Fed communication and how it affects financial markets. The episode is based on the latest Top of Mind report: https://www.goldmansachs.com/insights/top-of-mind/assessing-a-less-transparent-fed \n\nKey takeaways:\n1. Kohn says there is a “golden mean” in which financial markets have some information from the Fed, such as a narrative that helps investors process incoming data, without central bank officials providing too much specific information about their policy plans.\n2. Reducing forward guidance would improve the signal that financial markets provide, and the additional volatility is worth the trade-off, Miran says. He argues that too much guidance from Fed officials can increase volatility in the longer run.\n3. Hatzius says markets will always price what they think the Fed will do—not what they think the Fed should do—even if the central bank provides less information about how it adjusts policy in reaction to economic data.\n\n[00:00] Introduction \n[01:00] The Benefits of a Transparent Fed\n[04:05] Rethinking Forward Guidance \n[07:39] The Case for Opacity \n[09:39] Unpacking the Reaction Function \n[11:52] Markets as Fed Barometers \n[14:22] Volatility: Signal or Noise? \n[16:25] The Durability of Silence \n\nThis episode was recorded in August 2026.\n\nThe opinions and views expressed herein are as of the date of publication, subject to change without notice, and may not necessarily reflect the institutional views of Goldman Sachs or its affiliates. The material provided is intended for informational purposes only, and does not constitute investment advice, a recommendation from any Goldman Sachs entity to take any particular action, or an offer or solicitation to purchase or sell any securities or financial products. This material may contain forward-looking statements. Past performance is not indicative of future results. Neither Goldman Sachs nor any of its affiliates make any representations or warranties, express or implied, as to the accuracy or completeness of the statements or information contained herein and disclaim any liability whatsoever for reliance on such information for any purpose. Each name of a third-party organization mentioned is the property of the company to which it relates, is used here strictly for informational and identification purposes only and is not used to imply any ownership or license rights between any such company and Goldman Sachs.  \n\n A transcript is provided for convenience and may differ from the original video or audio content. Goldman Sachs is not responsible for any errors in the transcript. This material should not be copied, distributed, published, or reproduced in whole or in part or disclosed by any recipient to any other person without the express written consent of Goldman Sachs. \n\n Disclosures applicable to research with respect to issuers, if any, mentioned herein are available through your Goldman Sachs representative or at http://www.gs.com/research/hedge.html. \n\nThe opinions and views expressed herein do not reflect the institutional views of the employers of the speakers herein.  The material provided does not constitute investment advice or a recommendation from any speaker herein or their employer to take any particular action and neither the speakers herein, nor their employers, make any representations or warranties, expressed or implied, as to the accuracy or completeness of the statements or information contained herein and disclaim any liability whatsoever for reliance on such information for any purpose. \n\n © 2026 Goldman Sachs. All rights reserved.",
+    "published": "2026-09-09",
+    "week": "2026-W37",
+    "video_id": "Bp-Nsh5K7dA",
+    "episode_url": "https://www.youtube.com/watch?v=Bp-Nsh5K7dA",
+    "type": "youtube",
+    "duration_secs": null,
+    "transcript_length": 3873,
+    "speaker": "Jan Hatzius — Chief Economist and Head of Goldman Sachs Research",
+    "one_line_summary": "Less Fed transparency may increase market volatility but could improve the quality of market signals.",
+    "summary": "The episode discusses the trade‑off between Fed transparency and market volatility. Donald Kohn argues for a “golden mean” where markets receive enough narrative to process data without detailed policy guidance. Stephen Miran contends that reducing forward guidance can sharpen market signals, accepting higher volatility as a worthwhile trade‑off. Jan Hatzius notes that markets will price what they think the Fed will do, not what they think the Fed should do, even with less information. The discussion frames how opacity and guidance shape market expectations and pricing dynamics.",
+    "key_themes": [
+      "Fed transparency",
+      "Forward guidance",
+      "Market pricing behavior"
+    ],
+    "market_signals": [],
+    "framework_insights": [
+      "The \"golden mean\" model balances narrative sufficiency with guidance restraint to optimize market signal quality.",
+      "Reducing forward guidance can sharpen market signals at the cost of increased volatility, a trade‑off that may be acceptable for long‑run stability.",
+      "Markets price perceived Fed actions, not perceived Fed intentions, underscoring the importance of actual policy signals over normative expectations."
+    ],
+    "market_relevance": "Investors should monitor Fed communication shifts, as reduced transparency may heighten short‑term volatility but could improve the clarity of long‑term market signals."
+  },
+  {
     "id": "efc5615fa9f10c3b57be63c9987e8210",
     "source_id": "invest_like_the_best",
     "source_name": "Invest Like the Best",
