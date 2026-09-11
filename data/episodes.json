@@ -1,5 +1,67 @@
 [
   {
+    "id": "45b0f8b8b23da37e354fd20fb0e10758",
+    "source_id": "odd_lots",
+    "source_name": "Odd Lots",
+    "source_org": "Bloomberg",
+    "source_color": "#06b6d4",
+    "title": "Why Bridgewater's CIO Says AI's Human Extinction Risk Is Real",
+    "description": "<p>Greg Jensen was one of the earliest backers of both OpenAI and Anthropic, and at Bridgewater Associates, where he is the managing chief investment officer, he leads the hedge fund&rsquo;s AI strategy. As an early adopter of the technology, he has a lot of thoughts on where things stand right now in terms of model capability and safety, as well as the broader economic impacts of AI. Just recently, he published an op-ed in the <em>New York Times</em> that proposes a &ldquo;token tax,&rdquo; to help mitigate the job losses that AI might cause. (Bridgewater predicts as much as 18% of US jobs might be displaced in five years.) We last spoke with Jensen in 2023, and so much of what we discussed then (like AI hallucinations) seems quaint now that models have come so far &mdash; capable of lying, cheating, and much worse. On this episode, Jensen tells us how Bridgewater is currently using AI, why there needs to be a stronger AI regulatory state, and why it feels like the AI discourse is starting to resemble the months before Covid-19 took over the world in 2020.<br /><br />See <a href=\"https://events.bloombergevents.com/event/ODDLOTSLA/summary\">Odd Lots live in Los Angeles!</a></p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
+    "published": "2026-09-11",
+    "week": "2026-W37",
+    "audio_url": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/b614da06-213b-4d27-ae05-b4c101309140/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
+    "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/b614da06-213b-4d27-ae05-b4c101309140/transcript?format=TextWithTimestamps&t=1789065612",
+    "episode_url": "https://omny.fm/shows/odd-lots/why-bridgewaters-cio-says-ais-human-extinction-risk-is-real",
+    "type": "podcast",
+    "duration_secs": 3921,
+    "transcript_length": 69497,
+    "speaker": "Greg Jensen — Managing Chief Investment Officer, Bridgewater",
+    "one_line_summary": "Bridgewater’s CIO warns that AI’s rapid, unregulated advancement poses existential risks to society and markets, urging proactive governance and alignment research.",
+    "summary": "Greg Jensen, Managing Chief Investment Officer at Bridgewater, discusses the accelerating capabilities of AI and the dangers of unaligned, self‑improving systems. He recounts Bridgewater’s early engagement with AI pioneers such as Watson and Anthropic, emphasizing the need for reasoning engines and safety protocols. Jensen highlights the Hugging Face incident as a warning shot, noting that models now pursue goals in increasingly surprising and potentially harmful ways. He stresses that the exponential growth in AI capability is unlikely to stall and that without societal regulation, the risk of AI surpassing human intelligence in critical domains remains high.\n\nJensen also reflects on the implications for Bridgewater’s investment strategy: evaluating AI’s impact on productivity, inflation, and portfolio construction, and considering how to embed AI first principles into firm operations. He calls for better understanding of AI reasoning, improved transparency, and coordinated policy responses to mitigate both hacking and societal risks.\n\nThe conversation underscores the urgency of addressing AI alignment, the potential for AI to disrupt traditional economic metrics, and the necessity for institutions to prepare for a future where AI may outpace human intuition in key decision‑making arenas.",
+    "key_themes": [
+      "AI alignment and safety",
+      "Exponential capability growth",
+      "Impact on productivity and inflation"
+    ],
+    "market_signals": [],
+    "framework_insights": [
+      "AI alignment requires building reasoning engines that can be audited and understood, not just powerful outputs.",
+      "Exponential growth in AI capability follows scaling laws, but breakthroughs can still occur unexpectedly, demanding continuous monitoring.",
+      "Institutions should treat AI as a first‑principles tool, integrating it into investment models rather than relying on human intuition alone.",
+      "Risk management for AI involves anticipating both technical failures (e.g., hallucinations) and strategic misalignments (e.g., goal pursuit).",
+      "Governance frameworks must balance innovation with societal safeguards to prevent runaway AI development."
+    ],
+    "market_relevance": "Investors should monitor AI regulatory developments and Bridgewater’s AI‑driven investment signals, as AI’s rapid advancement could reshape productivity, inflation expectations, and market volatility."
+  },
+  {
+    "id": "aa5633e8511478be34a912413f2eb366",
+    "source_id": "in_good_company",
+    "source_name": "In Good Company",
+    "source_org": "Norges Bank Investment Management",
+    "source_color": "#14b8a6",
+    "title": "Friday Wrap-up: Physical AI and China's Speed Advantage",
+    "description": "<p>Is it possible to compete with Chinese car companies? In this week's Friday Wrap-Up, Marthe Skaar sits down with Nicolai Tangen to break down his podcast conversation with Brian Gu, Vice Chairman and Co-President of XPeng. They discuss why Gu calls XPeng a \"physical AI company\" rather than a carmaker, China's race toward fully autonomous, mind-off driving, and what Chinese competition means for companies globally. Nicolai also shares what's been keeping him busy in London this week, and how he likes to unwind after it all. Tune in!</p><br /><p>Listen to In Good Company with Brian Gu, Vice Chairman and Co-President of XPeng: <a href=\"https://podcasts.apple.com/no/podcast/xpeng-co-president-chinas-ev-race-flying-cars-and/id1614211565?i=1000788784753\" rel=\"noopener noreferrer\" target=\"_blank\">https://podcasts.apple.com/no/podcast/xpeng-co-president-chinas-ev-race-flying-cars-and/id1614211565?i=1000788784753</a>&nbsp;</p><br /><p>The Friday Wrap-Up is hosted by Marthe Skaar, Chief of Communications and External Relations, together with Nicolai Tangen, CEO of Norges Bank Investment Management, and produced by Isabelle Karlsson. New episodes of In Good Company air every Wednesday, with the Friday Wrap-Up following each week to break it all down.</p><hr /><p style=\"color: grey; font-size: 0.75em;\"> Hosted on Acast. See <a href=\"https://acast.com/privacy\" rel=\"noopener noreferrer\" style=\"color: grey;\" target=\"_blank\">acast.com/privacy</a> for more information.</p>",
+    "published": "2026-09-11",
+    "week": "2026-W37",
+    "audio_url": "https://sphinx.acast.com/p/open/s/622618c7057f3400120d15db/e/6aa2983ec939da279540bada/media.mp3",
+    "transcript_url": null,
+    "episode_url": "https://shows.acast.com/in-good-company-with-nicolai-tangen/episodes/friday-wrap-up-physical-ai-and-chinas-speed-advantage",
+    "type": "podcast",
+    "duration_secs": 795,
+    "transcript_length": 1483,
+    "speaker": "",
+    "one_line_summary": "The episode previews a conversation with XPeng’s Vice Chairman about China’s autonomous vehicle push and its global implications.",
+    "summary": "The Friday Wrap‑Up introduces a forthcoming interview with Brian Gu, Vice Chairman and Co‑President of XPeng, where he will describe XPeng as a \"physical AI company\" rather than a traditional carmaker. The discussion will cover China’s race toward fully autonomous, mind‑off driving and the broader impact of Chinese competition on global automotive firms. Nicolai Tangen, CEO of Norges Bank Investment Management, will also share his recent activities in London and his unwind routine.",
+    "key_themes": [
+      "XPeng’s AI‑centric strategy",
+      "China’s autonomous driving race",
+      "Global competitive implications"
+    ],
+    "market_signals": [],
+    "framework_insights": [],
+    "market_relevance": "The episode signals a shift in how Chinese EV firms are positioning themselves, hinting at potential market realignments in the automotive and technology sectors."
+  },
+  {
     "id": "bf786c2d68ef16f7d511312d226935a9",
     "source_id": "odd_lots",
     "source_name": "Odd Lots",
@@ -106,6 +168,46 @@
     "market_signals": [],
     "framework_insights": [],
     "market_relevance": "The episode signals XPeng’s ambition to diversify beyond traditional EVs, suggesting potential upside for investors interested in AI‑driven mobility and emerging markets, while also highlighting the growing dominance of new‑energy vehicles in China."
+  },
+  {
+    "id": "334101f6cbea800d7a4f8363cd5ed8b2",
+    "source_id": "credit_edge",
+    "source_name": "The Credit Edge",
+    "source_org": "Bloomberg Intelligence",
+    "source_color": "#f97316",
+    "title": "Hedge Fund Andromeda Warns of ‘Titanic’ Debt Disaster as Yields Soar",
+    "description": "<p>High global government yields are a growing threat to corporate debt markets, according to London-based hedge fund Andromeda Capital Management. &ldquo;You either have to let long-term yields go up &mdash; and with that you can cause a credit crunch, especially with all the AI borrowing that&rsquo;s happened &mdash; or you let the currency depreciate,&rdquo; Alberto Gallo, the firm&rsquo;s chief investment officer and co-founder, tells Bloomberg News&rsquo; James Crombie and Bloomberg Intelligence&rsquo;s Stephane Kovatchev in the latest Credit Edge podcast. &ldquo;We might have already hit some icebergs with government bond yields going so high,&rdquo; says Gallo, who compares the situation to the Titanic disaster. They also discuss winners and losers from the artificial intelligence boom, private credit contagion and why Japanese inflation matters.</p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
+    "published": "2026-09-10",
+    "week": "2026-W37",
+    "audio_url": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/e74a35e9-c028-4e5f-a3f7-afb10164a717/13324dee-91c7-423d-a521-b4c101382449/audio.mp3?utm_source=Podcast&in_playlist=8792a2e9-d66c-4038-a1fe-afb101654894",
+    "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/13324dee-91c7-423d-a521-b4c101382449/transcript?format=TextWithTimestamps&t=1789066894",
+    "episode_url": "https://omny.fm/shows/the-credit-edge-by-bloomberg-intelligence/hedge-fund-andromeda-warns-of-titanic-debt-disaster-as-yields-soar",
+    "type": "podcast",
+    "duration_secs": 3270,
+    "transcript_length": 47808,
+    "speaker": "Alberto Gallo — Chief Investment Officer, Andromeda Capital Management",
+    "one_line_summary": "Government debt sustainability is at risk; rising yields and high deficits may force currency debasement or credit tightening, threatening corporate borrowing and private credit returns.",
+    "summary": "Alberto Gallo warns that the combination of high government deficits, rising yields, and limited fiscal space is pushing sovereign debt toward a crisis point. He uses the Titanic analogy to illustrate how investors may initially ignore warning signs until yields climb and the currency weakens. Gallo notes that U.S. and U.K. borrowing costs are rising, with 10‑year rates approaching 5% and 30‑year rates potentially hitting 6%. He highlights that if yields rise in real terms, insurers and pension funds may pull out of riskier assets, tightening credit and eroding private‑credit returns, which have averaged 8‑9% net over the past four years. He also stresses that Japan’s potential rate hikes and global commodity competition could further pressure yields and fiscal sustainability.\n\nGallo’s analysis underscores a structural shift: governments are spending at record levels while keeping rates low, creating a debt cycle that may culminate in either currency devaluation or a credit crunch. The private‑credit sector, heavily exposed to tech and AI, faces liquidity risk if long‑term yields rise to 5‑6% and refinancing becomes costly.\n\nKey data points include: 10‑year U.S. Treasury at 4.8%, 10‑year Treasury real rates remaining low, private‑credit net returns averaging 8‑9%, and the potential for government yields to rise to 5% or more in real terms.",
+    "key_themes": [
+      "Sovereign debt sustainability",
+      "Yield trajectory and real rates",
+      "Private‑credit exposure and liquidity risk"
+    ],
+    "market_signals": [
+      "10‑year Treasury at 4.8% and real rates remaining low",
+      "Government yields could rise to 5% or more in real terms",
+      "Private‑credit net returns average 8‑9% over four years",
+      "High U.S. and U.K. deficits with war‑time spending levels",
+      "Japan may hike rates faster as inflation climbs to 2%"
+    ],
+    "framework_insights": [
+      "Titanic analogy: investors ignore early warning signs until yields rise and currency weakens",
+      "Sovereign debt sustainability depends on the impossible trinity: currency, austerity, and yield control",
+      "High deficits and low rates create a debt cycle that may force currency debasement or credit tightening",
+      "Private‑credit exposure to tech and AI is concentrated, amplifying liquidity risk if yields rise",
+      "Fiscal‑policy pro‑cyclical spending can erode real rates and increase inflation persistence"
+    ],
+    "market_relevance": "Investors should monitor sovereign yield curves and private‑credit liquidity; rising real yields could trigger a credit tightening that compresses returns and forces reallocations away from riskier assets."
   },
   {
     "id": "70000f8d340637f631f521a356b25c83",
