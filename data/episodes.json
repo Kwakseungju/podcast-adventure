@@ -1,5 +1,45 @@
 [
   {
+    "id": "f3f046050157db934222925549f7c1cd",
+    "source_id": "odd_lots",
+    "source_name": "Odd Lots",
+    "source_org": "Bloomberg",
+    "source_color": "#06b6d4",
+    "title": "Robert Friedland on the World's Monumental Shortage of Copper",
+    "description": "<p>Copper demand is booming, with the metal surging another 15% this year. Copper demand has always been tightly linked to economic activity, but now it's in overdrive, thanks to data centers, electric cars, and the global push to reindustrialize everywhere. Copper prices are also rising because it's caught in the crossfire of trade wars and resource nationalism; the US is expected to place tariffs on the refined metal. According to today's guest, Robert Friedland, the founder and executive co-chairman of Ivanhoe Mines, we're not even close to having enough copper for what's coming. We talk to Friedland about opening and running copper mines around the world, and what he's learned in his 40-year long career in mining (which includes a cameo from Steve Jobs).</p> <p>See <a href=\"https://events.bloombergevents.com/event/ODDLOTSLA/summary\">Odd Lots live in Los Angeles!</a><br /><br />Read more: <a href=\"https://www.bloomberg.com/news/articles/2026-09-11/copper-heads-for-weekly-loss-as-doubts-on-us-tariffs-intensify?utm_medium=referral&amp;utm_source=podcast&amp;utm_campaign=odd_lots&amp;utm_content=article\">Copper Steadies With Dip-Buying From Funds, Chinese Industry</a></p> <p>Only http://Bloomberg.com subscribers can get the Odd Lots newsletter in their inbox each week, plus unlimited access to the site and app. Subscribe at bloomberg.com/subscriptions/oddlots<br /><br /><strong>Join the conversation:</strong> discord.gg/oddlots</p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
+    "published": "2026-09-12",
+    "week": "2026-W37",
+    "audio_url": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/84e5f9f2-bff2-403b-bb41-b4c20134a223/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
+    "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/84e5f9f2-bff2-403b-bb41-b4c20134a223/transcript?format=TextWithTimestamps&t=1789152558",
+    "episode_url": "https://omny.fm/shows/odd-lots/robert-friedland-on-the-worlds-monumental-shortage-of-copper",
+    "type": "podcast",
+    "duration_secs": 4194,
+    "transcript_length": 63432,
+    "speaker": "Robert Friedland — Founder, Ivanhoe Mines",
+    "one_line_summary": "Copper prices near $15,000/ton amid a supply‑production gap, driven by electrification, data centers, and national‑security demand, but new mine starts lag behind.",
+    "summary": "The episode centers on copper’s role as a critical metal for electrification, data centers, and national security. Robert Friedland notes that copper reached a new high of 14,875 a ton earlier this week and is now trading near $15,000 a ton, yet production may decline for the first time since 2017. He highlights the tension between strong long‑term demand—especially from data centers and electric grids—and the volatility that deters producers from expanding capacity. Friedland also stresses the importance of recycling, citing the melt value of a pre‑1982 penny at 4.5 cents, and the need to rebuild domestic smelting and infrastructure to meet future demand. The discussion touches on geopolitical risks, deindustrialization, and the strategic importance of copper in defense and green technology.\n\nKey themes include the supply‑demand mismatch, the strategic national‑security dimension of copper, and the historical context of copper mining and geopolitics. Friedland’s narrative underscores that while copper prices are high, confidence in boosting production hinges on resolving regulatory, logistical, and geopolitical barriers.\n\nThe conversation also briefly references the historical use of copper in pennies, the shift to zinc during WWII, and the broader context of resource nationalism and supply chain balkanization.",
+    "key_themes": [
+      "Copper supply‑demand imbalance",
+      "National‑security and geopolitical risk",
+      "Recycling and domestic production"
+    ],
+    "market_signals": [
+      "Copper price 14,875 a ton earlier this week, down 3% now",
+      "Copper price near $15,000 a ton",
+      "First decline in copper production since 2017",
+      "Melt value of a pre‑1982 penny 4.5 cents",
+      "Copper supply from recycling versus new production"
+    ],
+    "framework_insights": [
+      "Copper as a proxy for critical metals in a balkanized supply chain",
+      "Recycling as a buffer against supply shocks",
+      "Geopolitical events can rapidly alter resource ownership and access",
+      "Demand growth from electrification outpaces production capacity",
+      "National security considerations can drive commodity demand"
+    ],
+    "market_relevance": "Investors should monitor copper price dynamics and production trends, as high prices coupled with supply constraints signal potential upside, while geopolitical and regulatory risks could dampen new mine development."
+  },
+  {
     "id": "45b0f8b8b23da37e354fd20fb0e10758",
     "source_id": "odd_lots",
     "source_name": "Odd Lots",
@@ -60,6 +100,85 @@
     "market_signals": [],
     "framework_insights": [],
     "market_relevance": "The episode signals a shift in how Chinese EV firms are positioning themselves, hinting at potential market realignments in the automotive and technology sectors."
+  },
+  {
+    "id": "296fe8a854f1bc6c2c06d485ba2a9251",
+    "source_id": "masters_in_business",
+    "source_name": "Masters in Business",
+    "source_org": "Bloomberg",
+    "source_color": "#eab308",
+    "title": "Finding Stability in Investing: Masters in Business with Seth Bernstein",
+    "description": "<p>Barry speaks with Seth Bernstein, Chief Executive Officer of AllianceBernstein. They discuss his tenure at JPMorgan Chase where he was managing director and global head of Managed Solutions &amp; Strategy at J.P. Morgan Asset Management. They also discuss understanding the private credit industry and the future of mutual funds as ETFs grow in popularity. Plus, Seth shares his thoughts on the importance of in-person collaboration, as well as how to invest for retirement.</p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
+    "published": "2026-09-11",
+    "week": "2026-W37",
+    "audio_url": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/4e4cd910-40a1-4619-a5f3-ae2b0012ffff/79108b5f-801e-4801-9260-b4c2016f01ac/audio.mp3?utm_source=Podcast&in_playlist=5873a3cb-298f-40bc-b71f-ae2b0013000d",
+    "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/79108b5f-801e-4801-9260-b4c2016f01ac/transcript?format=TextWithTimestamps&t=1789165548",
+    "episode_url": "https://omny.fm/shows/masters-in-business/finding-stability-in-investing-masters-in-business-with-seth-bernstein",
+    "type": "podcast",
+    "duration_secs": 3540,
+    "transcript_length": 54232,
+    "speaker": "Seth Bernstein — CEO of Alliance Bernstein",
+    "one_line_summary": "Seth Bernstein explains how Alliance Bernstein’s turnaround hinged on cost discipline, talent relocation, and a renewed focus on fiduciary-driven distribution amid fee compression.",
+    "summary": "Seth Bernstein, CEO of Alliance Bernstein, recounts his 2017 takeover of a firm that had $500 billion in assets and was struggling with fee compression and outflows. He notes the firm’s AUM had peaked near $900 billion, fallen to $380 billion in 2012, and that equity exposure dropped from 70 % in 2006 to 30 % in 2012 while bonds held up. Bernstein highlights the shift to private credit and the importance of a fiduciary mindset, arguing that wealth managers must act like doctors or lawyers rather than salespeople. He also stresses the need to reduce the New York footprint and attract tech‑savvy talent elsewhere to keep costs down and improve performance.\n\nKey themes include fee compression, talent relocation, fiduciary focus, cost discipline, and the strategic pivot to private credit.\n\n",
+    "key_themes": [
+      "Fee compression",
+      "Talent relocation",
+      "Fiduciary focus"
+    ],
+    "market_signals": [
+      "$905 billion in client assets managed by Alliance Bernstein",
+      "$500 billion AUM at the time of Bernstein’s 2017 takeover",
+      "AUM peaked near $900 billion, fell to $380 billion in 2012",
+      "Equity exposure fell from 70 % in 2006 to 30 % in 2012",
+      "Fee compression from 20‑25 cents a share to pennies and fractions of a penny"
+    ],
+    "framework_insights": [
+      "Global perspective: bring a broader view to a US‑centric firm",
+      "Distribution focus: prioritize private wealth, institutional, and retail channels",
+      "Fiduciary mindset: treat client relationships like healthcare or legal advice",
+      "Cost discipline: reduce footprint and cut unnecessary expenses",
+      "Talent strategy: relocate to cities that attract tech‑savvy, cost‑effective talent"
+    ],
+    "market_relevance": "The signals illustrate how fee‑compressed active managers can survive by tightening costs, expanding private credit, and refocusing on fiduciary‑driven distribution—tactics that are immediately relevant for investors navigating a low‑fee, high‑competition environment."
+  },
+  {
+    "id": "bc489e17f98450a84c9c68eaf151003f",
+    "source_id": "goldman_sachs",
+    "source_name": "Goldman Sachs",
+    "source_org": "Goldman Sachs",
+    "source_color": "#3b82f6",
+    "title": "What a Fed Rate Hike Could Mean for US Stocks",
+    "description": "Investors are pricing in a higher likelihood that the Federal Reserve will hike rates after core CPI inflation rose in August more than economists had estimated. However, a rate hike may not keep the US stock market from climbing higher, says Jonathan Shugar, head of Cross Asset Sales in Goldman Sachs FICC and Equities, on The Markets podcast. Companies reported strong earnings growth in the second quarter, and valuations near the 10-year average are not stretched, he explains. Shugar also discusses why a Fed hike may not restrain investment in artificial intelligence, the risks in longer-term interest rates, and the potential opportunity for investors in consumer experience stocks.  \n\nThis episode was recorded on September 11, 2026.\n\nThe opinions and views expressed herein are as of the date of publication, subject to change without notice, and may not necessarily reflect the institutional views of Goldman Sachs or its affiliates. The material provided is intended for informational purposes only, and does not constitute investment advice, a recommendation from any Goldman Sachs entity to take any particular action, or an offer or solicitation to purchase or sell any securities or financial products.  This material may contain forward-looking statements.  Past performance is not indicative of future results. Neither Goldman Sachs nor any of its affiliates make any representations or warranties, express or implied, as to the accuracy or completeness of the statements or information contained herein and disclaim any liability whatsoever for reliance on such information for any purpose.  Each name of a third-party organization mentioned is the property of the company to which it relates, is used here strictly for informational and identification purposes only and is not used to imply any ownership or license rights between any such company and Goldman Sachs.\n\nA transcript is provided for convenience and may differ from the original video or audio content. Goldman Sachs is not responsible for any errors in the transcript. This material should not be copied, distributed, published, or reproduced in whole or in part or disclosed by any recipient to any other person without the express written consent of Goldman Sachs. ⁠\n\n© 2026 Goldman Sachs. All rights reserved.",
+    "published": "2026-09-11",
+    "week": "2026-W37",
+    "video_id": "SLww08lBLIg",
+    "episode_url": "https://www.youtube.com/watch?v=SLww08lBLIg",
+    "type": "youtube",
+    "duration_secs": null,
+    "transcript_length": 2297,
+    "speaker": "Jonathan Shugar — Head of Cross Asset Sales in Goldman Sachs FICC and Equities",
+    "one_line_summary": "A Fed rate hike is likely but may not curb US stock gains, as strong Q2 earnings and AI investment momentum keep valuations near the 10‑year average attractive.",
+    "summary": "Investors are pricing in a higher likelihood that the Federal Reserve will hike rates after core CPI inflation rose in August more than economists had estimated. However, a rate hike may not keep the US stock market from climbing higher, says Jonathan Shugar, head of Cross Asset Sales in Goldman Sachs FICC and Equities, on The Markets podcast. Companies reported strong earnings growth in the second quarter, and valuations near the 10-year average are not stretched, he explains. Shugar also discusses why a Fed hike may not restrain investment in artificial intelligence, the risks in longer-term interest rates, and the potential opportunity for investors in consumer experience stocks.",
+    "key_themes": [
+      "Fed rate hike expectations",
+      "Stock market resilience",
+      "AI investment"
+    ],
+    "market_signals": [
+      "Investors are pricing in a higher likelihood that the Federal Reserve will hike rates after core CPI inflation rose in August more than economists had estimated.",
+      "Companies reported strong earnings growth in the second quarter.",
+      "Valuations near the 10-year average are not stretched.",
+      "A Fed hike may not restrain investment in artificial intelligence.",
+      "Potential opportunity for investors in consumer experience stocks."
+    ],
+    "framework_insights": [
+      "A Fed rate hike may not restrain investment in artificial intelligence.",
+      "Valuations near the 10-year average are not stretched, implying relative value in equities.",
+      "Strong earnings growth in the second quarter can support market resilience to monetary tightening.",
+      "AI investment momentum can drive long-term growth opportunities regardless of short-term rate moves.",
+      "Consumer experience stocks may offer upside in a higher-rate environment."
+    ],
+    "market_relevance": "The episode signals that despite a likely Fed hike, US equities could continue to rise due to solid earnings and AI-driven growth, suggesting investors should focus on valuation relative to the 10‑year average and sector opportunities like AI and consumer experience."
   },
   {
     "id": "bf786c2d68ef16f7d511312d226935a9",
