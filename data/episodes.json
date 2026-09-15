@@ -1,5 +1,32 @@
 [
   {
+    "id": "cc3626bb64a1363956f1a119cf2c2cb1",
+    "source_id": "capital_allocators",
+    "source_name": "Capital Allocators",
+    "source_org": "Ted Seides",
+    "source_color": "#f43f5e",
+    "title": "Should AI Make the Investment Decision? 4 CIOs Split",
+    "description": "Should AI make the actual investment decision? Ted Seides put the question to eight CIOs and the room split. Brian Sugrue and Matt Bank hold the line — heavy AI users who still won’t hand the decision, or the recommendation, to a machine with client capital at stake. Jon Webster says AI already touches every stage of CPP’s investment lifecycle, and Kristin Kallergis Rowland has agentic portfolio management on the roadmap for 2027. Same question, four allocators, two very different answers.\n \nFrom Ted Seides’s conversations with eight CIOs — AI in the Investment Office (Capital Allocators, EP.515). Full episode: https://www.capitalallocators.com/podcast/ai-in-the-investment-office/?utm_source=youtube&amp;utm_medium=keymoment&amp;utm_campaign=ep515\n \nLearn more about Capital Allocators University: https://www.capitalallocators.com/capital-allocators-university/\nTry ALEX by Admired Leadership: https://tryalex.admiredleadership.com/\n \nSubscribe to the mailing list: https://capitalallocators.com/\nAccess the transcript with Premium Membership: https://capitalallocators.com/signup\nListen on Apple Podcasts: https://podcasts.apple.com/us/podcast/capital-allocators-inside-the-institutional/id1223764016\nFollow Ted on Twitter/X: https://twitter.com/tseides\nTed on LinkedIn: https://www.linkedin.com/in/tedseides/\n \nEditing and post-production by The Podcast Consultant: https://thepodcastconsultant.com\n \n#AIinvesting #ArtificialIntelligence #AgenticAI #InstitutionalInvesting #CIO #CapitalAllocators #Allocators",
+    "published": "2026-09-15",
+    "week": "2026-W38",
+    "video_id": "1hojlO63GVE",
+    "episode_url": "https://www.youtube.com/watch?v=1hojlO63GVE",
+    "type": "youtube",
+    "duration_secs": null,
+    "transcript_length": 1520,
+    "speaker": "",
+    "one_line_summary": "Eight CIOs split on whether AI should make the actual investment decision, with heavy users still preferring human control.",
+    "summary": "Ted Seides posed the question of whether AI should make the actual investment decision to eight CIOs. The room split: Brian Sugrue and Matt Bank, heavy AI users, hold the line and will not hand the decision or recommendation to a machine when client capital is at stake. Jon Webster notes AI already touches every stage of CPP’s investment lifecycle, and Kristin Kallergis Rowland has agentic portfolio management on the roadmap for 2027. The episode highlights differing views on AI’s role in investment decision‑making.\n\nKey points include the continued preference for human oversight among some CIOs, the integration of AI across the investment lifecycle by others, and the upcoming roadmap for agentic portfolio management.\n\nThe discussion underscores the evolving debate over AI’s place in institutional investing and the balance between automation and human judgment.\n",
+    "key_themes": [
+      "AI decision control",
+      "Human oversight",
+      "Investment lifecycle integration"
+    ],
+    "market_signals": [],
+    "framework_insights": [],
+    "market_relevance": "The split among CIOs signals that institutional investors are still cautious about fully delegating investment decisions to AI, highlighting a key risk factor for firms considering automation."
+  },
+  {
     "id": "4383167f1079e97137f58a9e8e940154",
     "source_id": "odd_lots",
     "source_name": "Odd Lots",
