@@ -1,5 +1,138 @@
 [
   {
+    "id": "05bf204243c8ffd8381ca5db0dd948e0",
+    "source_id": "odd_lots",
+    "source_name": "Odd Lots",
+    "source_org": "Bloomberg",
+    "source_color": "#06b6d4",
+    "title": "There's a Mind-Boggling Number of Rich People in America",
+    "description": "<p>In 2014, the economists Owen Zidar and Eric Zwick were asked by the Treasury to conduct a study on the tax burden of private business owners. It was tricky to figure out how much these sorts of business owners &mdash; auto dealers, contractors, the like &mdash; actually owed in taxes: After Reagan's 1986 tax reforms, pass-through businesses and other accounting tricks became widespread enough to obscure this class of wealthy Americans hiding in plain sight. The research they conducted led to their new book The Everywhere Millionaire: Who Is Really Rich in America and How They Got There, and one of their central findings is that there are about three million private business owners who have an average wealth of around $25 million. They call this group &ldquo;Main Street Millionaires&rdquo; and their influence on the economy and politics in the US is considerable. We speak with Zidar and Zwick today about how they measured the actual number of rich people in America by sifting through reams of tax forms, why income inequality started to rise in tandem with the growing number of pass-through businesses, and how it's possible that the collective revenue of the nation's dentists far exceeds that of the NFL.</p> <p>Read more:<br /><a href=\"https://www.bloomberg.com/news/articles/2026-09-11/tech-s-nouveau-riche-suffer-sudden-wealth-syndrome-as-ai-pay-explodes?utm_medium=referral&amp;utm_source=podcast&amp;utm_campaign=odd_lots&amp;utm_content=article\">Tech&rsquo;s New Rich Are Suffering From &lsquo;Sudden Wealth Syndrome&rsquo;</a><br /><a href=\"https://www.bloomberg.com/news/features/2026-09-17/san-francisco-s-ai-wealth-boom-skirts-engineers-as-openai-anthropic-ipos-near?utm_medium=referral&amp;utm_source=podcast&amp;utm_campaign=odd_lots&amp;utm_content=article\">Jobless Tech Workers Are Being Left Out of San Francisco&rsquo;s AI Boom</a></p> <p>Only <a href=\"http://Bloomberg.com\">http://Bloomberg.com</a> subscribers can get the Odd Lots newsletter in their inbox each week, plus unlimited access to the site and app. Subscribe at&nbsp; <a href=\"https://www.bloomberg.com/subscriptions/oddlots?in_source=oddlotspodcast\">bloomberg.com/subscriptions/oddlots</a></p> <p><a href=\"http://bloomberg.com/subscriptions/oddlots\">Subscribe to the Odd Lots Newsletter</a><br /><strong>Join the conversation:</strong> <a href=\"https://discord.gg/oddlots\">discord.gg/oddlots</a></p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
+    "published": "2026-09-18",
+    "week": "2026-W38",
+    "audio_url": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/3715cbfc-b4cf-4840-bf1b-b4c8010bc9bb/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
+    "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/3715cbfc-b4cf-4840-bf1b-b4c8010bc9bb/transcript?format=TextWithTimestamps&t=1789662106",
+    "episode_url": "https://omny.fm/shows/odd-lots/theres-a-mind-boggling-number-of-rich-people-in-america",
+    "type": "podcast",
+    "duration_secs": 3584,
+    "transcript_length": 63213,
+    "speaker": "Owen Zadar & Eric Zwick — Professors of Economics at Princeton and Chicago Booth",
+    "one_line_summary": "Pass‑through businesses funnel 70% of their income to the top 1% and now dominate the U.S. wealth story, revealing a hidden layer of regional millionaires.",
+    "summary": "The episode explains how pass‑through entities—S‑corps, partnerships, and LLCs—have become the primary vehicle for wealth creation in the United States.  The authors recount a decade‑long Treasury commission that linked tax forms to owners, uncovering that 70% of every dollar of pass‑through income goes to the top 1%.  They note that more than half of the growth in top‑1% income from the 1980s to 2021 is attributable to pass‑through businesses, and that these firms are largely mid‑market regional enterprises such as auto dealers, beverage distributors, and contractors.  A vivid illustration is the 2023‑24 “wedding of the century” by a third‑generation Florida Mercedes dealer who spent $60 million on a lavish celebration after selling his dealership for several hundred million dollars.  The discussion also touches on the difficulty of linking disparate tax data and the importance of building novel datasets to understand inequality.\n\nKey themes include the tax‑code mechanics that favor pass‑throughs, the hidden concentration of wealth among regional business owners, and the methodological challenges of extracting owner data from IRS filings.",
+    "key_themes": [
+      "Pass‑through tax mechanics",
+      "Hidden regional wealth concentration",
+      "Data linkage challenges"
+    ],
+    "market_signals": [
+      "70% of pass‑through business income goes to the top 1%",
+      "More than half of the growth in top 1% income from the 1980s to 2021 comes from pass‑through business income",
+      "Pass‑through businesses represent the vast majority of U.S. businesses and half of profits",
+      "Auto dealers are the number one bucket of pass‑through income for the top 0.1%",
+      "A third‑generation Mercedes dealer sold his dealership for several hundred million dollars and spent $60 million on a wedding in 2023‑24"
+    ],
+    "framework_insights": [
+      "Linking separate tax databases is essential to uncover hidden wealth concentrations",
+      "Pass‑through entities avoid corporate tax, making them attractive for high‑income owners",
+      "Mid‑market regional businesses can generate outsized wealth when structured as pass‑throughs",
+      "Data scarcity drives the need for novel datasets to study inequality",
+      "Understanding the tax code’s incentives explains the rise of pass‑through wealth"
+    ],
+    "market_relevance": "Investors should monitor the pass‑through sector for signals of wealth concentration and potential regulatory changes, as it now accounts for a large share of U.S. income growth and houses a hidden pool of high‑net‑worth individuals."
+  },
+  {
+    "id": "a5d58d5fdd20b4f6852e5634e1f7af19",
+    "source_id": "in_good_company",
+    "source_name": "In Good Company",
+    "source_org": "Norges Bank Investment Management",
+    "source_color": "#14b8a6",
+    "title": "Friday Wrap-Up: A Guru of Simplification and the AI Slowdown Debate",
+    "description": "<p>On this week's Friday Wrap-Up, Marthe Skaar calls in from Singapore to catch up with Nicolai Tangen, joining from New York, to break down his podcast conversation with Jon McNeill, author of “The Algorithm\" and a leading voice on simplifying business processes. They discuss his rule to question every requirement before automating, and why speed has become a competitive necessity. The conversation also turns to the growing debate over AI safety, fueled by Anthropic's Dario Amodei's call to slow down development. Nicolai reflects on his trip to the Canada Investment Summit, and shares a humbling annual tradition with friends. Tune in!</p><p>Listen to In Good Company with John McNeill, author of “The Algorithm”: <a href=\"https://podcasts.apple.com/no/podcast/jon-mcneill-the-algorithm-behind-tesla-and-spacex/id1614211565?i=1000789947914\" rel=\"noopener noreferrer\" target=\"_blank\">https://podcasts.apple.com/no/podcast/jon-mcneill-the-algorithm-behind-tesla-and-spacex/id1614211565?i=1000789947914</a></p><br /><p>The Friday Wrap-Up is hosted by Marthe Skaar, Chief of Communications and External Relations, together with Nicolai Tangen, CEO of Norges Bank Investment Management, and produced by Isabelle Karlsson. New episodes of In Good Company air every Wednesday, with the Friday Wrap-Up following each week to break it all down.</p><hr /><p style=\"color: grey; font-size: 0.75em;\"> Hosted on Acast. See <a href=\"https://acast.com/privacy\" rel=\"noopener noreferrer\" style=\"color: grey;\" target=\"_blank\">acast.com/privacy</a> for more information.</p>",
+    "published": "2026-09-18",
+    "week": "2026-W38",
+    "audio_url": "https://sphinx.acast.com/p/open/s/622618c7057f3400120d15db/e/6aac23e0bf7eb386d302a26a/media.mp3",
+    "transcript_url": null,
+    "episode_url": "https://shows.acast.com/in-good-company-with-nicolai-tangen/episodes/friday-wrap-up-a-guru-of-simplification-and-the-ai-slowdown",
+    "type": "podcast",
+    "duration_secs": 851,
+    "transcript_length": 1564,
+    "speaker": "Nicolai Tangen — CEO, Norges Bank Investment Management",
+    "one_line_summary": "Nicolai Tangen discusses a rule to question every requirement before automating and the growing debate over AI safety, highlighting speed as a competitive necessity.",
+    "summary": "In the Friday Wrap‑Up, Nicolai Tangen joins Marthe Skaar to recap his podcast conversation with Jon McNeill, author of “The Algorithm.” They emphasize a rule to question every requirement before automating and note that speed has become a competitive necessity. The discussion also turns to the AI safety debate, sparked by Anthropic’s Dario Amodei calling for a slowdown in development. Tangen briefly reflects on his trip to the Canada Investment Summit and shares a humbling annual tradition with friends.",
+    "key_themes": [
+      "Automation scrutiny",
+      "Speed as competitive edge",
+      "AI safety debate"
+    ],
+    "market_signals": [],
+    "framework_insights": [
+      "Rule to question every requirement before automating",
+      "Speed has become a competitive necessity"
+    ],
+    "market_relevance": "The emphasis on rigorous automation review and the urgency of speed signals that firms may need to reassess their tech adoption pace amid AI safety concerns."
+  },
+  {
+    "id": "a8950be24fd90a80487ab8205d679e87",
+    "source_id": "goldman_sachs",
+    "source_name": "Goldman Sachs",
+    "source_org": "Goldman Sachs",
+    "source_color": "#3b82f6",
+    "title": "The Opportunities for Investors amid Higher-for-Longer Interest Rates",
+    "description": "The Federal Reserve signaled this week that interest rates could be higher for longer, which may pose a challenge for the broader equity market if tighter policy leads to less consumption, says Anshul Sehgal, global co-head of Fixed Income, Currency and Commodities. However, companies that specialize in computing and data centers could be an opportunity for investors amid elevated interest rates. On The Markets podcast, Sehgal also discusses his take on the latest Federal Open Market Committee meeting and his outlook for longer-term bond yields. \n\nAlso available on Spotify (https://click.gs.com/hn4o) and Apple Podcasts (https://click.gs.com/qx2m) \n\nFilmed on September 17, 2026. \n\nThe opinions and views expressed herein are as of the date of publication, subject to change without notice, and may not necessarily reflect the institutional views of Goldman Sachs or its affiliates. The material provided is intended for informational purposes only, and does not constitute investment advice, a recommendation from any Goldman Sachs entity to take any particular action, or an offer or solicitation to purchase or sell any securities or financial products. This material may contain forward-looking statements. Past performance is not indicative of future results. Neither Goldman Sachs nor any of its affiliates make any representations or warranties, express or implied, as to the accuracy or completeness of the statements or information contained herein and disclaim any liability whatsoever for reliance on such information for any purpose. Each name of a third-party organization mentioned is the property of the company to which it relates, is used here strictly for informational and identification purposes only and is not used to imply any ownership or license rights between any such company and Goldman Sachs.\n\nA transcript is provided for convenience and may differ from the original video or audio content. Goldman Sachs is not responsible for any errors in the transcript. This material should not be copied, distributed, published, or reproduced in whole or in part or disclosed by any recipient to any other person without the express written consent of Goldman Sachs. ⁠\n\n© 2026 Goldman Sachs. All rights reserved.",
+    "published": "2026-09-18",
+    "week": "2026-W38",
+    "video_id": "yH67oD6_lYs",
+    "episode_url": "https://www.youtube.com/watch?v=yH67oD6_lYs",
+    "type": "youtube",
+    "duration_secs": null,
+    "transcript_length": 2238,
+    "speaker": "Anshul Sehgal — global co-head of Fixed Income, Currency and Commodities",
+    "one_line_summary": "The Fed’s higher‑for‑longer stance may pressure equities, but computing and data‑center firms could thrive in the elevated‑rate environment.",
+    "summary": "Anshul Sehgal, Goldman Sachs’ global co‑head of Fixed Income, Currency and Commodities, notes that the Federal Reserve’s recent signal of higher‑for‑longer interest rates could challenge the broader equity market if tighter policy dampens consumption. He highlights that companies specializing in computing and data centers may represent an attractive opportunity amid these elevated rates. Sehgal also discusses his take on the latest Federal Open Market Committee meeting and his outlook for longer‑term bond yields, though specific figures are not provided in the transcript.",
+    "key_themes": [
+      "Federal Reserve policy impact on equities",
+      "Opportunities in computing and data centers",
+      "Long‑term bond yield outlook"
+    ],
+    "market_signals": [
+      "Fed signaled interest rates could be higher for longer",
+      "Computing and data‑center companies may be an opportunity amid elevated rates"
+    ],
+    "framework_insights": [
+      "Higher‑for‑longer rates can pressure consumption‑driven sectors while benefiting infrastructure and technology firms that generate stable cash flows"
+    ],
+    "market_relevance": "Investors should monitor the Fed’s policy trajectory and consider exposure to data‑center and computing stocks, which may outperform in a higher‑rate environment."
+  },
+  {
+    "id": "9a7511701d405e3ca7a8e2aa74eac1b4",
+    "source_id": "goldman_sachs",
+    "source_name": "Goldman Sachs",
+    "source_org": "Goldman Sachs",
+    "source_color": "#3b82f6",
+    "title": "Rich Friedman on the Rise of Private Markets and AI Investing",
+    "description": "Rich Friedman, chairman of Goldman Sachs Asset Management, says there are still plenty of investment opportunities in private equity, even as private markets have grown far larger than he would have imagined a few decades ago. In this conversation with Alison Mass, chairman of Investment Banking in Goldman Sachs Global Banking & Markets, on Goldman Sachs Exchanges: Great Investors, he explains why he expects the payoff in artificial intelligence to arrive later than the market assumes, and how the discipline he used to build the firm's merchant banking business over 45 years shapes where he is investing now.    \n\nThis episode was recorded on July 28, 2026. \nThe opinions and views expressed herein are as of the date of publication, subject to change without notice, and may not necessarily reflect the institutional views of Goldman Sachs or its affiliates. The material provided is intended for informational purposes only, and does not constitute investment, legal, or tax advice, a recommendation from any Goldman Sachs entity to take any particular action or be used as a basis for any other investment decision, or an offer or solicitation to purchase or sell any securities or financial products. Any forward-looking statements, case studies, computations or examples set forth herein are for illustrative purposes only. Past performance is not indicative of future results. Neither Goldman Sachs nor any of its affiliates make any representations or warranties, express or implied, as to the accuracy or completeness of the statements or information contained herein and disclaim any liability whatsoever for reliance on such information for any purpose. Each name of a third-party organization mentioned is the property of the company to which it relates, is used here strictly for informational and identification purposes only and is not used to imply any sponsorship, affiliation, endorsement, ownership or license rights between any such company and Goldman Sachs. This material should not be copied, distributed, published, or reproduced in whole or in part or disclosed by any recipient to any other person without the express written consent of Goldman Sachs. \n\nA transcript is provided for convenience and may differ from the original video or audio content. Goldman Sachs is not responsible for any errors in the transcript. \n\n© 2026 Goldman Sachs.  \n\nAll rights reserved.",
+    "published": "2026-09-18",
+    "week": "2026-W38",
+    "video_id": "KrZatIdXaUU",
+    "episode_url": "https://www.youtube.com/watch?v=KrZatIdXaUU",
+    "type": "youtube",
+    "duration_secs": null,
+    "transcript_length": 2398,
+    "speaker": "Rich Friedman — chairman of Goldman Sachs Asset Management",
+    "one_line_summary": "Rich Friedman highlights that private equity still offers ample opportunities and that AI’s payoff will arrive later than market expectations, guided by long‑term discipline.",
+    "summary": "Rich Friedman, chairman of Goldman Sachs Asset Management, discusses the continued attractiveness of private equity despite the sector’s rapid growth over recent decades. He explains that the payoff from artificial intelligence will arrive later than the market currently assumes, and he attributes his investment focus to the discipline he applied in building the firm’s merchant banking business over 45 years. The conversation, recorded on July 28, 2026, emphasizes a long‑term, disciplined approach to investing in private markets and AI.",
+    "key_themes": [
+      "Private equity opportunities",
+      "AI payoff timing",
+      "Long‑term investment discipline"
+    ],
+    "market_signals": [],
+    "framework_insights": [
+      "Discipline from 45 years of merchant banking guides current investment decisions",
+      "Long‑term perspective on AI payoff delays market expectations"
+    ],
+    "market_relevance": "The insights underscore that investors should remain patient with AI returns and continue to seek value in private equity, reflecting a disciplined, long‑term investment stance."
+  },
+  {
     "id": "d037b5cda1fa532a993b5fbd16338324",
     "source_id": "odd_lots",
     "source_name": "Odd Lots",
@@ -38,6 +171,46 @@
       "The generational shift from living under dictatorship to living under liberal democracy changes the perceived value of liberal institutions and can lead to a resurgence of illiberal sentiment."
     ],
     "market_relevance": "The rise of illiberal movements and the decline in global freedom signal potential geopolitical instability that can affect commodity prices, risk premiums, and capital flows, making it crucial for investors to monitor political risk indicators and adjust exposure to emerging markets and sovereign debt."
+  },
+  {
+    "id": "9dcc459ce519eddc40d47eccb8484a8b",
+    "source_id": "credit_edge",
+    "source_name": "The Credit Edge",
+    "source_org": "Bloomberg Intelligence",
+    "source_color": "#f97316",
+    "title": "Lumen’s CFO Looks Ahead After ‘Moonshot’ Debt Deal That Worked",
+    "description": "<p>Lumen Technologies is reducing leverage and reinventing itself as an AI play after completing one of the biggest-ever out-of-court debt restructurings. &ldquo;We had to keep as many winners as possible if we were going to be able to pull this off,&rdquo; Chris Stansbury, the company&rsquo;s president and chief financial officer, tells Bloomberg News&rsquo; James Crombie and Reshmi Basu and Bloomberg Intelligence&rsquo;s Phil Brendel in the latest Credit Edge podcast. &ldquo;It was a moonshot and it worked,&rdquo; Stansbury adds. They also discuss capital-expenditure plans, a copper-scrap opportunity worth &ldquo;hundreds of millions of dollars,&rdquo; and Lumen&rsquo;s exposure to the AI backlash.</p> <p>&nbsp;</p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
+    "published": "2026-09-17",
+    "week": "2026-W38",
+    "audio_url": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/e74a35e9-c028-4e5f-a3f7-afb10164a717/49cf64e2-c110-420f-a8da-b4c8014966d6/audio.mp3?utm_source=Podcast&in_playlist=8792a2e9-d66c-4038-a1fe-afb101654894",
+    "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/49cf64e2-c110-420f-a8da-b4c8014966d6/transcript?format=TextWithTimestamps&t=1789676179",
+    "episode_url": "https://omny.fm/shows/the-credit-edge-by-bloomberg-intelligence/lumen-s-cfo-looks-ahead-after-moonshot-debt-deal-that-worked",
+    "type": "podcast",
+    "duration_secs": 2818,
+    "transcript_length": 40334,
+    "speaker": "Chris Stansbury — President and CFO, Lumen Technologies",
+    "one_line_summary": "Lumen’s CFO explains how a $12 billion debt extension, $1.3 billion of new 2024 financing, and a strategic shift to AI‑enabled fiber transformed a distressed telecom into a growth‑oriented network company.",
+    "summary": "Chris Stansbury details Lumen’s turnaround from a distressed debt situation to a real AI player. The company extended $12 billion of debt, raised $1.3 billion in new financing in 2024, and eliminated its dividend while selling non‑strategic assets to pay down debt. The restructuring involved an ad‑hoc group of creditors, addressing a $20 billion debt stack that included $10 billion due in 2027, $9 billion in two entities (one with strong assets, one without), and $2 billion in a third entity. Stansbury emphasizes transparency, stakeholder alignment, and the vision of “cloudifying” telecom to support AI workloads. He notes the high‑pressure negotiations, the importance of keeping employees engaged, and the role of hyperscaler deals in driving the restructuring.\n\nKey themes include debt restructuring strategy, AI‑driven network transformation, and the necessity of transparent communication with investors, employees, and creditors.",
+    "key_themes": [
+      "Debt restructuring strategy",
+      "AI‑enabled network transformation",
+      "Transparent stakeholder communication"
+    ],
+    "market_signals": [
+      "$12 billion of debt extended, $1.3 billion of new financing in 2024",
+      "$20 billion total debt, with $10 billion due in 2027",
+      "$9 billion debt in two entities (one with strong assets, one without)",
+      "$2 billion debt in a third entity with good assets",
+      "Dividend eliminated and non‑strategic assets sold to reduce debt"
+    ],
+    "framework_insights": [
+      "Align all debt holders to address the entire capital structure, not just one piece",
+      "Transparency and availability build trust and credibility with stakeholders",
+      "Use a clear long‑term vision (AI tailwinds) to justify high‑risk restructuring",
+      "Leverage strategic partnerships (hyperscalers) to create value and secure financing",
+      "Maintain employee confidence through honest communication and realistic timelines"
+    ],
+    "market_relevance": "The Lumen case shows how a telecom can pivot to AI‑centric services while navigating complex debt restructuring, offering a template for distressed companies seeking to capitalize on emerging technology trends."
   },
   {
     "id": "f91bb29c235108a3c78a683ef8a37ff7",
