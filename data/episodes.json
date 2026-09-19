@@ -1,5 +1,72 @@
 [
   {
+    "id": "c9259a6a9f9bff6dfc0e4c2d37584726",
+    "source_id": "odd_lots",
+    "source_name": "Odd Lots",
+    "source_org": "Bloomberg",
+    "source_color": "#06b6d4",
+    "title": "A Goldman M&A Banker Helped Bring the Olympics to Los Angeles",
+    "description": "<p>We're in an era of megadeals, with Goldman Sachs reporting a record year for big deal volumes as companies scramble to compete with AI. Gene Sykes has seen multiple deal cycles come and go over his multi-decade career. The co-head of mergers and acquisitions has worked on famous transactions like Comcast's purchase of Universal and Disney's buyout of Pixar. In addition to being \"the most-influential M&amp;A banker you've never heard of,\" as New York magazine has put it, he has also spearheaded Los Angeles's successful bid to bring the Olympic Games to the city in 2028. In this conversation, recorded live at the Future Proof Festival in Huntington Beach, California, we discuss how a city pays for a big event like the Olympics, and parallels between the early 2000s TMT environment and now.</p> <p>Read more:<br /><a href=\"https://www.bloomberg.com/news/articles/2026-09-17/port-of-la-foiled-around-120-million-cyberattacks-last-month?utm_medium=referral&amp;utm_source=podcast&amp;utm_campaign=odd_lots&amp;utm_content=article\">Port of LA Foiled Around 120 Million Cyberattacks Last Month</a><br /><a href=\"https://www.bloomberg.com/news/articles/2026-09-18/goldman-s-snider-says-fears-of-us-earnings-bubble-are-misplaced?utm_medium=referral&amp;utm_source=podcast&amp;utm_campaign=odd_lots&amp;utm_content=article\">Goldman&rsquo;s Snider Says Fears of US Earnings Bubble Are Misplaced</a></p> <p>Only <a href=\"http://Bloomberg.com\">http://Bloomberg.com</a> subscribers can get the Odd Lots newsletter in their inbox each week, plus unlimited access to the site and app. Subscribe at&nbsp; <a href=\"https://www.bloomberg.com/subscriptions/oddlots?in_source=oddlotspodcast\">bloomberg.com/subscriptions/oddlots</a></p> <p><a href=\"http://bloomberg.com/subscriptions/oddlots\">Subscribe to the Odd Lots Newsletter</a><br /><strong>Join the conversation:</strong> <a href=\"https://discord.gg/oddlots\">discord.gg/oddlots</a></p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
+    "published": "2026-09-19",
+    "week": "2026-W38",
+    "audio_url": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/3c42dc4e-ca08-46cf-b2c6-b4c90112084e/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
+    "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/3c42dc4e-ca08-46cf-b2c6-b4c90112084e/transcript?format=TextWithTimestamps&t=1789749597",
+    "episode_url": "https://omny.fm/shows/odd-lots/a-goldman-m-a-banker-helped-bring-the-olympics-to-los-angeles",
+    "type": "podcast",
+    "duration_secs": 1971,
+    "transcript_length": 33040,
+    "speaker": "Gene Sykes — co-head of Global M&A at Goldman Sachs, president of the U.S. Olympic Committee",
+    "one_line_summary": "The 2028 LA Olympics will be the first privately funded Games, leveraging existing infrastructure and a $1.5 billion+ media rights deal to deliver a clean, high‑ticket‑price experience that mirrors the scale of 17,000 athletes and 900 events.",
+    "summary": "Gene Sykes explains that the 2028 Los Angeles Olympics will be privately funded, with no government construction costs beyond federal security support. The Games will use existing venues, including UCLA for athlete housing, and will sell 15 million tickets—more than the 6.5 million sold for the World Cup—at premium prices. Media rights are secured by NBC through 2036 for over $1.5 billion per Games, and sponsorships from Coca‑Cola, Visa, Samsung, Starbucks, Uber, and Google add further revenue. Sykes also notes that the global M&A market is the largest ever, with 40 % of deals in 2021 from private equity and 30 % this year, driven by AI and semiconductor technology.",
+    "key_themes": [
+      "Privately funded Olympics",
+      "Ticket pricing and media rights",
+      "M&A market dynamics"
+    ],
+    "market_signals": [
+      "17,000 athletes and 900 events in the 2028 Games",
+      "15 million tickets sold for Olympics vs 6.5 million for World Cup",
+      "$1.5 billion+ per Games media rights held by NBC",
+      "40 % of 2021 M&A market from private equity, 30 % this year",
+      "Semiconductor and AI tech driving M&A activity"
+    ],
+    "framework_insights": [
+      "Privately funded Games rely on existing infrastructure to avoid construction costs",
+      "Clean venue rule preserves brand integrity and athlete focus",
+      "High ticket prices reflect premium experience and market demand",
+      "Startups often exit via acquisition, driving AI M&A",
+      "Differentiation and regulatory defiance can create independent companies like SpaceX"
+    ],
+    "market_relevance": "These signals highlight a shift toward private financing of mega‑events and a booming M&A market focused on AI and semiconductors, offering investors new avenues for high‑growth exposure."
+  },
+  {
+    "id": "1a13a240f0fe5f57cb705d90ae0b39b9",
+    "source_id": "goldman_sachs",
+    "source_name": "Goldman Sachs",
+    "source_org": "Goldman Sachs",
+    "source_color": "#3b82f6",
+    "title": "Can Stocks Rally With a Hawkish Fed?",
+    "description": "Despite a wave of macro challenges -- from surging oil prices to rising yields -- the stock market has remained remarkably resilient. Now that a hawkish Fed has anchored the back end of the yield curve, are stocks primed for a bullish path ahead?\n\nTony Pasquariello, global head of hedge fund coverage, Josh Schiffrin, global head of risk, and Dominic Wilson, senior advisor in Goldman Sachs Research, discuss markets post-FOMC, the structural shift in yields, and why a strong US capex cycle continues to underpin risk assets.\n\nClients can access the weekly episodes on Goldman Sachs Marquee, our digital platform for institutional investors.\n\nRecorded on September 17, 2026.",
+    "published": "2026-09-19",
+    "week": "2026-W38",
+    "video_id": "JCbDQh2GokQ",
+    "episode_url": "https://www.youtube.com/watch?v=JCbDQh2GokQ",
+    "type": "youtube",
+    "duration_secs": null,
+    "transcript_length": 676,
+    "speaker": "",
+    "one_line_summary": "The podcast highlights that despite macro headwinds, a hawkish Fed has anchored the yield curve’s back end, leaving stocks potentially poised for a bullish run supported by a strong US capex cycle.",
+    "summary": "The episode notes a wave of macro challenges—including surging oil prices and rising yields—yet the stock market has remained remarkably resilient. A hawkish Fed has anchored the back end of the yield curve, prompting discussion on whether stocks are primed for a bullish path. The hosts touch on markets post‑FOMC, a structural shift in yields, and the continued strength of the US capex cycle as a driver for risk assets.",
+    "key_themes": [
+      "Macro resilience",
+      "Fed policy impact",
+      "Yield curve structure"
+    ],
+    "market_signals": [],
+    "framework_insights": [],
+    "market_relevance": "Investors should note that the Fed’s hawkish stance may support a bullish trajectory for stocks, especially if the US capex cycle remains robust, while monitoring the evolving yield curve for potential risks."
+  },
+  {
     "id": "05bf204243c8ffd8381ca5db0dd948e0",
     "source_id": "odd_lots",
     "source_name": "Odd Lots",
@@ -131,6 +198,46 @@
       "Long‑term perspective on AI payoff delays market expectations"
     ],
     "market_relevance": "The insights underscore that investors should remain patient with AI returns and continue to seek value in private equity, reflecting a disciplined, long‑term investment stance."
+  },
+  {
+    "id": "dccc6da9a94d5bbe06615bdad451b3cb",
+    "source_id": "masters_in_business",
+    "source_name": "Masters in Business",
+    "source_org": "Bloomberg",
+    "source_color": "#eab308",
+    "title": "Investing for the AI Boom: Masters in Business with Glen Kacher",
+    "description": "<p>Barry speaks with Glen Kacher, Managing Director and CIO of Light Street Capital. They discuss his tenure at Integral Capital Partners, as well as his start at Tiger Management under founder Julian Robertson. They discuss being a hedge fund surrounded by venture capital in Silicon Valley, as well as learning to embrace the speed of tech. They also discuss the polarization of data centers and what AI will look like five years from now.</p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
+    "published": "2026-09-18",
+    "week": "2026-W38",
+    "audio_url": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/4e4cd910-40a1-4619-a5f3-ae2b0012ffff/7d3e615b-9db0-4ebc-baa7-b4c901597c1b/audio.mp3?utm_source=Podcast&in_playlist=5873a3cb-298f-40bc-b71f-ae2b0013000d",
+    "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/7d3e615b-9db0-4ebc-baa7-b4c901597c1b/transcript?format=TextWithTimestamps&t=1789765624",
+    "episode_url": "https://omny.fm/shows/masters-in-business/investing-for-the-ai-boom-masters-in-business-with-glen-kacher",
+    "type": "podcast",
+    "duration_secs": 4233,
+    "transcript_length": 56044,
+    "speaker": "Glenn Kacher — Founder and CIO, Light Street Capital",
+    "one_line_summary": "Light Street Capital’s strategy hinges on early, high‑margin tech investments, especially in AI, leveraging Silicon Valley proximity to capture first‑mover advantage.",
+    "summary": "Glenn Kacher, former Tiger Management and Integral Capital partner, explains that Light Street Capital focuses on early, high‑margin technology deals, particularly in AI, where the winner‑take‑all dynamic is strongest. He cites his experience at Tiger, where he invested in Dell, Microsoft, Compaq, and Cisco, and at Integral, where he co‑led 46 venture deals, arguing that buying the best company in a space yields two‑thirds of the market. Kacher highlights the importance of being in Silicon Valley to access the next wave of AI entrepreneurs and the hardware ecosystem—semiconductors, networking, and printed circuit boards—necessary for scaling AI. He notes NVIDIA’s 85% market share in AI accelerators and the emerging inference market as a larger opportunity.\n\nThe conversation also covers Light Street’s founding pitch in 2010, which identified mobile, social, cloud, and e‑commerce as four transformative forces, and how these laid the groundwork for the sharing economy. Kacher stresses that the current AI boom is a fundamental, low‑level technology shift requiring massive hardware innovation, and that the concentration of talent and capital in Silicon Valley remains a decisive advantage.",
+    "key_themes": [
+      "Early, high‑margin tech investing",
+      "Winner‑take‑all dynamics in AI",
+      "Silicon Valley proximity as a competitive moat"
+    ],
+    "market_signals": [
+      "NVIDIA’s 85% market share in AI accelerators",
+      "Light Street Capital’s focus on AI and technology as a core strategy",
+      "46 deals at Integral Capital over 13 years",
+      "The four transformative forces: mobile, social, cloud, e‑commerce",
+      "Semiconductors, networking, and printed circuit boards are critical for AI scaling"
+    ],
+    "framework_insights": [
+      "Invest in the best company in a space to capture two‑thirds of the market",
+      "Early, but not too early, is the optimal entry point for private deals",
+      "Geographic proximity to innovation hubs provides a competitive advantage",
+      "Disruption equals opportunity; focus on where change is happening most quickly",
+      "Winning companies compound advantages through higher margins and market share"
+    ],
+    "market_relevance": "Investors should watch AI‑related hardware and inference chip makers, as the market may be underpricing the long‑term upside of companies that can capture early, high‑margin positions in this winner‑take‑all space."
   },
   {
     "id": "d037b5cda1fa532a993b5fbd16338324",
