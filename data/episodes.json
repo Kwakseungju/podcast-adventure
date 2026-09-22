@@ -1,5 +1,113 @@
 [
   {
+    "id": "12b7b789d7bbfe078b502493d910ec05",
+    "source_id": "invest_like_the_best",
+    "source_name": "Invest Like the Best",
+    "source_org": "Colossus",
+    "source_color": "#6366f1",
+    "title": "Gabe Stengel - Building Investing Superintelligence - [Invest Like the Best, EP.492]",
+    "description": "Gabe Stengel is the co-founder and CEO of Rogo, the AI platform for finance. He believes the best investors will spend the next several years reinventing their firms around AI, and Rogo is trying to build the infrastructure that allows them to do it.\n\nWe discuss how Rogo evolved alongside the frontier models, why the last mile and the harness around the models matter so much, what happens when every portfolio manager can deploy thousands of agents against a problem, and how AI could transform the way capital is raised, assets are priced, and deals get done.\n\nWe also cover which investing skills become more valuable as AI improves, the move from seat-based to outcome-based pricing, Rogo’s internal company brain called Shrek, the 40 investor rejections Gabe received before his Series A, why building in applied AI requires extraordinary aggression, and what it takes to become a black hole for talent and capital.\n\nPlease enjoy my conversation with Gabe Stengel.\n\nFor the full show notes, transcript, and links to mentioned content, check out the episode page ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠here⁠⁠⁠⁠⁠.&nbsp;\n\n-----\n\nBecome a Colossus member to get our quarterly print magazine and private audio experience, including exclusive profiles and early access to select episodes. Subscribe at ⁠colossus.com/subscribe⁠.\n\n-----\n\n⁠Ramp’s⁠ mission is to help companies manage their spend in a way that reduces expenses and frees up time for teams to work on more valuable projects. Go to⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ⁠ramp.com/invest⁠⁠ to sign up for free and get a $250 welcome bonus.\n\n-----\n\nTrusted by thousands of businesses, ⁠Vanta⁠ continuously monitors your security posture and streamlines audits so you can win enterprise deals and build customer trust without the traditional overhead. Invest Like the Best listeners get a special offer of $1,000 off Vanta when you go to ⁠vanta.com/invest⁠.&nbsp;\n\n-----\n\nWorkOS⁠ is the infrastructure B2B and AI-native companies use to sell to enterprise. It covers everything enterprise security requires: SSO, SCIM, RBAC, Audit Logs, AI governance, and more. Trusted by 2,000+ fast-growing companies, including OpenAI, Anthropic, Cursor, and Vercel.\n\n-----\n\nRogo is the AI platform for finance. They're building agents for Wall Street that are trained to understand how bankers and investors actually do work: from diligence and modeling, to turning analysis into deliverables. To learn more, visit rogo.ai/invest.\n\n-----\n\n⁠Ridgeline⁠ has built a complete, real-time, modern operating system for investment managers. It handles trading, portfolio management, compliance, customer reporting, and much more through an all-in-one real-time cloud platform. Visit⁠ ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ridgeline.ai⁠.\n\n-----\n\nEditing and post-production work for this episode was provided by The Podcast Consultant.\n\nTimestamps:\n\n(00:00:00) Welcome to Invest Like The Best\n\n(00:01:24) The Model Eras of Rogo\n\n(00:04:15) Why the Last Mile Mattered\n\n(00:06:14) Who’s Using Rogo Right Now\n\n(00:10:55) Which Investor Skills Still Matter\n\n(00:12:23) Inside Rogo's Data Stack\n\n(00:14:33) Competing With the Frontier Labs\n\n(00:16:57) Why the Harness Matters Most\n\n(00:18:05) What Makes a Vertical AI Winner\n\n(00:22:00) How Firms Buy AI Software\n\n(00:23:43) From Seats to Outcome Pricing\n\n(00:31:19) Auditability Beats Accuracy\n\n(00:32:55) Scaling Enterprise Sales Fast\n\n(00:34:48) Meet Shrek, Rogo's Company Brain\n\n(00:35:49) The Pitch to Great Talent\n\n(00:39:37) What Chewing Glass Feels Like\n\n(00:42:18) Forty Investor Rejections\n\n(00:47:41) Finance's Innovator's Dilemma\n\n(00:50:22) Questions Every Firm Should Ask\n\n(00:53:09) What Remains Most Uncertain\n\n(00:56:46) Becoming a Black Hole for Talent\n\n(00:57:56) The Kindest Thing",
+    "published": "2026-09-22",
+    "week": "2026-W39",
+    "audio_url": "https://traffic.megaphone.fm/CLS7922860814.mp3",
+    "transcript_url": null,
+    "episode_url": "https://podcasts.apple.com/us/podcast/invest-like-the-best-with-patrick-oshaughnessy/id1154105909",
+    "type": "podcast",
+    "duration_secs": 3864,
+    "transcript_length": 46144,
+    "speaker": "",
+    "one_line_summary": "AI‑driven investment tools are moving from experimental prototypes to production‑ready platforms that save time, cut compliance friction, and unlock new deal‑making efficiencies, but success hinges on deep domain expertise and robust data plumbing.",
+    "summary": "The interview centers on Gabe Stengel’s journey building Rogo, an AI‑powered investment assistant that has evolved alongside generative‑model advances. Early attempts with legacy AI failed, but the launch of GPT‑3 enabled reliable financial metric calculations and junior‑level analysis, transforming workflow for dealmakers. Stengel emphasizes that the biggest challenge for investors over the next five years is integrating AI into the investment lifecycle, especially in private markets where plumbing is still thin. He highlights the importance of compliance automation (e.g., Vanta’s 82% audit‑prep reduction and 526% ROI) and unified platforms (Ridgeline) for governance. Stengel also notes that while public equities offer abundant data, private markets still require human coordination, making them a richer target for AI‑enhanced tools. The conversation underscores that AI’s value is maximized when paired with domain knowledge, data acquisition, and thoughtful UX design.\n\nKey points include:\n- Ramp’s AI platform saves businesses 5% annually.\n- Vanta reduces audit prep by 82% and delivers a 526% ROI.\n- Rogo’s evolution mirrors generative‑model milestones: from unreliable early models to GPT‑3‑level junior‑analyst capability.\n- Private‑market dealmaking remains a fertile vertical due to heavy human coordination.\n- Compliance and governance remain essential even as AI adoption grows.\n\nThe discussion suggests that investors who can blend AI with deep industry expertise and robust data pipelines will gain a competitive edge.\n",
+    "key_themes": [
+      "AI integration in investment workflows",
+      "Compliance automation and governance",
+      "Private‑market dealmaking as a high‑value AI target"
+    ],
+    "market_signals": [
+      "Ramp saves businesses 5% annually on average",
+      "Vanta cuts audit prep by 82%",
+      "Vanta customers report a 526% return on investment",
+      "16,000 companies use Vanta, including Ramp, Harvey, and Snowflake",
+      "Rogo’s early models were unreliable until GPT‑3 enabled reliable junior‑level analysis"
+    ],
+    "framework_insights": [
+      "AI tools must be paired with deep domain expertise to be truly valuable",
+      "Compliance automation frees time for higher‑value investment work",
+      "Private‑market dealmaking offers richer opportunities for AI due to heavy human coordination",
+      "Generative‑model maturity drives product reliability and adoption",
+      "Data plumbing and context integration are the cutting‑edge challenges for AI investment tools"
+    ],
+    "market_relevance": "These insights highlight that investors and firms looking to adopt AI should focus on compliance automation, data integration, and private‑market dealmaking, where the payoff is highest and the technology is still maturing."
+  },
+  {
+    "id": "4a0c70f07cd9a2a2833e3709b7ad14f6",
+    "source_id": "goldman_sachs",
+    "source_name": "Goldman Sachs",
+    "source_org": "Goldman Sachs",
+    "source_color": "#3b82f6",
+    "title": "David Solomon’s Remarks at the 2026 FDNY Foundation Dinner",
+    "description": "Chairman and CEO David Solomon delivers remarks at the 2026 FDNY Foundation Dinner, where he received the FDNY Fire Commissioner Humanitarian Award.  \n \n“This recognition is incredibly meaningful to me. I have spent my life in New York, raised my family here, and led Goldman Sachs—an iconic firm proudly headquartered in Lower Manhattan for over 150 years. This city is my home, and accepting this award as we mark the 25th anniversary of September 11, I felt a range of emotions.\n \nThe FDNY is the finest fire department in the world. The courage of these brave men and women, who run toward danger when others run away, represents the very best of humanity and the true spirit of community. Supporting the FDNY Foundation is vital to ensuring the next generation has the training and tools they need to keep us safe.”",
+    "published": "2026-09-22",
+    "week": "2026-W39",
+    "video_id": "7h8a-wObTe4",
+    "episode_url": "https://www.youtube.com/watch?v=7h8a-wObTe4",
+    "type": "youtube",
+    "duration_secs": null,
+    "transcript_length": 820,
+    "speaker": "David Solomon — Chairman and CEO, Goldman Sachs",
+    "one_line_summary": "David Solomon honored with the FDNY Humanitarian Award on the 25th anniversary of September 11, emphasizing the importance of community service and support for the next generation of firefighters.",
+    "summary": "During the 2026 FDNY Foundation Dinner, Chairman and CEO David Solomon accepted the FDNY Fire Commissioner Humanitarian Award, noting the award’s personal significance and the firm’s long history in Lower Manhattan. He reflected on the 25th anniversary of September 11, expressing a range of emotions and underscoring the city’s resilience. Solomon highlighted the FDNY’s role as the finest fire department in the world, praising the courage of its members and stressing the importance of supporting the FDNY Foundation to equip future generations with training and tools for safety.",
+    "key_themes": [
+      "Community Service",
+      "September 11 Anniversary",
+      "Support for Next Generation Firefighters"
+    ],
+    "market_signals": [
+      "25th anniversary of September 11",
+      "Goldman Sachs headquartered in Lower Manhattan for over 150 years"
+    ],
+    "framework_insights": [
+      "Recognition of community service as a core corporate value",
+      "Emphasis on honoring bravery and resilience in crisis situations",
+      "Highlighting the importance of supporting public institutions for long-term societal safety"
+    ],
+    "market_relevance": "The remarks reinforce the value of corporate engagement in community resilience, signaling to investors that firms with strong civic ties may enjoy enhanced reputational capital and stakeholder trust."
+  },
+  {
+    "id": "ad3533f0fdd00f82b338f5c765799a74",
+    "source_id": "capital_allocators",
+    "source_name": "Capital Allocators",
+    "source_org": "Ted Seides",
+    "source_color": "#f43f5e",
+    "title": "André Perold on Where HighVista Actually Finds Credit Edge",
+    "description": "Direct lending is the vast bulk of private credit — and André Perold has built HighVista by staying out of it.\n\nIn this clip, the co-founder and CIO of HighVista Strategies lays out the case. Lending uncollateralized to PE sponsors has become a commodity: spreads have compressed, edge is hard to come by, and when a deal sours you're arm-wrestling the sponsor over loan extensions instead of sitting on real collateral. Perold isn't convinced the risk is being paid for.\n\nWhere HighVista does lean in is the opposite kind of credit — bespoke, specialty situations solved one loan at a time. Harder to scale and structurally complex, but precisely where Perold believes a disciplined manager can still create a genuine edge.\n\nFull episode (EP.516): https://www.capitalallocators.com/podcast/investing-through-exponential-change/\n\n\nTry ALEX by Admired Leadership: https://tryalex.admiredleadership.com/\n\n\nSubscribe to the mailing list: https://capitalallocators.com/\nAccess Transcript with Premium Membership: https://capitalallocators.com/signup/\nSubscribe on Apple Podcast: https://podcasts.apple.com/us/podcast/capital-allocators-inside-the-institutional/id1223764016\nFollow Ted on Twitter: https://twitter.com/tseides\nFollow Ted on LinkedIn: https://www.linkedin.com/in/tedseides/\n\n\nEditing and post-production work for this episode was provided by The Podcast Consultant (https://thepodcastconsultant.com)\n\n#privatecredit #DirectLending #CapitalAllocators #InstitutionalInvesting #Allocators #HighVista #AndrePerold #CreditInvesting",
+    "published": "2026-09-22",
+    "week": "2026-W39",
+    "video_id": "PppmItqWjrE",
+    "episode_url": "https://www.youtube.com/watch?v=PppmItqWjrE",
+    "type": "youtube",
+    "duration_secs": null,
+    "transcript_length": 1536,
+    "speaker": "André Perold — co-founder and CIO, HighVista Strategies",
+    "one_line_summary": "HighVista builds credit edge by avoiding commodity direct lending and focusing on bespoke, specialty loan situations.",
+    "summary": "André Perold explains that direct lending has become a commodity: \"spreads have compressed, edge is hard to come by, and when a deal sours you're arm‑wrestling the sponsor over loan extensions instead of sitting on real collateral.\" He argues that the risk in this space is not being adequately compensated. In contrast, HighVista pursues bespoke, specialty situations that are solved one loan at a time. These deals are harder to scale and structurally complex, but Perold believes a disciplined manager can still create a genuine edge.",
+    "key_themes": [
+      "Direct lending commoditization",
+      "Bespoke specialty credit",
+      "Risk compensation"
+    ],
+    "market_signals": [
+      "\"spreads have compressed, edge is hard to come by\"",
+      "\"when a deal sours you're arm‑wrestling the sponsor over loan extensions instead of sitting on real collateral\""
+    ],
+    "framework_insights": [
+      "Avoid commodity markets where spreads compress and risk is under‑priced",
+      "Focus on bespoke, structurally complex deals that allow for disciplined risk‑adjusted returns",
+      "Scale is secondary to creating genuine edge in niche credit situations"
+    ],
+    "market_relevance": "Investors should recognize that traditional direct lending may offer limited upside, while specialty credit opportunities can provide higher risk‑adjusted returns if managed with discipline."
+  },
+  {
     "id": "d7aac8372b04f2ccf8942be3835fbfd8",
     "source_id": "odd_lots",
     "source_name": "Odd Lots",
@@ -38,6 +146,39 @@
       "In‑house production of critical components is essential for speed and reliability"
     ],
     "market_relevance": "The shift toward software‑enabled, vertically integrated manufacturing in Southern California signals a potential rebound in U.S. industrial output, with implications for defense, space, and supply‑chain resilience that investors should monitor."
+  },
+  {
+    "id": "3bc6342f6cbbea4bcb5b4fbec6c48162",
+    "source_id": "goldman_sachs",
+    "source_name": "Goldman Sachs",
+    "source_org": "Goldman Sachs",
+    "source_color": "#3b82f6",
+    "title": "Ryan Serhant on the Art of Selling Luxury Real Estate",
+    "description": "The luxury real estate brokerage SERHANT. generates over $1 billion in transactions every month. On Talks at GS, Ryan Serhant, founder and CEO of SERHANT., joins Tucker York, chair of Goldman Sachs global Wealth Management, to discuss his transition from the theatre to real estate during the 2008 financial crisis, his video-led sales strategies, and how calculated risks have led to the company’s success.\n\nThis episode was recorded on July 16, 2026.\n\nThe opinions and views expressed herein are as of the date of publication, subject to change without notice, and may not necessarily reflect the institutional views of Goldman Sachs or its affiliates. The material provided is intended for informational purposes only, and does not constitute investment, legal, or tax advice, a recommendation from any Goldman Sachs entity to take any particular action or be used as a basis for any other investment decision, or an offer or solicitation to purchase or sell any securities or financial products. Any forward-looking statements, case studies, computations or examples set forth herein are for illustrative purposes only. Past performance is not indicative of future results. Neither Goldman Sachs nor any of its affiliates make any representations or warranties, express or implied, as to the accuracy or completeness of the statements or information contained herein and disclaim any liability whatsoever for reliance on such information for any purpose. Each name of a third-party organization mentioned is the property of the company to which it relates, is used here strictly for informational and identification purposes only and is not used to imply any sponsorship, affiliation, endorsement, ownership or license rights between any such company and Goldman Sachs. This material should not be copied, distributed, published, or reproduced in whole or in part or disclosed by any recipient to any other person without the express written consent of Goldman Sachs. \n\nA transcript is provided for convenience and may differ from the original video or audio content. Goldman Sachs is not responsible for any errors in the transcript. This material should not be copied, distributed, published, or reproduced in whole or in part or disclosed by any recipient to any other person without the express written consent of Goldman Sachs. \n\n© 2026 Goldman Sachs. All rights reserved.",
+    "published": "2026-09-21",
+    "week": "2026-W39",
+    "video_id": "1-TMZvDoOjE",
+    "episode_url": "https://www.youtube.com/watch?v=1-TMZvDoOjE",
+    "type": "youtube",
+    "duration_secs": null,
+    "transcript_length": 2381,
+    "speaker": "Ryan Serhant — Founder and CEO of SERHANT.",
+    "one_line_summary": "SERHANT’s $1 billion‑plus monthly transaction volume showcases the power of video‑led sales and calculated risk in luxury real estate.",
+    "summary": "The episode highlights SERHANT’s impressive scale, with the brokerage generating over $1 billion in transactions each month. Serhant discusses his career pivot from theatre to real estate during the 2008 financial crisis, emphasizing how video‑led sales strategies and calculated risks have driven the company’s success. The conversation underscores the importance of innovative marketing and risk management in the luxury property market.",
+    "key_themes": [
+      "Video‑led sales strategy",
+      "Calculated risk-taking",
+      "Career transition during crisis"
+    ],
+    "market_signals": [
+      "SERHANT generates over $1 billion in transactions every month"
+    ],
+    "framework_insights": [
+      "Video‑led sales can amplify reach and efficiency in high‑end markets",
+      "Calculated risk-taking can unlock growth when paired with strong execution",
+      "Career pivots can be leveraged into new industry opportunities"
+    ],
+    "market_relevance": "The data point of $1 billion monthly transactions signals robust liquidity and demand in luxury real estate, suggesting that investors should monitor video‑centric marketing trends and risk‑managed growth strategies in this sector."
   },
   {
     "id": "1a5f12470d45e6a524286575b156053a",
