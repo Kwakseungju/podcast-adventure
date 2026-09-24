@@ -1,5 +1,45 @@
 [
   {
+    "id": "69d07ab31ac380979a48ffcea2e88003",
+    "source_id": "odd_lots",
+    "source_name": "Odd Lots",
+    "source_org": "Bloomberg",
+    "source_color": "#06b6d4",
+    "title": "AI Is Upending the Lives of People Who Do Social Media Professionally",
+    "description": "<p>Social media is really strange these days: Increasingly, our feeds are starting to look uncanny, as AI slop proliferates all over the Internet. And for the professionals who are tasked with making content, whether it is social media managers or creators, it has been a head-spinning time of change. In this conversation, recorded at the Vermont in Hollywood, we get a primer on social media's AI era with two veteran Internet commentators, Rachel Karten (social media consultant and the author of the Link in Bio newsletter) and Taylor Lorenz (founder of User Mag). We discuss why people are afraid to admit that they love some genres of slop, why the AI discourse is evolving so rapidly, and whether our time online is moving away from scrolling feeds to engaging with chatbots.</p> <p>Read more:<br /><a href=\"https://www.bloomberg.com/news/articles/2026-09-23/us-rebukes-australia-for-plan-to-target-social-media-algorithms?utm_medium=referral&amp;utm_source=podcast&amp;utm_campaign=odd_lots&amp;utm_content=article\">US Rebukes Australia for Plan to Target Social Media Algorithms</a><br /><a href=\"https://www.bloomberg.com/news/articles/2026-09-21/meta-s-new-muse-ai-app-tops-charts-draws-strong-early-reviews?utm_medium=referral&amp;utm_source=podcast&amp;utm_campaign=odd_lots&amp;utm_content=article\">Meta&rsquo;s New Muse AI App Tops Charts, Draws Strong Reviews</a></p> <p>Only <a href=\"http://Bloomberg.com\">http://Bloomberg.com</a> subscribers can get the Odd Lots newsletter in their inbox each week, plus unlimited access to the site and app. Subscribe at&nbsp; <a href=\"https://www.bloomberg.com/subscriptions/oddlots?in_source=oddlotspodcast\">bloomberg.com/subscriptions/oddlots</a></p> <p><a href=\"http://bloomberg.com/subscriptions/oddlots\">Subscribe to the Odd Lots Newsletter</a><br /><strong>Join the conversation:</strong> <a href=\"https://discord.gg/oddlots\">discord.gg/oddlots</a></p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
+    "published": "2026-09-24",
+    "week": "2026-W39",
+    "audio_url": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/7f51b2eb-0524-4cf5-b654-b4ce0132f318/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
+    "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/7f51b2eb-0524-4cf5-b654-b4ce0132f318/transcript?format=TextWithTimestamps&t=1790188796",
+    "episode_url": "https://omny.fm/shows/odd-lots/ai-is-upending-the-lives-of-people-who-do-social-media-professionally",
+    "type": "podcast",
+    "duration_secs": 1656,
+    "transcript_length": 28499,
+    "speaker": "Taylor Lorenz — Founder, UserMag",
+    "one_line_summary": "AI is reshaping influencer economics by lowering content creation costs and forcing marketers to rethink authenticity and guardrails.",
+    "summary": "The conversation centers on how AI tools are disrupting the influencer and creator economy, especially in Hollywood. Guests highlight that AI-generated content is becoming ubiquitous, with examples like AI‑generated Coca‑Cola and Mentos truck videos. Marketers report that bosses are demanding AI‑generated ideas, leading to a \"free‑for‑all\" environment lacking training or guardrails. Creators face a dilemma: AI can democratize content creation but also erodes the value of authentic, effort‑based work. The discussion touches on consumer expectations of brand creativity, the rapid shift in public discourse from data centers to model concerns, and the potential for AI to reduce screen time by offering more ambient interaction.\n\nKey points include the tension between AI as an augmenter versus a threat, the need for clear policies and training for marketing teams, and the broader cultural debate over AI’s role in creative industries. The guests also note that while AI can streamline tasks like caption generation, it currently lacks the depth to replace human editing or nuanced storytelling.\n\nThe dialogue underscores that AI’s influence is already altering how brands and creators operate, and that the industry must adapt to maintain authenticity and value in a low‑cost content landscape.",
+    "key_themes": [
+      "AI in content creation",
+      "Marketer‑boss dynamics",
+      "Authenticity vs. automation"
+    ],
+    "market_signals": [
+      "Marketers are outsourcing gut instincts to AI, with bosses demanding AI‑generated ideas",
+      "AI‑generated content is being widely shared, e.g., Coca‑Cola truck exploding video",
+      "Consumers react negatively to AI‑generated brand content, calling it \"disgusting\"",
+      "AI tools are used for SEO captions and image resizing but not for deep editing",
+      "Screen time may decline as AI offers ambient interaction"
+    ],
+    "framework_insights": [
+      "AI as a tool can democratize content but also erodes the value of authentic effort",
+      "Marketers need guardrails and training to avoid \"free‑for‑all\" AI misuse",
+      "Consumer expectations of brand creativity remain high; AI shortcuts may erode trust",
+      "Rapid public discourse shifts from data centers to model concerns illustrate AI’s evolving narrative",
+      "Authenticity is a differentiator for creators who can produce non‑replicable content"
+    ],
+    "market_relevance": "Investors should monitor how AI adoption reshapes influencer marketing spend and brand equity, as companies that fail to maintain authenticity risk consumer backlash and diminished ROI."
+  },
+  {
     "id": "b7d757ea7fae532515d7a5acfc45d01f",
     "source_id": "in_good_company",
     "source_name": "In Good Company",
@@ -65,6 +105,165 @@
       "Direct lending is viewed as a commoditized strategy"
     ],
     "market_relevance": "The emphasis on alignment drift signals a shift in how investors evaluate manager performance, while HighVista’s AI‑driven screening and niche focus illustrate opportunities in structurally inefficient markets that may be overlooked by broader strategies."
+  },
+  {
+    "id": "aaddeb4d82e1680aa5cfc62460bacb5d",
+    "source_id": "view_from_apollo",
+    "source_name": "The View from Apollo",
+    "source_org": "Apollo Global Management",
+    "source_color": "#a855f7",
+    "title": "Torsten Slok’s Macro Update: Higher for Longer and the Road to 2027",
+    "description": "As 2026 enters its final stretch, Apollo Chief Economist Torsten Slok joins The Allocation to discuss the latest shifts in the economy and markets. On the heels of the Fed’s September rate hike, he shares his views on why inflation remains so sticky and what a “higher-for-longer” rate environment could mean for consumers, businesses and investors. Torsten also examines the continuing AI investment boom and its impact on economic growth, jobs and financial markets. Looking ahead, he highlights the key themes helping to shape his outlook for 2027.\n\nFor more insights from Torsten, subscribe to his Daily Spark newsletter at Apollo.com/daily-spark.",
+    "published": "2026-09-23",
+    "week": "2026-W39",
+    "audio_url": "https://media.blubrry.com/theviewfromapollo/ins.blubrry.com/theviewfromapollo/58_Allocation_Torsten_Slok_s_Macro_Update_Higher_for_Longer_and_the_Road_to_2027.mp3",
+    "transcript_url": null,
+    "episode_url": "https://podcast.show/theviewfromapollo/episode/155526603/",
+    "type": "podcast",
+    "duration_secs": 619,
+    "transcript_length": 23520,
+    "speaker": "Torsten Slok — Chief Economist, Apollo Global Management",
+    "one_line_summary": "AI‑driven growth is adding roughly 1% to GDP, but sticky inflation and higher rates mean the Fed will likely keep rates elevated for longer, creating both opportunities and risks across debt‑heavy sectors.",
+    "summary": "Torsten Slok argues that the Fed’s recent rate hike marks a dramatic shift from the earlier expectation of cuts, driven by an AI spending boom adding about 1% to GDP and a fiscal expansion adding another 1%. Inflation remains above the 2% target at 3.5%, with tariffs, oil price pressure, and wage growth in low‑immigrant sectors keeping it sticky. AI is a double‑edged sword: it fuels job creation and new business formation, yet may displace workers in certain industries. The concentration of AI exposure across public, private, and debt markets raises risk, while higher rates benefit high‑quality private credit yields. Investors should monitor AI concentration, interest‑rate‑sensitive debt, and the potential for a slowdown in AI momentum.\n\nKey data points include the Fed’s dot plot shift from three cuts to three hikes, AI adding 1% to GDP, fiscal expansion adding 1% to GDP, inflation at 3.5% versus the 2% target, and mortgage rates rising from 2.6% to 7%. The discussion also highlights the “everywhere millionaire” phenomenon, where small business owners hold significant wealth outside traditional elite circles, supporting consumer spending.\n\nThe conversation underscores the need to diversify away from the single AI factor, to consider the impact of higher rates on leveraged firms, and to weigh the benefits of elevated yields in private credit against the risks of discounting future cash flows.",
+    "key_themes": [
+      "AI‑driven GDP growth",
+      "Sticky inflation and higher rates",
+      "Concentration risk in AI exposure"
+    ],
+    "market_signals": [
+      "Fed raised rates, shifting from expected cuts to hikes",
+      "AI spending adds 1% to GDP growth",
+      "Fiscal expansion adds 1% to GDP growth",
+      "Inflation at 3.5% vs 2% target",
+      "Mortgage rates rose from 2.6% to 7%"
+    ],
+    "framework_insights": [
+      "AI as a growth tailwind that also creates new businesses and jobs",
+      "Higher rates benefit high‑quality private credit yields but increase discount rates for long‑term cash flows",
+      "Concentration risk arises when a single factor (AI) dominates portfolios across asset classes",
+      "Wealth is increasingly dispersed among small business owners, sustaining consumer spending",
+      "Interest‑rate sensitivity of leveraged firms requires careful coverage ratio assessment"
+    ],
+    "market_relevance": "Investors must navigate a landscape where AI fuels growth but also concentrates risk, while higher rates elevate yields in private credit yet strain debt‑heavy companies and consumers."
+  },
+  {
+    "id": "d815682c6637ac9a6ffffdd9899369ba",
+    "source_id": "masters_in_business",
+    "source_name": "Masters in Business",
+    "source_org": "Bloomberg",
+    "source_color": "#eab308",
+    "title": "At The Money: Who Is Wealthy in America, and How Did They Get Rich?",
+    "description": "<p>We know America is a rich nation, but do you know exactly how rich? And who holds all of that wealth?</p> <p>Each week, &ldquo;At the Money&rdquo; discusses an important topic in money management. From portfolio construction to taxes and cutting down on fees, join Barry Ritholtz to learn the best ways to put your money to work. </p> <p>Owen Zidar is professor of Economics and Public Affairs at Princeton, and Eric Zwick is professor of Economics and Finance at the University of Chicago Booth School of Business. They are the authors of a new book&nbsp;<em>The Everywhere Millionaire: Who Is Really Rich in America and How They Got There.&rdquo;&nbsp;&nbsp;</em></p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
+    "published": "2026-09-23",
+    "week": "2026-W39",
+    "audio_url": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/4e4cd910-40a1-4619-a5f3-ae2b0012ffff/c5f15608-2491-48f7-8b34-b4ce013e8ff3/audio.mp3?utm_source=Podcast&in_playlist=5873a3cb-298f-40bc-b71f-ae2b0013000d",
+    "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/c5f15608-2491-48f7-8b34-b4ce013e8ff3/transcript?format=TextWithTimestamps&t=1790191528",
+    "episode_url": "https://omny.fm/shows/masters-in-business/at-the-money-who-is-wealthy-in-america-and-how-did-they-get-rich",
+    "type": "podcast",
+    "duration_secs": 1528,
+    "transcript_length": 22901,
+    "speaker": "Owen Zedar — Professor, Princeton",
+    "one_line_summary": "The U.S. wealth elite are largely private business owners spread across the country, not just coastal tech billionaires, and pass‑through tax rules have amplified their growth.",
+    "summary": "The podcast reveals that about 3 million Americans are \"everywhere millionaires\"—private business owners with net worths of at least $5 million—whose combined wealth exceeds that of the Forbes 400 by more than tenfold.  These owners are dispersed across industries such as auto dealerships, HVAC, medical practices, and even laundromats, challenging the misconception that wealth is concentrated in tech and finance.  The data, derived from IRS and Treasury tax records, shows that pass‑through businesses now account for more than half of business income and nearly half of employment, a shift driven by the 1986 tax reform that lowered personal rates below corporate rates and the 2017 TCJA 20% deduction for certain pass‑throughs.  The discussion also highlights that while entrepreneurship is not a get‑rich‑quick scheme—most owners are in their 60s and have built wealth over decades—founders earn on average 10% higher incomes than comparable non‑owners, and 20% are serial founders.  Finally, the podcast notes that these local business owners wield significant political clout, often out‑voting national institutions in their communities.\n\nKey data points include:\n- 3 million everywhere millionaires, net worth ≥$5 million\n- Combined wealth >10× Forbes 400\n- Pass‑through businesses: >50% of business income, ~50% of employment\n- 10% higher incomes for founders\n- 20% serial founders\n- 1986 reform: half of the rise in top 1% income\n- 1989‑recent: two‑thirds of wealth growth from private business top 0.1%",
+    "key_themes": [
+      "Wealth distribution beyond tech",
+      "Pass‑through tax advantage",
+      "Entrepreneurship as slow, resilient growth"
+    ],
+    "market_signals": [
+      "3 million everywhere millionaires with net worth ≥$5 million",
+      "Combined wealth of these millionaires >10× Forbes 400",
+      "Pass‑through businesses account for >50% of business income",
+      "Founders earn on average 10% higher incomes than comparable non‑owners",
+      "20% of founders are serial entrepreneurs"
+    ],
+    "framework_insights": [
+      "Data‑driven mapping shows wealth is geographically widespread, not coastal‑centric",
+      "Pass‑through tax rules create a structural incentive for business ownership over wage labor",
+      "Entrepreneurship is a long‑term, iterative process rather than a quick‑win scheme",
+      "Survivorship bias means we see only successful businesses; many fail but still provide learning and future opportunities",
+      "Failure is a normal, low‑scarred part of the American entrepreneurial ecosystem"
+    ],
+    "market_relevance": "Investors should recognize that wealth creation is largely driven by unglamorous, locally‑based businesses that benefit from favorable tax treatment, implying potential upside in sectors tied to pass‑through entities and a need to monitor policy changes that could alter this advantage."
+  },
+  {
+    "id": "c5adfb90df206ed988b2dd9ce6ac9d99",
+    "source_id": "asia_centric",
+    "source_name": "Asia Centric",
+    "source_org": "Bloomberg Intelligence",
+    "source_color": "#d946ef",
+    "title": "Private Wealth Boom Defies China's Capital Curbs",
+    "description": "<p>Asia's private wealth industry continues to flourish. A Bloomberg Intelligence survey of 100 senior private bankers reveals widespread optimism for double-digit net new money growth, supported by mainland investors seeking diversification and emerging wealth from Southeast Asia and the Middle East. This comes despite new regulatory headwinds from Beijing, including tighter capital outflows and taxes on offshore trusts and insurance policies, which most surveyed expected will have only a mild impact on flows.<br /><br />Sharnie Wong, senior analyst covering Asia-Pacific diversified financials, and Sarah Jane Mahmud, senior analyst covering Southeast Asian and Indian banks at Bloomberg Intelligence, joins John Lee on the Asia Centric podcast.</p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
+    "published": "2026-09-23",
+    "week": "2026-W39",
+    "audio_url": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/992d604b-06ca-40cb-88b2-af6c016f5aa0/28f60a0d-65a7-4e8f-8814-b4ce00a1a007/audio.mp3?utm_source=Podcast&in_playlist=75a9f17c-2ff1-42c9-9a27-af6c016fae89",
+    "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/28f60a0d-65a7-4e8f-8814-b4ce00a1a007/transcript?format=TextWithTimestamps&t=1790157011",
+    "episode_url": "https://omny.fm/shows/asia-centric-by-bloomberg-intelligence/private-wealth-boom-defies-chinas-capital-curbs",
+    "type": "podcast",
+    "duration_secs": 870,
+    "transcript_length": 14651,
+    "speaker": "Shani Wong — senior analyst covering APAC diversified financials",
+    "one_line_summary": "Asia’s private wealth sector is expanding robustly, with Hong Kong and Singapore poised for double‑digit growth, while China’s capital curbs are expected to have only a mild impact.",
+    "summary": "The Asia Private Wealth Survey, based on 100 senior private bankers, shows that net new money is projected to grow by double‑digit percentages, with Hong Kong and Singapore expected to see 9‑10% annual growth—faster than global peers. Mainland China remains the largest source of new accounts for Singapore banks (26% of new accounts, up from 22%) and continues to drive cross‑border wealth flows, despite recent capital outflow controls and new offshore trust taxes. Banks such as DBS, Standard Chartered, HSBC, and UBS report strong performance: Standard Chartered’s wealth solutions revenue rose 39%, UBS’s advisor headcount is growing while other regions shrink, and Singapore banks plan to add hundreds of frontline advisors through 2027. Meanwhile, risk appetite has shifted defensively, with a stronger preference for fixed income, cash, gold, and healthcare equities, and ESG mandates are viewed more favorably in Singapore.\n\nKey data points include a 14% AUM growth in Singapore banks’ first quarter, a 40% fee income increase, and a 7% net new inflow for UBS versus 15% for Standard Chartered. The survey also highlights that higher taxes on offshore trusts have dropped from the 3rd to the 13th risk factor, indicating regulatory clarity has mitigated that concern.\n\nOverall, the sector is benefiting from diversified client bases, robust headcount expansion plans, and a macro environment that still favors cross‑border wealth flows, even as China tightens controls.",
+    "key_themes": [
+      "Private wealth growth in Asia",
+      "Impact of China’s capital curbs",
+      "Diversification of client sources"
+    ],
+    "market_signals": [
+      "Net new money could grow by double digit compared to last year",
+      "Hong Kong and Singapore growth of about 9% to 10% every year",
+      "Singapore mainland Chinese accounts 26% of new accounts, up from 22%",
+      "Singapore banks’ AUM grew 14% in Q1, fee income up nearly 40%",
+      "Standard Chartered wealth solutions revenue up 39%"
+    ],
+    "framework_insights": [
+      "Diversification across geographic sources (mainland China, Southeast Asia, Middle East) reduces concentration risk",
+      "Regulatory clarity on offshore trusts and taxes lowers uncertainty, shifting focus to macro risks",
+      "Human advisory remains central despite AI, as 70% of Singapore banks expect 6%+ headcount growth",
+      "Risk appetite shift to defensive assets (fixed income, cash, gold) reflects trade war and geopolitical tensions",
+      "ESG mandate favorability rises with regulatory clarity, indicating product credibility drives client trust"
+    ],
+    "market_relevance": "Investors should note that Asia’s private wealth sector is expanding faster than global peers, with capital curbs in China having a muted effect, while banks’ aggressive headcount and fee growth signal continued demand for high‑net‑worth services."
+  },
+  {
+    "id": "1cfc0035c5b1ba3dedf497d1db1cb0d6",
+    "source_id": "goldman_sachs",
+    "source_name": "Goldman Sachs",
+    "source_org": "Goldman Sachs",
+    "source_color": "#3b82f6",
+    "title": "Why Markets May Be Pricing in Too Many Fed Rate Hikes",
+    "description": "Markets may be pricing in more tightening by the Federal Reserve than is warranted due to a divergence playing out in the economy, according to Goldman Sachs Vice Chairman and former Dallas Fed President Rob Kaplan. In the Goldman Sachs Exchanges podcast, Kaplan notes that while artificial intelligence (AI) infrastructure and defense spending are continuing to boom, interest-rate sensitive parts of the economy, such as housing and autos, are already straining under higher rates. Taken together, these crosscurrents are creating a more muted response from the Fed.   \n\nKey takeaways:\n 1. The Fed may still hike, but not much: Kaplan expects the Fed to raise rates one more time to bring rates to roughly 4%–4.25%, then pause to reassess. The markets, however, are pricing in more hikes, which Kaplans attributes to a risk premium from investors that may be related to uncertainties over oil prices and how Fed Chairman Warsh would adjust policy in reaction to economic data. \n 2. The neutral rate still matters: Kaplan says this policy rate, while not the “be all,” is still relevant. Kaplan thinks another rate hike would probably push Fed policy above the neutral rate and be “slightly restrictive” for the economy.\n 3. A shock without a playbook: Kaplan describes an economy with a \"low fire, low hire\" labor market where tariffs, immigration-driven labor constraints, and an oil shock are coinciding with a historic capex boom—a supply-side setup with no textbook precedent. That shock is forcing the Fed to focus on containing the \"bleed\" of inflation into other goods, he says.  \n\n[00:00] Introduction\n[00:30] Why the Fed hiked rates\n[03:43] How many more hikes are coming\n[06:36] Fed independence under Warsh\n[07:45] Treasury yields and corporate borrowing\n[11:01] Transparency in the Fed's reaction function\n[14:04] Navigating overlapping supply shocks\n[15:57] What to watch before the FOMC’s October meeting\n\nAlso available on Spotify ( https://click.gs.com/myyr) and Apple Podcasts ( https://click.gs.com/7x11)\n\nDate of recording: September 22, 2026\n\nThe opinions and views expressed herein are as of the date of publication, subject to change without notice, and may not necessarily reflect the institutional views of Goldman Sachs or its affiliates. The material provided is intended for informational purposes only, and does not constitute investment, legal, or tax advice, a recommendation from any Goldman Sachs entity to take any particular action or be used as a basis for any other investment decision, or an offer or solicitation to purchase or sell any securities or financial products. Any forward-looking statements, case studies, computations or examples set forth herein are for illustrative purposes only. Past performance is not indicative of future results. Neither Goldman Sachs nor any of its affiliates make any representations or warranties, express or implied, as to the accuracy or completeness of the statements or information contained herein and disclaim any liability whatsoever for reliance on such information for any purpose. Each name of a third-party organization mentioned is the property of the company to which it relates, is used here strictly for informational and identification purposes only and is not used to imply any sponsorship, affiliation, endorsement, ownership or license rights between any such company and Goldman Sachs. This material should not be copied, distributed, published, or reproduced in whole or in part or disclosed by any recipient to any other person without the express written consent of Goldman Sachs. \n\nA transcript is provided for convenience and may differ from the original video or audio content. Goldman Sachs is not responsible for any errors in the transcript. \n\n© 2026 Goldman Sachs. All rights reserved.",
+    "published": "2026-09-23",
+    "week": "2026-W39",
+    "video_id": "JluXVn2TOmQ",
+    "episode_url": "https://www.youtube.com/watch?v=JluXVn2TOmQ",
+    "type": "youtube",
+    "duration_secs": null,
+    "transcript_length": 3794,
+    "speaker": "Rob Kaplan — Vice Chairman, Goldman Sachs",
+    "one_line_summary": "Rob Kaplan warns that markets are overpricing Fed hikes, expecting only one more rate increase to about 4%–4.25% before pausing.",
+    "summary": "Kaplan argues that the Fed may still hike, but only once more to bring rates to roughly 4%–4.25%, then pause to reassess. He attributes the market’s higher expectations to a risk premium tied to uncertainties over oil prices and how Fed Chairman Warsh would adjust policy in reaction to economic data. Kaplan also notes that the neutral rate remains relevant; another hike would likely push policy above the neutral rate and be “slightly restrictive” for the economy. He describes a supply‑side shock with a “low fire, low hire” labor market, tariffs, immigration‑driven labor constraints, and an oil shock coinciding with a historic capex boom, forcing the Fed to focus on containing inflation’s bleed into other goods.",
+    "key_themes": [
+      "Fed rate expectations",
+      "Neutral rate relevance",
+      "Supply‑side shock"
+    ],
+    "market_signals": [
+      "Fed may hike once more to roughly 4%–4.25% before pausing",
+      "Markets are pricing in more hikes due to a risk premium linked to oil price uncertainty and Fed Chairman Warsh’s policy response",
+      "A \"low fire, low hire\" labor market with tariffs, immigration constraints, and an oil shock is coinciding with a historic capex boom",
+      "The Fed is focusing on containing the \"bleed\" of inflation into other goods",
+      "Kaplan says another rate hike would probably push Fed policy above the neutral rate and be \"slightly restrictive\" for the economy"
+    ],
+    "framework_insights": [
+      "The Fed’s policy decisions are influenced by a neutral rate benchmark, even if it is not the sole determinant",
+      "Risk premiums in markets can be driven by uncertainty over commodity prices and central bank policy responses",
+      "Supply‑side shocks that lack a textbook precedent can force central banks to prioritize inflation containment over growth",
+      "A \"low fire, low hire\" labor market signals a mismatch between labor demand and supply, affecting inflation dynamics",
+      "Central bank independence can be perceived differently by markets depending on leadership changes"
+    ],
+    "market_relevance": "Investors should recognize that the market may be overestimating Fed tightening, potentially leading to mispriced risk in interest‑rate sensitive sectors such as housing and autos."
   },
   {
     "id": "12b7b789d7bbfe078b502493d910ec05",
