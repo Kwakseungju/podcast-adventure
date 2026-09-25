@@ -1,5 +1,112 @@
 [
   {
+    "id": "b75d4e004075fb5153a752eae96dc528",
+    "source_id": "odd_lots",
+    "source_name": "Odd Lots",
+    "source_org": "Bloomberg",
+    "source_color": "#06b6d4",
+    "title": "Hollywood Was Cooked Before AI, and Now It's Only Getting Worse",
+    "description": "<p>Is Hollywood just screwed? Writers are earning less. There are fewer shoots taking place in Los Angeles. And people are freaked out about AI. But according to Hayes Davenport, things were starting to feel bad in Hollywood before chatbots showed up to the scene. Davenport &mdash; who&rsquo;s written for shows like Family Guy and is now creative director of LA Material and the co-host of the fantastic Hollywood Handbook podcast &mdash; joined us on stage at the Vermont to give us a history lesson on Hollywood's steady decline from the pandemic to now. We also get into the changing norms of AI use among entertainment professionals and why Davenport is jealous of New York right now.</p> <p>Read more:<br /><a href=\"https://www.bloomberg.com/news/articles/2026-09-20/jon-voight-spent-months-courting-trump-on-tax-help-for-hollywood?utm_medium=referral&amp;utm_source=podcast&amp;utm_campaign=odd_lots&amp;utm_content=article\">Jon Voight Spent Months Courting Trump on Tax Help for Hollywood</a><br /><a href=\"https://www.bloomberg.com/news/articles/2026-09-21/paramount-to-settle-lawsuits-paving-way-for-warner-bros-merger?utm_medium=referral&amp;utm_source=podcast&amp;utm_campaign=odd_lots&amp;utm_content=article\">Paramount to Settle Lawsuits, Paving Way for Warner Bros.</a></p> <p>Only <a href=\"http://bloomberg.com/\">Bloomberg - Business News, Stock Markets, Finance, Breaking &amp; World News</a> subscribers can get the Odd Lots newsletter in their inbox each week, plus unlimited access to the site and app. Subscribe at&nbsp; <a href=\"https://www.bloomberg.com/subscriptions/oddlots?in_source=oddlotspodcast\">bloomberg.com/subscriptions/oddlots</a></p> <p><a href=\"http://bloomberg.com/subscriptions/oddlots\">Subscribe to the Odd Lots Newsletter</a><br /><strong>Join the conversation:</strong> <a href=\"https://discord.gg/oddlots\">discord.gg/oddlots</a></p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
+    "published": "2026-09-25",
+    "week": "2026-W39",
+    "audio_url": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/77d27e49-f26e-4c79-8913-b4cf01192cf5/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
+    "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/77d27e49-f26e-4c79-8913-b4cf01192cf5/transcript?format=TextWithTimestamps&t=1790269821",
+    "episode_url": "https://omny.fm/shows/odd-lots/hollywood-was-cooked-before-ai-and-now-its-only-getting-worse",
+    "type": "podcast",
+    "duration_secs": 1927,
+    "transcript_length": 29874,
+    "speaker": "Hayes Davenport — Creative Director, LA Material and Co‑host, Hollywood Handbook",
+    "one_line_summary": "Hollywood’s production engine has slowed dramatically, with shoot days falling from 40,000 in 2016 to under 20,000 in 2025, while AI guardrails and shifting tax incentives add new uncertainty.",
+    "summary": "Hayes Davenport explains that Hollywood’s core metric, shoot days, peaked at about 40,000 in 2016 and leveled to 37,000 by 2019. The pandemic collapsed the figure, but it rebounded to 37,000 in 2022 before the 2023 writers’ strike pushed it to 25,000 and 2024 to 23,000, with 2025 falling below 20,000—roughly half the 2016 level. He attributes the 2016‑2019 decline to a rise in streaming and a fall in cable, noting that new shows on Netflix and Amazon replaced traditional network productions. The discussion also covers the impact of AI, with the new WGA contract including guardrails, but no show has yet been written by AI. Tax incentives are eroding, with states like New Jersey offering $1 billion studios and North Carolina losing its break, pushing productions to South Carolina, Vancouver, and even Dublin. Studio real‑estate demand has weakened, and the influencer economy is a partial counterbalance.\n\nKey themes include the contraction of Hollywood’s production pipeline, the rise of streaming as a substitute for cable, the threat and regulation of AI in creative work, the erosion of state tax incentives, and the changing structure of writer rooms from large to mini rooms.\n\n",
+    "key_themes": [
+      "Hollywood production decline",
+      "AI regulation and threat",
+      "Tax incentive erosion"
+    ],
+    "market_signals": [
+      "Shoot days 2016: 40,000; 2019: 37,000; 2022: 37,000; 2023: 25,000; 2024: 23,000; 2025: <20,000",
+      "New WGA contract includes AI guardrails",
+      "Netflix building $1 billion studio in New Jersey",
+      "North Carolina lost tax break, productions moved to South Carolina",
+      "Studio real‑estate demand weakened, affecting local economy"
+    ],
+    "framework_insights": [
+      "Streaming growth displaced cable, shifting production economics",
+      "Writer rooms shrinking from large to mini rooms changes creative output",
+      "AI guardrails may delay but not eliminate AI adoption in writing",
+      "Tax incentives drive geographic relocation of productions",
+      "Influencer economy injects local revenue but is unevenly distributed"
+    ],
+    "market_relevance": "The steep drop in shoot days signals a long‑term contraction in Hollywood’s output, affecting related sectors such as studio real estate, labor markets, and ancillary services. AI guardrails and shifting tax incentives add regulatory and geographic risk that investors in media, entertainment, and real‑estate funds should monitor closely."
+  },
+  {
+    "id": "ab6d40e3c311f9b1b65d8f9cec81318d",
+    "source_id": "in_good_company",
+    "source_name": "In Good Company",
+    "source_org": "Norges Bank Investment Management",
+    "source_color": "#14b8a6",
+    "title": "Friday Wrap-Up: A President's View on Global Power and Learning from Big Tech",
+    "description": "<p>On this week's Friday Wrap-Up, Marthe Skaar catches up with Nicolai Tangen, joining from San Francisco, to break down his podcast conversation with Alexander Stubb, President of Finland. They discuss Stubb's view that the world is at a major geopolitical turning point, why he believes the Global South will shape what comes next, and how tech giants like Nvidia and Apple now rival entire countries in size. Nicolai also shares what he's learned visiting Microsoft, Nvidia, and other tech companies on the West Coast of the US, and makes the case for &quot;sauna diplomacy.&quot; Tune in!</p><p>Listen to In Good Company with Alexander Stubb, President of Finland: <a href=\"https://podcasts.apple.com/no/podcast/president-alexander-stubb-a-changing-world-order/id1614211565?i=1000791211827\" rel=\"noopener noreferrer\" target=\"_blank\">https://podcasts.apple.com/no/podcast/president-alexander-stubb-a-changing-world-order/id1614211565?i=1000791211827</a></p><br /><p>The Friday Wrap-Up is hosted by Marthe Skaar, Chief of Communications and External Relations, together with Nicolai Tangen, CEO of Norges Bank Investment Management, and produced by Isabelle Karlsson. New episodes of In Good Company air every Wednesday, with the Friday Wrap-Up following each week to break it all down</p><hr /><p style=\"color: grey; font-size: 0.75em;\"> Hosted on Acast. See <a href=\"https://acast.com/privacy\" rel=\"noopener noreferrer\" style=\"color: grey;\" target=\"_blank\">acast.com/privacy</a> for more information.</p>",
+    "published": "2026-09-25",
+    "week": "2026-W39",
+    "audio_url": "https://sphinx.acast.com/p/open/s/622618c7057f3400120d15db/e/6ab623a8c974afb1544526c0/media.mp3",
+    "transcript_url": null,
+    "episode_url": "https://shows.acast.com/in-good-company-with-nicolai-tangen/episodes/friday-wrap-up-a-presidents-view-on-global-power-and-learnin",
+    "type": "podcast",
+    "duration_secs": 668,
+    "transcript_length": 1508,
+    "speaker": "Nicolai Tangen — CEO, Norges Bank Investment Management",
+    "one_line_summary": "Nicolai Tangen discusses Finland President Alexander Stubb’s view that the world is at a major geopolitical turning point, the influence of the Global South, and the rise of tech giants like Nvidia and Apple, while highlighting lessons from visiting Microsoft and Nvidia and advocating for \"sauna diplomacy.\"",
+    "summary": "In the Friday Wrap‑Up, Marthe Skaar and Nicolai Tangen review a podcast conversation between Alexander Stubb, President of Finland, and Nicolai Tangen. Stubb argues that the world is at a major geopolitical turning point and that the Global South will shape what comes next. He also notes that tech giants such as Nvidia and Apple now rival entire countries in size. Nicolai shares insights from his visits to Microsoft, Nvidia, and other West Coast tech companies, and makes the case for \"sauna diplomacy.\" The episode is part of the In Good Company series, which airs weekly on Acast.",
+    "key_themes": [
+      "Geopolitical turning point",
+      "Global South influence",
+      "Tech giants rivaling countries"
+    ],
+    "market_signals": [],
+    "framework_insights": [],
+    "market_relevance": "The discussion highlights emerging geopolitical dynamics and the growing economic power of tech firms, which may influence future investment flows and policy considerations."
+  },
+  {
+    "id": "ccf8e0d51940cfcf491223bcd7f4b771",
+    "source_id": "goldman_sachs",
+    "source_name": "Goldman Sachs",
+    "source_org": "Goldman Sachs",
+    "source_color": "#3b82f6",
+    "title": "The Bond Market May Be the Stock Market's Biggest Risk",
+    "description": "With US 10-Year Treasury yields climbing this week to the highest level since 2007, the bond market may be the biggest risk to further equity gains, says Tony Pasquariello, global head of hedge fund coverage in Goldman Sachs FICC and Equities. Shorting bonds could be a useful hedge for stock investments, he says on The Markets podcast. S&amp;P 500 earnings growth, meanwhile, has been “mind-bending,” helping to keep valuations from becoming stretched, Pasquariello says. However, the increase in earnings may begin to taper off, and US stock returns may slow from their double-digit annual pace. He also sees opportunities in Japan’s TOPIX, as the country’s equity market gets a boost from shareholder reforms and government spending on defense and industrialization. \n\nWatch more from Tony Pasquariello on The Breaks of the Game. https://www.youtube.com/watch?v=JCbDQh2GokQ \n\nAlso available on Spotify (https://click.gs.com/hn4o) and Apple Podcasts (https://click.gs.com/qx2m) \n\nFilmed on September 23, 2026.\nThe opinions and views expressed herein are as of the date of publication, subject to change without notice, and may not necessarily reflect the institutional views of Goldman Sachs or its affiliates. The material provided is intended for informational purposes only, and does not constitute investment advice, a recommendation from any Goldman Sachs entity to take any particular action, or an offer or solicitation to purchase or sell any securities or financial products. This material may contain forward-looking statements. Past performance is not indicative of future results. Neither Goldman Sachs nor any of its affiliates make any representations or warranties, express or implied, as to the accuracy or completeness of the statements or information contained herein and disclaim any liability whatsoever for reliance on such information for any purpose. Each name of a third-party organization mentioned is the property of the company to which it relates, is used here strictly for informational and identification purposes only and is not used to imply any ownership or license rights between any such company and Goldman Sachs. \n\nA transcript is provided for convenience and may differ from the original video or audio content. Goldman Sachs is not responsible for any errors in the transcript. This material should not be copied, distributed, published, or reproduced in whole or in part or disclosed by any recipient to any other person without the express written consent of Goldman Sachs. ⁠ \n\n© 2026 Goldman Sachs. All rights reserved.",
+    "published": "2026-09-25",
+    "week": "2026-W39",
+    "video_id": "OiVqpczNbvw",
+    "episode_url": "https://www.youtube.com/watch?v=OiVqpczNbvw",
+    "type": "youtube",
+    "duration_secs": null,
+    "transcript_length": 2564,
+    "speaker": "Tony Pasquariello — global head of hedge fund coverage in Goldman Sachs FICC and Equities",
+    "one_line_summary": "US 10‑Year Treasury yields at their highest since 2007 signal that the bond market may become the biggest risk to equity gains, while shorting bonds could hedge stocks and Japan’s TOPIX offers upside from reforms and defense spending.",
+    "summary": "Tony Pasquariello notes that US 10‑Year Treasury yields have climbed to the highest level since 2007, positioning the bond market as a potential drag on further equity upside. He suggests that shorting bonds could serve as a hedge for stock investments, citing the current yield environment. Pasquariello also highlights that S&P 500 earnings growth has been “mind‑bending,” which has helped keep valuations from becoming stretched, but warns that earnings growth may taper off, potentially slowing US stock returns from their double‑digit annual pace. Additionally, he identifies opportunities in Japan’s TOPIX, where shareholder reforms and government spending on defense and industrialization are expected to boost the equity market.",
+    "key_themes": [
+      "Bond yields and equity risk",
+      "Earnings growth and valuation dynamics",
+      "International equity opportunities"
+    ],
+    "market_signals": [
+      "US 10‑Year Treasury yields climbing to the highest level since 2007",
+      "Shorting bonds could be a useful hedge for stock investments",
+      "S&P 500 earnings growth has been “mind‑bending”",
+      "Earnings growth may begin to taper off",
+      "US stock returns may slow from their double‑digit annual pace"
+    ],
+    "framework_insights": [
+      "Bond yield levels can signal impending equity risk",
+      "Earnings growth can temporarily support valuations but may taper",
+      "Shorting bonds as a hedge strategy against equity downturns",
+      "International equity markets can offer upside when domestic markets face headwinds",
+      "Government policy and reforms can materially impact equity performance"
+    ],
+    "market_relevance": "Investors should monitor US Treasury yields as a leading indicator of equity risk and consider bond shorting strategies for hedging, while keeping an eye on Japan’s TOPIX for potential upside amid policy‑driven support."
+  },
+  {
     "id": "69d07ab31ac380979a48ffcea2e88003",
     "source_id": "odd_lots",
     "source_name": "Odd Lots",
@@ -38,6 +145,46 @@
       "Authenticity is a differentiator for creators who can produce non‑replicable content"
     ],
     "market_relevance": "Investors should monitor how AI adoption reshapes influencer marketing spend and brand equity, as companies that fail to maintain authenticity risk consumer backlash and diminished ROI."
+  },
+  {
+    "id": "d1c869af6e3e4d5a630bfa9237227cf9",
+    "source_id": "credit_edge",
+    "source_name": "The Credit Edge",
+    "source_org": "Bloomberg Intelligence",
+    "source_color": "#f97316",
+    "title": "Magnetar Scours $600 Billion Stressed Debt Pile for Bond, Loan Value",
+    "description": "<p>Magnetar Capital is scouring a $600 billion pile of troubled corporate bonds and loans for value as much of the debt comes due. &ldquo;Yesterday&rsquo;s buyout boom is today&rsquo;s credit opportunity,&rdquo; Austin Camporin, head of special situations at the $17 billion alternative asset manager, tells Bloomberg News&rsquo; James Crombie and Bloomberg Intelligence&rsquo;s Negisa Balluku in the latest Credit Edge podcast. &ldquo;It&rsquo;s those small firms that incurred debt in the zero interest rate environment, primarily in the broadly syndicated loan market, that are obviously having a harder time,&rdquo; Camporin says. They also discuss private credit risk and investment opportunities in software, healthcare services, building materials and packaging.</p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
+    "published": "2026-09-24",
+    "week": "2026-W39",
+    "audio_url": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/e74a35e9-c028-4e5f-a3f7-afb10164a717/d3e1b5c0-d5d2-4b3c-9b73-b4cf0149e262/audio.mp3?utm_source=Podcast&in_playlist=8792a2e9-d66c-4038-a1fe-afb101654894",
+    "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/d3e1b5c0-d5d2-4b3c-9b73-b4cf0149e262/transcript?format=TextWithTimestamps&t=1790280628",
+    "episode_url": "https://omny.fm/shows/the-credit-edge-by-bloomberg-intelligence/magnetar-scours-600-billion-stressed-debt-pile-for-bond-loan-value",
+    "type": "podcast",
+    "duration_secs": 3205,
+    "transcript_length": 57446,
+    "speaker": "Aston Kamporan — Senior Portfolio Manager and Head of Special Situations, Magnetic Capital",
+    "one_line_summary": "Stressed debt has surged to $600 billion, but the market’s thin buyer base and disqualified lender lists create a niche for small‑cap, high‑yield opportunities that can be captured with modest positions.",
+    "summary": "Aston Kamporan notes that stressed debt has grown from roughly $400 billion to about $600 billion over the last year, defined as debt trading above 10% yield. The opportunity set skews toward smaller capital structures, with 85‑90% of issuers below $5 billion and most under $3 billion. He highlights that the high‑yield and leveraged‑loan universe is roughly a third of a $5 trillion market, and that the B3 segment of leveraged loans has risen to 20‑25% of the universe, up from the typical 5‑10%. Kamporan also stresses the impact of disqualified lender (DQ) lists, which block large managers from investing in distressed assets, thereby creating a competitive advantage for smaller, non‑DQ‑listed managers who can offer discounts. He suggests that a position of about 4‑5% of a tranche is sufficient for effective engagement.\n\nKey points include the widening spread between triple‑C and single‑B debt, the technical dynamics of downgrades from B3 to CCC triggering CLO seller pressure, and the importance of underwriting the creditor group alongside the business and documents. The discussion underscores that the market’s perceived lack of stress is due to tight spreads on higher‑rated debt, while the real stress lies in the B3 and lower segments.\n\nThe conversation also touches on the strategic shift toward out‑of‑court restructuring, the role of DQ lists in limiting participation, and the structural dominance of CLOs owning about 70% of leveraged loans.",
+    "key_themes": [
+      "Stressed debt growth",
+      "Small‑cap focus",
+      "Disqualified lender lists"
+    ],
+    "market_signals": [
+      "Stressed debt grew from $400 billion to $600 billion over the last year",
+      "85‑90% of issuers are in capital structures $5 billion and below",
+      "B3 leveraged loans now 20‑25% of the universe",
+      "CLOs own about 70% of leveraged loans",
+      "A 4‑5% tranche position is sufficient for engagement"
+    ],
+    "framework_insights": [
+      "Opportunity set skews toward smaller capital structures, making large managers less effective",
+      "Disqualified lender lists create a competitive moat for non‑DQ managers",
+      "Out‑of‑court restructuring offers alpha through engagement",
+      "CLO seller pressure increases when loans downgrade from B3 to CCC",
+      "Underwriting must include business, documents, and creditor group to avoid losses"
+    ],
+    "market_relevance": "Investors should recognize that the apparent calm in high‑yield spreads masks significant stress in the B3 and lower segments, and that small‑cap, non‑DQ‑listed managers can capture value with modest positions in this expanding distressed universe."
   },
   {
     "id": "b7d757ea7fae532515d7a5acfc45d01f",
