@@ -1,5 +1,83 @@
 [
   {
+    "id": "f751cadf45a513e9f37b08297a12f641",
+    "source_id": "odd_lots",
+    "source_name": "Odd Lots",
+    "source_org": "Bloomberg",
+    "source_color": "#06b6d4",
+    "title": "Why Building a Crosswalk in LA Is Kafkaesque",
+    "description": "<p>Bill McBride did not just predict the 2008 housing bubble, he helped invent financial blogging with his Calculated Risk newsletter. Zach Lasry, meanwhile, is much newer to the scene, but in his career as a real estate developer, he is already responsible for building one of LA's hottest new neighborhoods &mdash; Melrose Hill. We spoke to both of them at our live show at the Vermont Hollywood, for a wide-ranging panel discussion on LA real estate. We talk about the difficulty of sourcing construction components, the Kafkaesque process of getting a crosswalk built in LA, and how self-driving cars might help reshape the city and solve its longstanding issues with parking.</p> <p>Read more:<br /><a href=\"https://www.bloomberg.com/news/articles/2026-09-24/mortgage-rates-at-7-push-sellers-to-cut-home-sale-prices?utm_medium=referral&amp;utm_source=podcast&amp;utm_campaign=odd_lots&amp;utm_content=article\">Mortgage Rates at 7% Are Forcing Home Sellers to Slash Prices</a><br /><a href=\"https://www.bloomberg.com/graphics/2026-ai-data-center-heat-pollution-cities/?utm_medium=referral&amp;utm_source=podcast&amp;utm_campaign=odd_lots&amp;utm_content=article\">AI Data Centers Release Heat, Posing New Problem for Cities</a></p> <p>Only <a href=\"http://bloomberg.com/\">Bloomberg - Business News, Stock Markets, Finance, Breaking &amp; World News</a> subscribers can get the Odd Lots newsletter in their inbox each week, plus unlimited access to the site and app. Subscribe at&nbsp; <a href=\"https://www.bloomberg.com/subscriptions/oddlots?in_source=oddlotspodcast\">bloomberg.com/subscriptions/oddlots</a></p> <p><a href=\"http://bloomberg.com/subscriptions/oddlots\">Subscribe to the Odd Lots Newsletter</a><br /><strong>Join the conversation:</strong> <a href=\"https://discord.gg/oddlots\">discord.gg/oddlots</a></p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
+    "published": "2026-09-28",
+    "week": "2026-W40",
+    "audio_url": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/7a3568d9-8263-4e3a-8f8f-b4d00139959f/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
+    "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/7a3568d9-8263-4e3a-8f8f-b4d00139959f/transcript?format=TextWithTimestamps&t=1790363327",
+    "episode_url": "https://omny.fm/shows/odd-lots/why-building-a-crosswalk-in-la-is-kafkaesque",
+    "type": "podcast",
+    "duration_secs": 1318,
+    "transcript_length": 22298,
+    "speaker": "Bill McBride — Calculated Risk",
+    "one_line_summary": "Zoning and product quality are now the decisive factors for commercial real estate success in Los Angeles, replacing the old reliance on financial engineering.",
+    "summary": "Bill McBride and Zach Lazzari discuss how Los Angeles’ real‑estate landscape is shifting from purely financial arbitrage to a product‑centric model.  McBride notes that higher interest rates make traditional cap‑rate arbitrage unviable, forcing developers to create attractive, creative tenants and community‑focused projects.  He highlights the bureaucratic nightmare of installing a crosswalk—requiring a million‑dollar cost and extensive engineering—and the limited impact of ADUs, which add only a small housing supply increase.  The conversation also covers parking challenges, the spread of residential zoning, and the need for mixed‑use streets to foster walkability and independent businesses.\n\nKey themes include the importance of zoning reform, the shift to a product mindset in development, the role of creative tenants, the constraints of parking and ADUs, and the bureaucratic hurdles of infrastructure projects.\n\n",
+    "key_themes": [
+      "Zoning & regulatory hurdles",
+      "Product‑centric development",
+      "Creative tenant strategy"
+    ],
+    "market_signals": [
+      "Interest rates higher than cap rate makes financial engineering unviable",
+      "Crosswalk approval costs a million dollars",
+      "ADUs provide only a small increase to housing stock",
+      "Rents are rising where developers invest in talent and creative tenants",
+      "Parking remains a major obstacle for commercial viability"
+    ],
+    "framework_insights": [
+      "Product mindset: developers must create attractive, unique tenants rather than rely on financial arbitrage",
+      "Community building: aggregating multiple buildings into a cohesive neighborhood can add value",
+      "Zoning is the biggest lever: changing zoning can unlock density and mixed use",
+      "ADU policies influence street congestion and parking demand",
+      "Infrastructure projects require significant capital and engineering, making them a long‑term investment"
+    ],
+    "market_relevance": "Investors should recognize that in LA, higher rates and zoning constraints are forcing a shift toward quality‑driven real‑estate projects, making developers who can navigate regulatory hurdles and create vibrant, tenant‑focused communities more valuable."
+  },
+  {
+    "id": "c17fcf64da2dce77193c2142ca7a9d5e",
+    "source_id": "invest_like_the_best",
+    "source_name": "Invest Like the Best",
+    "source_org": "Colossus",
+    "source_color": "#6366f1",
+    "title": "Noah Shinn - Building Instinct: The Personal Agent - [Invest Like the Best, EP.493]",
+    "description": "My guest today is Noah Shinn. Noah is the founder of Instinct, a personal assistant that you text, call, or email the same way you would a person. It has its own phone and its own computer, and it can do almost anything on your behalf that you would do yourself online. Instinct is about a year old, still invite-only, and growing roughly 10% day over day without any marketing spend.\n\nWe discuss the surprising ways people are already using Instinct, the trusted network that lets two people's agents coordinate directly, and what Noah has learned about how long it takes users to trust an agent with their credit card, inbox, and calendar. He explains why he refuses to build an ad model and why he believes a personal agent should never influence users against their own interests.\n\nWe also cover the take rate model behind the more than $1 billion a year now flowing through the platform, how travel and food delivery businesses should prepare for a world of agents, why he spends 40% of his time thinking about compute, and why he believes all of software will eventually collapse into one simple interface.\n\nPlease enjoy my conversation with Noah Shinn.\n\nFor the full show notes, transcript, and links to mentioned content, check out the episode page ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠here⁠⁠⁠⁠⁠.&nbsp;\n\n-----\n\nBecome a Colossus member to get our quarterly print magazine and private audio experience, including exclusive profiles and early access to select episodes. Subscribe at ⁠colossus.com/subscribe⁠.\n\n-----\n\n⁠Ramp’s⁠ mission is to help companies manage their spend in a way that reduces expenses and frees up time for teams to work on more valuable projects. Go to⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ⁠ramp.com/invest⁠⁠ to sign up for free and get a $250 welcome bonus.\n\n-----\n\nTrusted by thousands of businesses, ⁠Vanta⁠ continuously monitors your security posture and streamlines audits so you can win enterprise deals and build customer trust without the traditional overhead. Invest Like the Best listeners get a special offer of $1,000 off Vanta when you go to ⁠vanta.com/invest⁠.&nbsp;\n\n-----\n\nWorkOS⁠ is the infrastructure B2B and AI-native companies use to sell to enterprise. It covers everything enterprise security requires: SSO, SCIM, RBAC, Audit Logs, AI governance, and more. Trusted by 2,000+ fast-growing companies, including OpenAI, Anthropic, Cursor, and Vercel.\n\n-----\n\nRogo is the AI platform for finance. They're building agents for Wall Street that are trained to understand how bankers and investors actually do work: from diligence and modeling, to turning analysis into deliverables. To learn more, visit rogo.ai/invest.\n\n-----\n\n⁠Ridgeline⁠ has built a complete, real-time, modern operating system for investment managers. It handles trading, portfolio management, compliance, customer reporting, and much more through an all-in-one real-time cloud platform. Visit⁠ ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ridgeline.ai⁠.\n\n-----\n\nTimestamps:\n\n(00:00:00) The Most Exciting Software Race Ever\n\n(00:00:49) What Instinct Is\n\n(00:04:11) The Wildest Things Users Have Done With Instinct\n\n(00:07:15) The Instinct to Instinct Trusted Network\n\n(00:13:24) How Agents Will Reorder the Internet\n\n(00:14:44) Reinventing Restaurant Reservations\n\n(00:17:23) Travel and $1 Billion in Transaction Volume\n\n(00:21:00) How Users Learn to Trust an Agent\n\n(00:23:25) Keeping Sensitive Data Safe\n\n(00:26:08) Alignment and the Business Model\n\n(00:31:07) Take Rates and the Payments Stack\n\n(00:34:52) When Incumbents Push Back on Agents\n\n(00:40:46) How Businesses Should Prepare for Agents\n\n(00:44:43) Designing for Understandability\n\n(00:48:15) Taste Versus Data\n\n(00:50:03) Invite-Only Growth at 10% a Day\n\n(00:54:46) How Far Ahead to Buy Compute\n\n(00:56:58) The Cost to Serve Each User\n\n(00:59:24) How Much Compute Proactive Agents Will Need\n\n(01:02:30) Thoughts on Muse\n\n(01:03:59) Mistakes and Staying Proactive\n\n(01:05:34) The Future of Security\n\n(01:08:32) Where the Interface Goes Next\n\n(01:12:35) Agents That Pursue Goals\n\n(01:14:35) Personality and the Movie Her\n\n(01:16:27) Why It's Called Instinct\n\n(01:17:34) Allies, Enemies, and Distribution Channels\n\n(01:18:43) Raising Capital\n\n(01:20:34) The Kindest Thing",
+    "published": "2026-09-28",
+    "week": "2026-W40",
+    "audio_url": "https://traffic.megaphone.fm/CLS4620503535.mp3",
+    "transcript_url": null,
+    "episode_url": "https://colossus.com/episode/instinct-the-personal-agent/",
+    "type": "podcast",
+    "duration_secs": 5173,
+    "transcript_length": 44484,
+    "speaker": "Noah Shinn — Founder, Instinct",
+    "one_line_summary": "Instinct is building a socially intelligent personal agent that operates across phone, computer, and email to automate everyday tasks, leveraging trust networks to scale its impact.",
+    "summary": "Noah Shinn discusses Instinct, a personal assistant that functions without a dedicated app, using phone, computer, and email to interact with users. The agent can call users, send emails, and perform tasks such as scheduling, document signing, and subscription management, all while maintaining social intelligence and awareness. Shinn highlights early traction stories, including retrieving U.S. Open footage and wardrobe planning, and emphasizes the importance of a trusted network where users can share varying levels of access with colleagues, spouses, and friends. He also touches on the broader potential of agents to reorder interfaces, commerce, and social interactions by acting as a superhuman assistant.\n\nKey themes include the shift from app-based AI to seamless, socially integrated agents; the power of trust networks to enable secure collaboration; and the potential for agents to automate routine tasks across finance, scheduling, and personal life.\n\nThe conversation underscores how Instinct’s approach—no new app, simple interface, and social intelligence—could accelerate adoption of AI assistants and reshape how people interact with technology.\n",
+    "key_themes": [
+      "AI-powered personal assistants",
+      "Social intelligence and trust networks",
+      "Seamless integration across devices"
+    ],
+    "market_signals": [
+      "Ramp saves businesses 5% annually on average",
+      "Ramp just opened for business in the United Kingdom",
+      "Rogo serves tens of thousands of bankers and investors at hundreds of leading firms worldwide"
+    ],
+    "framework_insights": [
+      "Personal assistant as a simple interface that eliminates the need for a dedicated app",
+      "Social intelligence and awareness enable agents to act like a human collaborator",
+      "Trust networks with granular access controls create new social dynamics and network effects",
+      "Agents can automate routine tasks across finance, scheduling, and personal life",
+      "The future of interfaces may shift toward agents that act as superhuman assistants"
+    ],
+    "market_relevance": "The rise of socially intelligent agents like Instinct signals a shift toward more integrated, app‑free AI solutions that could disrupt traditional fintech and productivity tools, offering investors a new frontier in AI‑driven consumer and enterprise products."
+  },
+  {
     "id": "b75d4e004075fb5153a752eae96dc528",
     "source_id": "odd_lots",
     "source_name": "Odd Lots",
