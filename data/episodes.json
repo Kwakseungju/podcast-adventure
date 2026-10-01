@@ -1,5 +1,45 @@
 [
   {
+    "id": "a60824483f931ea4d794a7913a529a5e",
+    "source_id": "odd_lots",
+    "source_name": "Odd Lots",
+    "source_org": "Bloomberg",
+    "source_color": "#06b6d4",
+    "title": "Everything in Markets Is Now Moving Incredibly Fast",
+    "description": "<p>The market is acting in ways that make it very hard to get a handle on what exactly is going on right now. The overall indices are surging, while many individual stocks are doing badly. Rates are rising, but the economy is still robust. There's capex spending and the AI trade. There's the war in Iran. And of course there's persistent inflation and the Federal Reserve's ongoing tightening cycle. On this episode, we speak with our former Bloomberg News colleague Luke Kawa, who is now head of markets at Sherwood News. We go over all the big market themes, and he explains why the one consistent theme of this moment is the sheer speed of the moves and the pace of the news itself.<br /><br /><a href=\"https://events.bloombergevents.com/event/OddLotsLiveChicago/summary\">See Odd Lots Live in Chicago!</a></p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
+    "published": "2026-10-01",
+    "week": "2026-W40",
+    "audio_url": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/cf3994af-6383-4b79-a266-b4d50143f150/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
+    "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/cf3994af-6383-4b79-a266-b4d50143f150/transcript?format=TextWithTimestamps&t=1790797566",
+    "episode_url": "https://omny.fm/shows/odd-lots/everything-in-markets-is-now-moving-incredibly-fast",
+    "type": "podcast",
+    "duration_secs": 2658,
+    "transcript_length": 45668,
+    "speaker": "Luke Kawa — head of markets at Sherwood News",
+    "one_line_summary": "AI‑driven growth is pushing bond yields higher while market breadth remains weak, signaling a shift in risk appetite and valuation dynamics.",
+    "summary": "Luke Kawa discusses how the AI impulse is reshaping both equity and fixed‑income markets. He notes that the S&P 500 is up over 12% and currently 0.5% off its record high, with only 51.2% of stocks above their 200‑day moving average—figures that echo the post‑dot‑com bubble period. On the bond side, the 10‑year Treasury is above 5% and the 30‑year is rising, reflecting a global growth impulse that is lifting yields. Kawa highlights that hyperscaler CapEx has been zero in September, a sharp drop from prior months, and that AI hardware spending is expected to drive earnings growth, with Goldman Sachs noting that about half of earnings growth this year is tied to hyperscaler CapEx. He also points out that consumer names like Nike and Walmart have become stand‑ins for AI disruption, with their valuations reflecting broader concerns about growth and profitability.\n\nThe conversation underscores a market that is increasingly rate‑insensitive for AI‑heavy firms, while traditional cyclical and consumer stocks are under pressure. The bond market’s rise is tied to expectations of strong growth and inflation, yet breakevens remain surprisingly stable, suggesting that investors are still confident in the Fed’s ability to manage inflation.\n\nOverall, the episode paints a picture of a market where AI is the dominant growth narrative, breadth is thin, and fixed‑income yields are climbing in response to a robust global growth outlook.",
+    "key_themes": [
+      "AI‑driven growth",
+      "Bond yield dynamics",
+      "Market breadth and valuation"
+    ],
+    "market_signals": [
+      "S&P 500 up over 12%",
+      "S&P 500 0.5% off record high",
+      "51.2% of stocks above 200‑day moving average",
+      "10‑year Treasury above 5%",
+      "30‑year Treasury rising"
+    ],
+    "framework_insights": [
+      "AI is a rate‑insensitive bet that can drive earnings growth",
+      "Market breadth is a key indicator of valuation stress",
+      "Consumer names can act as stand‑ins for AI disruption fears",
+      "Earnings growth is increasingly tied to hyperscaler CapEx",
+      "Bond yields rise when growth expectations and inflation expectations are strong"
+    ],
+    "market_relevance": "Investors should watch AI‑heavy equities for continued upside while monitoring bond yields and market breadth for signs of valuation stress and potential rebalancing."
+  },
+  {
     "id": "89031cf7e08d297f4c08dce5216573e5",
     "source_id": "masters_in_business",
     "source_name": "Masters in Business",
@@ -103,6 +143,190 @@
     "market_signals": [],
     "framework_insights": [],
     "market_relevance": "The discussion underscores that even in highly efficient bond markets, persistent structural gaps—such as duration demand vacuums and lagging ratings—offer tangible alpha opportunities for disciplined arbitrageurs."
+  },
+  {
+    "id": "ef5cfe0afc0de58ae13cc3b61f7c82ae",
+    "source_id": "view_from_apollo",
+    "source_name": "The View from Apollo",
+    "source_org": "Apollo Global Management",
+    "source_color": "#a855f7",
+    "title": "Infrastructure: Today’s “Generational” Investment Opportunity",
+    "description": "From digital to power grid modernization, from transport to environmental services, infrastructure represents a projected $75+ trillion in investment over the next decade. Apollo Partners Harry Seekings and Vittorio Lacagnina have spent decades in infrastructure investing, and here they discuss what Seekings sees as a “generational” opportunity. They also discuss how Apollo approaches the asset class across the full capital structure and why the potential for stable cash flows, inflation protection, and low correlation to public markets can make infrastructure a significant portfolio diversifier for both institutional and wealth investors.",
+    "published": "2026-09-30",
+    "week": "2026-W40",
+    "audio_url": "https://media.blubrry.com/theviewfromapollo/ins.blubrry.com/theviewfromapollo/59_Allocation_Infrastructure_Todays_Generational_Investment_Opportunity.mp3",
+    "transcript_url": null,
+    "episode_url": "https://podcast.show/theviewfromapollo/episode/155600200/",
+    "type": "podcast",
+    "duration_secs": 1786,
+    "transcript_length": 30008,
+    "speaker": "Harry Seekings — Chair, Apollo Infrastructure Group",
+    "one_line_summary": "Infrastructure is a generational, inflation‑hedged asset class that is now experiencing a supply‑demand gap, driving a surge in private capital allocation.",
+    "summary": "The discussion highlights Apollo’s deep history in infrastructure, tracing back to 1998, and its recent $150 billion of origination over the last five years. Apollo frames infrastructure as hard, long‑lived assets with regulated, CPI‑escalated cash flows that provide yield, stability, and inflation protection. The firm notes that infrastructure assets now total $1.6 trillion and are projected to exceed $3 trillion by 2030, yet 45 % of institutions remain under‑allocated. Key growth drivers include AI and digitalization, power and electrification, and transport, with McKinsey estimating $5.2 trillion needed for AI data centers by 2030 and Apollo estimating $75 trillion for the broader power, utilities, digital, and transport markets over the next decade. The conversation also stresses the importance of disciplined underwriting and value‑oriented investing to capture upside while protecting downside.\n\nThe speakers emphasize that infrastructure can reduce portfolio volatility, improve Sharpe ratios, and provide a mechanical link to inflation through regulated returns and CPI escalators. They also point to the strategic advantage of Apollo’s insurance affiliates and capital structure alignment, which can enhance risk‑adjusted returns.\n\nOverall, the panel presents infrastructure as a core, inflation‑hedged, long‑term investment that is now in high demand, offering both yield and growth potential across core, value‑add, and opportunistic strategies.",
+    "key_themes": [
+      "Generational infrastructure opportunity",
+      "Inflation hedging and CPI escalators",
+      "Capital allocation and under‑allocation"
+    ],
+    "market_signals": [
+      "$150 billion of origination in infrastructure over the last five years",
+      "Infrastructure asset class is $1.6 trillion today, expected to exceed $3 trillion by 2030",
+      "45% of institutions are still under‑allocated to infrastructure",
+      "Correlation between infrastructure and public equities is 0.3, and it is negatively correlated to public bonds",
+      "$5.2 trillion needed for AI data centers by 2030, and $75 trillion for the wider power, utilities, digital, and transport markets over the next decade"
+    ],
+    "framework_insights": [
+      "Infrastructure is defined by hard assets, regulated revenue, long‑term contracts, and CPI escalators – a mental model of “if you kick it at heart”",
+      "Core infrastructure delivers yield from predictable cash flows, while value‑add seeks capital gains within 3‑5 years – a spectrum framework",
+      "Apollo’s value‑oriented investing focuses on purchase price and downside protection, aligning with insurance affiliates for risk‑adjusted returns",
+      "The shift from de‑inflationary to inflationary structural forces (de‑globalization, aging demographics, energy transition) explains the current demand surge",
+      "Diversification benefits are quantified by lower correlation to equities and negative correlation to bonds, improving Sharpe ratios"
+    ],
+    "market_relevance": "For investors, the current supply‑demand imbalance and inflationary backdrop make infrastructure a compelling, yield‑enhancing, and diversification‑driving asset class that can improve portfolio risk‑adjusted returns in the near term."
+  },
+  {
+    "id": "de286a95642b335c65f284afaab6e59b",
+    "source_id": "masters_in_business",
+    "source_name": "Masters in Business",
+    "source_org": "Bloomberg",
+    "source_color": "#eab308",
+    "title": "At the Money: The Data Behind America's Wealthy",
+    "description": "<p>In this episode of 'At the Money,' Barry speaks with Owen Zidar and Eric Zwick about the data behind America's wealthiest people.&nbsp; &nbsp;<br /><br />Owen Zidar is professor of Economics and Public Affairs at Princeton, and Eric Zwick is professor of Economics and Finance at the University of Chicago Booth School of Business. They are the authors of a new book&nbsp;<em>The Everywhere Millionaire: Who Is Really Rich in America and How They Got There.&rdquo;&nbsp; &nbsp; &nbsp;<br /><br /></em>Each week, &ldquo;At the Money&rdquo; discusses an important topic in money management. From portfolio construction to taxes and cutting down on fees, join Barry Ritholtz to learn the best ways to put your money to work.</p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
+    "published": "2026-09-30",
+    "week": "2026-W40",
+    "audio_url": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/4e4cd910-40a1-4619-a5f3-ae2b0012ffff/7aa8c2fb-6a07-43f5-a8bf-b4d500cbaf1c/audio.mp3?utm_source=Podcast&in_playlist=5873a3cb-298f-40bc-b71f-ae2b0013000d",
+    "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/7aa8c2fb-6a07-43f5-a8bf-b4d500cbaf1c/transcript?format=TextWithTimestamps&t=1790771048",
+    "episode_url": "https://omny.fm/shows/masters-in-business/at-the-money-the-date-behind-americas-wealthy",
+    "type": "podcast",
+    "duration_secs": 789,
+    "transcript_length": 11298,
+    "speaker": "Owen Zidar — Professor, Princeton",
+    "one_line_summary": "The wealth of America is far more dispersed and concentrated among private business owners than the media narrative suggests, with 65,000 Americans holding $100 million+ and 1,000 private owners per public CEO.",
+    "summary": "The podcast highlights that wealth in the U.S. is largely held by private business owners rather than the few public CEOs or Forbes 400 billionaires. Key data points include a 1,000:1 ratio of private owners worth at least $25 million to public CEOs, 65,000 Americans with $100 million+ wealth, and 1.5 million top‑1% business owners. The discussion also notes that 3% of household wealth is held by the Forbes 400, while Main Street millionaires account for 40% of household wealth, and that 0.1% of estates pay estate tax despite $200 billion transferring tax‑free annually. Non‑compete agreements cost workers $300 billion annually, and wealthy congressmen are disproportionately represented, with 62 times the likelihood for those worth $100 million+.",
+    "key_themes": [
+      "Private business ownership as wealth engine",
+      "Media misrepresentation of wealth concentration",
+      "Policy implications of tax and labor practices"
+    ],
+    "market_signals": [
+      "1,000 private owners per public CEO",
+      "65,000 Americans with $100 million+ wealth",
+      "$200 billion transfers tax‑free each year",
+      "$300 billion annual cost of non‑compete agreements",
+      "0.1% of estates pay estate tax"
+    ],
+    "framework_insights": [
+      "Wealth concentration is driven by pass‑through business ownership rather than public equity",
+      "Media focus on a small elite skews public perception of opportunity",
+      "Tax thresholds and avoidance schemes dilute estate tax revenue",
+      "Non‑compete agreements erode labor mobility and wage growth",
+      "Political representation is skewed toward high‑net‑worth individuals"
+    ],
+    "market_relevance": "These insights suggest that investment strategies should consider the growing influence of private business owners and the potential for policy shifts around estate taxes and labor regulations, which could reshape capital allocation and market dynamics."
+  },
+  {
+    "id": "3096673f52b1abdd2cb746532cd4d5d9",
+    "source_id": "asia_centric",
+    "source_name": "Asia Centric",
+    "source_org": "Bloomberg Intelligence",
+    "source_color": "#d946ef",
+    "title": "Goldman Pushes Back on ‘Short-AI’ India Narrative",
+    "description": "<p>While global equities have surged on the AI boom, India's stock markets have languished. With concerns that the nation's large IT services sector is vulnerable to automation and job losses, critics have increasingly labeled India an \"anti-AI\" or \"short-AI\" trade.</p> <p>Santanu Sengupta, chief India economist at Goldman Sachs, joins John Lee on the Asia Centric podcast to challenge this bearish narrative. He explains why robust hiring at smaller tech firms and global capability centers is offsetting traditional software job losses. Sengupta also breaks down the drivers behind India's resilient economic growth despite higher energy prices and explains why the central bank may soon pivot to a hawkish tightening stance.</p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
+    "published": "2026-09-30",
+    "week": "2026-W40",
+    "audio_url": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/992d604b-06ca-40cb-88b2-af6c016f5aa0/10cb7e00-5ebd-45b7-9ff6-b4d5007f943e/audio.mp3?utm_source=Podcast&in_playlist=75a9f17c-2ff1-42c9-9a27-af6c016fae89",
+    "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/10cb7e00-5ebd-45b7-9ff6-b4d5007f943e/transcript?format=TextWithTimestamps&t=1790754500",
+    "episode_url": "https://omny.fm/shows/asia-centric-by-bloomberg-intelligence/goldman-pushes-back-on-short-ai-india-narrative",
+    "type": "podcast",
+    "duration_secs": 958,
+    "transcript_length": 15333,
+    "speaker": "Shantanu Sengupta — Chief India Economist, Goldman Sachs",
+    "one_line_summary": "India’s AI narrative is a mischaracterization; while IT services face short‑term headwinds, broader adoption of Gen AI is projected to boost productivity and growth, with infrastructure and fiscal dynamics shaping the trajectory.",
+    "summary": "Shantanu Sengupta argues that the label ‘short‑AI’ for India is driven by a narrow focus on the software services sector, where the top six IT firms have shed 64,000 jobs over three years, yet the sector overall has added 0.7 million jobs, bringing total tech employment to 4.4 million. He estimates that only 8‑12% of non‑agricultural employment is at risk of substitution, while 45% will be complemented, leading to a net productivity lift of 0.1‑0.8 percentage points over the next decade. AI adoption is seen as a medium‑term positive for India’s growth, with sectors such as healthcare (80% complementary), financial services (70% complementary), education, media, and entertainment positioned for augmentation, whereas BPOs and call centers face higher substitution risk. Infrastructure remains a bottleneck; India’s data‑center capacity is just over 1% of global capacity versus 50% in the U.S. and 25% in China. Fiscal and monetary easing have underpinned a 7.78% Q2 GDP growth, with credit growth near 20% (expected to fall to mid‑teens). The rupee’s weakness is attributed to capital outflows, not policy, and is expected to stabilize around 95‑97 due to FCNR inflows of $140 billion+. The speaker highlights a nascent investment cycle in power, renewables, EVs, batteries, and data centers, suggesting AI could broaden this cycle.",
+    "key_themes": [
+      "AI adoption vs substitution risk",
+      "IT services employment dynamics",
+      "Infrastructure bottlenecks"
+    ],
+    "market_signals": [
+      "Top six IT companies have shed 64,000 jobs over the last three years",
+      "India’s data center capacity is only about a little more than 1% of global capacity",
+      "Q2 GDP came in at 7.78% year on year",
+      "Credit growth near about 20% (expected to fall to mid‑teens)",
+      "Rupee expected to stabilize in the 95‑97 range due to FCNR inflows of $140 billion+"
+    ],
+    "framework_insights": [
+      "Adoption and diffusion at scale is required at a reasonable cost to realize productivity gains",
+      "Complementary tasks lift workers to the top of historical productivity range, while substitution pushes them to the bottom quartile",
+      "Infrastructure creation is the biggest bottleneck for AI adoption, affecting speed of diffusion",
+      "Fiscal policy easing has a finite impulse that will fade, while monetary policy is likely to tighten as inflation broadens",
+      "AI can broaden the investment cycle by stimulating demand across power, renewables, EVs, batteries, and data centers"
+    ],
+    "market_relevance": "Investors should reassess the ‘short‑AI’ bias on Indian equities, recognizing that broader AI adoption could lift productivity and growth, while infrastructure constraints and a limited data‑center footprint present a risk to rapid scaling."
+  },
+  {
+    "id": "bf3d184472d2bad367d9034b35baa798",
+    "source_id": "goldman_sachs",
+    "source_name": "Goldman Sachs",
+    "source_org": "Goldman Sachs",
+    "source_color": "#3b82f6",
+    "title": "How Family Businesses Should Plan for Generational Success",
+    "description": "Companies with significant family ownership generate roughly 70% of global economic output and 60% of the world’s jobs. However, only three in 10 survive to a second generation. In this episode of Goldman Sachs Exchanges, FX de Mallmann, chairman of Goldman Sachs EMEA and chairman of Investment Banking, and Tucker York, chairman of global Wealth Management, discuss why succession is so difficult, how enduring enterprises structure governance, and the mindset shift required after a sale or IPO. \n\nKey Takeaways \n1. Succession is a two-part decision: Founders must separate management continuity from asset ownership transfer. This process yields the best results when initiated early and built with operational flexibility.\n2. There are multiple paths to business success: Company success has come from both founders who diversified ownership and brought in professional management, and founders who kept the business family-controlled and managed.  \n3. Wealth creation demands a mindset shift: Through a sale or IPO, founders go from operating a concentrated business to holding liquid wealth and trying to understand what to do with this.  \n\nFor more insights, read Goldman Sachs’ new report, ⁠Honoring\nLegacy and Positioning for the Future: A Modern Playbook for Family-Owned Businesses:  https://www.goldmansachs.com/what-we-do/investment-banking/insights/articles/a-modern-playbook-for-family-owned-businesses\n\nAlso available on Spotify (https://click.gs.com/myyr) and Apple Podcasts (https://click.gs.com/7x11) \n\nDate of recording: September 8, 2026\n\nThe opinions and views expressed herein are as of the date of publication, subject to change without notice, and may not necessarily reflect the institutional views of Goldman Sachs or its affiliates. The material provided is intended for informational purposes only, and does not constitute investment, legal, or tax advice, a recommendation from any Goldman Sachs entity to take any particular action or be used as a basis for any other investment decision, or an offer or solicitation to purchase or sell any securities or financial products. Any forward-looking statements, case studies, computations or examples set forth herein are for illustrative purposes only. Past performance is not indicative of future results. Neither Goldman Sachs nor any of its affiliates make any representations or warranties, express or implied, as to the accuracy or completeness of the statements or information contained herein and disclaim any liability whatsoever for reliance on such information for any purpose. Each name of a third-party organization mentioned is the property of the company to which it relates, is used here strictly for informational and identification purposes only and is not used to imply any sponsorship, affiliation, endorsement, ownership or license rights between any such company and Goldman Sachs. This material should not be copied, distributed, published, or reproduced in whole or in part or disclosed by any recipient to any other person without the express written consent of Goldman Sachs. \n\nA transcript is provided for convenience and may differ from the original video or audio content. Goldman Sachs is not responsible for any errors in the transcript. \n\n© 2026 Goldman Sachs. All rights reserved.",
+    "published": "2026-09-30",
+    "week": "2026-W40",
+    "video_id": "gJylV9KAQqc",
+    "episode_url": "https://www.youtube.com/watch?v=gJylV9KAQqc",
+    "type": "youtube",
+    "duration_secs": null,
+    "transcript_length": 3290,
+    "speaker": "FX de Mallmann — chairman of Goldman Sachs EMEA and chairman of Investment Banking",
+    "one_line_summary": "Family‑owned firms produce 70% of global output but only 30% survive beyond the first generation, underscoring the critical need for early, flexible succession planning.",
+    "summary": "The episode highlights that family‑owned companies generate roughly 70% of global economic output and 60% of the world’s jobs, yet only three in ten survive to a second generation. Success hinges on founders separating management continuity from asset ownership transfer, a process best started early and built with operational flexibility. The discussion also contrasts two paths to success: diversifying ownership with professional management versus maintaining family control, and stresses the mindset shift required when founders transition from operating a concentrated business to holding liquid wealth after a sale or IPO.",
+    "key_themes": [
+      "Succession planning",
+      "Governance structures",
+      "Wealth transition"
+    ],
+    "market_signals": [
+      "Companies with significant family ownership generate roughly 70% of global economic output",
+      "Companies with significant family ownership generate 60% of the world’s jobs",
+      "Only three in 10 survive to a second generation",
+      "Succession is a two‑part decision: founders must separate management continuity from asset ownership transfer",
+      "The process yields the best results when initiated early and built with operational flexibility"
+    ],
+    "framework_insights": [
+      "Succession is a two‑part decision: founders must separate management continuity from asset ownership transfer",
+      "There are multiple paths to business success: founders who diversified ownership and brought in professional management, and founders who kept the business family‑controlled and managed",
+      "Wealth creation demands a mindset shift: through a sale or IPO, founders go from operating a concentrated business to holding liquid wealth and trying to understand what to do with this"
+    ],
+    "market_relevance": "The data underscores the systemic risk of family‑owned firms failing to plan succession, which could ripple through global employment and output, making early governance reforms a priority for investors and policymakers."
+  },
+  {
+    "id": "93b4775b506c010d1d72195da3c225ab",
+    "source_id": "goldman_sachs",
+    "source_name": "Goldman Sachs",
+    "source_org": "Goldman Sachs",
+    "source_color": "#3b82f6",
+    "title": "Daniel Nadler on Building an AI-Powered Search Engine for Medicine",
+    "description": "OpenEvidence is working to rapidly advance clinical decision-making, emerging as a global leader in delivering gold-standard medical knowledge to physicians at the point of care. Daniel Nadler, co-founder and CEO of OpenEvidence, joins Meena Flynn, chair of Global Private Wealth Management and co-head of One Goldman Sachs, to discuss OpenEvidence's founding story, how the platform acts as a “brain extender” for doctors, and the future of matching patients with life-saving clinical trials.\n\nThis episode was recorded on July 15, 2026.\n\nThe opinions and views expressed herein are as of the date of publication, subject to change without notice, and may not necessarily reflect the institutional views of Goldman Sachs or its affiliates. The material provided is intended for informational purposes only, and does not constitute investment, legal, or tax advice, a recommendation from any Goldman Sachs entity to take any particular action or be used as a basis for any other investment decision, or an offer or solicitation to purchase or sell any securities or financial products. Any forward-looking statements, case studies, computations or examples set forth herein are for illustrative purposes only. Past performance is not indicative of future results. Neither Goldman Sachs nor any of its affiliates make any representations or warranties, express or implied, as to the accuracy or completeness of the statements or information contained herein and disclaim any liability whatsoever for reliance on such information for any purpose. Each name of a third-party organization mentioned is the property of the company to which it relates, is used here strictly for informational and identification purposes only and is not used to imply any sponsorship, affiliation, endorsement, ownership or license rights between any such company and Goldman Sachs. This material should not be copied, distributed, published, or reproduced in whole or in part or disclosed by any recipient to any other person without the express written consent of Goldman Sachs.\n\nA transcript is provided for convenience and may differ from the original video or audio content. Goldman Sachs is not responsible for any errors in the transcript. This material should not be copied, distributed, published, or reproduced in whole or in part or disclosed by any recipient to any other person without the express written consent of Goldman Sachs.\n\n© 2026 Goldman Sachs. All rights reserved.",
+    "published": "2026-09-30",
+    "week": "2026-W40",
+    "video_id": "daeBq_f3JgI",
+    "episode_url": "https://www.youtube.com/watch?v=daeBq_f3JgI",
+    "type": "youtube",
+    "duration_secs": null,
+    "transcript_length": 2465,
+    "speaker": "Daniel Nadler — co-founder and CEO of OpenEvidence",
+    "one_line_summary": "OpenEvidence is positioning itself as a global leader in delivering gold-standard medical knowledge to physicians at the point of care.",
+    "summary": "The episode introduces OpenEvidence, a platform that aims to rapidly advance clinical decision‑making by providing physicians with gold‑standard medical knowledge at the point of care. Daniel Nadler, the co‑founder and CEO, discusses the company’s founding story and describes the platform as a “brain extender” for doctors. The conversation also touches on the future of matching patients with life‑saving clinical trials. The episode was recorded on July 15, 2026, and is presented by Goldman Sachs with standard legal and disclaimer language.",
+    "key_themes": [
+      "AI‑powered medical knowledge delivery",
+      "clinical decision‑making",
+      "patient‑trial matching"
+    ],
+    "market_signals": [],
+    "framework_insights": [],
+    "market_relevance": "The discussion highlights a growing trend toward AI‑enabled clinical decision support, which could influence how healthcare providers adopt technology and how investors evaluate companies in the medical AI space."
   },
   {
     "id": "0b0abebf69068333dafa0f452cf8033b",
