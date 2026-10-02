@@ -1,5 +1,108 @@
 [
   {
+    "id": "0e9b2cf4defa27c139ccb5b643c10e29",
+    "source_id": "odd_lots",
+    "source_name": "Odd Lots",
+    "source_org": "Bloomberg",
+    "source_color": "#06b6d4",
+    "title": "How Airlines Actually Hedge Higher Fuel Prices",
+    "description": "<p>Fuel is a huge expense for airlines, and even on a good day, jet fuel prices are pretty volatile. Throw in two major wars now effecting energy infrastructure, and fuel prices across the board are higher and higher. Airlines have long tried to manage this expense through fuel hedging, using things like swaps and options to hedge against future increases in the price of jet fuel. David Kang, former group treasurer at Qatar Airways, has firsthand experience hedging for a large carrier, and he tells us exactly how it all works. He also explains why airlines use heating oil as a proxy for jet fuel, how much they can make by raising ticket prices and fuel surcharges, and why airlines and oil refineries aren't so different.</p> <p>Read more:<br /><a href=\"https://www.bloomberg.com/news/articles/2026-09-30/war-exposes-the-cost-of-the-west-s-retreat-from-oil-refining?utm_medium=referral&amp;utm_source=podcast&amp;utm_campaign=odd_lots&amp;utm_content=article\">War Exposes the Cost of the West&rsquo;s Retreat From Oil Refining</a><br /><a href=\"https://www.bloomberg.com/news/articles/2026-09-30/mideast-crude-oil-flows-hit-98-of-pre-war-level-jpmorgan-says?utm_medium=referral&amp;utm_source=podcast&amp;utm_campaign=odd_lots&amp;utm_content=article\">JPMorgan and Goldman See Mideast Oil Flows Near Pre-War Levels</a></p> <p>Only <a href=\"http://Bloomberg.com\">http://Bloomberg.com</a> subscribers can get the Odd Lots newsletter in their inbox each week, plus unlimited access to the site and app. Subscribe at&nbsp; <a href=\"https://www.bloomberg.com/subscriptions/oddlots?in_source=oddlotspodcast\">bloomberg.com/subscriptions/oddlots</a></p> <p><a href=\"http://bloomberg.com/subscriptions/oddlots\">Subscribe to the Odd Lots Newsletter</a><br /><strong>Join the conversation:</strong> <a href=\"https://discord.gg/oddlots\">discord.gg/oddlots</a></p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
+    "published": "2026-10-02",
+    "week": "2026-W40",
+    "audio_url": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/4dabf3ec-4fc6-4bb9-a7a7-b4d601226e6f/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
+    "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/4dabf3ec-4fc6-4bb9-a7a7-b4d601226e6f/transcript?format=TextWithTimestamps&t=1790877018",
+    "episode_url": "https://omny.fm/shows/odd-lots/how-airlines-actually-hedge-higher-fuel-prices",
+    "type": "podcast",
+    "duration_secs": 3211,
+    "transcript_length": 47990,
+    "speaker": "David Kang — former group treasurer, Qatar Airways",
+    "one_line_summary": "Airlines hedge jet fuel with Brent-based swaps and options, using structured notes to balance cost and risk while leveraging their balance sheets.",
+    "summary": "David Kang explains how airlines, especially international carriers, use Brent futures to hedge jet fuel because the jet market is thin. He describes a typical hedging workflow: buying swaps to lock in costs when oil is low ($25–$35) and buying call options or zero‑cost collars when oil rises ($70–$80). Airlines also use target redemption notes—structured products that combine a vanilla collar with an exotic side—to secure better pricing and manage exposure. Kang highlights that U.S. carriers often rely on heating‑oil spreads or WTI, while international carriers use Brent. He notes that airlines with larger balance sheets can hedge and charge fuel surcharges simultaneously, whereas smaller U.S. carriers may rely solely on surcharges.\n\nKey themes include the analogy of an airline to an oil refinery, the importance of a balance sheet to support hedging, and the use of structured notes to improve hedging efficiency.\n\nThe discussion underscores that airlines’ fuel hedging strategies are a critical competitive advantage and that the choice of proxy (Brent vs jet fuel) can expose them to basis risk.\n",
+    "key_themes": [
+      "Fuel hedging mechanics",
+      "Brent as jet fuel proxy",
+      "Structured notes for airlines"
+    ],
+    "market_signals": [
+      "Swap rate for April is derived from May and June futures",
+      "Buying swaps is best when oil is low ($25–$35)",
+      "Buying call options or zero‑cost collars is preferred when oil is high ($70–$80)",
+      "Target redemption notes combine a vanilla collar with an exotic side to improve pricing",
+      "U.S. carriers use heating‑oil spreads or WTI as jet fuel proxies"
+    ],
+    "framework_insights": [
+      "Airlines are analogous to oil refineries, selling the crack between jet fuel and crude",
+      "A large balance sheet enables simultaneous hedging and fuel surcharge charging",
+      "Using Brent as a proxy is better than no hedge, despite basis risk",
+      "Zero‑cost collars provide a cost‑effective hedge when oil is high",
+      "Target redemption notes allow airlines to lock in better option pricing through exotic structuring"
+    ],
+    "market_relevance": "Understanding airlines’ hedging tactics helps gauge their cost exposure and competitive positioning, especially as oil prices remain volatile and basis risk between jet fuel and Brent persists."
+  },
+  {
+    "id": "424cce8f9b04edecb062d3bf92d90a86",
+    "source_id": "in_good_company",
+    "source_name": "In Good Company",
+    "source_org": "Norges Bank Investment Management",
+    "source_color": "#14b8a6",
+    "title": "Friday Wrap-Up: The Humanoid Robotics Race and What You Should Be Reading",
+    "description": "<p>Back in Oslo this week, Marthe Skaar and Nicolai Tangen sit down together for a Friday Wrap-Up to talk about his podcast conversation with Dr. Kai Yu, founder and CEO of Horizon Robotics. They look at the role Horizon plays in the self-driving car industry, how China's tightly linked supplier networks create an edge that is hard to copy, and what a chip supply chain this concentrated means for risk in the fund and the markets. Nicolai also talks about why he reads constantly, and a book he thinks everyone should pick up. Tune in!</p><br /><p>Listen to In Good Company with Dr. Kai Yu, founder and CEO of Horizon Robotics: <a href=\"https://podcasts.apple.com/no/podcast/horizon-robotics-ceo-car-chips-mind-off-driving-and/id1614211565?i=1000792303820\" rel=\"noopener noreferrer\" target=\"_blank\">https://podcasts.apple.com/no/podcast/horizon-robotics-ceo-car-chips-mind-off-driving-and/id1614211565?i=1000792303820</a></p><br /><p>The Friday Wrap-Up is hosted by Marthe Skaar, Chief of Communications and External Relations, together with Nicolai Tangen, CEO of Norges Bank Investment Management, and produced by Isabelle Karlsson. New episodes of In Good Company air every Wednesday, with the Friday Wrap-Up following each week to break it all down.</p><hr /><p style=\"color: grey; font-size: 0.75em;\"> Hosted on Acast. See <a href=\"https://acast.com/privacy\" rel=\"noopener noreferrer\" style=\"color: grey;\" target=\"_blank\">acast.com/privacy</a> for more information.</p>",
+    "published": "2026-10-02",
+    "week": "2026-W40",
+    "audio_url": "https://sphinx.acast.com/p/open/s/622618c7057f3400120d15db/e/6abf58f7f5a87132b394a2f0/media.mp3",
+    "transcript_url": null,
+    "episode_url": "https://shows.acast.com/in-good-company-with-nicolai-tangen/episodes/friday-wrap-up-the-humanoid-robotics-race-and-what-you-shoul",
+    "type": "podcast",
+    "duration_secs": 734,
+    "transcript_length": 1477,
+    "speaker": "",
+    "one_line_summary": "Norges Bank Investment Management discusses Horizon Robotics’ role in self‑driving cars and China’s supplier network concentration.",
+    "summary": "The Friday Wrap‑Up features Marthe Skaar and Nicolai Tangen reviewing a podcast with Dr. Kai Yu, founder and CEO of Horizon Robotics. They highlight Horizon’s involvement in the self‑driving car industry and note that China’s tightly linked supplier networks give the company an edge that is hard to copy. The discussion also touches on the implications of a concentrated chip supply chain for risk in the fund and the markets, and Nicolai mentions his habit of constant reading and recommends a book.\n\nKey points include the strategic advantage of China’s supplier networks, the concentration risk in the chip supply chain, and the importance of continuous learning for investment leaders.",
+    "key_themes": [
+      "Horizon Robotics",
+      "China supplier networks",
+      "Chip supply chain risk"
+    ],
+    "market_signals": [],
+    "framework_insights": [],
+    "market_relevance": "The episode underscores how concentrated supply chains can elevate risk for investment funds and highlights the strategic advantage of integrated supplier networks in the autonomous vehicle sector."
+  },
+  {
+    "id": "8654ba2615bc9293bad7e631ba69f790",
+    "source_id": "goldman_sachs",
+    "source_name": "Goldman Sachs",
+    "source_org": "Goldman Sachs",
+    "source_color": "#3b82f6",
+    "title": "Al Is Becoming a Stock Picker's Market",
+    "description": "Trading in artificial intelligence (AI) stocks is evolving as investor interest broadens beyond semiconductor makers and companies that benefit from capital expenditures in AI, says Peter Callahan, US Technology, Media, and Telecommunications sector specialist in Goldman Sachs FICC and Equities. On The Markets podcast, he says investors are increasingly focused on companies that help organizations implement the technology and AI agents for commerce. Callahan also discusses how rising interest rates are impacting technology stocks, the growing dispersion among software companies, and his outlook for semiconductor stocks.\n\nAlso available on Spotify (https://click.gs.com/hn4o) and Apple Podcasts (https://click.gs.com/qx2m) \n\nThis episode was filmed on September 30, 2026. \n\nThe opinions and views expressed herein are as of the date of publication, subject to change without notice, and may not necessarily reflect the institutional views of Goldman Sachs or its affiliates. The material provided is intended for informational purposes only, and does not constitute investment advice, a recommendation from any Goldman Sachs entity to take any particular action, or an offer or solicitation to purchase or sell any securities or financial products. This material may contain forward-looking statements. Past performance is not indicative of future results. Neither Goldman Sachs nor any of its affiliates make any representations or warranties, express or implied, as to the accuracy or completeness of the statements or information contained herein and disclaim any liability whatsoever for reliance on such information for any purpose. Each name of a third-party organization mentioned is the property of the company to which it relates, is used here strictly for informational and identification purposes only and is not used to imply any ownership or license rights between any such company and Goldman Sachs.\n\nA transcript is provided for convenience and may differ from the original video or audio content. Goldman Sachs is not responsible for any errors in the transcript. This material should not be copied, distributed, published, or reproduced in whole or in part or disclosed by any recipient to any other person without the express written consent of Goldman Sachs. ⁠  \n\n© 2026 Goldman Sachs. All rights reserved.",
+    "published": "2026-10-02",
+    "week": "2026-W40",
+    "video_id": "qLhaaqCYA3Y",
+    "episode_url": "https://www.youtube.com/watch?v=qLhaaqCYA3Y",
+    "type": "youtube",
+    "duration_secs": null,
+    "transcript_length": 2332,
+    "speaker": "Peter Callahan — US Technology, Media, and Telecommunications sector specialist in Goldman Sachs FICC and Equities",
+    "one_line_summary": "Investor focus is moving from AI hardware to companies that enable AI adoption in commerce.",
+    "summary": "Peter Callahan notes that trading in AI stocks is evolving as investor interest broadens beyond semiconductor makers and companies that benefit from capital expenditures in AI. He highlights that investors are increasingly focused on companies that help organizations implement the technology and AI agents for commerce. Callahan also discusses how rising interest rates are impacting technology stocks, the growing dispersion among software companies, and his outlook for semiconductor stocks.",
+    "key_themes": [
+      "AI stock evolution",
+      "Implementation focus",
+      "Rate impact on tech"
+    ],
+    "market_signals": [
+      "Investors are increasingly focused on companies that help organizations implement the technology and AI agents for commerce",
+      "Rising interest rates are impacting technology stocks",
+      "Growing dispersion among software companies"
+    ],
+    "framework_insights": [
+      "Shift from hardware to implementation companies reflects a broader AI adoption cycle",
+      "Interest rate sensitivity is a key risk factor for technology valuations",
+      "Dispersion among software firms indicates differing growth and risk profiles"
+    ],
+    "market_relevance": "The shift toward AI implementation firms signals a new opportunity for investors looking beyond traditional semiconductor exposure, while rate hikes and software dispersion add layers of risk that must be monitored."
+  },
+  {
     "id": "a60824483f931ea4d794a7913a529a5e",
     "source_id": "odd_lots",
     "source_name": "Odd Lots",
@@ -38,6 +141,46 @@
       "Bond yields rise when growth expectations and inflation expectations are strong"
     ],
     "market_relevance": "Investors should watch AI‑heavy equities for continued upside while monitoring bond yields and market breadth for signs of valuation stress and potential rebalancing."
+  },
+  {
+    "id": "8781d35c4ddee21c289f28d9dd643531",
+    "source_id": "credit_edge",
+    "source_name": "The Credit Edge",
+    "source_org": "Bloomberg Intelligence",
+    "source_color": "#f97316",
+    "title": "Kirkland & Ellis Sees More Distressed Lenders Flipping Company Boards",
+    "description": "<p>More private investors in distressed companies are looking to replace directors and take control, according to Kirkland &amp; Ellis. &ldquo;It&rsquo;s a very important remedy &mdash; it candidly drives a lot of negotiation when things are distressed,&rdquo; H.T. Flanagan, a debt finance partner at the law firm, tells Bloomberg News&rsquo; James Crombie and Bloomberg Intelligence&rsquo;s David Havens in the latest Credit Edge podcast. &ldquo;I have seen folks explore this with greater frequency and execute it with greater frequency,&rdquo; says Flanagan, who advises private debt funds and alternative lenders. They also discuss the outlook for liability management exercises, hybrid capital solutions and opportunities in defense, aerospace and financial services.</p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
+    "published": "2026-10-01",
+    "week": "2026-W40",
+    "audio_url": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/e74a35e9-c028-4e5f-a3f7-afb10164a717/74c40eda-7687-4cd4-a36f-b4d601465d88/audio.mp3?utm_source=Podcast&in_playlist=8792a2e9-d66c-4038-a1fe-afb101654894",
+    "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/74c40eda-7687-4cd4-a36f-b4d601465d88/transcript?format=TextWithTimestamps&t=1790885681",
+    "episode_url": "https://omny.fm/shows/the-credit-edge-by-bloomberg-intelligence/kirkland-ellis-sees-more-distressed-lenders-flipping-company-boards",
+    "type": "podcast",
+    "duration_secs": 2807,
+    "transcript_length": 48803,
+    "speaker": "H.T. Flanagan — debt finance partner, Kirkland & Ellis",
+    "one_line_summary": "Private credit lenders are increasingly willing to take ownership and turn around distressed companies rather than force a sale, signaling a shift in how the market will handle the looming maturity wall.",
+    "summary": "The conversation centers on the growing stress in private credit portfolios as the U.S. economy runs hot and a large amount of debt comes due. H.T. Flanagan notes that many loans were originated in a pandemic‑era, zero‑interest‑rate environment and now have unsustainable capital structures. Lenders are moving from a hard‑sell approach to a more hands‑on strategy, offering to own and manage companies, install independent directors, and provide higher‑risk capital to turn them around. The discussion also touches on the role of BDCs, the persistence of liability‑management exercises (LMEs) and amend‑and‑extend (A&E) deals, and the relative scarcity of successful LMEs in the current market.\n\nKey points include the shift toward in‑house private equity‑style management by lenders, the continued viability of LMEs despite a perception of decline, and the importance of BDCs as a public window into private credit. The panel highlights that while LMEs are still alive, their success rate is not high, and many sponsors prefer to maintain relationships and avoid complex restructuring.\n\nOverall, the episode underscores that private credit is adapting to a new reality of higher yields, tighter capital structures, and a looming maturity wall, with lenders increasingly taking a more active role in distressed situations.",
+    "key_themes": [
+      "Maturity wall and refinancing risk",
+      "Shift from hard‑sell to ownership and turnaround",
+      "Persistence of liability‑management tools"
+    ],
+    "market_signals": [
+      "Yields are just keep going up as the U.S. economy runs hot",
+      "There is a ton of debt coming due, including private loans to small, highly levered companies",
+      "Non‑accrual rate for BDCs is below 2% and has been pretty stable, ticked up this year",
+      "Pick instruments are still healthy but hard to distinguish from bad picks",
+      "LME is not dead and is still alive and well, with amend‑and‑extend becoming hot"
+    ],
+    "framework_insights": [
+      "Lenders are moving from a hard‑sell to a hands‑on, ownership‑and‑turnaround model",
+      "Private credit lenders act as relationship lenders, often preferring to maintain ties over aggressive restructuring",
+      "The success rate of LMEs is low, but fiduciary duty can justify attempting them",
+      "BDC public reporting forces lenders to be more creative with guardrails and next steps",
+      "Amend‑and‑extend with carrots and sticks is the flavor of the month in the LME world"
+    ],
+    "market_relevance": "Investors should watch the maturity wall and the shift toward lender‑owned turnarounds, as these dynamics will shape credit spreads, restructuring activity, and the performance of BDCs and private credit funds in the near term."
   },
   {
     "id": "89031cf7e08d297f4c08dce5216573e5",
