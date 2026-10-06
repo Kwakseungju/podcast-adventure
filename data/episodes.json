@@ -1,5 +1,72 @@
 [
   {
+    "id": "3a63394b09aa5b30b8997c666c31018c",
+    "source_id": "invest_like_the_best",
+    "source_name": "Invest Like the Best",
+    "source_org": "Colossus",
+    "source_color": "#6366f1",
+    "title": "Andrew Huberman - The Frontier of Neurotechnology - [Invest Like the Best, EP.494]",
+    "description": "Andrew Huberman is a neuroscientist and professor at Stanford, the host of the Huberman Lab podcast, and the author of Protocols.\n\nMost of our conversation is about where neuroscience goes next. For decades the field has focused on reading from the brain, and Andrew believes the next era is about writing to it with precise control over specific brain states. \n\nHe explains why he thinks the leading AI companies are really building toward this, and why understanding our waking brain states is the problem he most wants to see solved.\n\nPlease enjoy my conversation with Andrew Huberman.\n\nFor the full show notes, transcript, and links to mentioned content, check out the episode page ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠here⁠⁠⁠⁠⁠.&nbsp;\n\n-----\n\nBecome a Colossus member to get our quarterly print magazine and private audio experience, including exclusive profiles and early access to select episodes. Subscribe at ⁠colossus.com/subscribe⁠.\n\n-----\n\n⁠Ramp’s⁠ mission is to help companies manage their spend in a way that reduces expenses and frees up time for teams to work on more valuable projects. Go to⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ⁠ramp.com/invest⁠⁠ to sign up for free and get a $250 welcome bonus.\n\n-----\n\nTrusted by thousands of businesses, ⁠Vanta⁠ continuously monitors your security posture and streamlines audits so you can win enterprise deals and build customer trust without the traditional overhead. Invest Like the Best listeners get a special offer of $1,000 off Vanta when you go to ⁠vanta.com/invest⁠.&nbsp;\n\n-----\n\nWorkOS⁠ is the infrastructure B2B and AI-native companies use to sell to enterprise. It covers everything enterprise security requires: SSO, SCIM, RBAC, Audit Logs, AI governance, and more. Trusted by 2,000+ fast-growing companies, including OpenAI, Anthropic, Cursor, and Vercel.\n\n-----\n\nRogo is the AI platform for finance. They're building agents for Wall Street that are trained to understand how bankers and investors actually do work: from diligence and modeling, to turning analysis into deliverables. To learn more, visit rogo.ai/invest.\n\n-----\n\n⁠Ridgeline⁠ has built a complete, real-time, modern operating system for investment managers. It handles trading, portfolio management, compliance, customer reporting, and much more through an all-in-one real-time cloud platform. Visit⁠ ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ridgeline.ai⁠.\n\n-----\n\nEditing and post-production work for this episode was provided by The Podcast Consultant.\n\nTimestamps:\n\n(00:00:00) Energy as the Bottleneck for Top Performers\n\n(00:06:20) How to Downshift and Fall Asleep\n\n(00:14:06) Neurotech for Sleep and Focus\n\n(00:17:57) The State of Public Health Discourse\n\n(00:22:07) The Biggest Problem in Neuroscience\n\n(00:23:30) Why AI Companies Will Become Biotech Companies\n\n(00:26:18) How We Read Brain Activity\n\n(00:42:07) Crossing the Cyborg Line\n\n(00:43:30) Measuring the Nervous System Directly\n\n(00:57:34) The CRISPR Babies Story\n\n(01:00:24) Embryo Screening and Genetic Engineering\n\n(01:03:01) Understanding Waking Brain States\n\n(01:06:12) Technologists Becoming Neuroscientists\n\n(01:09:35) The Kindest Thing",
+    "published": "2026-10-06",
+    "week": "2026-W41",
+    "audio_url": "https://traffic.megaphone.fm/CLS1239827470.mp3",
+    "transcript_url": null,
+    "episode_url": "http://colossus.com/episode/reading-and-writing-the-brain/",
+    "type": "podcast",
+    "duration_secs": 4348,
+    "transcript_length": 45657,
+    "speaker": "Andrew Huberman — Neuroscientist, Stanford",
+    "one_line_summary": "Energy and sleep optimization, coupled with emerging AI‑enabled finance and neurotechnology platforms, are reshaping productivity and market dynamics.",
+    "summary": "The discussion opens with a pitch for Ramp, a finance platform that claims to save businesses 5% annually, and notes its recent UK launch. It then highlights WorkOS, an API provider that offers enterprise‑ready SSO, SKIM, RBAC, and audit logs, and Rogo, an AI platform for financial institutions that automates deal workflows and builds institutional memory. The core of the conversation shifts to human energy management: the speaker argues that talent is bandwidth‑limited and that optimizing sleep, exercise, stimulants, and breathing can unlock higher productivity. He shares personal sleep data—seven hours feels best, eight hours can be groggy, six hours is fine, five hours is tolerable, and two nights of four to zero hours are “cratered.” He discusses nicotine’s focus benefits, the importance of honest self‑assessment, and the need to “turn thoughts off” via pure sensation, long exhales, and proprioception. Emerging neurotechnology—eye masks that induce REM and rocking beds—is presented as the next frontier for sleep and focus enhancement.\n\nKey themes include the intersection of AI and finance, the physiological limits of human productivity, and the nascent field of neuro‑enhancement devices.\n\nThe transcript offers actionable signals: Ramp’s 5% annual savings, Ramp’s UK availability, WorkOS’s core capabilities, Rogo’s AI agents, the 7‑hour sleep benchmark, nicotine’s focus effect, and the 7‑12 month release window for eye‑mask tech.",
+    "key_themes": [
+      "AI‑enabled finance platforms",
+      "Human energy & sleep optimization",
+      "Emerging neurotechnology"
+    ],
+    "market_signals": [
+      "Ramp saves businesses 5% annually on average",
+      "Ramp just opened for business in the United Kingdom",
+      "WorkOS provides SSO, SKIM, RBAC, and audit logs on day zero",
+      "Rogo’s AI agents autonomously execute large chunk of your firm's workflows",
+      "Personal sleep data: 7 hours feels great, 8 hours groggy, 6 hours fine, 5 hours okay, 2 nights of 4‑0 hours cratered"
+    ],
+    "framework_insights": [
+      "Energy bandwidth is a bottleneck for high performers—optimizing sleep, exercise, and stimulants can unlock productivity",
+      "Turning thoughts off requires shifting attention to pure sensation, long exhales, and proprioception—an actionable mental model for sleep onset",
+      "Breathing patterns (inhale‑emphasized vs exhale‑emphasized) can be deliberately manipulated to shift alertness or calmness",
+      "Emerging neurotechnology (eye masks, rocking beds) leverages proprioceptive and REM pathways to accelerate sleep onset and enhance REM",
+      "Self‑assessment of sleep needs and energy levels is critical; one must honestly evaluate personal requirements rather than emulate extreme figures"
+    ],
+    "market_relevance": "Investors should note that AI‑enabled finance platforms like Ramp and WorkOS are gaining traction, while emerging neurotech devices promise to reshape productivity and wellness markets, potentially influencing consumer spending and corporate efficiency."
+  },
+  {
+    "id": "677ff37f1d81e1e2a7e1ae592d153a3d",
+    "source_id": "goldman_sachs",
+    "source_name": "Goldman Sachs",
+    "source_org": "Goldman Sachs",
+    "source_color": "#3b82f6",
+    "title": "Inside the Revival of Venture Capital Liquidity with an Industry Pioneer",
+    "description": "As liquidity in venture capital declines, the secondary market is increasingly important for investors and companies, says Hans Swildens, partner in Goldman Sachs Asset & Wealth Management, on Goldman Sachs Exchanges: Great Investors. Swildens explains why companies are staying private longer and how artificial intelligence is creating opportunities as well as headwinds for portfolios. In this conversation with Michael Brandmeyer, global head and chief investment officer of the External Investing Group within Goldman Sachs Asset Management, Swildens also discusses the strategic rationale behind agreeing to sell his firm, Industry Ventures, to Goldman Sachs in January 2026.\n\n[00:00] Introduction\n[01:18] Why investors sell secondaries\n[02:47] The liquidity crunch explained\n[04:41] Buyer and seller expectations\n[06:32] Types of secondary deals\n[08:12] Venture's 14-year liquidity paradox\n[09:32] Pricing fast-growing AI startups\n[11:54] Opportunity in older companies\n[14:03] Risk allocation challenges\n[15:20] Silicon Valley beginnings\n[16:49] Birth of venture secondaries\n[17:40] Early market skepticism\n[19:00] Future market size\n[20:52] Transparency driving more volume\n[21:36] The decision to sell\n[25:10] Looking ahead to 2030\n[27:11] Lightning round\n\nAlso available on Spotify (https://click.gs.com/myyr) and Apple Podcasts (https://click.gs.com/7x11) \n\nThis episode was recorded on September 8, 2026.\n\nThe opinions and views expressed herein are as of the date of publication, subject to change without notice, and may not necessarily reflect the institutional views of Goldman Sachs or its affiliates. The material provided is intended for informational purposes only, and does not constitute investment, legal, or tax advice, a recommendation from any Goldman Sachs entity to take any particular action or be used as a basis for any other investment decision, or an offer or solicitation to purchase or sell any securities or financial products. Any forward-looking statements, case studies, computations or examples set forth herein are for illustrative purposes only. Past performance is not indicative of future results. Neither Goldman Sachs nor any of its affiliates make any representations or warranties, express or implied, as to the accuracy or completeness of the statements or information contained herein and disclaim any liability whatsoever for reliance on such information for any purpose. Each name of a third-party organization mentioned is the property of the company to which it relates, is used here strictly for informational and identification purposes only and is not used to imply any sponsorship, affiliation, endorsement, ownership or license rights between any such company and Goldman Sachs. This material should not be copied, distributed, published, or reproduced in whole or in part or disclosed by any recipient to any other person without the express written consent of Goldman Sachs. \n\nA transcript is provided for convenience and may differ from the original video or audio content. Goldman Sachs is not responsible for any errors in the transcript. \n\n© 2026 Goldman Sachs.  \n\nAll rights reserved.",
+    "published": "2026-10-06",
+    "week": "2026-W41",
+    "video_id": "RIyPiOSy1R8",
+    "episode_url": "https://www.youtube.com/watch?v=RIyPiOSy1R8",
+    "type": "youtube",
+    "duration_secs": null,
+    "transcript_length": 3151,
+    "speaker": "Hans Swildens — Partner, Goldman Sachs Asset & Wealth Management",
+    "one_line_summary": "Liquidity in venture capital is declining, making secondary markets more critical for investors and companies.",
+    "summary": "The episode discusses how declining liquidity in venture capital is increasing the importance of secondary markets. Swildens explains why companies are staying private longer and how artificial intelligence is creating both opportunities and headwinds for portfolios. He also touches on the strategic rationale behind selling his firm, Industry Ventures, to Goldman Sachs in January 2026.",
+    "key_themes": [
+      "Venture capital liquidity",
+      "Secondary markets",
+      "Artificial intelligence impact"
+    ],
+    "market_signals": [],
+    "framework_insights": [],
+    "market_relevance": "Investors should monitor secondary market activity as VC liquidity tightens, as it may signal shifts in portfolio allocation and valuation dynamics."
+  },
+  {
     "id": "4f6cc23611ec4935f5ebfd330ac3b542",
     "source_id": "odd_lots",
     "source_name": "Odd Lots",
