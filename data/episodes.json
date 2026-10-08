@@ -1,5 +1,83 @@
 [
   {
+    "id": "7239c39fa2da79138f4a03a55d8a5192",
+    "source_id": "odd_lots",
+    "source_name": "Odd Lots",
+    "source_org": "Bloomberg",
+    "source_color": "#06b6d4",
+    "title": "What Everyone Gets Wrong About the Economic Problems in Europe",
+    "description": "<p>In so many conversations, there's a widespread view that Europe is falling behind. Or it's in trouble. It has been two years since the publication of the Draghi report and the problems the report identified about European competitiveness are far from solved: Demographic challenges, rising energy costs, and a lagging tech sector still cast a shadow over Europe. But according to the economist and policy analyst Dominik Leusder (who also writes the Leusder of Last Resort Substack) the Draghi report might have mismeasured the true scale of Europe's issues, and he asks if the popular narrative of European decline is an accurate one. We also speak about whether Europe needs a frontier AI model, why long, wine-soaked lunches are not a good way to measure productivity, and the state of Europe's vexed relationship with China as a trade partner and competitor.</p> <p>Read more:<br /><a href=\"https://www.bloomberg.com/news/articles/2026-10-07/eu-prepares-import-cap-on-chinese-hybrid-cars-to-balance-trade?utm_medium=referral&amp;utm_source=podcast&amp;utm_campaign=odd_lots&amp;utm_content=article\">EU Plans Import Cap on Chinese Hybrid Cars to Protect Sector</a><br /><a href=\"https://www.bloomberg.com/news/articles/2026-10-07/alibaba-s-joe-tsai-says-open-source-is-europe-s-best-shot-at-ai?utm_medium=referral&amp;utm_source=podcast&amp;utm_campaign=odd_lots&amp;utm_content=article\">Alibaba&rsquo;s Joe Tsai Says Open Source Is Europe&rsquo;s Best Shot at AI</a></p> <p>Only <a href=\"http://bloomberg.com/\">Bloomberg - Business News, Stock Markets, Finance, Breaking &amp; World News</a> subscribers can get the Odd Lots newsletter in their inbox each week, plus unlimited access to the site and app. Subscribe at&nbsp; <a href=\"https://www.bloomberg.com/subscriptions/oddlots?in_source=oddlotspodcast\">bloomberg.com/subscriptions/oddlots</a></p> <p><a href=\"http://bloomberg.com/subscriptions/oddlots\">Subscribe to the Odd Lots Newsletter</a><br /><strong>Join the conversation:</strong> <a href=\"https://discord.gg/oddlots\">discord.gg/oddlots</a></p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
+    "published": "2026-10-08",
+    "week": "2026-W41",
+    "audio_url": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/201de292-b347-44a2-8ad4-b4dc016defab/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
+    "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/201de292-b347-44a2-8ad4-b4dc016defab/transcript?format=TextWithTimestamps&t=1791411430",
+    "episode_url": "https://omny.fm/shows/odd-lots/what-everyone-gets-wrong-about-the-economic-problems-in-europe",
+    "type": "podcast",
+    "duration_secs": 3159,
+    "transcript_length": 47204,
+    "speaker": "Dominic Leuster — economist, policy analyst, former researcher at LSE",
+    "one_line_summary": "Europe’s perceived productivity decline is largely a statistical artifact, not a real economic crisis, and AI offers a path to regain competitiveness without sacrificing social gains.",
+    "summary": "Dominic Leuster argues that Europe’s supposed productivity lag relative to the U.S. is driven by methodological differences in PPP and real‑growth calculations rather than genuine economic weakness. He critiques the Draghi report’s use of 2010‑dollar PPPs and national‑account deflators that exaggerate a decline in GDP per hour. Leuster notes that Europe’s choice to work fewer hours and maintain higher welfare levels explains much of the apparent gap. He stresses that AI can boost output per work hour, allowing Europeans to enjoy longer lunches and vacations while keeping competitiveness. The discussion also touches on China’s rising influence and Europe’s potential policy responses, including reducing internal trade barriers and capital investment.\n\nKey data points include BMW’s plan to shed a fifth of manager roles with AI, Draghi’s report dates (2022, 2023, 2024), and Jamie Dimon’s claim that European GDP was 90% of U.S. GDP 15 years ago and is now 70%.",
+    "key_themes": [
+      "AI and productivity in Europe",
+      "Methodological critique of PPP vs real growth",
+      "Labor‑hour choices and welfare trade‑offs"
+    ],
+    "market_signals": [
+      "BMW targets shedding a fifth of manager roles with the help of AI",
+      "Draghi report published in November 2024",
+      "Jamie Dimon said European GDP was 90% of U.S. GDP 15 years ago and is now 70%",
+      "Europe’s choice to work fewer hours while maintaining employment",
+      "AI can increase output per work hour, enabling longer leisure"
+    ],
+    "framework_insights": [
+      "Statistical methodology matters: PPP fixes prices to a base year, while real growth uses national‑account deflators, leading to divergent trends",
+      "Comparing economies requires adjusting for institutional choices like working hours and welfare levels",
+      "Productivity gains can be leveraged differently: Europe can prioritize leisure without sacrificing output",
+      "Policy focus should be on removing internal trade barriers and boosting capital investment rather than emulating U.S. labor models",
+      "Data quality and measurement choices can create perceived crises that may not exist in real terms"
+    ],
+    "market_relevance": "Investors should recognize that Europe’s competitiveness narrative may be overstated by measurement artifacts; AI adoption could unlock hidden productivity, but policy shifts toward internal market integration are likely to be more impactful than labor‑market deregulation."
+  },
+  {
+    "id": "fb8a02a52389c2414648dc69ae943d27",
+    "source_id": "goldman_sachs",
+    "source_name": "Goldman Sachs",
+    "source_org": "Goldman Sachs",
+    "source_color": "#3b82f6",
+    "title": "Why US Consumer Sentiment Is Down Despite a Healthy Economy",
+    "description": "Cost-of-living pressures are weighing on US households. However, the downbeat sentiment about the economy among Americans is so widespread that it suggests something else may also be at work, explains Joseph Briggs, who leads the Global Economics team within Goldman Sachs Research. He says the reason may be a broad decline in trust in US institutions. Data show a significant gap between consumer surveys and the sentiment levels that economic models would predict. This suggests that current sentiment survey readings “probably won’t be a very useful tool for economic analysis,” Briggs says.\n\nThe opinions and views expressed herein are as of the date of publication, subject to change without notice, and may not necessarily reflect the institutional views of Goldman Sachs or its affiliates. The material provided is intended for informational purposes only, and does not constitute investment advice, a recommendation from any Goldman Sachs entity to take any particular action, or an offer or solicitation to purchase or sell any securities or financial products.  This material may contain forward-looking statements.  Past performance is not indicative of future results. Neither Goldman Sachs nor any of its affiliates make any representations or warranties, express or implied, as to the accuracy or completeness of the statements or information contained herein and disclaim any liability whatsoever for reliance on such information for any purpose.  Each name of a third-party organization mentioned is the property of the company to which it relates, is used here strictly for informational and identification purposes only and is not used to imply any ownership or license rights between any such company and Goldman Sachs. \n\nA transcript is provided for convenience and may differ from the original video or audio content. Goldman Sachs is not responsible for any errors in the transcript. This material should not be copied, distributed, published, or reproduced in whole or in part or disclosed by any recipient to any other person without the express written consent of Goldman Sachs. ⁠ \n\nDisclosures applicable to research with respect to issuers, if any, mentioned herein are available through your Goldman Sachs representative or at http://www.gs.com/research/hedge.html  \n\n© 2026 Goldman Sachs. All rights reserved.",
+    "published": "2026-10-08",
+    "week": "2026-W41",
+    "video_id": "9Zi8r_B7A8E",
+    "episode_url": "https://www.youtube.com/watch?v=9Zi8r_B7A8E",
+    "type": "youtube",
+    "duration_secs": null,
+    "transcript_length": 2339,
+    "speaker": "Joseph Briggs — leads the Global Economics team within Goldman Sachs Research",
+    "one_line_summary": "US consumer sentiment is weak not because of economic weakness but because of a broad decline in trust in US institutions.",
+    "summary": "Joseph Briggs explains that cost‑of‑living pressures are weighing on households, yet the widespread downbeat sentiment among Americans suggests a deeper issue: a broad decline in trust in US institutions. Data show a significant gap between consumer surveys and the sentiment levels that economic models would predict, indicating that current sentiment survey readings “probably won’t be a very useful tool for economic analysis.” Briggs cautions that relying on these surveys could mislead analysts and investors.\n\nThe transcript highlights that sentiment surveys may be unreliable in the current environment, and that the erosion of institutional trust could be a key driver of consumer pessimism. This signals a need for alternative metrics to gauge economic outlook and for investors to consider the implications of trust erosion on policy and market behavior.",
+    "key_themes": [
+      "Cost‑of‑living pressures",
+      "Trust in US institutions",
+      "Reliability of sentiment surveys"
+    ],
+    "market_signals": [
+      "Cost‑of‑living pressures are weighing on US households",
+      "Consumer sentiment is down despite a healthy economy",
+      "There is a significant gap between consumer surveys and the sentiment levels that economic models would predict",
+      "Current sentiment survey readings “probably won’t be a very useful tool for economic analysis.”"
+    ],
+    "framework_insights": [
+      "Trust erosion can drive consumer sentiment independently of economic fundamentals",
+      "Survey data may diverge from model predictions when underlying trust is low",
+      "Reliance on sentiment surveys can mislead economic analysis",
+      "Alternative metrics are needed when traditional surveys become unreliable",
+      "Understanding the source of sentiment gaps helps refine macro models"
+    ],
+    "market_relevance": "Investors should treat current consumer sentiment readings with caution, as they may not reflect underlying economic strength and could signal broader institutional trust issues that influence policy and market dynamics."
+  },
+  {
     "id": "ae590b565699090db5d6062aa8a953ca",
     "source_id": "in_good_company",
     "source_name": "In Good Company",
@@ -69,6 +147,86 @@
       "Dual‑CIO structure requires clear decision‑making and operational alignment"
     ],
     "market_relevance": "The insights illustrate how a large pension fund navigates asset allocation, risk management, and governance in a changing market, offering a template for institutional investors seeking to balance strategic objectives with operational efficiency."
+  },
+  {
+    "id": "d161a4835ecd28ca524ec98b5935d1a6",
+    "source_id": "masters_in_business",
+    "source_name": "Masters in Business",
+    "source_org": "Bloomberg",
+    "source_color": "#eab308",
+    "title": "At The Money: What the Best CEOs Actually Do",
+    "description": "<p>What are the most important parts of a CEO&rsquo;s job? How much does the CEO of public companies matter to their stock&rsquo;s performance?</p> <p>Professor Nitin Nohria was dean of the Harvard Business School (he still teaches there), and is the author of a new book &ldquo;The CEO: The Role, the Reality, the Responsibility&rdquo;</p> <p>Each week, &ldquo;At the Money&rdquo; discusses an important topic in money management. From portfolio construction to taxes and cutting down on fees, join Barry Ritholtz to learn the best ways to put your money to work.</p> <p>&nbsp;</p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
+    "published": "2026-10-07",
+    "week": "2026-W41",
+    "audio_url": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/4e4cd910-40a1-4619-a5f3-ae2b0012ffff/598d03b0-122e-4d7c-8056-b4dc014a8963/audio.mp3?utm_source=Podcast&in_playlist=5873a3cb-298f-40bc-b71f-ae2b0013000d",
+    "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/598d03b0-122e-4d7c-8056-b4dc014a8963/transcript?format=TextWithTimestamps&t=1791403741",
+    "episode_url": "https://omny.fm/shows/masters-in-business/at-the-money-what-the-best-ceos-actually-do",
+    "type": "podcast",
+    "duration_secs": 1216,
+    "transcript_length": 18732,
+    "speaker": "Professor Nitin Noria — former dean of Harvard Business School, executive chairman of Thrive Capital",
+    "one_line_summary": "CEOs shape outcomes by creating decision architecture, not by controlling every choice, and their influence accounts for roughly 15% of firm performance.",
+    "summary": "Professor Nitin Noria explains that a CEO’s primary role is to allocate capital and set the architecture—resource allocation, strategy, culture, and execution standards—that enables others to make good decisions. He cites data from Harvard Business School workshops showing that CEOs of large firms, despite extensive experience, face a steep learning curve and often surprise themselves with the breadth of their responsibilities. Noria quantifies CEO influence: over a 20‑year period, CEOs account for about 15% of company performance, comparable to the impact of changing industry. He also highlights the time burden on CEOs: 72% of their work is meetings, 36% reacting to events, and notes that more than 60% of corporate M&A fail to deliver. The discussion underscores the importance of clear communication, front‑line engagement, and credibility in sustaining performance.\n\nKey data points include the 15% performance attribution, the 72% meeting load, the 36% reactive time, and the >60% M&A failure rate. Noria stresses that CEOs must balance strategic vision with operational execution, maintain credibility by telling the truth, and avoid isolation by engaging front‑line staff.\n\nThe conversation offers actionable insights for investors: evaluate CEO influence on performance, monitor CEO time allocation, assess communication effectiveness, and consider M&A risk when evaluating management quality.",
+    "key_themes": [
+      "CEO decision architecture",
+      "CEO time allocation",
+      "M&A failure rate"
+    ],
+    "market_signals": [
+      "CEO influence accounts for 15% of company performance over 20 years",
+      "CEOs spend 72% of their time in meetings",
+      "CEOs spend 36% of their time reacting to unfolding events",
+      "More than 60% of corporate mergers and acquisitions fail to deliver",
+      "Interest rate movements and macro shocks account for about 5% of performance variation over 20 years"
+    ],
+    "framework_insights": [
+      "CEOs shape outcomes by creating the conditions for others to decide well",
+      "Decision architecture includes resource allocation, strategy, culture, and execution standards",
+      "Effective communication requires repetition, simple messaging, and front‑line validation",
+      "Credibility is built by telling the truth in bad times and hope in good times",
+      "Isolation can be mitigated by periodic listening tours and front‑line engagement"
+    ],
+    "market_relevance": "Understanding the measurable impact of CEOs and the high failure rate of M&A informs management quality assessment and risk budgeting for equity portfolios."
+  },
+  {
+    "id": "ae293efb74d0f443adf72d95c87fe96c",
+    "source_id": "asia_centric",
+    "source_name": "Asia Centric",
+    "source_org": "Bloomberg Intelligence",
+    "source_color": "#d946ef",
+    "title": "Inside Quantedge's 49% Surge and 20-Year Run",
+    "description": "<p>Surviving the cutthroat world of hedge funds is notoriously difficult, with firms facing an average lifespan of just five years. Yet Singapore-based systematic quantitative fund Quantedge has defied those odds, recently celebrating its 20th anniversary and growing its assets under management from less than $3 million to $7.6 billion. Boasting an annualized return of 20.8% over two decades and a massive 49% gain year to date, the firm stands apart from multi-manager \"pod shops\" that prioritize stable, low-volatility returns.</p> <p>Suhaimi Zainul-Abidin, CEO of Quantedge, joins John Lee on the Asia Centric podcast to demystify the \"black box\" of quantitative investing. He discusses the advantages of running a major hedge fund out of Singapore versus New York or London, and what it really takes for job applicants to stand out at the firm.</p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
+    "published": "2026-10-07",
+    "week": "2026-W41",
+    "audio_url": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/992d604b-06ca-40cb-88b2-af6c016f5aa0/36f1f611-76a8-4a67-ae0d-b4dc0085bbe4/audio.mp3?utm_source=Podcast&in_playlist=75a9f17c-2ff1-42c9-9a27-af6c016fae89",
+    "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/36f1f611-76a8-4a67-ae0d-b4dc0085bbe4/transcript?format=TextWithTimestamps&t=1791360651",
+    "episode_url": "https://omny.fm/shows/asia-centric-by-bloomberg-intelligence/inside-quantedges-49-surge-and-20-year-run",
+    "type": "podcast",
+    "duration_secs": 1181,
+    "transcript_length": 20649,
+    "speaker": "Suhaimi Zanul Abidin — CEO of Quantage",
+    "one_line_summary": "Quantage’s 20‑year legacy is built on a high‑volatility, systematic quantitative strategy that targets risk premium across 300 markets, including insurance‑linked securities, and leverages AI to enhance research and execution.",
+    "summary": "Quantage, now managing $7.6 billion, has delivered a 20.8% annualized return over 20 years, with $6 billion of that coming from investment gains. The firm began with less than $3 million and has grown by codifying systematic rules that run daily without human intervention, focusing on high‑volatility, risk‑premium‑driven bets. Diversification across roughly 300 markets—including equities, bonds, commodities, currencies, and insurance‑linked securities—has insulated the fund from sector‑specific downturns such as the 2024 tech sell‑off. The CEO emphasizes that while AI improves data cleaning, programming, and early‑stage research, human judgment remains central to strategy design and model supervision. Operating from Singapore offers regulatory clarity, talent access, and a smaller competitive field, though it also brings heightened scrutiny.\n\nKey data points include a 49% YTD gain, a 20.8% 20‑year annualized return, and a daily rebalancing regime that targets a specific high‑risk level to achieve superior risk‑adjusted returns.",
+    "key_themes": [
+      "Systematic Quantitative Strategy",
+      "High‑Risk High‑Return Targeting",
+      "Diversification & Insurance‑Linked Securities"
+    ],
+    "market_signals": [
+      "49% year‑to‑date gain",
+      "20.8% annualized return over 20 years",
+      "$7.6 billion AUM, $6 billion from gains",
+      "Started with <$3 million",
+      "Diversified across ~300 markets, including insurance‑linked securities"
+    ],
+    "framework_insights": [
+      "Systematic rules are codified and run daily, providing certainty and scalability",
+      "Targeting a specific high‑volatility level is achieved through daily rebalancing to optimize risk‑return",
+      "Risk premium is the core driver across all asset classes, including insurance‑linked securities",
+      "Human judgment is essential in strategy design and model supervision, even with AI tools",
+      "Singapore’s regulatory clarity and talent pool enable a stable base for global competition"
+    ],
+    "market_relevance": "Investors seeking long‑term compounded returns may find Quantage’s high‑risk, high‑return model attractive, while the fund’s broad diversification and insurance‑linked exposure can offer resilience against sector‑specific shocks in the current market environment."
   },
   {
     "id": "3a63394b09aa5b30b8997c666c31018c",
