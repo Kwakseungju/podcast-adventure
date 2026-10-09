@@ -1,5 +1,94 @@
 [
   {
+    "id": "506530ab925975854504f0f06b5d7b9d",
+    "source_id": "odd_lots",
+    "source_name": "Odd Lots",
+    "source_org": "Bloomberg",
+    "source_color": "#06b6d4",
+    "title": "How AI Is Upending the World of Mathematics",
+    "description": "<p>Last month, OpenAI announced that it had produced an AI-generated proof for the Navier-Stokes problem, one of the most famous unsolved questions in mathematics. LLMs used to be bad at counting, but now they are solving math problems that have stumped humans for decades. Meanwhile, at universities, the problem of AI in education continues: Now that LLMs can do a student's homework, teachers are struggling to keep up. It is clear that AI is very quickly changing how math is taught and how it is practiced by professionals. On this episode, Justin Solomon, who is the associate dean for engineering education at MIT, gives us a primer on how mathematicians (both pure and applied) are responding to all the advances in AI. He also explains what exactly the Navier-Stokes problem is and why the OpenAI proof is hard for even the pros to parse, what movies get wrong about how mathematicians do their jobs, and how he's changing his pedagogical approach in the age of AI.<br /><br />See Odd Lots live in Chicago! <a href=\"https://events.bloombergevents.com/event/OddLotsLiveChicago/summary\">Tickets on sale here</a></p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
+    "published": "2026-10-09",
+    "week": "2026-W41",
+    "audio_url": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/f49c2ca3-dfe7-4a67-bc11-b4dd01463f66/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
+    "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/f49c2ca3-dfe7-4a67-bc11-b4dd01463f66/transcript?format=TextWithTimestamps&t=1791489188",
+    "episode_url": "https://omny.fm/shows/odd-lots/how-ai-is-upending-the-world-of-mathematics",
+    "type": "podcast",
+    "duration_secs": 3621,
+    "transcript_length": 66652,
+    "speaker": "Justin Solomon — Associate Dean of Engineering Education at MIT",
+    "one_line_summary": "AI is rapidly mastering advanced mathematics, challenging traditional roles of mathematicians and reshaping math education.",
+    "summary": "The episode discusses how large language models now solve complex mathematical problems, sparking existential angst among mathematicians. Speakers note that AI’s ability to verify proofs raises questions about learning and understanding, while also highlighting the social nature of mathematical research. Justin Solomon explains the distinction between applied and pure math, the importance of community collaboration, and how real‑world problems like Navier‑Stokes drive mathematical innovation. The conversation underscores that AI’s progress in math may alter teaching methods, job roles, and the value placed on deep mathematical insight.",
+    "key_themes": [
+      "AI’s impact on advanced mathematics",
+      "The social nature of mathematical research",
+      "Applied vs. pure mathematics"
+    ],
+    "market_signals": [],
+    "framework_insights": [
+      "AI’s math capability demonstrates that large language models can generalize from text to formal reasoning, suggesting a shift in how technical knowledge is acquired and validated.",
+      "Mathematics is a social exercise; breakthroughs often come from collaboration rather than solitary work, implying that team dynamics remain critical even as AI tools improve.",
+      "The distinction between applied and pure math is fuzzy; many practical applications arise from seemingly abstract theory, indicating that investment in fundamental research can yield unforeseen commercial benefits.",
+      "Verification of proofs by AI raises a new mental model: the distinction between proving a result and understanding the reasoning process, which is essential for skill development and innovation.",
+      "The role of education must adapt to AI’s capabilities, focusing on conceptual understanding and problem‑solving rather than rote calculation, a principle that can guide curriculum design across STEM fields."
+    ],
+    "market_relevance": "While no immediate trading signals emerge, the episode signals a broader shift in technical skill requirements and the value of foundational research, which could influence funding priorities and talent allocation in technology and finance sectors."
+  },
+  {
+    "id": "c5f51fe52bbd6487fb19a1b9e3aed588",
+    "source_id": "in_good_company",
+    "source_name": "In Good Company",
+    "source_org": "Norges Bank Investment Management",
+    "source_color": "#14b8a6",
+    "title": "Friday Wrap-Up: Lessons from a Former Boss and the Decline of Shareholder Rights",
+    "description": "<p>This week's Friday Wrap-Up looks back at Nicolai Tangen's podcast conversation with John Armitage, his former boss and a man he calls one of the most important people in his life. Marthe and Nicolai discuss what Armitage taught him about analysing companies, why the best investors tend to be humble, and why Armitage calls permanent capital a trap. They also cover NBIM's recent view on the decline of shareholder rights, and why Nicolai says it matters for long-term investors like NBIM. Nicolai also opens up about why he thinks we should all say thank you more often, and the morning ritual he follows to stay grateful. Tune in!</p><br /><p>Listen to In Good Company with John Armitage, co-founder and chief investment officer of Egerton Capital: <a href=\"https://podcasts.apple.com/no/podcast/john-armitage-how-he-invests-building-egerton-and/id1614211565?i=1000793578407\" rel=\"noopener noreferrer\" target=\"_blank\">https://podcasts.apple.com/no/podcast/john-armitage-how-he-invests-building-egerton-and/id1614211565?i=1000793578407</a> </p><br /><p>The Friday Wrap-Up is hosted by Marthe Skaar, Chief of Communications and External Relations, together with Nicolai Tangen, CEO of Norges Bank Investment Management. New episodes of In Good Company air every Wednesday, with the Friday Wrap-Up following each week to break it all down.</p><hr /><p style=\"color: grey; font-size: 0.75em;\"> Hosted on Acast. See <a href=\"https://acast.com/privacy\" rel=\"noopener noreferrer\" style=\"color: grey;\" target=\"_blank\">acast.com/privacy</a> for more information.</p>",
+    "published": "2026-10-09",
+    "week": "2026-W41",
+    "audio_url": "https://sphinx.acast.com/p/open/s/622618c7057f3400120d15db/e/6ac7e7cf937a3c900ff9a693/media.mp3",
+    "transcript_url": null,
+    "episode_url": "https://shows.acast.com/in-good-company-with-nicolai-tangen/episodes/friday-wrap-up-lessons-from-a-former-boss-and-the-decline-of",
+    "type": "podcast",
+    "duration_secs": 723,
+    "transcript_length": 1562,
+    "speaker": "",
+    "one_line_summary": "The episode highlights lessons from Nicolai Tangen’s former boss, John Armitage, and NBIM’s view on declining shareholder rights.",
+    "summary": "The Friday Wrap‑Up revisits a podcast conversation between Nicolai Tangen and John Armitage, a former boss whom Tangen regards as one of the most important people in his life. They discuss Armitage’s teachings on company analysis, the humility of top investors, and his view that permanent capital is a trap. The episode also covers NBIM’s recent perspective on the decline of shareholder rights and why this matters for long‑term investors. Tangen shares personal reflections on gratitude and his morning ritual to stay grateful.",
+    "key_themes": [
+      "Lessons from a former boss",
+      "Permanent capital critique",
+      "Decline of shareholder rights"
+    ],
+    "market_signals": [],
+    "framework_insights": [],
+    "market_relevance": "The discussion underscores the importance of understanding shareholder rights erosion for long‑term investment strategies, but no specific market data or actionable signals are provided in the transcript."
+  },
+  {
+    "id": "2e8b5ca651a8f2a1b2b7dd26a268fd8f",
+    "source_id": "goldman_sachs",
+    "source_name": "Goldman Sachs",
+    "source_org": "Goldman Sachs",
+    "source_color": "#3b82f6",
+    "title": "Sharmin Mossavar-Rahmani: Long US stocks Amid Volatility",
+    "description": "In a special episode of The Breaks of the Game, Sharmin Mossavar-Rahmani, Head of the Investment Strategy Group and CIO of Wealth Management, reflects on her 33-year career at Goldman Sachs, including her most impactful portfolio call, approaches to weathering market volatility, and her playbook for professional excellence. Hosted by Tony Pasquariello, Global Head of Hedge Fund Coverage. \n\nRecorded on October 5, 2026.",
+    "published": "2026-10-09",
+    "week": "2026-W41",
+    "video_id": "k_33yFEvsDw",
+    "episode_url": "https://www.youtube.com/watch?v=k_33yFEvsDw",
+    "type": "youtube",
+    "duration_secs": null,
+    "transcript_length": 421,
+    "speaker": "Sharmin Mossavar-Rahmani — Head of the Investment Strategy Group and CIO of Wealth Management",
+    "one_line_summary": "Sharmin Mossavar-Rahmani reflects on her 33‑year career at Goldman Sachs and her approach to market volatility.",
+    "summary": "The episode features Sharmin Mossavar-Rahmani, Head of the Investment Strategy Group and CIO of Wealth Management at Goldman Sachs, discussing her 33‑year career, her most impactful portfolio call, and her playbook for professional excellence. The conversation is hosted by Tony Pasquariello, Global Head of Hedge Fund Coverage. No specific market data or actionable signals are provided in the transcript.",
+    "key_themes": [
+      "Career longevity",
+      "Portfolio decision making",
+      "Professional excellence"
+    ],
+    "market_signals": [],
+    "framework_insights": [],
+    "market_relevance": "The discussion offers a high‑level perspective on career resilience and professional strategy, but contains no actionable market signals for investors."
+  },
+  {
     "id": "7239c39fa2da79138f4a03a55d8a5192",
     "source_id": "odd_lots",
     "source_name": "Odd Lots",
@@ -76,6 +165,46 @@
       "Understanding the source of sentiment gaps helps refine macro models"
     ],
     "market_relevance": "Investors should treat current consumer sentiment readings with caution, as they may not reflect underlying economic strength and could signal broader institutional trust issues that influence policy and market dynamics."
+  },
+  {
+    "id": "ea47add6a7619dad5fc65194552c7f56",
+    "source_id": "credit_edge",
+    "source_name": "The Credit Edge",
+    "source_org": "Bloomberg Intelligence",
+    "source_color": "#f97316",
+    "title": "Blackstone Is Predicting a Big Surge in Quant Credit Investing",
+    "description": "<p>Blackstone is looking to more than double its $40 billion systematic credit business, which uses models to crunch data and build portfolios. &ldquo;This can and should be a $100 billion business if you look at us compared to other large traditional discretionary fixed-income managers,&rdquo; Adam Dwinells, Blackstone Credit &amp; Insurance&rsquo;s head of corporate bond strategies, tells Bloomberg News&rsquo; James Crombie and Bloomberg Intelligence&rsquo;s Jean-Yves Coupin in this episode of the Credit Edge podcast. He expects systematically managed portfolios to rise to 20%-25% of the market, matching equities, from about 1%-2% in US corporate credit now. &ldquo;You could certainly see something on that order of magnitude in credit eventually. Maybe not over the next couple of years, but over the next decade,&rdquo; he adds.</p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
+    "published": "2026-10-08",
+    "week": "2026-W41",
+    "audio_url": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/e74a35e9-c028-4e5f-a3f7-afb10164a717/56375b80-e687-46e1-92bc-b4dd0149c9f6/audio.mp3?utm_source=Podcast&in_playlist=8792a2e9-d66c-4038-a1fe-afb101654894",
+    "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/56375b80-e687-46e1-92bc-b4dd0149c9f6/transcript?format=TextWithTimestamps&t=1791490133",
+    "episode_url": "https://omny.fm/shows/the-credit-edge-by-bloomberg-intelligence/blackstone-is-predicting-a-big-surge-in-quant-credit-investing",
+    "type": "podcast",
+    "duration_secs": 3002,
+    "transcript_length": 50854,
+    "speaker": "Adam Duinels — Head of Corporate Bond Strategies at Blackstone Credit and Insurance",
+    "one_line_summary": "Blackstone’s systematic credit strategy aims to capture 100 bps excess over high‑yield and 50 bps over investment‑grade benchmarks by exploiting daily alpha signals while controlling turnover to about once per year.",
+    "summary": "Adam Duinels explains that Blackstone Credit is the world’s largest pure‑play systematic credit manager, growing from $7.5 billion AUM in 2020 to more than $40 billion today. The firm’s long‑only, benchmark‑aware portfolios use a daily bottom‑up balance‑sheet model to generate alpha signals that rank bonds from cheap to rich. Turnover is kept low—around one to one and a half times per year—by modeling transaction costs and limiting daily trades. Expected excess returns are roughly 100 bps for high‑yield and 50 bps for investment‑grade strategies, positioned between passive ETFs and fully discretionary active funds. Duinels emphasizes that systematic models do not replace human judgment but provide consistency and scale, focusing on cross‑sectional mispricing and forward‑looking credit trajectories.\n\nKey points include the transformation of corporate bond markets from OTC to electronic venues, the importance of controlling transaction costs in credit, and the use of equity and volatility data to re‑underwrite every credit daily. The strategy’s value proposition lies in exploiting dispersion in a market that is otherwise efficiently priced on aggregate.\n",
+    "key_themes": [
+      "Systematic credit investing",
+      "Transaction cost control",
+      "Cross‑sectional mispricing"
+    ],
+    "market_signals": [
+      "Blackstone now manages more than five times the amount of $40 billion in quantitative credit investing",
+      "Expected excess returns: ~100 bps over high‑yield benchmark, ~50 bps over investment‑grade benchmark",
+      "Turnover target: one to one and a half times per year",
+      "Systematic model generates alpha signals daily for every bond",
+      "Transaction cost model explicitly controls daily trade size to limit bid‑ask spread impact"
+    ],
+    "framework_insights": [
+      "Systematic credit strategy uses a bottom‑up balance‑sheet model to generate daily alpha signals",
+      "Alpha is defined as expected return forecast normalized for risk, derived from cross‑sectional value and forward‑looking fundamentals",
+      "Transaction costs are modeled and incorporated into portfolio construction to keep turnover low",
+      "Systematic approach removes discretion but still relies on human oversight for calibration and risk management",
+      "Cross‑sectional dispersion in a liquid market provides consistent mispricing opportunities"
+    ],
+    "market_relevance": "The insights highlight how systematic credit can deliver excess returns with controlled costs, offering investors a middle ground between passive ETFs and discretionary active funds in a market that has become more electronic and data‑rich."
   },
   {
     "id": "ae590b565699090db5d6062aa8a953ca",
