@@ -1,5 +1,32 @@
 [
   {
+    "id": "d44ae72cc020b450011365249437a9b0",
+    "source_id": "goldman_sachs",
+    "source_name": "Goldman Sachs",
+    "source_org": "Goldman Sachs",
+    "source_color": "#3b82f6",
+    "title": "Why the AI Trade is Moving Up the Stack",
+    "description": "In this month's highlight from The Macro Call, host Mark Wilson is joined by Ben Snider and Peter Callahan to discuss the key drivers of today's market environment. They examine the resilience of equities despite higher yields, the outlook for earnings growth, and why investors remain focused on the next phase of the AI opportunity.\n\nFilmed on October 7, 2026.",
+    "published": "2026-10-10",
+    "week": "2026-W41",
+    "video_id": "7uTQm2mu8-c",
+    "episode_url": "https://www.youtube.com/watch?v=7uTQm2mu8-c",
+    "type": "youtube",
+    "duration_secs": null,
+    "transcript_length": 362,
+    "speaker": "",
+    "one_line_summary": "Equities remain resilient amid higher yields as investors eye the next phase of AI opportunity.",
+    "summary": "The episode highlights that equities are holding up despite rising yields, discusses the outlook for earnings growth, and notes that investors are still focused on the next phase of the AI opportunity.",
+    "key_themes": [
+      "Equity resilience",
+      "Earnings growth outlook",
+      "AI opportunity"
+    ],
+    "market_signals": [],
+    "framework_insights": [],
+    "market_relevance": "It signals that equity markets may continue to perform well even as yields climb, and that AI remains a key growth driver for investors."
+  },
+  {
     "id": "506530ab925975854504f0f06b5d7b9d",
     "source_id": "odd_lots",
     "source_name": "Odd Lots",
@@ -87,6 +114,112 @@
     "market_signals": [],
     "framework_insights": [],
     "market_relevance": "The discussion offers a high‑level perspective on career resilience and professional strategy, but contains no actionable market signals for investors."
+  },
+  {
+    "id": "0f9b21cda4cb5c78574a4bf52477caef",
+    "source_id": "masters_in_business",
+    "source_name": "Masters in Business",
+    "source_org": "Bloomberg",
+    "source_color": "#eab308",
+    "title": "Balancing Conviction and Risk: Masters in Business with Maria Vassalou",
+    "description": "<p>Barry speaks with Maria Vassalou, Head of the Pictet Research Institute. They discuss her research into global markets, and how they balance geopolitical risk. They also discuss China's growth as a technical innovator, and the risks to US debt. Finally, Barry and Maria discuss the differences between investing research and academia.</p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
+    "published": "2026-10-09",
+    "week": "2026-W41",
+    "audio_url": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/4e4cd910-40a1-4619-a5f3-ae2b0012ffff/7d59b451-b21e-4dc9-b1f2-b4de010ad65c/audio.mp3?utm_source=Podcast&in_playlist=5873a3cb-298f-40bc-b71f-ae2b0013000d",
+    "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/7d59b451-b21e-4dc9-b1f2-b4de010ad65c/transcript?format=TextWithTimestamps&t=1791563296",
+    "episode_url": "https://omny.fm/shows/masters-in-business/balancing-conviction-and-risk-masters-in-business-with-maria-vassalou",
+    "type": "podcast",
+    "duration_secs": 4156,
+    "transcript_length": 50604,
+    "speaker": "Maria Vassalu — Head of PICTE Research Institute",
+    "one_line_summary": "Maria Vassalu explains how she built PICTE’s research arm to translate long‑term macro and geopolitical insights into disciplined portfolio construction, while drawing on her academic work on default risk and small‑cap anomalies.",
+    "summary": "Maria Vassalu, formerly a professor at Columbia and a senior portfolio manager at firms such as Soros Capital, SAC Capital, and GSAM, joined PICTE in 2024 to create an internal think‑tank focused on long‑term macro, geopolitical, and portfolio implementation research.  She describes the institute’s three‑area focus—geopolitics, macro, and implementation—and how it differs from short‑term news‑driven research.  Vassalu also recounts her academic work on default risk, showing that small‑cap and value premiums can be explained by a Merton‑based default probability measure, and how this insight informs risk‑managed, volatility‑targeted strategies.  In the interview she highlights the importance of integrating risk management into portfolio construction, the need to guard against ego and loss aversion, and the role of geopolitical shifts such as U.S. debt sustainability and the U.S.–China power dynamic in shaping long‑term investment horizons.",
+    "key_themes": [
+      "Transition from academia to industry and risk‑management integration",
+      "Long‑term macro and geopolitical research framework",
+      "Default‑risk explanation of small‑cap/value anomalies"
+    ],
+    "market_signals": [
+      "\"nearly a trillion dollars\" in assets managed by PICTE",
+      "\"200 million\" managed at Soros, with initial allocations of \"20 million\" and \"30 million\"",
+      "\"80 basis points\" women PMs outperform male PMs",
+      "\"Mertens measure\" of default risk used to explain small‑cap effects",
+      "\"Triffin Dilemma\" cited as a reason for U.S. debt sustainability concerns"
+    ],
+    "framework_insights": [
+      "Risk management is integrated at the portfolio construction stage, with volatility targeting and portfolio‑level risk cuts",
+      "Default risk, measured via a Merton‑based model, can explain small‑cap and value premiums, linking macro fundamentals to asset pricing anomalies",
+      "Long‑term themes are blended with shorter‑term signals to create a multi‑horizon strategy",
+      "Geopolitical and macro research is kept separate from short‑term news cycles to avoid noise and maintain focus",
+      "The institute’s framework maps global geopolitical initiatives, economic policies, and technology competition to investment decisions"
+    ],
+    "market_relevance": "Understanding how macro and geopolitical shifts—especially U.S. debt sustainability and the U.S.–China power dynamic—affect asset pricing and risk can help investors adjust long‑term allocations and guard against mispricing in a rapidly changing global environment."
+  },
+  {
+    "id": "5159a2fe273528a33605068de2fa8e4d",
+    "source_id": "goldman_sachs",
+    "source_name": "Goldman Sachs",
+    "source_org": "Goldman Sachs",
+    "source_color": "#3b82f6",
+    "title": "Hedge Funds Are Cautious on Stocks amid Rates and Energy Volatility",
+    "description": "Hedge fund positioning in equities for long-short strategies is at historically low levels amid ongoing volatility in interest rates and oil prices, says Mark Wilson, head of European Equity Franchise Sales and Hedge Fund Coverage in Goldman Sachs FICC and Equities. And even as investor scrutiny of French government borrowing grows, Wilson points out that there are investment opportunities in Europe in defense stocks and the energy independence theme. In The Markets podcast, he also discusses his outlook for mega-capitalization technology companies, stocks that benefit from German government spending, and US third-quarter earnings.  \n\nAlso available on Spotify (https://click.gs.com/hn4o) and Apple Podcasts (https://click.gs.com/qx2m) \n\nFilmed on October 7, 2026. \n\nThe opinions and views expressed herein are as of the date of publication, subject to change without notice, and may not necessarily reflect the institutional views of Goldman Sachs or its affiliates. The material provided is intended for informational purposes only, and does not constitute investment advice, a recommendation from any Goldman Sachs entity to take any particular action, or an offer or solicitation to purchase or sell any securities or financial products. This material may contain forward-looking statements. Past performance is not indicative of future results. Neither Goldman Sachs nor any of its affiliates make any representations or warranties, express or implied, as to the accuracy or completeness of the statements or information contained herein and disclaim any liability whatsoever for reliance on such information for any purpose. Each name of a third-party organization mentioned is the property of the company to which it relates, is used here strictly for informational and identification purposes only and is not used to imply any ownership or license rights between any such company and Goldman Sachs.\n\nA transcript is provided for convenience and may differ from the original video or audio content. Goldman Sachs is not responsible for any errors in the transcript. This material should not be copied, distributed, published, or reproduced in whole or in part or disclosed by any recipient to any other person without the express written consent of Goldman Sachs. ⁠  \n\n© 2026 Goldman Sachs. All rights reserved.",
+    "published": "2026-10-09",
+    "week": "2026-W41",
+    "video_id": "pE6tZStqrVo",
+    "episode_url": "https://www.youtube.com/watch?v=pE6tZStqrVo",
+    "type": "youtube",
+    "duration_secs": null,
+    "transcript_length": 2326,
+    "speaker": "Mark Wilson — head of European Equity Franchise Sales and Hedge Fund Coverage in Goldman Sachs FICC and Equities",
+    "one_line_summary": "Hedge funds are holding historically low equity positions amid rate and oil volatility, yet see defensive and energy‑independence themes as attractive opportunities.",
+    "summary": "Mark Wilson notes that hedge fund positioning in equities for long‑short strategies is at historically low levels, reflecting caution amid ongoing volatility in interest rates and oil prices. He highlights that investor scrutiny of French government borrowing is increasing, yet points to investment opportunities in European defense stocks and the energy independence theme. Wilson also touches on his outlook for mega‑cap technology companies, stocks that benefit from German government spending, and US third‑quarter earnings, suggesting a broader macro‑theme focus for long‑short strategies.",
+    "key_themes": [
+      "Low equity positioning in long‑short strategies",
+      "Interest rate and oil price volatility",
+      "Defensive and energy‑independence investment themes"
+    ],
+    "market_signals": [
+      "Hedge fund positioning in equities for long‑short strategies is at historically low levels",
+      "Ongoing volatility in interest rates and oil prices",
+      "Investor scrutiny of French government borrowing grows",
+      "Opportunities in defense stocks and the energy independence theme",
+      "Outlook for mega‑cap technology companies, German government spending‑benefiting stocks, and US third‑quarter earnings"
+    ],
+    "framework_insights": [
+      "Focus on defensive sectors during periods of macro volatility",
+      "Seek opportunities in energy independence themes when sovereign borrowing scrutiny rises",
+      "Use government spending cycles as a catalyst for sector rotation",
+      "Adjust long‑short positioning in response to interest rate and commodity price swings",
+      "Monitor sovereign debt sentiment as a barometer for market risk appetite"
+    ],
+    "market_relevance": "The low equity positioning signals heightened risk aversion, while the identified defensive and energy‑independence themes offer potential upside in a volatile macro environment."
+  },
+  {
+    "id": "fbfc2eb52f66dd53045dc135980de44d",
+    "source_id": "goldman_sachs",
+    "source_name": "Goldman Sachs",
+    "source_org": "Goldman Sachs",
+    "source_color": "#3b82f6",
+    "title": "Sharmin Mossavar-Rahmani: Long US Stocks Amid Volatility",
+    "description": "In a special episode of The Breaks of the Game, Sharmin Mossavar-Rahmani, Head of the Investment Strategy Group and CIO of Wealth Management, reflects on her 33-year career at Goldman Sachs, including her most impactful portfolio call, approaches to weathering market volatility, and her playbook for professional excellence. Hosted by Tony Pasquariello, Global Head of Hedge Fund Coverage. \n\nRecorded on October 5, 2026.",
+    "published": "2026-10-09",
+    "week": "2026-W41",
+    "video_id": "k_33yFEvsDw",
+    "episode_url": "https://www.youtube.com/watch?v=k_33yFEvsDw",
+    "type": "youtube",
+    "duration_secs": null,
+    "transcript_length": 421,
+    "speaker": "Sharmin Mossavar-Rahmani — Head of the Investment Strategy Group and CIO of Wealth Management",
+    "one_line_summary": "Sharmin Mossavar-Rahmani reflects on a 33‑year career at Goldman Sachs, highlighting her most impactful portfolio call, strategies for weathering volatility, and a playbook for professional excellence.",
+    "summary": "In a special episode of The Breaks of the Game, Sharmin Mossavar-Rahmani, Head of the Investment Strategy Group and CIO of Wealth Management, shares insights from her 33‑year career at Goldman Sachs. She discusses her most impactful portfolio call, outlines approaches to weathering market volatility, and presents a playbook for professional excellence. The episode is hosted by Tony Pasquariello, Global Head of Hedge Fund Coverage.",
+    "key_themes": [
+      "Career longevity",
+      "Portfolio impact",
+      "Volatility management"
+    ],
+    "market_signals": [],
+    "framework_insights": [],
+    "market_relevance": "The discussion offers a high‑level perspective on long‑term investment strategy and resilience, useful for investors seeking guidance on navigating volatility and building enduring careers."
   },
   {
     "id": "7239c39fa2da79138f4a03a55d8a5192",
