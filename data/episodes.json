@@ -1,5 +1,72 @@
 [
   {
+    "id": "7d5cdbd847b0bd038602d0619079bc98",
+    "source_id": "odd_lots",
+    "source_name": "Odd Lots",
+    "source_org": "Bloomberg",
+    "source_color": "#06b6d4",
+    "title": "Nate Soares on How AI Really Could Kill Us All",
+    "description": "<p>Since the Hugging Face incident, concerns over AI doomsday scenarios has entered the mainstream. But of course, some people have been warning about this for years, long before LLMs or ChatGPT. In their 2025 book If Anyone Builds It, Everyone Dies, Nate Soares and Eliezer Yudkowsky spelled out their vision of humanity's inevitable demise once superintelligent AI is built. In this episode, we speak with Soares, who serves as president of the Machine Intelligence Research Institute, about why he believes it's impossible to \"align\" superintelligent AI, and how exactly the technology can and will go rogue as it gets more and more advanced.</p> <p>Read more:<br /><a href=\"https://www.bloomberg.com/news/articles/2026-10-08/anthropic-ipo-investors-struggle-to-put-a-price-on-rogue-ai-risk?utm_medium=referral&amp;utm_source=podcast&amp;utm_campaign=odd_lots&amp;utm_content=article\">Anthropic IPO Investors Struggle to Put a Price on Rogue AI Risk</a><br /><a href=\"https://www.bloomberg.com/news/articles/2026-10-08/ai-bubble-risks-worst-s-p-500-crash-since-2008-strategist-says?utm_medium=referral&amp;utm_source=podcast&amp;utm_campaign=odd_lots&amp;utm_content=article\">AI Bubble Risks Worst S&amp;P 500 Crash Since 2008, Strategist Says</a></p> <p>Only <a href=\"http://Bloomberg.com\">http://Bloomberg.com</a> subscribers can get the Odd Lots newsletter in their inbox each week, plus unlimited access to the site and app. Subscribe at&nbsp; <a href=\"https://www.bloomberg.com/subscriptions/oddlots?in_source=oddlotspodcast\">bloomberg.com/subscriptions/oddlots</a></p> <p><a href=\"http://bloomberg.com/subscriptions/oddlots\">Subscribe to the Odd Lots Newsletter</a><br /><strong>Join the conversation:</strong> <a href=\"https://discord.gg/oddlots\">discord.gg/oddlots</a></p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
+    "published": "2026-10-12",
+    "week": "2026-W42",
+    "audio_url": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/f6fd1a43-7c77-47c2-ae42-b4e0016e2d9b/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
+    "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/f6fd1a43-7c77-47c2-ae42-b4e0016e2d9b/transcript?format=TextWithTimestamps&t=1791757369",
+    "episode_url": "https://omny.fm/shows/odd-lots/nate-soares-on-how-ai-really-could-kill-us-all",
+    "type": "podcast",
+    "duration_secs": 4571,
+    "transcript_length": 78573,
+    "speaker": "Nate Soares — president of MIRI",
+    "one_line_summary": "AI models are grown, not programmed, making alignment a critical and urgent risk.",
+    "summary": "Nate Soares explains that modern AI systems are trained by adjusting trillions of variables through gradient descent, a process that \"grows\" models rather than \"crafts\" them. Because the training data and tokenization steps are not fully understood, the models can develop unexpected behaviors—illustrated by the \"Solid Gold Magikarp\" token that caused bizarre outputs. Soares argues that this lack of fine‑grained control and the possibility of AI developing its own goals make it dangerous to pursue ever more powerful systems without robust alignment research. He traces his own path from Google to MIRI, noting that the term \"alignment\" only entered common usage around 2014, and that the field has long struggled with the tension between building capability and ensuring safety.",
+    "key_themes": [
+      "AI alignment problem",
+      "Growth vs. control of models",
+      "Tokenization quirks and unexpected behavior"
+    ],
+    "market_signals": [],
+    "framework_insights": [
+      "Alignment is a problem of ensuring that a system’s objectives match human values, not just a technical bug.",
+      "The \"grown vs. crafted\" distinction highlights that large‑scale training can produce emergent behavior beyond the designer’s intent.",
+      "Tokenization and data filtering can introduce hidden biases that manifest as unpredictable outputs.",
+      "The urgency of alignment research is analogous to early-stage safety protocols in other high‑risk industries.",
+      "A robust alignment framework requires both theoretical understanding and practical safeguards in model deployment.”"
+    ],
+    "market_relevance": ""
+  },
+  {
+    "id": "82cfcc270b1a33f3d35b0593e43a9825",
+    "source_id": "capital_allocators",
+    "source_name": "Capital Allocators",
+    "source_org": "Ted Seides",
+    "source_color": "#f43f5e",
+    "title": "Erlina Yeo Terwelp: Five Things Make or Break Every Deal",
+    "description": "Erlina Yeo Terwelp, Managing Director at Columbia Investment Management Company overseeing the endowment's private markets portfolio, shares how her generalist training shaped a first-principles approach to evaluating investments. She draws a direct line between how she assesses a business and how she assesses a manager. Every opportunity was measured by its equity beta, liquidity, cost, and leverage — not by whether a bucket needed filling.\n\nFrom: Senior Decision Makers: Erlina Yeo Terwelp, Columbia Investment Management Company (EP.520)\nListen to the full episode: https://www.capitalallocators.com/podcast/senior-decision-makers-erlina-yeo-terwelp-columbia-investment-management-company/\n\nRegister for TomorrowX using the Capital Allocators discount here - https://tomorrowxsummit.com/partner-offer?token=WIVivSy7_so7XoVZGb2gLweZei3QtL8LZ_TdrCg-ocE\n\nLearn more about Juniper Square here - https://www.junipersquare.com/ \n\n\nSubscribe to the mailing list: https://capitalallocators.com/\nAccess Transcript with Premium Membership: https://capitalallocators.com/signup/\nSubscribe on Apple Podcast: https://podcasts.apple.com/us/podcast/capital-allocators-inside-the-institutional/id1223764016\nFollow Ted on Twitter: https://twitter.com/tseides\nFollow Ted on LinkedIn: https://www.linkedin.com/in/tedseides/\n\nEditing and post-production work for this episode was provided by The Podcast Consultant (https://thepodcastconsultant.com)\n\n#ErlinaYeoTerwelp #PrivateMarkets #EndowmentInvesting #CapitalAllocators #InstitutionalInvesting",
+    "published": "2026-10-12",
+    "week": "2026-W42",
+    "video_id": "DJYBLaZgwqw",
+    "episode_url": "https://www.youtube.com/watch?v=DJYBLaZgwqw",
+    "type": "youtube",
+    "duration_secs": null,
+    "transcript_length": 1534,
+    "speaker": "Erlina Yeo Terwelp — Managing Director, Columbia Investment Management Company",
+    "one_line_summary": "She evaluates every investment by its equity beta, liquidity, cost, and leverage, applying a first‑principles, generalist lens to both businesses and managers.",
+    "summary": "Erlina Yeo Terwelp, Managing Director at Columbia Investment Management Company, explains that her generalist training informs a first‑principles approach to investment evaluation. She emphasizes that each opportunity is measured by its equity beta, liquidity, cost, and leverage, rather than by a need to fill a particular bucket. This framework applies equally to assessing a business and to assessing a manager, ensuring a disciplined, metrics‑driven decision process.",
+    "key_themes": [
+      "First‑principles evaluation",
+      "Generalist analytical approach",
+      "Metrics‑driven investment discipline"
+    ],
+    "market_signals": [],
+    "framework_insights": [
+      "Use equity beta, liquidity, cost, and leverage as core metrics for all investment decisions",
+      "Apply a generalist, first‑principles mindset to both businesses and managers",
+      "Measure opportunities by objective metrics rather than portfolio needs",
+      "Maintain discipline by focusing on fundamental investment characteristics",
+      "Adopt a consistent, metrics‑based framework across all private market deals"
+    ],
+    "market_relevance": "The disciplined, metrics‑driven approach outlined by Terwelp offers a clear, repeatable framework for investors seeking to evaluate private market opportunities objectively in a volatile environment."
+  },
+  {
     "id": "d44ae72cc020b450011365249437a9b0",
     "source_id": "goldman_sachs",
     "source_name": "Goldman Sachs",
