@@ -1,5 +1,80 @@
 [
   {
+    "id": "924a55e163f2d3c673921d49c0a08998",
+    "source_id": "invest_like_the_best",
+    "source_name": "Invest Like the Best",
+    "source_org": "Colossus",
+    "source_color": "#6366f1",
+    "title": "David Vélez - Building Nubank and the Future of Global Banking - [Invest Like the Best, EP.495]",
+    "description": "David Vélez is the founder and CEO of Nubank, which serves 140 million customers across Latin America.&nbsp;\n\nDavid believes the industry is still in its Blockbuster era, with most of the world's banking still running through branches and incumbent banks, and that AI will make digital banks dramatically more efficient than the incumbents they compete with.&nbsp;\n\nHe explains how Nubank rebuilt its entire organization around AI after missing the moment the technology started working, and why he is now bringing Nubank to the US, a market he says is still dominated by big incumbent banks.&nbsp;\n\nPlease enjoy my conversation with David Vélez.&nbsp;\n\nFor the full show notes, transcript, and links to mentioned content, check out the episode page here.\n\n-----\n\nBecome a Colossus member to get our quarterly print magazine and private audio experience, including exclusive profiles and early access to select episodes. Subscribe at ⁠colossus.com/subscribe⁠.\n\n-----\n\n⁠Ramp’s⁠ mission is to help companies manage their spend in a way that reduces expenses and frees up time for teams to work on more valuable projects. Go to⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ⁠ramp.com/invest⁠⁠ to sign up for free and get a $250 welcome bonus.\n\n-----\n\nTrusted by thousands of businesses, ⁠Vanta⁠ continuously monitors your security posture and streamlines audits so you can win enterprise deals and build customer trust without the traditional overhead. Invest Like the Best listeners get a special offer of $1,000 off Vanta when you go to ⁠vanta.com/invest⁠.&nbsp;\n\n-----\n\nWorkOS⁠ is the infrastructure B2B and AI-native companies use to sell to enterprise. It covers everything enterprise security requires: SSO, SCIM, RBAC, Audit Logs, AI governance, and more. Trusted by 2,000+ fast-growing companies, including OpenAI, Anthropic, Cursor, and Vercel.\n\n-----\n\nRogo is the AI platform for finance. They're building agents for Wall Street that are trained to understand how bankers and investors actually do work: from diligence and modeling, to turning analysis into deliverables. To learn more, visit rogo.ai/invest.\n\n-----\n\n⁠Ridgeline⁠ has built a complete, real-time, modern operating system for investment managers. It handles trading, portfolio management, compliance, customer reporting, and much more through an all-in-one real-time cloud platform. Visit⁠ ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ridgeline.ai⁠.\n\n-----\n\nEditing and post-production work for this episode was provided by The Podcast Consultant.\n\nTimestamps:\n\n(00:00:00) Banking Is Still In Its Blockbuster Era\n\n(00:02:52) 140 Million Customers, 10,000 Employees\n\n(00:04:53) What Banks Could Do in Five Years\n\n(00:06:31) The $600 Billion Tax on Deposits\n\n(00:08:06) A Private Banker for Everyone\n\n(00:12:21) How a Startup Would Attack Nubank\n\n(00:14:56) When Nubank Took AI Seriously\n\n(00:17:08) Data as a Moat\n\n(00:21:29) How Global Finance Will Change\n\n(00:25:20) Stablecoins and the End of Cash\n\n(00:28:45) Creating Creditworthiness\n\n(00:32:35) Where Fintech Opportunities Remain\n\n(00:34:19) Nubank Comes to the US\n\n(00:41:11) Lessons From Disney and Amazon\n\n(00:43:44) How to Sell AI to Nubank\n\n(00:46:51) Agents as a Customer Segment\n\n(00:48:39) How AI Changed Nubank\n\n(01:01:33) What Motivates Him Now\n\n(01:06:21) Founder Versus CEO\n\n(01:14:01) What Latin America Needs\n\n(01:15:40) The Bear Case for Nubank\n\n(01:19:42) Finding the Right Mission",
+    "published": "2026-10-13",
+    "week": "2026-W42",
+    "audio_url": "https://traffic.megaphone.fm/CLS2134103794.mp3",
+    "transcript_url": null,
+    "episode_url": "https://colossus.com/episode/david-v-goliath/",
+    "type": "podcast",
+    "duration_secs": 4300,
+    "transcript_length": 44765,
+    "speaker": "David Vélez — Founder & CEO, Nubank",
+    "one_line_summary": "Nubank’s AI‑driven, data‑rich model is reshaping global banking by slashing costs, expanding access, and creating a data moat that early entrants cannot easily replicate.",
+    "summary": "David Vélez explains how Nubank’s digital‑first strategy has allowed it to surpass Brazil’s largest incumbent bank, reaching 120 million customers—65 % of the adult population—and 60 % of users holding their primary account with Nubank. He highlights the cost advantage of a lean model: 140 million customers served by 10 000 employees versus competitors with 100 000 employees and 6 000 branches, yielding a cost‑to‑serve of about 3 % of a traditional bank. Vélez projects a future where 100 % of the world has banking and credit access, driven by AI‑enabled intelligence that optimizes consumer finances and erodes traditional profit pools. He stresses that data volume (20 000–30 000 data points per customer over 13 years) is a critical moat, enabling superior credit decisions and AI models that new entrants cannot match quickly.\n\nKey themes include the early‑stage fintech transformation, the role of AI in delivering intelligence and cost savings, and the regulatory and data barriers that protect incumbents in the AI era.",
+    "key_themes": [
+      "Fintech market penetration",
+      "AI‑driven cost and intelligence advantage",
+      "Data moat and regulatory barriers"
+    ],
+    "market_signals": [
+      "Ramp saves businesses 5% annually on average",
+      "Nubank has 140 million customers and 10 000 employees",
+      "Nubank’s cost to serve is about 3% of a traditional bank",
+      "US retail deposits are $15 trillion with banks paying 40 basis points yield",
+      "In Brazil, 15% daily interest rate on overdue credit cards is a pain point"
+    ],
+    "framework_insights": [
+      "Speed of launch is a moat for AI‑native startups, but data volume and regulatory compliance become decisive barriers",
+      "Data depth (20 000–30 000 points per customer) creates a proprietary foundation model that fuels credit decisions",
+      "AI can democratize financial intelligence, turning banking into a commodity and eroding fee‑based profit pools",
+      "Cost advantage from digital infrastructure allows lower fees and better rates, attracting mass market customers",
+      "Regulatory approval is a hard, time‑consuming barrier that protects incumbents even in an AI‑driven landscape"
+    ],
+    "market_relevance": "Investors should watch for fintechs that combine large, deep data sets with AI to disrupt traditional banks, as these firms can rapidly scale cost‑efficient, customer‑centric services while incumbents face regulatory inertia."
+  },
+  {
+    "id": "4586810f2637d25e6770e0863f6fa488",
+    "source_id": "goldman_sachs",
+    "source_name": "Goldman Sachs",
+    "source_org": "Goldman Sachs",
+    "source_color": "#3b82f6",
+    "title": "Where Chinese Exports Are Gaining the Most Market Share",
+    "description": "Chinese exports are surging worldwide—and particularly in emerging markets, says Trina Chen, co-head of Greater China Equity Research. In the Goldman Sachs Exchanges podcast, Chen also explains which sectors face the biggest challenge from growing Chinese competition.\n\nKey takeaways:\n\n1. In emerging markets, revenue growth for Chinese companies may be increasing 15-times that of the local market: Goldman Sachs Research’s analysis of more than 10 sectors across industries reveals Chinese product market share has probably reached 24% in emerging markets.\n2. Chinese exports are not always cheaper: The perception that Chinese exports are gaining market share because they are cheaper may be true when they first enter the market, but prices in some cases rise over time. Improvements in product quality, for example, can close the price gap between the Chinese export and the local product.\n3. Domestic stock prices tend to respond rapidly when companies lose market share: Market capitalization can shrink by 50% or more when Chinese competition causes a company’s revenue to fall 10%-15%.\n\n[00:00] Introduction\n[00:30] Where are Chinese companies gaining market share?\n[02:17] Chinese exports and price deflation\n[05:39] Incumbent positioning and strategy\n[07:26] Vulnerable regions and sectors\n[08:50] Expansion through disruptive innovation\n[11:31] How much of this growth is priced in markets?\n[13:05] Investing strategy\n\nAlso available on Spotify (https://click.gs.com/myyr) and Apple Podcasts (https://click.gs.com/7x11) \n\nDate of recording: October 7, 2026\n\nThe opinions and views expressed herein are as of the date of publication, subject to change without notice, and may not necessarily reflect the institutional views of Goldman Sachs or its affiliates. The material provided is intended for informational purposes only, and does not constitute investment advice, a recommendation from any Goldman Sachs entity to take any particular action, or an offer or solicitation to purchase or sell any securities or financial products.  This material may contain forward-looking statements.  Past performance is not indicative of future results. Neither Goldman Sachs nor any of its affiliates make any representations or warranties, express or implied, as to the accuracy or completeness of the statements or information contained herein and disclaim any liability whatsoever for reliance on such information for any purpose.  Each name of a third-party organization mentioned is the property of the company to which it relates, is used here strictly for informational and identification purposes only and is not used to imply any ownership or license rights between any such company and Goldman Sachs. \n\nA transcript is provided for convenience and may differ from the original video or audio content. Goldman Sachs is not responsible for any errors in the transcript. This material should not be copied, distributed, published, or reproduced in whole or in part or disclosed by any recipient to any other person without the express written consent of Goldman Sachs. ⁠ \n\nDisclosures applicable to research with respect to issuers, if any, mentioned herein are available through your Goldman Sachs representative or at http://www.gs.com/research/hedge.html  \n\n© 2026 Goldman Sachs. All rights reserved.",
+    "published": "2026-10-13",
+    "week": "2026-W42",
+    "video_id": "1nekQIPKeOw",
+    "episode_url": "https://www.youtube.com/watch?v=1nekQIPKeOw",
+    "type": "youtube",
+    "duration_secs": null,
+    "transcript_length": 3312,
+    "speaker": "Trina Chen — co-head of Greater China Equity Research",
+    "one_line_summary": "Chinese exports are capturing up to 24% of emerging market share, with revenue growth 15‑times local markets, but price advantages may erode as quality improves.",
+    "summary": "Trina Chen explains that Chinese companies are rapidly expanding in emerging markets, achieving a product market share of about 24% across more than 10 sectors. Revenue growth for these firms can be 15‑times that of the local market. While Chinese exports initially gain through lower prices, the price gap narrows as product quality improves. Domestic firms that lose market share to Chinese competition can see market capitalisation shrink by 50% or more when revenue falls 10‑15%. The podcast highlights vulnerable regions and sectors, the role of disruptive innovation, and how much of this growth is priced in markets.\n\nKey takeaways include the magnitude of Chinese export penetration, the dynamic pricing relationship, and the sharp stock‑price impact on incumbents. The discussion underscores the importance of monitoring emerging market exposure and the potential for rapid value erosion in firms facing Chinese competition.",
+    "key_themes": [
+      "Emerging market penetration",
+      "Price dynamics and quality improvement",
+      "Stock‑price sensitivity to market share loss"
+    ],
+    "market_signals": [
+      "Chinese product market share has probably reached 24% in emerging markets",
+      "Revenue growth for Chinese companies may be increasing 15-times that of the local market",
+      "Domestic stock prices tend to respond rapidly when companies lose market share: Market capitalization can shrink by 50% or more when Chinese competition causes a company’s revenue to fall 10%-15%",
+      "Chinese exports are not always cheaper: prices in some cases rise over time as product quality improves",
+      "The perception that Chinese exports are gaining market share because they are cheaper may be true when they first enter the market, but prices in some cases rise over time"
+    ],
+    "framework_insights": [
+      "Chinese export growth can be measured by comparing revenue growth multiples relative to local markets"
+    ],
+    "market_relevance": "Investors should watch emerging market firms for signs of revenue erosion and stock‑price compression due to Chinese competition, and consider the potential for price convergence as quality improves."
+  },
+  {
     "id": "7d5cdbd847b0bd038602d0619079bc98",
     "source_id": "odd_lots",
     "source_name": "Odd Lots",
