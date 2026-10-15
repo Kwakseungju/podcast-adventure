@@ -1,5 +1,84 @@
 [
   {
+    "id": "b1dbff1b76f377a1948434a9c08227db",
+    "source_id": "odd_lots",
+    "source_name": "Odd Lots",
+    "source_org": "Bloomberg",
+    "source_color": "#06b6d4",
+    "title": "Jeff Yan's Plan to Bring the Entire Financial Industry Onto Hyperliquid",
+    "description": "<p>Traders and market watchers around the world started talking about a crypto platform called Hyperliquid earlier this year, when speculators used markets built on top of it to trade crude oil after war broke out in Iran. What Hyperliquid allowed for was a 24/7 market on the blockchain. Then in August, President Trump said the CFTC was working on bringing &ldquo;Hyperliquid into the United States in a fully compliant and legal fashion.&rdquo; Hyperliquid currently operates outside the US, but that hasn't stopped it from growing prodigiously in the last year. Jeff Yan, CEO and co-founder of Hyperliquid Labs, joins us today to explain how exactly the platform works: He walks us through the protocol he and his co-founders built, the ecology of actors and assets that are tied to Hyperliquid (like the platform's cryptocurrency HYPE), how perps are bought and sold on the platform, he explains what a blockchain oracle is, and he discusses what has to happen for Hyperliquid to start operating in the US.</p> <p>Read more:<br /><a href=\"https://www.bloomberg.com/news/articles/2026-10-13/strategy-s-saylor-sees-bitcoin-moving-back-up-beyond-100-000?utm_medium=referral&amp;utm_source=podcast&amp;utm_campaign=odd_lots&amp;utm_content=article\">Strategy&rsquo;s Saylor Sees Bitcoin Moving Back Up Beyond $100,000</a> <br /><a href=\"https://www.bloomberg.com/news/articles/2026-10-13/ledger-to-review-sale-policies-after-crypto-spyware-attack?utm_medium=referral&amp;utm_source=podcast&amp;utm_campaign=odd_lots&amp;utm_content=article\">A $90 Million Spyware Hack Sparks Review of Crypto Wallet Sales</a></p> <p>Only <a href=\"http://Bloomberg.com\">http://Bloomberg.com</a> subscribers can get the Odd Lots newsletter in their inbox each week, plus unlimited access to the site and app. Subscribe at&nbsp; <a href=\"https://www.bloomberg.com/subscriptions/oddlots?in_source=oddlotspodcast\">bloomberg.com/subscriptions/oddlots</a></p> <p><a href=\"http://bloomberg.com/subscriptions/oddlots\">Subscribe to the Odd Lots Newsletter</a><br /><strong>Join the conversation:</strong> <a href=\"https://discord.gg/oddlots\">discord.gg/oddlots</a></p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
+    "published": "2026-10-15",
+    "week": "2026-W42",
+    "audio_url": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/b143850e-7e8f-4144-8299-b4e30171ca7d/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
+    "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/b143850e-7e8f-4144-8299-b4e30171ca7d/transcript?format=TextWithTimestamps&t=1792017128",
+    "episode_url": "https://omny.fm/shows/odd-lots/jeff-yans-plan-to-bring-the-entire-financial-industry-onto-hyperliquid",
+    "type": "podcast",
+    "duration_secs": 3480,
+    "transcript_length": 58764,
+    "speaker": "Jeff Yan — co‑founder and CEO of Hyperliquid Labs",
+    "one_line_summary": "Hyperliquid is positioning itself as a neutral blockchain layer that could become the foundation for all finance, with a growing ecosystem, regulatory interest, and a unique staking‑driven deployment model.",
+    "summary": "Jeff Yan explains that Hyperliquid is a protocol that aims to be a neutral layer on which all finance can ultimately happen, describing it as a step‑function improvement over electronic trading. The protocol relies on a network of validators, with two‑thirds of the stake required to be non‑Byzantine to achieve a consistent global state. Deployers stake 500,000 hype tokens to create markets, such as perpetual futures on Bitcoin, NVIDIA, and other assets, and they provide oracles for price feeds. Yan notes that U.S. users are currently not allowed to use Hyperliquid, though many use VPNs, and that the CFTC is interested in bringing the protocol to the United States. The ecosystem already includes 24‑7 trading of commodities and equities like Brent, WTI, and S&P 500, indicating rapid growth and regulatory attention.",
+    "key_themes": [
+      "Decentralized finance infrastructure",
+      "Regulatory integration",
+      "Tokenized derivatives"
+    ],
+    "market_signals": [
+      "500,000 hype tokens required to stake for deployers",
+      "U.S. users are not allowed to use Hyperliquid, though many use VPNs",
+      "Donald Trump mentioned Hyperliquid, indicating regulatory attention",
+      "CFTC wants to bring the protocol to the United States",
+      "The most popular perpetuals are on Bitcoin’s price"
+    ],
+    "framework_insights": [
+      "Hyperliquid is a step‑function improvement over electronic trading",
+      "The protocol is a neutral layer that can host all finance",
+      "Consensus is achieved when two‑thirds of stake is non‑Byzantine",
+      "Deployers stake tokens to create markets and provide oracles",
+      "Oracles are off‑chain price feeds that can become on‑chain in the future"
+    ],
+    "market_relevance": "The combination of rapid ecosystem growth, regulatory interest, and a unique staking model makes Hyperliquid a potential catalyst for mainstream adoption of decentralized finance and a new foundation for regulated markets."
+  },
+  {
+    "id": "01427517938b6aa3b1d0a97da3a15f4a",
+    "source_id": "capital_allocators",
+    "source_name": "Capital Allocators",
+    "source_org": "Ted Seides",
+    "source_color": "#f43f5e",
+    "title": "Charlie Rose: Real Estate Credit Over Yield at Invesco's $85B Platform",
+    "description": "Charlie Rose is the Global Head of Real Estate Credit at Invesco, overseeing an $85 billion global real estate platform. Before Invesco, he was an academic researcher in real estate, navigated the financial crisis as a generalist, and spent eight years at Canyon Partners investing across the capital stack.\n\nWe cover Invesco's \"credit over yield\" philosophy and property-first underwriting, including how the equity team's losing bids become an information edge for the credit team. Charlie explains the focus on repeat borrowers, the industrial and multifamily \"sheds and beds\" thesis, and why Invesco avoids data center and AI-related lending on reusability and obsolescence grounds. He addresses the bank retreat from commercial real estate, with bank market share falling from roughly 51% to 33%, and what the wave of 2021-vintage loan maturities means for lenders positioned ahead of it.\n\nWe close with lessons from one of the three most severe commercial real estate corrections in modern history: managing troubled loans, block-by-block operational detail in industrial underwriting, and how Invesco is deploying AI for investment outcomes and investor experience rather than internal efficiency.\n\nChapters:\n0:00 Introduction\n2:35 Career trajectory toward credit investing\n7:11 Building Invesco real estate credit business\n11:57 Credit-over-yield investment philosophy\n13:59 Credit-over-yield underwriting philosophy\n16:10 Off-market borrower relationships driving returns\n19:36 Avoiding data centers, maintaining low correlation\n21:12 Current deployment themes and preferred sectors\n25:02 Office market post-COVID\n28:22 Loan underwriting process overview\n33:29 On-the-ground vs. financial model signals\n36:04 Invesco internal expertise and adjacencies\n41:22 Loan portfolio construction principles\n44:01 Managing distressed loans in downturns\n49:12 AI use in real estate investing\n53:58 Standby portfolio facilities for borrowers\n55:40 Private wealth access to real estate credit\n58:02 Outlook and personal motivation\n1:01:32 Closing personal questions\n1:05:43 Influential people in career\n1:07:31 Next five years personal priorities\n\nDISCLAIMER:\n*As of June 30, 2026.\nCapital Allocators and Invesco are not in any way affiliated.\nThis information is intended for Institutional Investors.\n\nInvestment risks\nInvestments focused in a particular sector, such as real estate, are subject to greater risk and are more greatly impacted by market volatility, than more diversified investments.\nImportant information\nInformation is provided as at September 18, 2026 and sourced from Invesco Real Estate unless otherwise stated.\nThis is marketing material and not financial advice. It is not intended as a recommendation to buy or sell any particular asset class, security or strategy. Regulatory requirements that require impartiality of investment/investment strategy recommendations are therefore not applicable nor are any prohibitions to trade before publication. Views and opinions are based on current market conditions and are subject to change.\nThis information is intended for Institutional Investors.\nInvesco Advisers, Inc. is an investment adviser; it provides investment advisory services to individual and institutional clients and does not sell securities. It is an indirect, wholly owned subsidiary of Invesco Ltd.\nAll material presented is compiled from sources believed to be reliable and current, but accuracy cannot be guaranteed. This is not to be construed as an offer to buy or sell any financial instruments and should not be relied upon as the sole factor in an investment making decision. As with all investments there are associated inherent risks. This should not be considered a recommendation to purchase any investment product. This does not constitute a recommendation of any investment strategy for a particular investor. Investors should consult a financial professional before making any investment decisions if they are uncertain whether an investment is suitable for them. Please obtain and review all financial material carefully before investing.\n©2026 Invesco Ltd. All rights reserved\nNA5972363\n\nRegister for TomorrowX with the Capital Allocators discount: https://tomorrowxsummit.com/partner-offer?token=WIVivSy7_so7XoVZGb2gLweZei3QtL8LZ_TdrCg-ocE\n\nLearn more about Juniper Square: https://www.junipersquare.com/\n\nSubscribe to the mailing list: https://capitalallocators.com/\nAccess Transcript with Premium Membership: https://capitalallocators.com/signup/\nSubscribe on Apple Podcast: https://podcasts.apple.com/us/podcast/capital-allocators-inside-the-institutional/id1223764016\nFollow Ted on Twitter: https://twitter.com/tseides\nFollow Ted on LinkedIn: https://www.linkedin.com/in/tedseides/\n\nEditing and post-production work for this episode was provided by The Podcast Consultant (https://thepodcastconsultant.com)\n\n#CharlieRose #RealEstateCredit #PrivateCredit #CapitalAllocators #InstitutionalInvesting",
+    "published": "2026-10-15",
+    "week": "2026-W42",
+    "video_id": "i3khS8E4FoA",
+    "episode_url": "https://www.youtube.com/watch?v=i3khS8E4FoA",
+    "type": "youtube",
+    "duration_secs": null,
+    "transcript_length": 4948,
+    "speaker": "Charlie Rose — Global Head of Real Estate Credit, Invesco",
+    "one_line_summary": "Invesco’s credit‑over‑yield strategy, built on property‑first underwriting and repeat borrower relationships, positions the firm to capitalize on the bank retreat and 2021‑vintage loan maturities while avoiding high‑correlation data center exposure.",
+    "summary": "Charlie Rose explains Invesco’s $85 billion real‑estate credit platform and its credit‑over‑yield philosophy, emphasizing property‑first underwriting and the advantage of losing equity bids as information for credit decisions. He highlights the focus on repeat borrowers, the industrial and multifamily “sheds and beds” thesis, and the avoidance of data center and AI lending due to reusability and obsolescence concerns. The discussion covers the bank retreat from commercial real estate, with market share falling from roughly 51 % to 33 %, and the implications of the 2021‑vintage loan maturities for lenders ahead of the wave. Invesco’s approach to distressed loan management, block‑by‑block operational detail, and the use of AI for investment outcomes rather than internal efficiency are also outlined.",
+    "key_themes": [
+      "Credit‑over‑Yield Philosophy",
+      "Property‑First Underwriting",
+      "Bank Retreat & Loan Maturity Dynamics"
+    ],
+    "market_signals": [
+      "Bank market share falling from roughly 51% to 33%",
+      "Avoiding data center and AI‑related lending on reusability and obsolescence grounds",
+      "2021‑vintage loan maturities creating a wave of maturities for lenders positioned ahead",
+      "Credit‑over‑yield investment philosophy as a positioning view",
+      "Industrial and multifamily “sheds and beds” thesis as a sector focus"
+    ],
+    "framework_insights": [
+      "Property‑first underwriting provides a disciplined approach to risk assessment",
+      "Repeat borrower relationships create an information edge for credit decisions",
+      "Credit‑over‑yield philosophy prioritizes yield over spread to capture value",
+      "Avoiding high‑correlation sectors mitigates portfolio risk",
+      "Using AI for investment outcomes enhances decision quality rather than internal efficiency"
+    ],
+    "market_relevance": "The shift of bank market share and the upcoming 2021‑vintage maturities signal a rebalancing of credit exposure, making Invesco’s strategy relevant for investors seeking yield‑focused, low‑correlation real‑estate credit opportunities."
+  },
+  {
     "id": "4a524c3a57361d6501afe05452c2dac1",
     "source_id": "in_good_company",
     "source_name": "In Good Company",
@@ -53,6 +132,153 @@
     "market_signals": [],
     "framework_insights": [],
     "market_relevance": "The discussion underscores the critical role of rigorous manager selection and portfolio construction in navigating current private market dynamics, offering a framework for endowments and institutional investors to refine their allocation strategies."
+  },
+  {
+    "id": "50c29b295d66fcaf731e0db5fd815171",
+    "source_id": "view_from_apollo",
+    "source_name": "The View from Apollo",
+    "source_org": "Apollo Global Management",
+    "source_color": "#a855f7",
+    "title": "Cycle, Structure, Selection: Private Equity Portfolios for Today’s Market",
+    "description": "Private equity deal and exit activity have picked up in 2026, but valuations remain elevated and the macro environment is still demanding. How is this shifting PE allocations? Diana Sands and equity product specialist Bryn Gostin dive into what's actually changed in the market, how drawdown and evergreen structures can play distinct roles in a portfolio and what it takes to construct a durable PE allocation when the old playbook no longer applies.",
+    "published": "2026-10-14",
+    "week": "2026-W42",
+    "audio_url": "https://media.blubrry.com/theviewfromapollo/ins.blubrry.com/theviewfromapollo/APO26086_Allocation-PE-Bryn_v7_261014.mp3",
+    "transcript_url": null,
+    "episode_url": "https://podcast.show/theviewfromapollo/episode/155722536/",
+    "type": "podcast",
+    "duration_secs": 814,
+    "transcript_length": 25900,
+    "speaker": "Bryn Gostin — Institutional Investor, Apollo Global Management",
+    "one_line_summary": "Private equity remains a valuable, diversified asset class, but 2026 demands deeper resourcing, higher deal costs, and a shift toward value‑oriented, operationally focused strategies amid a late‑cycle macro backdrop.",
+    "summary": "Bryn Gostin outlines the 2026 private‑equity landscape as one of higher deal costs, larger transaction volumes, and a move away from multiple‑expansion returns toward deeper value creation. He notes that the earnings‑multiple spread between private equity and the S&P 500 is at its widest ever, yet private‑equity earnings growth remains durable. The asset class still delivers 18‑20% annualized returns over rolling 10‑year periods, with downside volatility lower than public equity. Investors are increasingly focused on diversification and risk‑adjusted returns, while LPs weigh the trade‑off between the S&P 500’s recent strong performance and private‑equity’s structural advantages. Bryn recommends deploying consistently to capture vintage‑year risk, favoring value‑oriented, operationally driven strategies over growth‑heavy, discount‑rate‑sensitive tech plays in a higher‑rate environment. He also highlights the complementary roles of drawdown and evergreen structures for institutional and individual investors.\n\nKey data points include: deal cost index high; multiple‑expansion returns fell from almost two‑thirds to less than 10%; distribution yields dropped from 20% to about 10%; private‑equity earnings multiples are at an all‑time high relative to the S&P 500; private‑equity returns over 10 years are 18‑20% versus 9‑10% in bad decades.\n\nThe discussion underscores the need for robust teams across buy, build, and exit phases, and the importance of aligning management incentives and operational resources to unlock value in private‑equity investments.",
+    "key_themes": [
+      "Higher deal costs and larger transactions",
+      "Shift from multiple expansion to operational value creation",
+      "Diversification and risk‑adjusted returns"
+    ],
+    "market_signals": [
+      "Deal cost index is high, requiring more insight and industry knowledge to avoid overpaying",
+      "Multiple‑expansion made up almost two‑thirds of returns historically, now less than 10% in 2026",
+      "Distribution yields have fallen from 20% to closer to 10%",
+      "Private‑equity earnings multiples are at an all‑time high relative to the S&P 500",
+      "Private‑equity returns over rolling 10‑year periods are 18‑20% versus 9‑10% in bad decades"
+    ],
+    "framework_insights": [
+      "Private equity’s structural advantage lies in aligning management incentives and operational resources to unlock value",
+      "Vintage‑year risk is the single biggest risk; consistent deployment mitigates it",
+      "Value‑oriented, operationally focused strategies outperform growth‑heavy, discount‑rate‑sensitive plays in a higher‑rate environment",
+      "Diversification benefits arise because private‑equity exposure is less concentrated than public markets",
+      "Evergreen and drawdown structures serve complementary purposes, matching asset‑liability timing and investor liquidity needs"
+    ],
+    "market_relevance": "These signals and frameworks help investors assess whether to increase private‑equity exposure in a high‑rate, late‑cycle environment, and to choose structures and strategies that align with their risk tolerance and liquidity needs."
+  },
+  {
+    "id": "46d889a84c1cc13e62366c3a445ffe10",
+    "source_id": "masters_in_business",
+    "source_name": "Masters in Business",
+    "source_org": "Bloomberg",
+    "source_color": "#eab308",
+    "title": "At The Money: Is Technology Price Gouging Consumers?",
+    "description": "<p>Lots of forces are driving prices higher. But what about Artificial Intelligence, Algos, Surveillance Capitalism, and other technologies we all use every day? Might they be sending prices higher?</p> <p>Lindsay Owens is CEO of the Groundwork Collaborative, a DC-based economic think tank and author of a new bestseller, &ldquo;<em>Gouged: The End of a Fair Price&mdash;and What That Means for Your Wallet</em>.&rdquo;</p> <p>Each week, &ldquo;At the Money&rdquo; discusses an important topic in money management. From portfolio construction to taxes and cutting down on fees, join Barry Ritholtz to learn the best ways to put your money to work.</p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
+    "published": "2026-10-14",
+    "week": "2026-W42",
+    "audio_url": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/4e4cd910-40a1-4619-a5f3-ae2b0012ffff/a37213e4-e01b-40c0-87c7-b4e30149567e/audio.mp3?utm_source=Podcast&in_playlist=5873a3cb-298f-40bc-b71f-ae2b0013000d",
+    "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/a37213e4-e01b-40c0-87c7-b4e30149567e/transcript?format=TextWithTimestamps&t=1792008251",
+    "episode_url": "https://omny.fm/shows/masters-in-business/at-the-money-is-technology-price-gouging-consumers",
+    "type": "podcast",
+    "duration_secs": 1543,
+    "transcript_length": 22273,
+    "speaker": "Lindsay Owens — CEO, Groundwork Collaborative",
+    "one_line_summary": "Algorithmic pricing and data‑driven price gouging are now mainstream, enabling hidden collusion and personalized price hikes that can add up to hundreds of dollars a month for consumers.",
+    "summary": "Lindsay Owens explains how technology has transformed price setting from a simple cost‑plus model to a highly engineered, data‑driven process. She cites the RealPage Yieldstar case, where software enabled landlords to coordinate rents, leading to a $120‑per‑month impact estimate and a settlement with the Trump administration. Owens also highlights dynamic pricing experiments, such as Instacart’s 75% of items charged differently with up to 23% variance, and Delta’s partnership with AI firm Fetcher that increased fare‑adjustment scope from 1% to 20%. She notes the proliferation of surveillance‑based pricing—Walmart’s 2023 patent for adjusting prices based on cart contents and the potential for license‑plate‑driven price discrimination at fast‑food drive‑thrus. While acknowledging the negative consumer impact, Owens points to potential public good uses, like electronic shelf labels to reduce food waste.\n\nKey themes include the rise of algorithmic collusion, the role of data in personalized pricing, the erosion of competition through concentration, and the regulatory challenges of policing tech‑enabled price gouging.",
+    "key_themes": [
+      "Algorithmic Collusion",
+      "Data‑Driven Personalized Pricing",
+      "Market Concentration and Competition"
+    ],
+    "market_signals": [
+      "RealPage settlement with Trump administration; impact could be $120/month per renter",
+      "Instacart dynamic pricing: 75% of items varied, up to 23% higher for some shoppers",
+      "Delta’s Fetcher partnership: increased from 1% to 20% of fares for AI pricing",
+      "Walmart’s 2023 patent for cart‑based price adjustment (tuna + mayo example)",
+      "RealPage’s Yieldstar software allowed landlords to share sensitive data and recommend rents"
+    ],
+    "framework_insights": [
+      "Price fixing has become high‑tech: algorithms and AI replace human coordination",
+      "Market concentration amplifies the power of price‑setting technologies",
+      "Data collection enables personalized price discrimination that bypasses traditional comparison shopping",
+      "Regulatory enforcement struggles when information is shared via software and human advisors",
+      "Dynamic pricing can be repurposed for public good, e.g., rapid discounting to reduce food waste"
+    ],
+    "market_relevance": "Investors should monitor tech‑enabled pricing platforms for regulatory risk and potential consumer backlash, while recognizing that data‑driven price optimization can both inflate costs and offer new efficiency opportunities."
+  },
+  {
+    "id": "3d9e80d6a5217623c7771f244d4dfa8e",
+    "source_id": "asia_centric",
+    "source_name": "Asia Centric",
+    "source_org": "Bloomberg Intelligence",
+    "source_color": "#d946ef",
+    "title": "The Contrarian Edge in Pan-Asian Equities",
+    "description": "<p>In a region where hot themes such as the AI trade dominate the headlines and investors rapidly rotate through markets, playing the contrarian can offer a distinct edge. Steering clear of the hype is uncovering unique opportunities &ndash; from South Korean preferred stocks to high-yielding defensive companies in Hong Kong and beaten-down Indonesian equities &ndash; according to Daniel Rupp, CIO and founder of Parkway Capital.</p> <p>Rupp joins John Lee on the Asia Centric podcast to unpack his value-oriented, fundamental approach to pan-Asian equities. He also shares his experience of leaving a multibillion-dollar firm to build a long-only fund from scratch.</p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
+    "published": "2026-10-14",
+    "week": "2026-W42",
+    "audio_url": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/992d604b-06ca-40cb-88b2-af6c016f5aa0/c6ba9939-fd9e-4d21-a8ff-b4e30091cd69/audio.mp3?utm_source=Podcast&in_playlist=75a9f17c-2ff1-42c9-9a27-af6c016fae89",
+    "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/c6ba9939-fd9e-4d21-a8ff-b4e30091cd69/transcript?format=TextWithTimestamps&t=1791967997",
+    "episode_url": "https://omny.fm/shows/asia-centric-by-bloomberg-intelligence/the-contrarian-edge-in-pan-asian-equities",
+    "type": "podcast",
+    "duration_secs": 1398,
+    "transcript_length": 25012,
+    "speaker": "Daniel Rupp — CIO and founder of Parkway Capital",
+    "one_line_summary": "Contrarian value in Asia thrives on buying low‑multiple, high‑yield stocks in weak markets, especially Korea and Southeast Asia, while avoiding IPOs and AI‑heavy plays.",
+    "summary": "Daniel Rupp explains that a contrarian, long‑only strategy in Asia focuses on markets that have fallen, such as Korea and Southeast Asia, where cheap valuations and high yields can be captured. He cites the fund’s 50% return since January 2024, driven largely by Korea, and notes that the fund holds a third of its exposure in each of the three regions. Rupp highlights that the Asian market’s 20‑year trailing return of about 6% per year is half that of the S&P 500, and that earnings growth for the FTSE All‑Country Asia index was only 3‑4% versus 7‑8% for the S&P 500. He stresses a fundamental, bottom‑up approach, seeking companies with low‑to‑mid‑teens compounded earnings growth and strong capital returns. Rupp also explains why the fund avoids IPOs: only about one third of Hong Kong IPOs trade above offering price, and less than half are profitable on a trailing 12‑month basis. Finally, he discusses specific Southeast Asian opportunities, notably an Indonesian cement company with a German parent that returns 90% of free cash flow and uses renewable energy to gain a cost advantage.\n\nKey data points include the fund’s 50% return, the 6% annualized Asian market return, the 3‑4% earnings growth for Asia versus 7‑8% for the S&P 500, and the fact that only one third of recent Hong Kong IPOs trade above offering price.\n\nRupp’s approach is to add exposure to weak markets, focus on low multiples, high yields, and strong capital return histories, while steering clear of AI‑heavy or IPO‑heavy plays.",
+    "key_themes": [
+      "Contrarian value investing",
+      "Market segmentation and regional weighting",
+      "Fundamental bottom‑up screening"
+    ],
+    "market_signals": [
+      "Korea has a lot of cheap individual securities and low multiples despite headline performance",
+      "The fund had 50% return since January 2024, largely from Korea",
+      "Only about one third of Hong Kong IPOs trade above offering price and less than half are profitable on a trailing 12‑month basis",
+      "The Asian market’s 20‑year trailing return is about 6% per year, half that of the S&P 500",
+      "The Indonesian cement company has returned 90% of free cash flow over the last decade and uses renewable energy for a 15% cost advantage"
+    ],
+    "framework_insights": [
+      "Invest in markets that have fallen and look for low‑to‑mid‑teens compounded earnings growth",
+      "Avoid IPOs unless they have a proven track record of profitability and capital return",
+      "Use a fundamental, bottom‑up approach focusing on earnings growth and capital allocation",
+      "Seek companies with strong capital return histories and governance, especially those with foreign parent companies",
+      "Leverage regional diversification to capture low‑multiple, high‑yield opportunities"
+    ],
+    "market_relevance": "The insights highlight that Asia’s under‑performance relative to the S&P 500 is driven by lower earnings growth, and that contrarian value can be sourced in weak markets like Korea and Southeast Asia. Investors can look for low‑multiple, high‑yield stocks with strong capital return histories while avoiding IPOs and AI‑heavy plays."
+  },
+  {
+    "id": "8fd06d449fc77815c30894796baa323c",
+    "source_id": "goldman_sachs",
+    "source_name": "Goldman Sachs",
+    "source_org": "Goldman Sachs",
+    "source_color": "#3b82f6",
+    "title": "Quarterly Market Update 3Q 2026",
+    "description": "This quarter’s market environment was characterized by uncertainty around policy, rates, and geopolitics. Yet, equity markets continued to climb higher. Sofia Bonito, portfolio manager within Goldman Sachs’ Portfolio Management Group, discusses key factors that impacted the market over the quarter and the Wealth Management Investment Strategy Group’s outlook for the months ahead.\n \nFind Private Wealth Management’s latest Insights on the markets and investing here: https://pwm.gs.com/nam/en-us/insights/markets-and-investing?gsid=10643&amp;cmp=PIA&amp;chl=og&amp;plt=yt&amp;obj\n \nDate of recording: October 5, 2026\n \nDisclosures:\n \nPast performance is not indicative of future result, which may vary. Returns may increase or decrease as a result of currency fluctuations. These forecasts are estimated, based on assumptions, and are subject to significant revision and may change materially as economic and market conditions change. \n \nInvestment Strategy Group. The Investment Strategy Group, part of the Asset & Wealth Management business (“AWM”) of Goldman Sachs, focuses on asset allocation strategy formation and market analysis for GS Wealth Management. Forecasts expressed are based on material assumptions subject to change, and should not be interpreted as providing guarantees Any information that references ISG represents the views of ISG, is not financial research, and is not a product of GS Global Investment Research (“GIR”) or Goldman Sachs Asset Management and may vary significantly from views expressed by individual portfolio management teams within AWM, or other groups at Goldman Sachs.\n \nThis material is intended for educational purposes only and is provided solely on the basis that it will not constitute investment advice and will not form a primary basis for any personal or plan’s investment decisions. While it is based on information believed to be reliable, no warranty is given as to its accuracy or completeness and it should not be relied upon as such. Goldman Sachs is not a fiduciary with respect to any person or plan by reason of providing the material herein, information and opinions expressed by individuals other than Goldman Sachs employees do not necessarily reflect the view of Goldman Sachs. This material may not, without Goldman Sachs’ prior written consent, be (i) copied, photocopied or duplicated in any form, by any means, or (ii) distributed to any person that is not an employee, officer, director, or authorized agent of the recipient. This material is not an offer or solicitation with respect to the purchase or sale of any security in any jurisdiction. Investing involves risk, including the potential loss of money invested. Past performance does not guarantee future results. Neither asset diversification or investment in a continuous or periodic investment plan guarantees a profit or protects against a loss. Information and opinions provided herein are as of the date of this material only and are subject to change without notice.\n© 2026 Goldman Sachs. All rights reserved.",
+    "published": "2026-10-14",
+    "week": "2026-W42",
+    "video_id": "4Z6chlcUK7M",
+    "episode_url": "https://www.youtube.com/watch?v=4Z6chlcUK7M",
+    "type": "youtube",
+    "duration_secs": null,
+    "transcript_length": 3044,
+    "speaker": "",
+    "one_line_summary": "Equity markets rose amid policy, rate, and geopolitical uncertainty.",
+    "summary": "The podcast notes that despite uncertainty around policy, rates, and geopolitics, equity markets continued to climb higher during the quarter. Sofia Bonito, a portfolio manager in Goldman Sachs’ Portfolio Management Group, discussed key factors that impacted the market and the Wealth Management Investment Strategy Group’s outlook for the months ahead. No specific numbers, levels, or trade ideas were provided in the transcript.",
+    "key_themes": [
+      "Equity market resilience",
+      "Policy and rate uncertainty",
+      "Geopolitical risk"
+    ],
+    "market_signals": [],
+    "framework_insights": [],
+    "market_relevance": "The brief highlights that equity markets can remain robust even when macro‑environmental factors are uncertain, suggesting investors may consider maintaining exposure to equities while monitoring policy and geopolitical developments."
   },
   {
     "id": "924a55e163f2d3c673921d49c0a08998",
