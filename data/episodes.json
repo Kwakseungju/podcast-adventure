@@ -1,5 +1,127 @@
 [
   {
+    "id": "17e83aea87b0f0fff345e19c7c479e08",
+    "source_id": "odd_lots",
+    "source_name": "Odd Lots",
+    "source_org": "Bloomberg",
+    "source_color": "#06b6d4",
+    "title": "The French Political Crisis That's Turning Into a Debt Crisis",
+    "description": "<p>Just about everyone is worried about what is going on in France right now: the country's public finances are in sorry shape and there are fears that the French bond selloff, and the country's growing debt crisis, might spillover into the rest of Europe. On top of that, the 2027 elections have investors worried: The two leading candidates, Marine Le Pen and Jean-Luc M&eacute;lenchon, aren't seen to be up to the task of taming France's fiscal turmoil. Shahin Vall&eacute;e was an advisor to Emmanuel Macron when he was an economic minister and during his first presidential election campaign. Since then, he's paid close attention to the situation in France &mdash; he is currently a senior fellow at the German Council of Foreign Relations and he advises institutional investors &mdash; and he understands, better than most, what went wrong during Macron's nine years in office. Today, he speaks to us about the origins of the current French debt crisis, how similar it is to the challenges Greece faced during the first euro crisis, and why the 2027 elections are making an unstable situation even worse.</p> <p>Read more:<br /><a href=\"https://www.bloomberg.com/news/articles/2026-10-15/france-s-bond-turmoil-leaves-repo-funding-unscathed-for-now?utm_medium=referral&amp;utm_source=podcast&amp;utm_campaign=odd_lots&amp;utm_content=article\">Market for Funding Bonds in France Shows Crisis Is Way Off</a><br /><a href=\"https://www.bloomberg.com/news/articles/2026-10-12/bank-of-france-survey-shows-sharp-jump-in-business-uncertainty?utm_medium=referral&amp;utm_source=podcast&amp;utm_campaign=odd_lots&amp;utm_content=article\">Bank of France Survey Shows Sharp Jump in Business Uncertainty</a></p> <p>Only <a href=\"http://bloomberg.com/\">Bloomberg - Business News, Stock Markets, Finance, Breaking &amp; World News</a> subscribers can get the Odd Lots newsletter in their inbox each week, plus unlimited access to the site and app. Subscribe at&nbsp; <a href=\"https://www.bloomberg.com/subscriptions/oddlots?in_source=oddlotspodcast\">bloomberg.com/subscriptions/oddlots</a></p> <p><a href=\"http://bloomberg.com/subscriptions/oddlots\">Subscribe to the Odd Lots Newsletter</a><br /><strong>Join the conversation:</strong> <a href=\"https://discord.gg/oddlots\">discord.gg/oddlots</a></p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
+    "published": "2026-10-16",
+    "week": "2026-W42",
+    "audio_url": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/9eaa512a-78cf-4f3a-b125-b4e401078052/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
+    "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/9eaa512a-78cf-4f3a-b125-b4e401078052/transcript?format=TextWithTimestamps&t=1792080294",
+    "episode_url": "https://omny.fm/shows/odd-lots/the-french-political-crisis-thats-turning-into-a-debt-crisis",
+    "type": "podcast",
+    "duration_secs": 2854,
+    "transcript_length": 43709,
+    "speaker": "Shaheen Vallee — senior fellow at the German Council on Foreign Relations",
+    "one_line_summary": "French bond yields are spiking because markets now fear a political stalemate that could derail fiscal consolidation.",
+    "summary": "The podcast explains that French bond spreads have widened sharply as investors reassess the political risk surrounding the 2027 presidential and upcoming general elections.  The risk stems from the erosion of the centrist bloc, the rise of Marine Le Pen and Jean‑Luc Mélenchon as the only viable candidates, and the possibility that a Le Pen‑led government may struggle to secure a parliamentary majority.  Le Pen has announced a bold fiscal rule that would cut the deficit in half and tie fiscal discipline to a constitutional referendum, but she has not yet outlined concrete policy measures such as pension reform.  The episode also highlights that France’s fiscal fundamentals have not changed materially, yet the perception of political uncertainty has driven yields higher.\n\nKey points include: 1) French bond yields are “out of control”; 2) the political landscape has shifted from a centrist‑runoff expectation to a likely Le Pen vs. Mélenchon showdown; 3) Le Pen’s proposed fiscal rule is stricter than Germany’s debt‑break; 4) the risk of a post‑election stalemate could prevent credible fiscal adjustment; 5) markets previously priced in a “Meloni‑like” transition are now discounting that scenario.\n\nThe discussion underscores how political dynamics can override long‑standing fiscal fundamentals, creating a new source of risk for sovereign debt markets.",
+    "key_themes": [
+      "French debt crisis",
+      "Political risk and elections",
+      "Fiscal policy uncertainty"
+    ],
+    "market_signals": [
+      "French bond yields are out of control",
+      "Le Pen’s fiscal rule would cut the deficit in half and tie it to a constitutional referendum",
+      "Markets were giving the benefit of the doubt to France assuming a 2027 president and parliament could pass fiscal adjustment",
+      "The risk that France post‑elections in 2027 may be in a worse place for fiscal policy than today",
+      "Le Pen’s fiscal rule is stricter than Germany’s debt‑break"
+    ],
+    "framework_insights": [
+      "Political risk can become the dominant factor in sovereign credit even when fiscal fundamentals are unchanged",
+      "Elections that split the political spectrum can create a stalemate that hinders fiscal consolidation",
+      "A bold fiscal rule without concrete policy measures can erode credibility and increase market risk",
+      "Comparing national fiscal rules to European benchmarks helps assess relative risk",
+      "The perception of a likely political outcome can shift market pricing faster than actual policy changes"
+    ],
+    "market_relevance": "Investors should monitor French bond spreads and political developments closely, as a potential stalemate could trigger further yield spikes and affect the broader eurozone debt market."
+  },
+  {
+    "id": "170638ff0bb633bc0bfe37e197a9564d",
+    "source_id": "in_good_company",
+    "source_name": "In Good Company",
+    "source_org": "Norges Bank Investment Management",
+    "source_color": "#14b8a6",
+    "title": "Friday Wrap-Up: Online Dating and the Portfolio Manager Debrief",
+    "description": "<p>This week’s Friday Wrap-Up looks at Nicolai Tangen’s podcast conversation with Spencer Rascoff, CEO of Match Group, the company behind dating apps like Tinder and Hinge. With Marthe Skaar in Oslo and Nicolai in London, they discuss how online dating has changed the way people meet, the algorithm Rascoff compares to a deck of cards, and his advice for a better dating profile. They also look at why NBIM holds regular portfolio manager debriefs, and why sticking to a consistent methodology matters. Nicolai also shares what is on his agenda for the weekend. Tune in!</p><p>Listen to In Good Company with Spencer Rascoff, CEO of Match Group: <a href=\"https://podcasts.apple.com/no/podcast/john-armitage-how-he-invests-building-egerton-and/id1614211565?i=1000793578407\" rel=\"noopener noreferrer\" target=\"_blank\">https://podcasts.apple.com/no/podcast/john-armitage-how-he-invests-building-egerton-and/id1614211565?i=1000793578407</a> </p><br /><p>The Friday Wrap-Up is hosted by Marthe Skaar, Chief of Communications and External Relations, together with Nicolai Tangen, CEO of Norges Bank Investment Management. New episodes of In Good Company air every Wednesday, with the Friday Wrap-Up following each week to break it all down.</p><hr /><p style=\"color: grey; font-size: 0.75em;\"> Hosted on Acast. See <a href=\"https://acast.com/privacy\" rel=\"noopener noreferrer\" style=\"color: grey;\" target=\"_blank\">acast.com/privacy</a> for more information.</p>",
+    "published": "2026-10-16",
+    "week": "2026-W42",
+    "audio_url": "https://sphinx.acast.com/p/open/s/622618c7057f3400120d15db/e/6ad0bec85f788808a773db75/media.mp3",
+    "transcript_url": null,
+    "episode_url": "https://shows.acast.com/in-good-company-with-nicolai-tangen/episodes/friday-wrap-up-online-dating-and-the-portfolio-manager-debri",
+    "type": "podcast",
+    "duration_secs": 783,
+    "transcript_length": 1454,
+    "speaker": "",
+    "one_line_summary": "The episode highlights a conversation between Nicolai Tangen and Spencer Rascoff about online dating and portfolio management practices.",
+    "summary": "The Friday Wrap‑Up features Nicolai Tangen, CEO of Norges Bank Investment Management, and Spencer Rascoff, CEO of Match Group, discussing how online dating has changed social interactions and the algorithmic comparison to a deck of cards. They also touch on why NBIM conducts regular portfolio manager debriefs and the importance of a consistent methodology. The episode is hosted by Marthe Skaar, Chief of Communications and External Relations, and is part of the In Good Company series.\n\nKey points include the influence of dating apps like Tinder and Hinge, the strategic approach to portfolio management, and the routine debrief process at NBIM.",
+    "key_themes": [
+      "Online dating evolution",
+      "Algorithmic comparison",
+      "Portfolio manager debriefs"
+    ],
+    "market_signals": [],
+    "framework_insights": [],
+    "market_relevance": "The discussion offers limited actionable market data but underscores the value of consistent decision frameworks in portfolio management."
+  },
+  {
+    "id": "b0b6cc2fa337aacef30a82680da8f4c5",
+    "source_id": "goldman_sachs",
+    "source_name": "Goldman Sachs",
+    "source_org": "Goldman Sachs",
+    "source_color": "#3b82f6",
+    "title": "How Rising Rates and AI Issuance Are Affecting Credit Markets",
+    "description": "Credit markets have stayed resilient even as interest rates rise and investors scrutinize the outlook for artificial intelligence (AI), says Alex Finston, co-head of US and Asia Credit Trading in Goldman Sachs FICC and Equities. On The Markets podcast, Finston points out that historically, as long as the increase in rates is steady, investors have often seen rising bond yields as an opportunity. He also shares his take on higher-quality AI credit, whether investors should be hedging their portfolios, and municipal bonds.\n\nFilmed on October 15, 2026. \n\nThe opinions and views expressed herein are as of the date of publication, subject to change without notice, and may not necessarily reflect the institutional views of Goldman Sachs or its affiliates. The material provided is intended for informational purposes only, and does not constitute investment advice, a recommendation from any Goldman Sachs entity to take any particular action, or an offer or solicitation to purchase or sell any securities or financial products. This material may contain forward-looking statements. Past performance is not indicative of future results. Neither Goldman Sachs nor any of its affiliates make any representations or warranties, express or implied, as to the accuracy or completeness of the statements or information contained herein and disclaim any liability whatsoever for reliance on such information for any purpose. Each name of a third-party organization mentioned is the property of the company to which it relates, is used here strictly for informational and identification purposes only and is not used to imply any ownership or license rights between any such company and Goldman Sachs.\n\nA transcript is provided for convenience and may differ from the original video or audio content. Goldman Sachs is not responsible for any errors in the transcript. This material should not be copied, distributed, published, or reproduced in whole or in part or disclosed by any recipient to any other person without the express written consent of Goldman Sachs. ⁠  \n\n© 2026 Goldman Sachs. All rights reserved.",
+    "published": "2026-10-16",
+    "week": "2026-W42",
+    "video_id": "-chyckWWOuI",
+    "episode_url": "https://www.youtube.com/watch?v=-chyckWWOuI",
+    "type": "youtube",
+    "duration_secs": null,
+    "transcript_length": 2109,
+    "speaker": "Alex Finston — co-head of US and Asia Credit Trading in Goldman Sachs FICC and Equities",
+    "one_line_summary": "Credit markets remain resilient amid rising rates and AI scrutiny, with steady rate hikes seen as opportunities for bond yields.",
+    "summary": "Alex Finston of Goldman Sachs discusses the resilience of credit markets as interest rates rise and investors evaluate the outlook for artificial intelligence. He notes that historically, steady rate increases have allowed investors to view rising bond yields as opportunities. Finston also touches on higher-quality AI credit, portfolio hedging considerations, and municipal bonds. The episode emphasizes that credit markets can adapt to changing macro conditions while maintaining opportunities for investors.\n\nKey points include the observation that steady rate hikes can create yield opportunities, the importance of assessing AI-related credit quality, and considerations around hedging and municipal bond exposure.\n\nThe discussion is framed within the context of current market dynamics and the evolving role of AI in credit markets.",
+    "key_themes": [
+      "Credit Market Resilience",
+      "Interest Rate Dynamics",
+      "AI Credit Quality"
+    ],
+    "market_signals": [],
+    "framework_insights": [],
+    "market_relevance": "The insights highlight that steady rate hikes can still offer yield opportunities, underscoring the need for investors to remain vigilant about AI credit quality and hedging strategies in a changing macro environment."
+  },
+  {
+    "id": "514e226cd175618d49ec48b9dab98330",
+    "source_id": "goldman_sachs",
+    "source_name": "Goldman Sachs",
+    "source_org": "Goldman Sachs",
+    "source_color": "#3b82f6",
+    "title": "Quarterly Market Update 3Q 2026",
+    "description": "This quarter’s market environment was characterized by uncertainty around policy, rates, and geopolitics. Yet, equity markets continued to climb higher. Sofia Bonito, portfolio manager within Goldman Sachs’ Portfolio Management Group, discusses key factors that impacted the market over the quarter and the Wealth Management Investment Strategy Group’s outlook for the months ahead.\n \nFind Private Wealth Management’s latest Insights on the markets and investing here: https://pwm.gs.com/nam/en-us/insights/markets-and-investing?gsid=10643&amp;cmp=PIA&amp;chl=og&amp;plt=yt&amp;obj\n \nDate of recording: October 5, 2026\n \nDisclosures:\n \nPast performance is not indicative of future result, which may vary. Returns may increase or decrease as a result of currency fluctuations. These forecasts are estimated, based on assumptions, and are subject to significant revision and may change materially as economic and market conditions change. \n \nInvestment Strategy Group. The Investment Strategy Group, part of the Asset & Wealth Management business (“AWM”) of Goldman Sachs, focuses on asset allocation strategy formation and market analysis for GS Wealth Management. Forecasts expressed are based on material assumptions subject to change, and should not be interpreted as providing guarantees Any information that references ISG represents the views of ISG, is not financial research, and is not a product of GS Global Investment Research (“GIR”) or Goldman Sachs Asset Management and may vary significantly from views expressed by individual portfolio management teams within AWM, or other groups at Goldman Sachs.\n \nThis material is intended for educational purposes only and is provided solely on the basis that it will not constitute investment advice and will not form a primary basis for any personal or plan’s investment decisions. While it is based on information believed to be reliable, no warranty is given as to its accuracy or completeness and it should not be relied upon as such. Goldman Sachs is not a fiduciary with respect to any person or plan by reason of providing the material herein, information and opinions expressed by individuals other than Goldman Sachs employees do not necessarily reflect the view of Goldman Sachs. This material may not, without Goldman Sachs’ prior written consent, be (i) copied, photocopied or duplicated in any form, by any means, or (ii) distributed to any person that is not an employee, officer, director, or authorized agent of the recipient. This material is not an offer or solicitation with respect to the purchase or sale of any security in any jurisdiction. Investing involves risk, including the potential loss of money invested. Past performance does not guarantee future results. Neither asset diversification or investment in a continuous or periodic investment plan guarantees a profit or protects against a loss. Information and opinions provided herein are as of the date of this material only and are subject to change without notice.\n© 2026 Goldman Sachs. All rights reserved.",
+    "published": "2026-10-16",
+    "week": "2026-W42",
+    "video_id": "emCGf9Kuqjg",
+    "episode_url": "https://www.youtube.com/watch?v=emCGf9Kuqjg",
+    "type": "youtube",
+    "duration_secs": null,
+    "transcript_length": 3044,
+    "speaker": "Sofia Bonito — portfolio manager within Goldman Sachs’ Portfolio Management Group",
+    "one_line_summary": "Equity markets continued to climb despite policy, rate, and geopolitical uncertainty.",
+    "summary": "The quarter’s market environment was characterized by uncertainty around policy, rates, and geopolitics, yet equity markets continued to climb higher. Sofia Bonito, portfolio manager within Goldman Sachs’ Portfolio Management Group, discusses key factors that impacted the market over the quarter and the Wealth Management Investment Strategy Group’s outlook for the months ahead.",
+    "key_themes": [
+      "Equity market resilience",
+      "Policy uncertainty",
+      "Geopolitical risk"
+    ],
+    "market_signals": [],
+    "framework_insights": [],
+    "market_relevance": "Investors should note that equity markets can sustain gains even amid macro‑policy and geopolitical turbulence, underscoring the importance of maintaining exposure to equities while monitoring policy signals."
+  },
+  {
     "id": "b1dbff1b76f377a1948434a9c08227db",
     "source_id": "odd_lots",
     "source_name": "Odd Lots",
@@ -77,6 +199,46 @@
       "Using AI for investment outcomes enhances decision quality rather than internal efficiency"
     ],
     "market_relevance": "The shift of bank market share and the upcoming 2021‑vintage maturities signal a rebalancing of credit exposure, making Invesco’s strategy relevant for investors seeking yield‑focused, low‑correlation real‑estate credit opportunities."
+  },
+  {
+    "id": "363570c8cacc9bc8ef5ebfe26aa22e57",
+    "source_id": "credit_edge",
+    "source_name": "The Credit Edge",
+    "source_org": "Bloomberg Intelligence",
+    "source_color": "#f97316",
+    "title": "TCW Chops Credit Risk to Lowest in 30 Years as CCCs ‘Cry Uncle’",
+    "description": "<p>TCW&rsquo;s $160 billion fixed-income group has slashed credit risk to the lowest in three decades amid valuation and contagion concerns. &ldquo;Look back over the last 30 years &mdash; you would not find a period where we had less exposure to both investment-grade and high-yield bonds as we do today,&rdquo;Bryan Whalen, the group&rsquo;s chief investment officer, tells Bloomberg News&rsquo;James Crombie and Bloomberg Intelligence&rsquo;sJody Lurie in the latest episode of the Credit Edge podcast. They also discuss the potential for distress in debt rated CCC to spread to other parts of the corporate debt market. &ldquo;That is the weakest borrower, and they cry uncle first,&rdquo; says Whalen, referring to CCCs. &ldquo;Make no mistake about it &mdash; your single B borrower is going to feel it next, and then your double B borrowers.&rdquo;</p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
+    "published": "2026-10-15",
+    "week": "2026-W42",
+    "audio_url": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/e74a35e9-c028-4e5f-a3f7-afb10164a717/438e5ddd-4f02-4557-99c7-b4e4012fad94/audio.mp3?utm_source=Podcast&in_playlist=8792a2e9-d66c-4038-a1fe-afb101654894",
+    "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/438e5ddd-4f02-4557-99c7-b4e4012fad94/transcript?format=TextWithTimestamps&t=1792089033",
+    "episode_url": "https://omny.fm/shows/the-credit-edge-by-bloomberg-intelligence/tcw-chops-credit-risk-to-lowest-in-30-years-as-cccs-cry-uncle",
+    "type": "podcast",
+    "duration_secs": 3159,
+    "transcript_length": 56322,
+    "speaker": "Brian Whalen — Chief Investment Officer, TCW Fixed Income Group",
+    "one_line_summary": "TCW is underweight corporate credit because spreads are at all‑time lows and risk compensation is insufficient, so they shift to higher‑quality securitized assets.",
+    "summary": "Brian Whalen explains that TCW’s fixed‑income team, overseeing $160 billion, has never had such low exposure to both investment‑grade and high‑yield bonds.  Credit spreads are at all‑time lows, with investment‑grade still at the bottom and high‑yield “cheapened up a little bit, although it’s still very expensive.”  The firm’s strategy is to underweight corporate bonds and overweight securitized instruments—agency mortgage‑backed securities, commercial mortgage‑backed securities, and asset‑backed securities—because these offer better value and risk protection.  Whalen notes that the current 5%‑plus rate environment is “suffocating” for non‑AI parts of the economy, impacting housing, commercial real estate, and consumer credit, but that securitized structures provide high‑quality senior‑like protection even if underlying assets face pressure.\n\nHe also discusses the interest‑rate outlook, saying the Fed’s policy is moving toward a 1‑to‑2‑year horizon to return rates to a “neutral” level, which he estimates around 3.5%‑4.5% on the curve.  The firm’s underweight stance is not a cash position but a deliberate allocation shift, with the goal of capturing relative value between corporate bonds and securitized assets.\n\nKey themes include spread compression, risk‑reward trade‑offs, and the strategic use of securitized markets as a hedge against corporate credit risk.",
+    "key_themes": [
+      "Spread Compression",
+      "Risk‑Reward Allocation",
+      "Securitized Market Strategy"
+    ],
+    "market_signals": [
+      "Credit spreads at all‑time lows in investment‑grade and high‑yield markets",
+      "High‑yield bonds are still very expensive despite some cheapening",
+      "TCW’s underweight corporate bonds is the lowest in 30 years",
+      "Interest rates are 5% or higher, seen as suffocating for non‑AI sectors",
+      "TCW overweight agency mortgage‑backed securities as a higher‑quality alternative"
+    ],
+    "framework_insights": [
+      "Underweight corporate bonds is a relative value play against securitized assets",
+      "Securitized structures provide senior‑like protection even when underlying assets are stressed",
+      "Interest‑rate environment drives allocation between corporate and securitized markets",
+      "Diversification in securitized pools is less valuable if underlying assets are poor",
+      "High‑quality sponsorship and structure design mitigate credit risk"
+    ],
+    "market_relevance": "Investors should note that TCW’s shift signals a broader market view that corporate credit is under‑compensated, while securitized assets offer better risk‑adjusted returns in a high‑rate environment."
   },
   {
     "id": "4a524c3a57361d6501afe05452c2dac1",
