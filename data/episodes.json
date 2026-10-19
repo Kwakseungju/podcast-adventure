@@ -1,5 +1,72 @@
 [
   {
+    "id": "c493f4ece3060083c9d17690fc17e91b",
+    "source_id": "odd_lots",
+    "source_name": "Odd Lots",
+    "source_org": "Bloomberg",
+    "source_color": "#06b6d4",
+    "title": "Don Wilson on the GPU Market's Trillion Dollar Question",
+    "description": "<p>When we spoke to Don Wilson, founder and CEO of DRW, in Chicago last year, he told us he wanted to build a market for GPUs that would eventually be bigger than oil. A year's time in the age of AI is an eternity, and so for the first episode of this year's Chicago live show - recorded at City Winery - Wilson joins us on stage again to talk about what's changed and what hasn't in his quest to help build this market. We get his take on the recent tech selloff, including credit concerns around neocloud CoreWeave. And we also discuss how DRW is developing a &ldquo;crunch spread&rdquo; (the GPU version of a crack spread), the latest on his plans to launch GPU futures, and the possibility of token futures too.<br /><br />Read more: <a href=\"https://www.bloomberg.com/news/articles/2026-10-16/jump-drw-bet-on-new-compute-market-as-ai-boom-faces-scrutiny?utm_medium=referral&amp;utm_source=podcast&amp;utm_campaign=odd_lots&amp;utm_content=article\">Jump, DRW Bet on New Compute Market as AI Boom Faces Scrutiny</a><br /><br /><strong>Only Bloomberg.com</strong> <strong>subscribers can get the </strong><strong><em>Odd Lots</em></strong><strong> newsletter in their inbox, plus unlimited access to the site and app.</strong> <a href=\"https://www.bloomberg.com/subscriptions/oddlots?in_source=oddlotspodcast\"><strong>bloomberg.com/subscriptions/oddlots</strong></a></p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
+    "published": "2026-10-19",
+    "week": "2026-W43",
+    "audio_url": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/80dab570-fb6b-445e-b20e-b4e5015a3603/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
+    "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/80dab570-fb6b-445e-b20e-b4e5015a3603/transcript?format=TextWithTimestamps&t=1792186451",
+    "episode_url": "https://omny.fm/shows/odd-lots/don-wilson-on-the-gpu-markets-trillion-dollar-question",
+    "type": "podcast",
+    "duration_secs": 1619,
+    "transcript_length": 23649,
+    "speaker": "Don Wilson — Founder and CEO of DRW",
+    "one_line_summary": "GPU futures are emerging as a necessary risk‑management tool for a rapidly expanding, volatile compute market, but regulatory approval and index robustness remain key hurdles.",
+    "summary": "Don Wilson explains that the GPU market is moving toward a futures‑based structure to allow cloud and inference providers to hedge against price volatility and higher cost of capital for less creditworthy customers. He cites the CoreWeave bond yield at 15% as evidence of the high capital cost and the need for risk‑management products. The CFTC’s comment period is open and futures could list on November 9, after the November 3 deadline. GPU prices have been highly volatile: the H100 hourly on‑demand price fell, then rose around Thanksgiving with the launch of a new model, while the Silicon Data token index fell at the same time. Wilson notes that futures contracts will initially cover three‑year horizons and may expand as liquidity grows. He also discusses the challenges of creating a robust index, the need for separate contracts per chip generation, and the potential for token futures that mirror commodity spreads.",
+    "key_themes": [
+      "GPU futures development",
+      "Compute market risk management",
+      "Index robustness and regulation"
+    ],
+    "market_signals": [
+      "CoreWeave bond yield at 15% indicates high cost of capital",
+      "CFTC comment period open; futures could list Nov 9",
+      "H100 hourly on‑demand price fell then rose around Thanksgiving",
+      "Silicon Data token index fell concurrently with GPU price rise",
+      "GPU futures contracts initially 3‑year horizon, may extend with liquidity"
+    ],
+    "framework_insights": [
+      "Futures allow non‑creditworthy customers to hedge, reducing cost of capital for neoclouds",
+      "IOSCO compliance is a benchmark for index robustness",
+      "Separate futures contracts per chip generation are necessary due to rapid tech cycle",
+      "Token futures could create a ‘crunch spread’ similar to oil crack spreads",
+      "AI adoption drives exponential token spend, requiring optimal inference routing"
+    ],
+    "market_relevance": "Investors should watch the regulatory timeline and index development, as successful GPU futures could unlock new hedging strategies and lower capital costs for compute providers, reshaping the AI infrastructure landscape."
+  },
+  {
+    "id": "23c0b9e1c5a4a68f59af36dff029a6db",
+    "source_id": "capital_allocators",
+    "source_name": "Capital Allocators",
+    "source_org": "Ted Seides",
+    "source_color": "#f43f5e",
+    "title": "Tracy Britt Cool: Operating a Business Is Harder Than It Looks",
+    "description": "Tracy Britt Cool spent ten years at Berkshire Hathaway as one of Warren Buffett's few deputies before co-founding Kanbrick, a long-term investment partnership focused on family-owned, midsized businesses. Here she reflects on leading a major turnaround and what it revealed about the gap between investment assumptions and operating reality. The lesson she draws applies directly to how investors model margin improvement from the outside.\n\nFrom: Building a Berkshire for the Middle Market – Tracy Britt Cool (EP.521)\nListen to the full episode: https://www.capitalallocators.com/podcast/building-a-berkshire-for-the-middle-market/\n\nLearn more about Juniper Square here - https://www.junipersquare.com/ \n\nSubscribe to the mailing list: https://capitalallocators.com/\nAccess Transcript with Premium Membership: https://capitalallocators.com/signup/\nSubscribe on Apple Podcast: https://podcasts.apple.com/us/podcast/capital-allocators-inside-the-institutional/id1223764016\nFollow Ted on Twitter: https://twitter.com/tseides\nFollow Ted on LinkedIn: https://www.linkedin.com/in/tedseides/\n\nEditing and post-production work for this episode was provided by The Podcast Consultant (https://thepodcastconsultant.com)\n\n#TracyBrittCool #Kanbrick #PrivateEquity #CapitalAllocators #InstitutionalInvesting",
+    "published": "2026-10-19",
+    "week": "2026-W43",
+    "video_id": "lpSoW1elHGw",
+    "episode_url": "https://www.youtube.com/watch?v=lpSoW1elHGw",
+    "type": "youtube",
+    "duration_secs": null,
+    "transcript_length": 1294,
+    "speaker": "",
+    "one_line_summary": "Tracy Britt Cool discusses her experience leading a major turnaround at a family-owned business after a decade at Berkshire Hathaway.",
+    "summary": "The episode introduces Tracy Britt Cool, who spent ten years at Berkshire Hathaway as one of Warren Buffett’s few deputies before co‑founding Kanbrick, a long‑term investment partnership focused on family‑owned, midsized businesses. She reflects on leading a major turnaround and what it revealed about the gap between investment assumptions and operating reality, and how that lesson applies to modeling margin improvement from the outside.",
+    "key_themes": [
+      "Operating a business",
+      "Investment assumptions vs. operating reality",
+      "Margin improvement modeling"
+    ],
+    "market_signals": [],
+    "framework_insights": [],
+    "market_relevance": "The discussion highlights the importance of aligning investment models with on‑the‑ground operational realities, a lesson that can refine valuation and risk assessment for private equity and middle‑market investments."
+  },
+  {
     "id": "9f4cafa7b9933bf5bbbf982f98c6a9d3",
     "source_id": "odd_lots",
     "source_name": "Odd Lots",
