@@ -1,5 +1,85 @@
 [
   {
+    "id": "2483e44e3f21d038b27ec01246ddb480",
+    "source_id": "odd_lots",
+    "source_name": "Odd Lots",
+    "source_org": "Bloomberg",
+    "source_color": "#06b6d4",
+    "title": "CME's Terry Duffy on the Disconcerting State of Finance Regulation",
+    "description": "<p>The Commodity Futures Trading Commission was practically brand new when Terry Duffy started working at CME Gropu almost five decades ago, and over the course of his career at the exchange, this legend of the trading world has seen an enormous amount of change when it comes to finance regulation, including the rise of prediction markets, 24/7 trading and perpetual futures. Duffy is set to transition out of his current position as CEO next year, and this conversation, recorded live at City Winery in Chicago, is a sort of exit interview. He tells us how regulation has evolved since the start of his time at the CME. We also talk about why he is against perps, the credibility issues prediction markets face, his definition of spreads versus futures, and what he wishes he knew at the start of his career, now that he is nearing retirement.</p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
+    "published": "2026-10-20",
+    "week": "2026-W43",
+    "audio_url": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/32688ea9-4cbb-4bb4-8b3c-b4e8018899f5/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
+    "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/32688ea9-4cbb-4bb4-8b3c-b4e8018899f5/transcript?format=TextWithTimestamps&t=1792453971",
+    "episode_url": "https://omny.fm/shows/odd-lots/cmes-terry-duffy-on-the-disconcerting-state-of-finance-regulation",
+    "type": "podcast",
+    "duration_secs": 1784,
+    "transcript_length": 29850,
+    "speaker": "Terry Duffy — CEO and Chairman of CME Group",
+    "one_line_summary": "CME’s Terry Duffy warns that the rapid expansion of prediction markets and perpetual futures, coupled with weak enforcement of CFTC rules, threatens market integrity and regulatory stability.",
+    "summary": "Terry Duffy, long‑time CEO of CME Group, discusses the evolution of financial regulation from the early 1970s to today, noting the shift from a principles‑based agricultural regulator to a broad‑spectrum agency overseeing futures, options, and now crypto‑related products. He highlights the alarming trend of 2,500 self‑certifications submitted to the CFTC since the second Trump administration, none denied, and criticizes the approval of prediction contracts such as “how many hot dogs did Joey Chestnut eat?” as violating core principle three. Duffy also argues that perpetual futures are effectively swaps, not futures, and that their lack of expiration and high leverage create systemic risk, especially when accessed via offshore platforms like Hyperliquid. He stresses the need for durable, administration‑independent rules and warns that the current regulatory environment is fragile and susceptible to political change.",
+    "key_themes": [
+      "Regulatory evolution and fragility",
+      "Prediction markets and market manipulation",
+      "Perpetual futures as swaps and systemic risk"
+    ],
+    "market_signals": [
+      "2,500 self‑certifications submitted to the CFTC since the second Trump administration, none denied",
+      "CFTC approved a prediction contract on “how many hot dogs did Joey Chestnut eat?”",
+      "CFTC approved a perpetual futures contract for Bitcoin, classified as a swap with 1256 tax treatment",
+      "Perpetual futures lack an expiration date, creating risk management challenges",
+      "Hyperliquid offers leverage up to 250% on certain products, risking cascading liquidations"
+    ],
+    "framework_insights": [
+      "Regulatory resilience must be built to withstand political shifts, not just current administration policies",
+      "Prediction markets can provide informational value only if they meet core principle three and have natural buyers and sellers",
+      "Perpetual futures should be treated as swaps to apply appropriate tax and regulatory treatment",
+      "High leverage in crypto derivatives amplifies market volatility and can trigger systemic cascades",
+      "A market’s credibility depends on transparent, enforceable rules that prevent manipulation"
+    ],
+    "market_relevance": "Investors should monitor regulatory developments around prediction markets and perpetual futures, as weak enforcement could erode market integrity and increase systemic risk, especially in highly leveraged crypto derivatives."
+  },
+  {
+    "id": "d89ef59a308b1670550ef8552483e285",
+    "source_id": "invest_like_the_best",
+    "source_name": "Invest Like the Best",
+    "source_org": "Colossus",
+    "source_color": "#6366f1",
+    "title": "Christina Cacioppo - Building an Enduring Software Company in the Age of AI - [Invest Like the Best, EP.496]",
+    "description": "My guest today is Christina Cacioppo, founder and CEO of Vanta, which helps more than 16,000 companies manage security and compliance.&nbsp;\n\nFive years after our first conversation, we discuss how Vanta became a category leader, what it takes to reinvent a successful software business in the age of AI, and why Christina is betting on agents to do the work rather than simply assist users.&nbsp;\n\nWe also explore the changing economics of software, the war for exceptional talent, AI's impact on cybersecurity, and what it takes to build an enduring company in Silicon Valley's rapidly changing environment.&nbsp;\n\nPlease enjoy my conversation with Christina Cacioppo.\n\nFor the full show notes, transcript, and links to mentioned content, check out the episode page here.\n\n-----\n\nBecome a Colossus member to get our quarterly print magazine and private audio experience, including exclusive profiles and early access to select episodes. Subscribe at ⁠colossus.com/subscribe⁠.\n\n-----\n\n⁠Ramp’s⁠ mission is to help companies manage their spend in a way that reduces expenses and frees up time for teams to work on more valuable projects. Go to⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ⁠ramp.com/invest⁠⁠ to sign up for free and get a $250 welcome bonus.\n\n-----\n\nTrusted by thousands of businesses, ⁠Vanta⁠ continuously monitors your security posture and streamlines audits so you can win enterprise deals and build customer trust without the traditional overhead. Invest Like the Best listeners get a special offer of $1,000 off Vanta when you go to ⁠vanta.com/invest⁠.&nbsp;\n\n-----\n\nWorkOS⁠ is the infrastructure B2B and AI-native companies use to sell to enterprise. It covers everything enterprise security requires: SSO, SCIM, RBAC, Audit Logs, AI governance, and more. Trusted by 2,000+ fast-growing companies, including OpenAI, Anthropic, Cursor, and Vercel.\n\n-----\n\nRogo is the AI platform for finance. They're building agents for Wall Street that are trained to understand how bankers and investors actually do work: from diligence and modeling, to turning analysis into deliverables. To learn more, visit rogo.ai/invest.\n\n-----\n\n⁠Ridgeline⁠ has built a complete, real-time, modern operating system for investment managers. It handles trading, portfolio management, compliance, customer reporting, and much more through an all-in-one real-time cloud platform. Visit⁠ ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ridgeline.ai⁠.\n\n-----\n\nEditing and post-production work for this episode was provided by The Podcast Consultant.\n\nTimestamps:\n\n(00:00:00) How Vanta Won a Crowded Category\n\n(00:03:12) Living Through the Software Selloff\n\n(00:05:41) Building an Agent-First Product\n\n(00:07:39) Why Vanta Eats the Cost of AI\n\n(00:10:35) The Search for Outcome Pricing\n\n(00:14:31) Getting People to Actually Use AI\n\n(00:17:46) Why Comp for Top People Is Up 10X\n\n(00:22:13) Valuations, Tenders, and the Endgame\n\n(00:24:20) What’s Overhyped and Underhyped\n\n(00:27:54) The Problem With FDEs\n\n(00:29:34) Why French Startups Use Chinese Models\n\n(00:30:22) Vanta as a Security Company\n\n(00:36:57) What Makes a Great Talk\n\n(00:40:14) Where She Would Invest Today\n\n(00:45:19) The Billboard War\n\n(00:49:35) The AI Trust Crisis\n\n(00:51:39) Security Five Years From Now",
+    "published": "2026-10-20",
+    "week": "2026-W43",
+    "audio_url": "https://traffic.megaphone.fm/CLS1049065818.mp3",
+    "transcript_url": null,
+    "episode_url": "https://colossus.com/episode/becoming-a-category-winner/",
+    "type": "podcast",
+    "duration_secs": 3449,
+    "transcript_length": 43509,
+    "speaker": "Christina Cacioppo — Founder & CEO, Vanta",
+    "one_line_summary": "Vanta’s AI‑powered trust graph and agent are driving high‑margin growth, but valuation compression and token‑based pricing challenges loom as the market shifts toward outcome pricing.",
+    "summary": "Christina Cacioppo recounts Vanta’s evolution from a SOC 2 audit tool to a platform with 16,000 global customers and five products, built on a trust graph that pulls data from 400 tools. The company now powers an AI agent that automates compliance tasks, with 25 % of customers already using the agent flow and plans to grow that to 75 %. She explains how Vanta’s high‑margin model (80 % growth, 80 % margins) is under pressure as market multiples have fallen to a third or quarter of previous levels, a phenomenon she calls “SaaSpocalypse.” Cacioppo discusses token‑based pricing experiments, the decision to absorb token costs to improve user experience, and the industry’s broader move toward outcome pricing rather than token or credit models. She also highlights the importance of modularizing codebases to enable agents to understand large legacy systems, and the need to balance quality over cost in model selection.",
+    "key_themes": [
+      "AI‑driven compliance and trust graph",
+      "Valuation compression and growth‑margin trade‑offs",
+      "Outcome pricing vs token pricing"
+    ],
+    "market_signals": [
+      "Ramp saves businesses 5% annually on average",
+      "Vanta has 16,000 customers global",
+      "Vanta integrates with 400 tools",
+      "25% of Vanta customers use the agent flow",
+      "Valuation multiples for high‑margin businesses are now a third or quarter of previous levels"
+    ],
+    "framework_insights": [
+      "Trust graph as a security data lake fuels automation and agent capabilities",
+      "Continuous shipping of new features and integrations is essential to maintain differentiation",
+      "Integrating data from many tools creates a moat that supports higher margins",
+      "Modularizing legacy codebases enables AI agents to operate effectively",
+      "Outcome pricing aligns incentives but requires clear, agreed‑upon metrics"
+    ],
+    "market_relevance": "Investors should watch how high‑margin SaaS firms like Vanta navigate valuation compression and token‑pricing experiments, as the shift toward outcome pricing could reshape competitive dynamics in the compliance and AI‑enabled software space."
+  },
+  {
     "id": "c493f4ece3060083c9d17690fc17e91b",
     "source_id": "odd_lots",
     "source_name": "Odd Lots",
