@@ -1,5 +1,45 @@
 [
   {
+    "id": "788ec7b430cd09049ab71db18a52409e",
+    "source_id": "odd_lots",
+    "source_name": "Odd Lots",
+    "source_org": "Bloomberg",
+    "source_color": "#06b6d4",
+    "title": "Bhaskar Sunkara Thinks the Market Has a Place Under Socialism",
+    "description": "<p>In September, Gallup released a poll that showed that 43% percent of Americans viewed socialism positively, the highest approval since Gallup began the poll back in 2010. Since Zohran Mamdani won the NYC mayoral election, the left has made a number of gains across national politics. Still, the majority of Americans view socialism negatively, according to Gallup. As a longtime DSA member and veteran of leftist media, Bhaskar Sunkara is one of socialism's leading advocates, and he's spent much of his career charting what a socialist economy in America might look like. Unlike some other leftists, he believes the market has a place. In fact, he thinks markets and entrepreneurs are an objective good in society. He proposes a vision of so-called \"market socialism\" in his recent co-authored book <em>The Blueprint</em>, and he lays out this system for us in today's episode. We talk about how many features of capitalism &mdash; from small businesses to monetary policy &mdash; might be remade under socialist principles.</p> <p>Read more:<br /><a href=\"https://www.bloomberg.com/news/articles/2026-10-16/aoc-boosts-abdul-el-sayed-and-2028-talk-with-1-million-check?utm_medium=referral&amp;utm_source=podcast&amp;utm_campaign=odd_lots&amp;utm_content=article\">Ocasio-Cortez Boosts El-Sayed and 2028 Talk With $1 Million Check</a><br /><a href=\"https://www.bloomberg.com/news/articles/2026-10-16/an-economist-makes-the-case-for-mamdani-style-populism?utm_medium=referral&amp;utm_source=podcast&amp;utm_campaign=odd_lots&amp;utm_content=article\">An Economist Makes the Case for Mamdani-Style Populism</a></p> <p>Only <a href=\"http://bloomberg.com/\">Bloomberg - Business News, Stock Markets, Finance, Breaking &amp; World News</a> subscribers can get the Odd Lots newsletter in their inbox each week, plus unlimited access to the site and app. Subscribe at&nbsp; <a href=\"https://www.bloomberg.com/subscriptions/oddlots?in_source=oddlotspodcast\">bloomberg.com/subscriptions/oddlots</a></p> <p><a href=\"http://bloomberg.com/subscriptions/oddlots\">Subscribe to the Odd Lots Newsletter</a><br /><strong>Join the conversation:</strong> <a href=\"https://discord.gg/oddlots\">discord.gg/oddlots</a></p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
+    "published": "2026-10-22",
+    "week": "2026-W43",
+    "audio_url": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/a0e15df4-4a62-4b81-bbf5-b4ea00ed7a3c/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
+    "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/a0e15df4-4a62-4b81-bbf5-b4ea00ed7a3c/transcript?format=TextWithTimestamps&t=1792593217",
+    "episode_url": "https://omny.fm/shows/odd-lots/bhaskar-sunkara-thinks-the-market-has-a-place-under-socialism",
+    "type": "podcast",
+    "duration_secs": 3202,
+    "transcript_length": 54021,
+    "speaker": "Bhaskar Sankara — co‑author of The Blueprint, longtime DSA member, founding editor of Jacobin Magazine and president of The Nation",
+    "one_line_summary": "Bhaskar Sankara argues that a market‑socialist model—combining labor‑managed firms, public banks, and benchmark wages—can deliver egalitarian outcomes without sacrificing efficiency.",
+    "summary": "Bhaskar Sankara explains that the current U.S. capitalism differs from 19th‑century models and that a market‑socialist framework can harness existing institutions—public banks, labor‑managed cooperatives, and a system of benchmark wages—to create a more egalitarian economy. He cites examples such as Mondragon and public banks to illustrate how firms can be financed, managed, and profit‑shared without resorting to state‑run enterprises. Sankara stresses the importance of entrepreneurial risk, benchmark wages (e.g., a line cook paid $15 an hour), and the need for hard budget constraints to avoid the inefficiencies that plagued 20th‑century command economies. He also notes that markets can coexist with socialism if they are structured to reduce exploitation and alienation through worker ownership and residual profit sharing.",
+    "key_themes": [
+      "Market Socialism",
+      "Labor‑Managed Firms",
+      "Benchmark Wages"
+    ],
+    "market_signals": [
+      "Line cook benchmark wage set at $15 an hour",
+      "New firm loans from public banks likely carry higher interest rates than loans for established firms",
+      "Operating agreements may allow a manager a 4:1 or 6:1 income differentiation",
+      "Soft budget constraints in state socialism caused inefficient firms to be kept alive",
+      "Entrepreneurial risk is valued as a key component of the model"
+    ],
+    "framework_insights": [
+      "Market‑socialism blends market mechanisms with egalitarian principles to avoid exploitation",
+      "Labor‑managed firms can operate efficiently when workers receive both base wages and residual profits",
+      "Benchmark wages provide a minimum income floor and incentivize efficient management",
+      "Hard budget constraints encourage firm failure as a sign of economic health",
+      "Public banks can finance new ventures while maintaining fiscal discipline"
+    ],
+    "market_relevance": "The discussion highlights how policy shifts toward public banking and cooperative ownership could reshape capital allocation, potentially influencing investment strategies in sectors like fintech, real‑estate, and consumer goods."
+  },
+  {
     "id": "d4e2f9d7e8028513d36b5c9d833ef2ef",
     "source_id": "odd_lots",
     "source_name": "Odd Lots",
@@ -87,6 +127,86 @@
     "market_signals": [],
     "framework_insights": [],
     "market_relevance": "Kanbrick’s patient, operating‑focused model offers a counter‑example to the current trend of rapid private‑equity exits, suggesting that disciplined, long‑term ownership can unlock hidden value in midsized family businesses."
+  },
+  {
+    "id": "afa9337e688527fafd843c6a50f34d22",
+    "source_id": "masters_in_business",
+    "source_name": "Masters in Business",
+    "source_org": "Bloomberg",
+    "source_color": "#eab308",
+    "title": "At The Money: Can Dividend Investing Give You Yield AND Growth?",
+    "description": "<p>Investors who want to reduce risk but still maintain equity exposure may want to explore dividend equities. David Bahnsen is founder, managing partner and chief investment office of The Bahnsen Group, a national private wealth management firm. His new book is &ldquo;Profit from the profit: the past, present, and future of dividend growth investing.&rdquo;&nbsp;&nbsp;</p> <p>Each week, &ldquo;At the Money&rdquo; discusses an important topic in money management. From portfolio construction to taxes and cutting down on fees, join Barry Ritholtz to learn the best ways to put your money to work.</p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
+    "published": "2026-10-21",
+    "week": "2026-W43",
+    "audio_url": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/4e4cd910-40a1-4619-a5f3-ae2b0012ffff/83a0b894-4ef0-4fd9-bf66-b4ea0140a643/audio.mp3?utm_source=Podcast&in_playlist=5873a3cb-298f-40bc-b71f-ae2b0013000d",
+    "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/83a0b894-4ef0-4fd9-bf66-b4ea0140a643/transcript?format=TextWithTimestamps&t=1792612092",
+    "episode_url": "https://omny.fm/shows/masters-in-business/at-the-money-can-dividend-investing-give-you-yield-and-growth",
+    "type": "podcast",
+    "duration_secs": 1410,
+    "transcript_length": 22353,
+    "speaker": "David Bonson — Founder and Chief Investment Officer, Bonson Group",
+    "one_line_summary": "Dividend growth is a reliable source of cash flow and defensive return, but only when driven by sustainable free cash flow and a culture of consistent dividend increases.",
+    "summary": "David Bonson argues that dividends are not a trade‑off with total return; they are a channel to total return that reflects real cash. He stresses that a company’s willingness to consistently pay and grow dividends signals strong free cash flow, healthy balance sheets, and management confidence. Bonson warns against high‑yield traps, citing Citigroup’s 2007 dividend cut after a 99% price decline and the need to look at free cash flow, payout ratios, and qualitative management intent. He also notes that dividend growers have historically outperformed the market in defensive periods, with beta around 0.6, and that dividend growth often exceeds inflation, providing real‑value cash flow. Finally, he cautions that buying a stock just before ex‑dividend is a short‑term play that ignores fundamentals.\n\nKey data points include Broadcom’s 16‑fold price increase, 14% annual dividend growth, and a resulting 1% yield; Walmart’s 60% price jump reducing its yield from 3.5% to 1.5%; a 4% yield example dropping to 8% after a 50% price fall; the 2009‑2026 bull market’s 15% annual compounded return; and the 2008 market drop lasting 18 months.\n\nThe discussion underscores that dividend investing remains a viable strategy in rising‑rate, high‑inflation environments, provided investors focus on sustainability metrics rather than headline yields.",
+    "key_themes": [
+      "Dividend sustainability and free cash flow",
+      "Yield traps and valuation metrics",
+      "Defensive beta and inflation‑beat"
+    ],
+    "market_signals": [
+      "Broadcom stock up 16 times, 14% dividend growth, yield 1%",
+      "Walmart price up 60%, yield from 3.5% to 1.5%",
+      "Citigroup dividend cut after 99% price decline in 2007",
+      "2009‑2026 bull market compounded 15% a year",
+      "2008 market drop lasted 18 months, S&P up 0% 2000‑2009"
+    ],
+    "framework_insights": [
+      "Dividend is real cash, free cash flow is pure, dividend reflects management confidence",
+      "High yield often signals imminent cut; focus on dividend growth instead",
+      "Dividend growers have beta ~0.6, offering defensive exposure",
+      "Dividend growth > inflation provides real‑value cash flow",
+      "Qualitative assessment of management intent is essential; quantitative metrics alone insufficient"
+    ],
+    "market_relevance": "In today’s high‑rate, inflationary backdrop, investors seeking stable income should prioritize dividend growers with proven free cash flow and management commitment, while avoiding yield traps that can erode capital."
+  },
+  {
+    "id": "b7f675f0c998a7c6c6950a3624520443",
+    "source_id": "asia_centric",
+    "source_name": "Asia Centric",
+    "source_org": "Bloomberg Intelligence",
+    "source_color": "#d946ef",
+    "title": "Morgan Stanley on Beijing's 'Made by China' Shift",
+    "description": "<p>China's share of global exports continues to rise despite US import restrictions. Rather than pulling back, the country is evolving from a \"Made in China\" to a \"Made by China\" model, supplying critical capital goods and high-value components to emerging markets such as Vietnam, Mexico and India. And after dominating the electric vehicle supply chain, China is now aggressively targeting humanoids and robotics as its next frontier.</p> <p>Chetan Ahya, Chief Asia Economist at Morgan Stanley, joins host John Lee on the Asia Centric podcast to break down the five distinct factors driving this industrial strategy. He also discusses how policymakers have been effective in anticipating global demand trends, but also the investor risks tied to manufacturing overcapacity.</p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
+    "published": "2026-10-21",
+    "week": "2026-W43",
+    "audio_url": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/992d604b-06ca-40cb-88b2-af6c016f5aa0/ec455dcc-9e2e-413b-92c5-b4ea004bcb3b/audio.mp3?utm_source=Podcast&in_playlist=75a9f17c-2ff1-42c9-9a27-af6c016fae89",
+    "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/ec455dcc-9e2e-413b-92c5-b4ea004bcb3b/transcript?format=TextWithTimestamps&t=1792557454",
+    "episode_url": "https://omny.fm/shows/asia-centric-by-bloomberg-intelligence/morgan-stanley-on-beijings-made-by-china-shift",
+    "type": "podcast",
+    "duration_secs": 1100,
+    "transcript_length": 17553,
+    "speaker": "Chetan Ayar — Chief Asia Economist, Morgan Stanley",
+    "one_line_summary": "China’s shift to a ‘made‑by‑China’ model keeps its global value‑add share flat at 15.4% while expanding dominance into high‑value sectors like EVs, solar, batteries and robotics, but risks overcapacity and uncertain returns in new industries.",
+    "summary": "Chetan Ayar explains that China’s manufacturing evolution is moving from simply exporting finished goods to enabling other emerging markets to produce goods with Chinese components and know‑how—what he terms a ‘made‑by‑China’ model. Despite a sharp drop in China’s direct US export share from 22% in 2017 to 8% today, the overall value‑add content of Chinese goods remains flat at 15.4%, driven by continued exports to Vietnam, Mexico, Taiwan, India and others. China maintains dominance in low‑value‑added segments while increasingly penetrating higher‑value‑added sectors such as solar, batteries, EVs and, most recently, robotics and humanoids. Ayar attributes China’s success to five key factors: long‑term planning, integrated supply‑chain execution, a financial system aligned with strategic goals, rising R&D spending at 2.8% of GDP, and a high share of STEM graduates (≈40%). He cautions that aggressive investment in new sectors may lead to overcapacity and uncertain returns, echoing concerns seen in the EV industry. Finally, he notes that China’s trade surplus of over $1.2 trillion is likely to persist amid protectionist pressures, and that a shift toward higher domestic consumption is unlikely under current policy priorities.",
+    "key_themes": [
+      "Made‑by‑China model",
+      "Value‑add share stability",
+      "Strategic investment framework"
+    ],
+    "market_signals": [
+      "China’s share of direct US imports fell from 22% in 2017 to 8% now",
+      "China’s overall value‑add content remains flat at 15.4%",
+      "China’s R&D spending is 2.8% of GDP, slightly higher than OECD average",
+      "China’s share of STEM graduates is about 40%, double the US share of 20%",
+      "China’s trade surplus has ballooned to over $1.2 trillion"
+    ],
+    "framework_insights": [
+      "China’s ‘made‑by‑China’ model: supply‑chain integration and component export to emerging markets keeps value‑add share stable",
+      "Strategic planning: identify high‑growth sectors 10 years ahead and build integrated supply chains",
+      "Financial alignment: banking system acts like a venture capital fund, funding high‑risk, high‑potential projects",
+      "R&D investment as a competitive edge: 2.8% of GDP fuels technological leadership",
+      "Human capital density: 40% STEM graduates provide a talent advantage"
+    ],
+    "market_relevance": "Investors should monitor China’s continued dominance in high‑value manufacturing and the potential for overcapacity in nascent sectors like robotics, while recognizing that China’s trade surplus and strategic investment model may sustain supply‑chain influence despite protectionist pressures."
   },
   {
     "id": "2483e44e3f21d038b27ec01246ddb480",
