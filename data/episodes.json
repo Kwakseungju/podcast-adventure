@@ -1,5 +1,45 @@
 [
   {
+    "id": "53a46a53b6b4db2cd9f20cac4a008fe9",
+    "source_id": "odd_lots",
+    "source_name": "Odd Lots",
+    "source_org": "Bloomberg",
+    "source_color": "#06b6d4",
+    "title": "How a Chicago Restaurant Has Stayed Open For Nearly Three Decades",
+    "description": "<p>Richard Mott's first foray into hospitality was in the 1980s at the University of Chicago, where he started running a coffee shop in the basement of the business school when he was a grad student. By the time he graduated, he helped grow that single coffee shop into four locations across campus. He's a longtime Chicago-based restaurateur and his farm-to-table restaurant North Pond has been around since the late 1990s. Lately, he's expanded his business to include Spark Shared Kitchen, a catering facility and incubator for food entrepreneurs. He knows a lot about the practical economics of restaurants and hospitality at large, and in his decades-long career in the Chicago scene he's seen about everything. On our recent trip to Chicago, we sat down with Mott to talk about the ever-increasing price of food and labor, why diners are drinking less, and the expected and unexpected reasons that restaurants so often fail.</p> <p>Read more:<br /><a href=\"https://www.bloomberg.com/news/articles/2026-10-21/chicago-seeks-to-borrow-for-police-settlements-revive-head-tax?utm_medium=referral&amp;utm_source=podcast&amp;utm_campaign=odd_lots&amp;utm_content=article\">Chicago Seeks to Borrow for Police Settlements, Revive Head Tax</a><br /><a href=\"https://www.bloomberg.com/news/articles/2026-10-23/chipotle-s-softening-sales-force-analyst-to-throw-in-the-towel?utm_medium=referral&amp;utm_source=podcast&amp;utm_campaign=odd_lots&amp;utm_content=article\">Chipotle&rsquo;s Softening Sales Force Analyst to Throw in the Towel</a></p> <p>Only <a href=\"http://Bloomberg.com\">http://Bloomberg.com</a> subscribers can get the Odd Lots newsletter in their inbox each week, plus unlimited access to the site and app. Subscribe at&nbsp; <a href=\"https://www.bloomberg.com/subscriptions/oddlots?in_source=oddlotspodcast\">bloomberg.com/subscriptions/oddlots</a></p> <p><a href=\"http://bloomberg.com/subscriptions/oddlots\">Subscribe to the Odd Lots Newsletter</a><br /><strong>Join the conversation:</strong> <a href=\"https://discord.gg/oddlots\">discord.gg/oddlots</a></p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
+    "published": "2026-10-24",
+    "week": "2026-W43",
+    "audio_url": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/0e910a81-d26f-4e7f-852a-b4ec0142c272/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
+    "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/0e910a81-d26f-4e7f-852a-b4ec0142c272/transcript?format=TextWithTimestamps&t=1792784431",
+    "episode_url": "https://omny.fm/shows/odd-lots/how-a-chicago-restaurant-has-stayed-open-for-nearly-three-decades",
+    "type": "podcast",
+    "duration_secs": 2925,
+    "transcript_length": 48224,
+    "speaker": "Richard Mott — Owner, North Pond & Spark Shared Kitchen",
+    "one_line_summary": "A former finance student turned entrepreneur built a 30‑year‑old fine dining restaurant and a 20‑shop coffee‑shop chain by learning the hard way that hiring and team matter more than ideas.",
+    "summary": "Richard Mott recounts how he left a summer internship at Progressive Insurance to launch a coffee shop in the basement of the University of Chicago’s business school in 1981. The venture grew to 20 locations on campus and eventually 23 shops across five universities, generating a full‑time P&L and teaching him the value of hiring and operational discipline. He later pivoted to fine dining with North Pond, a restaurant that has survived 30 years—an unusually long lifespan for an independent fine‑dining venue—by focusing on chef talent and publicity rather than brand name. Mott also highlights the evolution of business schools, noting that entrepreneurial studies have become the largest concentration at Booth, contrasting with the past emphasis on corporate careers.\n\nKey data points include the 1981 launch, 20 coffee shops, 5 university contracts, 30 years of North Pond, and daily traffic of 400 students and 300 visitors in a campus building.\n\nThe conversation underscores the importance of learning from mistakes, the shift in business education toward entrepreneurship, and the distinct economics of coffee shops versus fine dining.",
+    "key_themes": [
+      "Entrepreneurship & Learning Curves",
+      "Business School Evolution",
+      "Fine Dining Longevity"
+    ],
+    "market_signals": [
+      "\"I started this in 1981\"",
+      "\"we had a portfolio of 23 shops\"",
+      "\"we had five universities that we worked for\"",
+      "\"We've been there 30 years\"",
+      "\"400 students in the building on Tuesday and we get 300 visitors\""
+    ],
+    "framework_insights": [
+      "The shift from idea‑centric to team‑centric success: \"I would flip that on the, I said now, and I would say it's 20% and the idea is it's the team and it's the, your environment and it's your support network.\"",
+      "Learning from mistakes is essential: \"I was a little too insistent on working for myself at that time, opened the business, and literally made every mistake you possibly could.\"",
+      "Hiring is the biggest operational challenge: \"I got into bad leases. Oh, boy. Hiring people. I think that was probably the biggest thing was hiring people.\"",
+      "Business schools now teach holistic entrepreneurship, reflecting market needs: \"the largest single concentration, larger than marketing or finance, the largest single concentration at the school right now is entrepreneurial studies.\"",
+      "Fine dining longevity requires celebrity chef culture and publicity rather than brand name: \"The last three chefs have all been on the cover of Food & Wine, won James Beard Awards, et cetera.\""
+    ],
+    "market_relevance": "Mott’s story illustrates that in today’s market, companies that invest in hiring, team building, and adaptive learning can outlast industry norms—an insight valuable for investors evaluating long‑term operational resilience."
+  },
+  {
     "id": "635757d4500ae7431915d4b3725af924",
     "source_id": "odd_lots",
     "source_name": "Odd Lots",
@@ -182,6 +222,73 @@
       "Vertical SaaS and agentic workflows represent the next growth leg for AI in finance"
     ],
     "market_relevance": "The rapid AI adoption at Intapp signals a broader shift in investment firm operations, offering opportunities for firms that can integrate agentic AI while managing governance risks."
+  },
+  {
+    "id": "9064403136d3791b8a0db8636b03a799",
+    "source_id": "masters_in_business",
+    "source_name": "Masters in Business",
+    "source_org": "Bloomberg",
+    "source_color": "#eab308",
+    "title": "Embracing the Bond Market: Masters in Business with Robin Wigglesworth",
+    "description": "<p>Barry speaks with Robin Wigglesworth, editor of Financial Times' Alphaville blog and author of the new book 'A Fabulous Debt: The Epic Story of How Bonds Built the Modern World'. They discuss the bond market as the engine of the global economy, why the 30-year mortgage is \"a miracle of the modern world,\" and when we should actually start worrying about US debt.</p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
+    "published": "2026-10-23",
+    "week": "2026-W43",
+    "audio_url": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/4e4cd910-40a1-4619-a5f3-ae2b0012ffff/251887d3-99d6-40c2-ba4a-b4ec01519804/audio.mp3?utm_source=Podcast&in_playlist=5873a3cb-298f-40bc-b71f-ae2b0013000d",
+    "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/251887d3-99d6-40c2-ba4a-b4ec01519804/transcript?format=TextWithTimestamps&t=1792788006",
+    "episode_url": "https://omny.fm/shows/masters-in-business/embracing-the-bond-market-masters-in-business-with-robin-wigglesworth",
+    "type": "podcast",
+    "duration_secs": 5052,
+    "transcript_length": 83459,
+    "speaker": "Robin Wigglesworth — editor of FT Alphaville",
+    "one_line_summary": "Bonds are the engine of the global economy, far larger than equities or banking, and their history shows recurring patterns of credit creation and crisis.",
+    "summary": "Robin Wigglesworth discusses his new book *A Fabulous Debt*, arguing that bonds are the world’s most powerful financial engine, larger than the equity market and the banking system. He traces bond history from 4,000‑year‑old Mesopotamian clay tablets to the first Italian war loan in 1171, noting how debt financed infrastructure, wars, and innovation. Wigglesworth emphasizes that while bonds can fund both progress and destruction, they remain the primary channel for capital flow. He also reflects on his career covering Islamic bonds, the Dubai debt crisis, and the Eurozone crisis, illustrating how bond markets shape macro outcomes.\n\nKey points include the size comparison of bond versus equity markets, the role of Islamic bonds as zero‑coupon instruments, and the recurring nature of credit cycles.\n\nThe transcript also touches on the COVID crisis as a recent example of how debt markets influence personal and professional trajectories.\n",
+    "key_themes": [
+      "Bond market dominance",
+      "Historical credit cycles",
+      "Debt as engine of progress"
+    ],
+    "market_signals": [],
+    "framework_insights": [],
+    "market_relevance": "Understanding the sheer scale and historical role of bonds helps investors gauge systemic risk and the potential impact of credit market shifts on global growth."
+  },
+  {
+    "id": "78ef4aad0e4a8309c576c703e3265ada",
+    "source_id": "goldman_sachs",
+    "source_name": "Goldman Sachs",
+    "source_org": "Goldman Sachs",
+    "source_color": "#3b82f6",
+    "title": "Why Investors Are Reducing AI Exposure",
+    "description": "Markets are scrutinizing the crowded AI trade as investors reassess technology infrastructure spending plans and factor in rising capital costs, says Rich Privorotsky, head of European Equities Trading within Goldman Sachs FICC and Equities. Third-quarter earnings from mega-cap tech will be critical, Privorotsky says on The Markets podcast. Investors are not only watching hyperscaler investment plans but looking for evidence that the spending is translating into revenue growth. He also describes a “seismic shift” from a savings glut to a spending glut, which along with high energy prices is lowering investor risk appetite.  \n\nRecorded on October 22, 2026. \n\nThe opinions and views expressed herein are as of the date of publication, subject to change without notice, and may not necessarily reflect the institutional views of Goldman Sachs or its affiliates. The material provided is intended for informational purposes only, and does not constitute investment advice, a recommendation from any Goldman Sachs entity to take any particular action, or an offer or solicitation to purchase or sell any securities or financial products. This material may contain forward-looking statements. Past performance is not indicative of future results. Neither Goldman Sachs nor any of its affiliates make any representations or warranties, express or implied, as to the accuracy or completeness of the statements or information contained herein and disclaim any liability whatsoever for reliance on such information for any purpose. Each name of a third-party organization mentioned is the property of the company to which it relates, is used here strictly for informational and identification purposes only and is not used to imply any ownership or license rights between any such company and Goldman Sachs.\n\nA transcript is provided for convenience and may differ from the original video or audio content. Goldman Sachs is not responsible for any errors in the transcript. This material should not be copied, distributed, published, or reproduced in whole or in part or disclosed by any recipient to any other person without the express written consent of Goldman Sachs. ⁠  \n\n© 2026 Goldman Sachs. All rights reserved.",
+    "published": "2026-10-23",
+    "week": "2026-W43",
+    "video_id": "c2n7stXlqlw",
+    "episode_url": "https://www.youtube.com/watch?v=c2n7stXlqlw",
+    "type": "youtube",
+    "duration_secs": null,
+    "transcript_length": 2217,
+    "speaker": "Rich Privorotsky — head of European Equities Trading within Goldman Sachs FICC and Equities",
+    "one_line_summary": "Investors are trimming AI exposure as rising capital costs and a shift from savings to spending glut erode risk appetite, making third‑quarter earnings and hyperscaler spending evidence critical.",
+    "summary": "Rich Privorotsky notes that markets are scrutinizing the crowded AI trade as investors reassess technology infrastructure spending plans and factor in rising capital costs. He stresses that third‑quarter earnings from mega‑cap tech will be critical, and that investors are not only watching hyperscaler investment plans but also looking for evidence that the spending is translating into revenue growth. Privorotsky describes a “seismic shift” from a savings glut to a spending glut, which, along with high energy prices, is lowering investor risk appetite.",
+    "key_themes": [
+      "AI trade scrutiny",
+      "Capital cost impact",
+      "Revenue evidence for spending"
+    ],
+    "market_signals": [
+      "Investors reassessing technology infrastructure spending plans due to rising capital costs",
+      "Third‑quarter earnings from mega‑cap tech will be critical",
+      "Investors watching hyperscaler investment plans",
+      "Investors looking for evidence that spending translates into revenue growth",
+      "Seismic shift from savings glut to spending glut, high energy prices lowering risk appetite"
+    ],
+    "framework_insights": [
+      "Shift from savings glut to spending glut as a mental model for market sentiment",
+      "Revenue evidence is essential to justify technology spending",
+      "High energy prices reduce risk appetite, affecting investment decisions",
+      "Capital costs are a key factor in evaluating AI exposure",
+      "Assessing hyperscaler investment plans provides insight into future revenue potential"
+    ],
+    "market_relevance": "The convergence of higher capital costs, a spending glut, and energy price pressures is prompting investors to reduce AI exposure, making earnings and spending evidence crucial for portfolio decisions."
   },
   {
     "id": "788ec7b430cd09049ab71db18a52409e",
