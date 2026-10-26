@@ -1,5 +1,45 @@
 [
   {
+    "id": "03f37e134afec39a90498c89197f9454",
+    "source_id": "odd_lots",
+    "source_name": "Odd Lots",
+    "source_org": "Bloomberg",
+    "source_color": "#06b6d4",
+    "title": "AI Agents Are Already Changing the Price of Goods",
+    "description": "<p>It's obvious that things are getting more expensive, and there are plenty of reasons behind the surge in prices &mdash; whether it's wars or inflation or companies padding their profit margins. But with the release of AI agents like Meta's Muse, tech companies are promising consumers that agents will start saving them tons of money by finding the best deals. According to today's guest, Lindsay Owens, the history of price gouging does not bode well for claims that things might get cheaper because of new technology, and research conducted by her think tank Groundwork Collaborative shows that a number of consumer facing agents end up serving customers more expensive items after learning more about their financial situation. Her new book <em>Gouged: The End of a Fair Price &mdash; and What That Means for Your Wallet</em> gets into the history of how companies got away with charging more for their goods, through means like data collection and surveillance. Today we talk to Owens about how AI agents are already changing the idea of a fair price, all the pre-AI ways that companies price gouged, and her new book.</p> <p>Read more:<br /><a href=\"https://www.bloomberg.com/news/articles/2026-10-19/uber-wins-bid-to-dismiss-250-million-black-cab-driver-suit?utm_medium=referral&amp;utm_source=podcast&amp;utm_campaign=odd_lots&amp;utm_content=article\">Uber Wins Bid to Dismiss &pound;250 Million Black Cab Driver Suit</a><br /><a href=\"https://www.bloomberg.com/news/articles/2026-10-20/ryanair-ceo-predicts-highest-air-fares-in-history-next-year?utm_medium=referral&amp;utm_source=podcast&amp;utm_campaign=odd_lots&amp;utm_content=article\">Ryanair CEO Predicts Historic Jump in Air Fares Next Year</a></p> <p>Only <a href=\"http://bloomberg.com/\">Bloomberg - Business News, Stock Markets, Finance, Breaking &amp; World News</a> subscribers can get the Odd Lots newsletter in their inbox each week, plus unlimited access to the site and app. Subscribe at&nbsp; <a href=\"https://www.bloomberg.com/subscriptions/oddlots?in_source=oddlotspodcast\">bloomberg.com/subscriptions/oddlots</a></p> <p><a href=\"http://bloomberg.com/subscriptions/oddlots\">Subscribe to the Odd Lots Newsletter</a><br /><strong>Join the conversation:</strong> <a href=\"https://discord.gg/oddlots\">discord.gg/oddlots</a></p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
+    "published": "2026-10-26",
+    "week": "2026-W44",
+    "audio_url": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/ce2dc3a9-d06c-43f3-918e-b4ec014a82ff/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
+    "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/ce2dc3a9-d06c-43f3-918e-b4ec014a82ff/transcript?format=TextWithTimestamps&t=1792786099",
+    "episode_url": "https://omny.fm/shows/odd-lots/ai-agents-are-already-changing-the-price-of-goods",
+    "type": "podcast",
+    "duration_secs": 3029,
+    "transcript_length": 53893,
+    "speaker": "Lindsay Owen — President, Groundwork Collaborative",
+    "one_line_summary": "AI‑driven pricing is eroding the old fixed‑price norm, creating a new arms race where shoppers and sellers are pitted against each other and consumers face hidden, personalized price hikes.",
+    "summary": "The episode centers on how AI agents are transforming retail pricing. Lindsay Owen explains that algorithmic pricing is an umbrella term for any algorithm‑based price setting, while dynamic pricing varies with market conditions and personalized (first‑degree) pricing tailors prices to individual shoppers. She cites a 325,000‑agent experiment that found agents, even when told to find the cheapest option, often chose more expensive, sponsored products. A separate Instacart study showed 75% of 23 items were priced differently for different shoppers, with price gaps up to 23% and an estimated $1,200 extra annual cost for some households. The discussion also touches on the K‑shaped economy, A/B testing versus true personalization, and the erosion of price transparency that once helped budget shoppers.\n\nKey data points include the 23% price variation, the $1,200 yearly cost differential, the 60‑dollar fee spread on StubHub tickets, and the drop to $4 in incognito mode. The conversation underscores that AI pricing is not just a technological shift but a structural change that can materially affect consumer spending and market competition.\n\nThe episode ends with a reminder that while some consumers may benefit from lower prices, many are being charged more, and the line between legitimate A/B testing and covert price discrimination is increasingly blurred.",
+    "key_themes": [
+      "AI‑driven pricing",
+      "Personalized price discrimination",
+      "Erosion of price transparency"
+    ],
+    "market_signals": [
+      "23% price variation on Instacart items",
+      "$1,200 extra annual cost for some households",
+      "325,000‑agent experiment found agents chose more expensive options",
+      "$60 fee spread on StubHub tickets",
+      "Incognito mode dropped fee dispersion from $60 to $4"
+    ],
+    "framework_insights": [
+      "Algorithmic pricing is an umbrella term for any algorithmic price setting",
+      "Dynamic pricing varies with market conditions, supply and demand",
+      "Personalized pricing equals first‑degree price discrimination",
+      "K‑shaped economy shows firms targeting high‑income consumers",
+      "A/B testing can masquerade as personalized pricing"
+    ],
+    "market_relevance": "Investors should monitor AI pricing trends as they can signal shifts in consumer spending power and competitive dynamics, potentially impacting retail margins and consumer‑price‑index calculations."
+  },
+  {
     "id": "53a46a53b6b4db2cd9f20cac4a008fe9",
     "source_id": "odd_lots",
     "source_name": "Odd Lots",
