@@ -1,5 +1,45 @@
 [
   {
+    "id": "9fed4cfa6f2786810e78803ca3851409",
+    "source_id": "invest_like_the_best",
+    "source_name": "Invest Like the Best",
+    "source_org": "Colossus",
+    "source_color": "#6366f1",
+    "title": "Cliff Sosin - Owning the Complements to Intelligence - [Invest Like the Best, EP.497]",
+    "description": "Cliff Sosin is the founder of CAS Investment Partners, which he started in 2012. Roughly 80% of his portfolio is in Carvana.&nbsp;\n\nWe discuss why Cliff thinks there are hard limits to what even the smartest AI can predict, which businesses benefit as intelligence gets cheap, and what that means for Meta and the frontier labs.&nbsp;\n\nWe also cover why he avoids investing in the AI build-out, how AI agents will push customers to the lowest-cost provider, and why he is comfortable with 80% of his portfolio in one stock.&nbsp;\n\nPlease enjoy my conversation with Cliff Sosin.\n\nFor the full show notes, transcript, and links to mentioned content, check out the episode page here.\n\n-----\n\nBecome a Colossus member to get our quarterly print magazine and private audio experience, including exclusive profiles and early access to select episodes. Subscribe at ⁠colossus.com/subscribe⁠.\n\n-----\n\n⁠Ramp’s⁠ mission is to help companies manage their spend in a way that reduces expenses and frees up time for teams to work on more valuable projects. Go to⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ⁠ramp.com/invest⁠⁠ to sign up for free and get a $250 welcome bonus.\n\n-----\n\nTrusted by thousands of businesses, ⁠Vanta⁠ continuously monitors your security posture and streamlines audits so you can win enterprise deals and build customer trust without the traditional overhead. Invest Like the Best listeners get a special offer of $1,000 off Vanta when you go to ⁠vanta.com/invest⁠.&nbsp;\n\n-----\n\nWorkOS⁠ is the infrastructure B2B and AI-native companies use to sell to enterprise. It covers everything enterprise security requires: SSO, SCIM, RBAC, Audit Logs, AI governance, and more. Trusted by 2,000+ fast-growing companies, including OpenAI, Anthropic, Cursor, and Vercel.\n\n-----\n\nRogo is the AI platform for finance. They're building agents for Wall Street that are trained to understand how bankers and investors actually do work: from diligence and modeling, to turning analysis into deliverables. To learn more, visit rogo.ai/invest.\n\n-----\n\n⁠Ridgeline⁠ has built a complete, real-time, modern operating system for investment managers. It handles trading, portfolio management, compliance, customer reporting, and much more through an all-in-one real-time cloud platform. Visit⁠ ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ridgeline.ai⁠.\n\n-----\n\nEditing and post-production work for this episode was provided by The Podcast Consultant.\n\nTimestamps:\n\n(00:00:00) Why Intelligence Has Limits\n\n(00:02:34) Chaos Theory and the Butterfly Effect\n\n(00:04:59) A 200 IQ Team in Every Pocket\n\n(00:07:33) Meta as Personalized TV\n\n(00:11:18) The Frontier Labs as Businesses\n\n(00:14:59) Jevons Paradox and the Limits of Demand\n\n(00:18:47) Automated Labs and the Speed Limits of Experiments\n\n(00:20:39) Why He Stays Away from the AI Build-Out\n\n(00:22:28) Why the Best Entrepreneurs Are Building Supply\n\n(00:24:22) Lessons from Past Capital Cycles\n\n(00:26:05) TSMC and Physical Moats\n\n(00:27:03) AI Agents and the Low-Cost Producer\n\n(00:29:44) Will AI Replace Investors?\n\n(00:32:01) Price as a Signal Wrapped in an Incentive\n\n(00:34:16) America’s Underrated Capital Markets\n\n(00:37:05) Why America Dominates Risk-Taking\n\n(00:38:36) What Higher Rates Are Telling Us\n\n(00:39:24) The AI Speech He Gives His Companies\n\n(00:41:45) The Best Time to Start a Company\n\n(00:43:03) Corporate Margins and Vertical Stacks\n\n(00:45:16) AI and the Income Distribution\n\n(00:48:13) Letting AI Size the Portfolio\n\n(00:50:56) Why He Holds So Much Carvana\n\n(00:52:22) Educating Kids in the Age of AI",
+    "published": "2026-10-27",
+    "week": "2026-W44",
+    "audio_url": "https://traffic.megaphone.fm/CLS5603610979.mp3",
+    "transcript_url": null,
+    "episode_url": "https://colossus.com/episode/the-limits-of-intelligence/",
+    "type": "podcast",
+    "duration_secs": 3649,
+    "transcript_length": 48137,
+    "speaker": "",
+    "one_line_summary": "Intelligence is becoming cheap and ubiquitous, so the real competitive edge lies in owning the complements—data, attention, and scale—while recognizing that complex adaptive systems limit even perfect AI.",
+    "summary": "The interview highlights several emerging trends in AI-enabled finance and enterprise tools. Ramp claims to make finance teams leaner, faster, and better, saving businesses 5% annually on average, and has just opened in the UK. WorkOS offers core enterprise capabilities like SSO, SCIM, RBAC, and audit logs, enabling AI teams to scale quickly. Rogo provides AI agents for financial institutions, automating deal screening, drafting, outreach, and diligence while building a secure institutional memory. The guest discusses the limits of intelligence, framing it as a ratio rather than an unbounded scalar, and explains how complex adaptive systems (e.g., weather models) amplify small errors, making perfect prediction impossible. He argues that as intelligence becomes cheap, the value shifts to the complements—data, attention, regulatory capture, and scale—illustrated by Meta’s $250 B revenue and billions spent on data centers, inference, and talent. He also touches on the commoditization of frontier AI models and the strategic advantage of labs that can produce cheaper, high‑quality tokens.\n\nKey themes include the rapid cost decline of AI, the strategic importance of complements to intelligence, the inherent limits of predictive models in complex systems, and the evolving competitive dynamics between large tech firms and niche platforms.\n\nThe discussion underscores that investors should focus on companies that own or control the complements to AI—massive data sets, user attention, and regulatory advantages—rather than the AI models themselves, which are increasingly commoditized.",
+    "key_themes": [
+      "AI cost decline",
+      "Complements to intelligence",
+      "Limits of predictive models"
+    ],
+    "market_signals": [
+      "Ramp saves businesses 5% annually on average",
+      "Ramp just opened for business in the United Kingdom",
+      "Meta has $250 billion in revenue and spends billions a year on intelligence-related costs",
+      "WorkOS provides core enterprise capabilities like SSO, SCIM, RBAC, and audit logs",
+      "Rogo’s AI agents autonomously execute large chunks of firm workflows"
+    ],
+    "framework_insights": [
+      "Intelligence is a ratio, like the roundness of a ball, not an unbounded scalar",
+      "Complex adaptive systems amplify small errors, limiting perfect prediction",
+      "The real value lies in owning complements to intelligence—data, attention, scale, regulatory capture",
+      "Frontier AI models commoditize quickly; only the ability to produce cheaper tokens gives lasting advantage",
+      "Investors should assume ubiquitous cheap intelligence and focus on what remains scarce"
+    ],
+    "market_relevance": "As AI becomes a commodity, investors must identify firms that own the scarce complements—massive data, user attention, and regulatory advantages—to capture long‑term value."
+  },
+  {
     "id": "03f37e134afec39a90498c89197f9454",
     "source_id": "odd_lots",
     "source_name": "Odd Lots",
