@@ -1,5 +1,83 @@
 [
   {
+    "id": "072d556d2bc22ecae8f384746376802e",
+    "source_id": "odd_lots",
+    "source_name": "Odd Lots",
+    "source_org": "Bloomberg",
+    "source_color": "#06b6d4",
+    "title": "What Wall Street Really Thinks About the AI Trade Now",
+    "description": "<p>It has been a big week for the AI trade &mdash; we've seen wobbles in the market, many of them in response to headlines like the Anthropic S-1 and earnings from the hyperscalers (Oracle, Microsoft, etc.). So what does Wall Street make of all the news, and how are they processing an increasing sense that the laws of the economy barely apply to AI? Today, we speak with Alexander 'Alty' Altmann, global head of equities tactical strategies at Barclays, and he helps us make sense of how Wall Street really feels about the AI trade right now. We also talk about the KOSPI-fication of the S&amp;P 500, if there are any historical precedents for the capex going into the AI buildout, and if AI is really immune to interest rates.<br /><br />Read More: <a href=\"https://www.bloomberg.com/news/articles/2026-10-28/microsoft-reports-quarterly-cloud-sales-that-beat-estimates?srnd=homepage-americas?utm_medium=referral&amp;utm_source=podcast&amp;utm_campaign=odd_lots&amp;utm_content=article\">Microsoft Reports Rising Cloud Sales That Show Payoff From AI</a><br /><br />Only Bloomberg.com subscribers can get the Odd Lots newsletter in their inbox, plus unlimited access to the site and app. <a href=\"https://www.bloomberg.com/subscriptions/oddlots?in_source=oddlotspodcast\">bloomberg.com/subscriptions/oddlots</a></p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
+    "published": "2026-10-29",
+    "week": "2026-W44",
+    "audio_url": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/a830f773-b13e-4ffb-8e2b-b4f10170ca4e/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
+    "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/a830f773-b13e-4ffb-8e2b-b4f10170ca4e/transcript?format=TextWithTimestamps&t=1793226651",
+    "episode_url": "https://omny.fm/shows/odd-lots/102926-odd-lots-alex-altmann-mixdown",
+    "type": "podcast",
+    "duration_secs": 2470,
+    "transcript_length": 42402,
+    "speaker": "Alex Altman — Global Head of Equities Tactical Strategies, Barclays",
+    "one_line_summary": "AI remains bullish, but financing constraints are emerging, especially for neoclouds, as market issuance patterns break historic norms.",
+    "summary": "Alex Altman confirms that the consensus AI outlook is still bullish, with investors across regions answering \"yes\" to staying bullish.  However, he highlights a growing financing problem: only about 60% of surveyed investors believe AI financing will not be an issue, while the rest see constraints.  He points to the recent CoreWeave bond sell‑off and the fact that neoclouds have minimal operating cash flow, making them riskier than hyperscalers.  Altman also notes that the net issuance of IG and high‑yield debt in 2026 has shattered historical patterns, with a forecast of $1.1 trillion in net issuance, far above past levels.  Memory stocks are trading at a PE of three, reflecting low expectations for cyclical earnings growth.\n\nKey themes include the denial phase of the AI bubble, the mismatch between AI’s perceived growth and the reality of financing limits, and the need to watch early warning signs in periphery companies.  The discussion also touches on the broader macro context, comparing the current AI financing environment to the GFC and noting the unique nature of today’s capital market dynamics.",
+    "key_themes": [
+      "AI bullish consensus",
+      "Financing constraints for neoclouds",
+      "Historic issuance anomaly"
+    ],
+    "market_signals": [
+      "Oracle stock up 12%",
+      "60% of surveyed investors say AI financing will be a problem",
+      "IG high‑yield net issuance forecast $1.1 trillion",
+      "CoreWeave bonds sold off",
+      "Memory stocks trading at PE of three"
+    ],
+    "framework_insights": [
+      "Denial phase of the AI bubble: everyone remains bullish despite early warning signs",
+      "Financing constraints are real even when interest rates are low, as shown by the 2026 issuance anomaly",
+      "Net issuance vs. interest rates relationship broke in 2025‑26, indicating a shift in capital availability",
+      "AI TAM ($30 trillion) far exceeds current revenue streams, highlighting potential valuation gaps",
+      "Early warning signs in periphery companies (e.g., neoclouds) can signal broader market stress"
+    ],
+    "market_relevance": "Investors should monitor financing conditions for AI and neoclouds, as tightening credit could dampen the bullish narrative and affect valuations of high‑growth tech firms."
+  },
+  {
+    "id": "519f363b7b24b4ac96c7bacc8c9ea4f7",
+    "source_id": "masters_in_business",
+    "source_name": "Masters in Business",
+    "source_org": "Bloomberg",
+    "source_color": "#eab308",
+    "title": "At The Money: Preparing for a Career During in Age of Artificial Intelligence",
+    "description": "<p>In the Age of AI, how should students prepare for the job market? Nitin Nohria is the former Dean of the Harvard Business School (and current Harvard professor). His new book is &ldquo;<em>The CEO: Role, Reality, and Responsibility.</em>&rdquo; He is also executive chairman of Thrive Capital, Joshua Kushner&rsquo;s venture firm.</p> <p>Each week, &ldquo;At the Money&rdquo; discusses an important topic in money management. From portfolio construction to taxes and cutting down on fees, join Barry Ritholtz to learn the best ways to put your money to work.</p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
+    "published": "2026-10-29",
+    "week": "2026-W44",
+    "audio_url": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/4e4cd910-40a1-4619-a5f3-ae2b0012ffff/e2a2c0b1-37a3-4773-aca0-b4f200e2d34d/audio.mp3?utm_source=Podcast&in_playlist=5873a3cb-298f-40bc-b71f-ae2b0013000d",
+    "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/e2a2c0b1-37a3-4773-aca0-b4f200e2d34d/transcript?format=TextWithTimestamps&t=1793281715",
+    "episode_url": "https://omny.fm/shows/masters-in-business/at-the-money-preparing-for-a-career-during-in-age-of-artificial-intelligence",
+    "type": "podcast",
+    "duration_secs": 955,
+    "transcript_length": 13906,
+    "speaker": "Nitin Nuria — former dean of Harvard Business School, executive chairman at Thrive Capital",
+    "one_line_summary": "Students must pair AI tools with deep critical thinking to build a unique, adaptable skill set that will outpace commoditized technical roles.",
+    "summary": "Professor Nitin Nuria argues that the rise of AI is reshaping the entry‑level job market, making critical thinking and the ability to interrogate AI outputs the most valuable skill set. He stresses that students should use AI as a tool, not a crutch, by asking what the AI says, what they agree or disagree with, and what further questions arise. Nuria also emphasizes that while deep domain expertise remains important, a generalist’s breadth—combined with AI‑augmented judgment—will be crucial. He advises that first jobs should be viewed as experiments, allowing time to discover one’s true mission, and that persistence, coupled with a willingness to pivot, is essential. Finally, he champions experiential learning—case simulations, travel, and real‑world projects—as the best way to apply knowledge and develop judgment in an AI‑rich environment.",
+    "key_themes": [
+      "AI‑augmented critical thinking",
+      "Generalist vs specialist skill sets",
+      "Persistence and experimentation"
+    ],
+    "market_signals": [
+      "80% of entrepreneurs ended up a distant cousin of their original idea",
+      "50% of Harvard Business School students eventually pursue entrepreneurial paths",
+      "Allow unhappiness for 3-6 months before deciding a career is a dead end"
+    ],
+    "framework_insights": [
+      "Use AI as a sounding board: ask what it says, what you agree/disagree, and what further questions it raises",
+      "Develop a personal ‘Marvel superpower’ by tuning AI tools to your unique strengths",
+      "Balance depth and breadth: deep expertise is valuable, but a generalist’s adaptability is increasingly prized",
+      "Persistence is a marathon: experiment, endure unhappiness for 3‑6 months, then pivot if necessary",
+      "Experiential learning (case simulations, travel, real projects) is the most effective way to apply knowledge and build judgment"
+    ],
+    "market_relevance": "These insights highlight that investors should look for talent that can critically evaluate AI outputs and adapt across domains, rather than solely technical specialists, as firms navigate the AI‑driven talent landscape."
+  },
+  {
     "id": "b6c15e39fecd20fcbc9848fd482890d4",
     "source_id": "in_good_company",
     "source_name": "In Good Company",
@@ -26,6 +104,113 @@
     "market_signals": [],
     "framework_insights": [],
     "market_relevance": "The discussion highlights the growing importance of long‑term, concentrated strategies and the role of technology and social media in shaping investment decisions, offering a lens for investors to assess portfolio focus and information sources."
+  },
+  {
+    "id": "dfddeecae572f01e2ab59da7a7e0a36a",
+    "source_id": "view_from_apollo",
+    "source_name": "The View from Apollo",
+    "source_org": "Apollo Global Management",
+    "source_color": "#a855f7",
+    "title": "Direct Lending: Strong Fundamentals, Shifting Dynamics",
+    "description": "Credit fundamentals remain strong, but rising interest rates, AI disruption and growing dispersion across sectors are reshaping the direct-lending landscape. Apollo Partner and Co-Head of Global Performing Credit Jim Vanek joins host Tal Barak Harif to discuss where we are in the credit cycle, why current market conditions may be creating more attractive opportunities for lenders, and how Apollo is navigating the risks and opportunities ahead.",
+    "published": "2026-10-28",
+    "week": "2026-W44",
+    "audio_url": "https://media.blubrry.com/theviewfromapollo/ins.blubrry.com/theviewfromapollo/61_Allocation_Direct_Lending-Strong_Fundamentals_Shifting_Dynamics.mp3",
+    "transcript_url": null,
+    "episode_url": "https://podcast.show/theviewfromapollo/episode/155924548/",
+    "type": "podcast",
+    "duration_secs": 1715,
+    "transcript_length": 29440,
+    "speaker": "Jim Vanek — Partner and co‑head of Global Performing Credit at Apollo",
+    "one_line_summary": "Direct lending remains attractive as spreads widen and AI‑driven sector dispersion grows, but higher rates and labor‑cost inflation threaten certain business models.",
+    "summary": "Jim Vanek explains that private credit, especially direct lending, has grown to over $2 trillion in AUM and now includes large‑company financing beyond the traditional middle‑market niche. The market has expanded even during benign conditions, with increased usage during volatility. Current interest rates are elevated—base rates above 4 % and forwards 75‑80 bps higher—yet still below the 2023‑24 peak, keeping all‑in yields near 9 %. Higher rates raise borrowing costs, but the main pain for companies has been labor‑cost inflation rather than debt costs alone. AI disruption is causing sector dispersion: some software businesses face upside from AI infrastructure needs, while others risk obsolescence. Apollo’s strategy is to underweight underperforming sectors, diversify exposure, and increase leverage when spreads widen.\n\nKey data points include: direct lending AUM >$2 trillion; base rate >4 %; forwards 75‑80 bps higher; all‑in yield ~9 %; revenue growth in public loan market ~11 %; EBITDA growth ~7 %; default rates remain very low.\n\nThe discussion highlights that while fundamentals remain strong, market‑wide spreads are widening from post‑GFC levels, creating a window for higher returns, yet investors must monitor AI‑related sector risks and macro‑drivers like labor costs.",
+    "key_themes": [
+      "Direct lending growth and AUM",
+      "Interest‑rate dynamics and yield impact",
+      "AI disruption and sector dispersion"
+    ],
+    "market_signals": [
+      "Direct lending market is measured in excess of $2 trillion in AUM",
+      "Base rate on most loans is a little above 4 %",
+      "Forwards to three‑four years are about 75‑80 basis points higher than base rate",
+      "All‑in yield on spot basis is around 9 %",
+      "Spreads are widening off post‑global financial crisis levels"
+    ],
+    "framework_insights": [
+      "Apollo reviews exposure to AI and technological evolution earlier than public markets",
+      "Underweight sectors that have underperformed the most to manage risk",
+      "Diversify to avoid overemphasis on any single sector",
+      "Increase exposure when spreads widen to capture premium",
+      "Treat direct lending as a principal investor rather than an agent to reduce risk"
+    ],
+    "market_relevance": "Investors seeking spread and return premiums should note the widening spreads and AI‑driven sector dispersion, while remaining vigilant about labor‑cost inflation and higher borrowing costs that could erode cash flows for certain business models."
+  },
+  {
+    "id": "9906c51038135abce33ec831c9b05f40",
+    "source_id": "asia_centric",
+    "source_name": "Asia Centric",
+    "source_org": "Bloomberg Intelligence",
+    "source_color": "#d946ef",
+    "title": "BHP CFO on Copper, AI and Mining's New Era",
+    "description": "<p>The mining industry is undergoing a structural transformation. Copper has overtaken iron ore as the world's most sought-after commodity, driven by electrification, the energy transition and AI data center demand. Meanwhile, traditional commodity markets are facing a shifting landscape as China's steel consumption pivots away from a slumping property market toward advanced manufacturing.</p> <p>Vandita Pant, Chief Financial Officer of BHP, joins John Lee and Bloomberg Intelligence senior analyst Alon Olsha on the Asia Centric podcast. Pant unpacks the compelling economics of organic growth versus M&amp;A and the structural bull case for India's massive infrastructure runway. She also discusses her career journey from banking to becoming the CFO of the world's largest mining company.</p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
+    "published": "2026-10-28",
+    "week": "2026-W44",
+    "audio_url": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/992d604b-06ca-40cb-88b2-af6c016f5aa0/a67a1374-9f5e-4874-a06e-b4f100ddfecf/audio.mp3?utm_source=Podcast&in_playlist=75a9f17c-2ff1-42c9-9a27-af6c016fae89",
+    "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/a67a1374-9f5e-4874-a06e-b4f100ddfecf/transcript?format=TextWithTimestamps&t=1793236430",
+    "episode_url": "https://omny.fm/shows/asia-centric-by-bloomberg-intelligence/bhp-cfo-on-copper-ai-and-minings-new-era",
+    "type": "podcast",
+    "duration_secs": 1856,
+    "transcript_length": 26505,
+    "speaker": "Vandita Pant — Chief Financial Officer, BHP",
+    "one_line_summary": "Copper has overtaken iron ore as BHP’s top earnings driver, with a 30% growth in copper units over four years and a target of 2 million tonnes by mid‑next decade.",
+    "summary": "Vandita Pant explains that copper now accounts for more than 50% of BHP’s earnings, having overtaken iron ore for the first time in the last financial year. Copper units grew 30% in the last four years, and BHP plans to expand production from 330 kT to 500 kT+ in South Australia, then to 650 kT, and aims for over 2 million tonnes of attributable copper by the middle of the next decade at a 5% CAGR. The company’s strategy focuses on mature, low‑capital‑intensity projects such as Escondida, Vicunia in Argentina, and Resolution in the U.S., with capital intensity of $16,000–$30,000 per tonne versus $80,000–$85,000 per tonne for buying comparable assets. BHP also pursues joint ventures and partnerships to unlock value, citing a 32.5% investment in Faraday Copper and a partnership with Lundin in Argentina. On the demand side, copper demand is driven by energy transition, electrification, and AI data centers, with a projected 6.5% KGAR growth to 3 million tonnes by 2050. Iron ore demand remains strong in China, with steel production plateauing at 1 billion tonnes and less than 20% used for property, shifting to machinery, manufacturing, and exports.\n\nKey themes include the structural shift to copper, the importance of mature low‑capex projects, the role of geopolitical incentives in mining investment, and the resilience of China’s steel demand amid a housing slump.",
+    "key_themes": [
+      "Copper as primary earnings driver",
+      "Mature low‑capex growth strategy",
+      "Geopolitical incentives and joint ventures"
+    ],
+    "market_signals": [
+      "Copper now >50% of BHP earnings",
+      "Copper units grew 30% over four years",
+      "Target 2 million tonnes of copper by mid‑next decade at 5% CAGR",
+      "Capital intensity of BHP copper projects $16,000–$30,000 per tonne vs $80,000–$85,000 per tonne for acquisitions",
+      "Projected 6.5% KGAR growth to 3 million tonnes by 2050"
+    ],
+    "framework_insights": [
+      "Focus on mature, low‑capex projects to maximize value over buy‑and‑build",
+      "Use of joint ventures and partnerships to unlock adjacent value",
+      "Geopolitical incentives can reduce permitting delays and attract investment",
+      "Demand growth from non‑traditional sources (AI, electrification) amplifies commodity need",
+      "China’s structural shift in steel demand shows resilience to housing slump"
+    ],
+    "market_relevance": "Investors should note copper’s outsized earnings contribution and BHP’s aggressive yet low‑capex expansion plan, while also recognizing that China’s steel demand remains robust, supporting long‑term copper and iron ore markets."
+  },
+  {
+    "id": "04ecb35161004df5cd2d9bffad98cb93",
+    "source_id": "goldman_sachs",
+    "source_name": "Goldman Sachs",
+    "source_org": "Goldman Sachs",
+    "source_color": "#3b82f6",
+    "title": "Dimensional’s David Booth on How to Interpret Risk and 'Stay Calm' Amid Uncertainty",
+    "description": "David Booth, the founder and chairman of Dimensional Fund Advisors, uses academic research and market evidence to manage more than $1 trillion in assets. Booth, the author of Stay Calm, joins Raj Mahajan, a senior partner in Goldman Sachs Global Banking & Markets, to discuss how to interpret risk and uncertainty, how outsiders can participate in the market as effectively as insiders, and the long-term magic of compounding.\n\nThis episode was recorded on September 3, 2026.\n\nThe opinions and views expressed herein are as of the date of publication, subject to change without notice, and may not necessarily reflect the institutional views of Goldman Sachs or its affiliates. The material provided is intended for informational purposes only, and does not constitute investment, legal, or tax advice, a recommendation from any Goldman Sachs entity to take any particular action or be used as a basis for any other investment decision, or an offer or solicitation to purchase or sell any securities or financial products. Any forward-looking statements, case studies, computations or examples set forth herein are for illustrative purposes only. Past performance is not indicative of future results. Neither Goldman Sachs nor any of its affiliates make any representations or warranties, express or implied, as to the accuracy or completeness of the statements or information contained herein and disclaim any liability whatsoever for reliance on such information for any purpose. Each name of a third-party organization mentioned is the property of the company to which it relates, is used here strictly for informational and identification purposes only and is not used to imply any sponsorship, affiliation, endorsement, ownership or license rights between any such company and Goldman Sachs. This material should not be copied, distributed, published, or reproduced in whole or in part or disclosed by any recipient to any other person without the express written consent of Goldman Sachs. \n\nA transcript is provided for convenience and may differ from the original video or audio content. Goldman Sachs is not responsible for any errors in the transcript. \n\n© 2026 Goldman Sachs.  All rights reserved.",
+    "published": "2026-10-28",
+    "week": "2026-W44",
+    "video_id": "Et7KH6Mtcls",
+    "episode_url": "https://www.youtube.com/watch?v=Et7KH6Mtcls",
+    "type": "youtube",
+    "duration_secs": null,
+    "transcript_length": 2207,
+    "speaker": "David Booth — Founder and Chairman, Dimensional Fund Advisors",
+    "one_line_summary": "David Booth discusses interpreting risk and uncertainty, outsider participation, and long-term compounding.",
+    "summary": "The episode features David Booth, founder and chairman of Dimensional Fund Advisors, who manages over $1 trillion in assets. Booth joins Raj Mahajan, a senior partner at Goldman Sachs Global Banking & Markets, to talk about how to interpret risk and uncertainty, how outsiders can participate in the market as effectively as insiders, and the long-term magic of compounding. The discussion is framed around academic research and market evidence, with Booth referencing his book \"Stay Calm.\" The episode was recorded on September 3, 2026, and includes standard legal and disclaimer language from Goldman Sachs.",
+    "key_themes": [
+      "Risk interpretation",
+      "Market participation for outsiders",
+      "Long-term compounding"
+    ],
+    "market_signals": [],
+    "framework_insights": [],
+    "market_relevance": "The conversation highlights foundational concepts for navigating market uncertainty, emphasizing the importance of disciplined risk assessment and long-term investment horizons for current market participants."
   },
   {
     "id": "9fed4cfa6f2786810e78803ca3851409",
