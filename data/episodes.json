@@ -1,5 +1,139 @@
 [
   {
+    "id": "80d7797b87aaedc9e42430c41a7c6469",
+    "source_id": "odd_lots",
+    "source_name": "Odd Lots",
+    "source_org": "Bloomberg",
+    "source_color": "#06b6d4",
+    "title": "PHP2Shell Won't Be the Last Big AI Cybersecurity Risk",
+    "description": "<p>Earlier this year, cybersecurity researchers discovered a vulnerability in PHP, an open-source coding language used in roughly 70% of the world's websites, that had been lying dormant for a long time, and if exploited, could have led to disaster. And the researchers only understood the extent of this bug through the use of frontier AI models. Today, we talk to two staffers at Calif (CEO Thai Duong and engineer Bruce Dang), the cybersecurity firm that was among the first to discover the PHP vulnerability. Their firm partners with the major AI labs and neoclouds, and they help these companies test models and look for vulnerabilities in their infrastructure. Duong and Dang tell us how Calif uncovered the PHP hack, what the firm exactly sells, and what the future of cybersecurity looks like in the age of AI.</p> <p>Read more:<br /><a href=\"https://www.bloomberg.com/news/articles/2026-10-29/ai-and-cybersecurity-why-cyberattacks-are-getting-harder-to-stop?utm_medium=referral&amp;utm_source=podcast&amp;utm_campaign=odd_lots&amp;utm_content=article\">How AI Is Making Cyberattacks a Bigger Threat</a><br /><a href=\"https://www.bloomberg.com/news/articles/2026-10-29/japan-s-cyberattack-surge-tests-its-push-to-strengthen-defenses?utm_medium=referral&amp;utm_source=podcast&amp;utm_campaign=odd_lots&amp;utm_content=article\">Japan&rsquo;s Cyberattack Surge Tests Its Push to Strengthen Defenses</a></p> <p>Only <a href=\"http://Bloomberg.com\">http://Bloomberg.com</a> subscribers can get the Odd Lots newsletter in their inbox each week, plus unlimited access to the site and app. Subscribe at&nbsp; <a href=\"https://www.bloomberg.com/subscriptions/oddlots?in_source=oddlotspodcast\">bloomberg.com/subscriptions/oddlots</a></p> <p><a href=\"http://bloomberg.com/subscriptions/oddlots\">Subscribe to the Odd Lots Newsletter</a><br /><strong>Join the conversation:</strong> <a href=\"https://discord.gg/oddlots\">discord.gg/oddlots</a></p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
+    "published": "2026-10-30",
+    "week": "2026-W44",
+    "audio_url": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/cbaad2bb-14e3-4e9e-98cf-b4f2015679b2/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
+    "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/cbaad2bb-14e3-4e9e-98cf-b4f2015679b2/transcript?format=TextWithTimestamps&t=1793307162",
+    "episode_url": "https://omny.fm/shows/odd-lots/php2shell-wont-be-the-last-big-ai-cybersecurity-risk",
+    "type": "podcast",
+    "duration_secs": 2940,
+    "transcript_length": 43103,
+    "speaker": "Tai Yun — CEO, Calif",
+    "one_line_summary": "AI has turned vulnerability discovery and exploitation into a near‑superhuman, rapid process, as shown by the PHP2Shell case.",
+    "summary": "The episode centers on how AI is accelerating the identification and exploitation of software vulnerabilities, using the recent PHP2Shell discovery as a case study. Tai Yun explains that Calif, funded by OpenAI’s Pass the Planet program, leveraged AI to develop an exploit for a long‑standing PHP flaw that the PHP Foundation had previously deemed too costly to fix. The discussion highlights the speed differential—Microsoft’s patch cadence moved from about 20 updates per month to roughly 1,400—illustrating how AI shortens the window between vulnerability discovery and exploitation. The conversation also touches on the broader debate about whether AI will make the internet safer or more dangerous, noting that defensive teams are now using AI to patch systems faster, but attackers can also use the same tools to find and exploit weaknesses.\n\nKey points include the historical context of PHP (30 years old, 70% of websites use it), the role of AI in turning a months‑long engineering effort into a days‑long exploit, and the tension between patching costs and security risk. The guests emphasize that while AI can help defenders, it also lowers the barrier for attackers, creating a new dynamic in the cybersecurity arms race.",
+    "key_themes": [
+      "AI‑driven vulnerability discovery",
+      "Rapid exploitation engineering",
+      "Defensive vs offensive AI use"
+    ],
+    "market_signals": [
+      "70% of websites use PHP",
+      "Microsoft patch updates increased from 20/month to 1,400/month",
+      "PHP Foundation did not fix the vulnerability in 2024 due to high cost",
+      "AI was used to develop the exploit after the vulnerability was found",
+      "OpenAI’s Pass the Planet program funded the vulnerability hunt"
+    ],
+    "framework_insights": [
+      "AI accelerates the speed of vulnerability discovery and exploitation, turning a months‑long process into days",
+      "Vulnerability lifecycle now includes an AI‑driven exploitation phase that can be engineered by a single person",
+      "Defensive teams must adopt AI to keep pace, but attackers can also use the same tools, creating a zero‑sum race",
+      "Patch Tuesday’s traditional cadence is being outpaced by AI, requiring new patch management strategies",
+      "The cost of fixing a vulnerability can be a strategic decision point, influencing whether a flaw is publicly disclosed or left unpatched"
+    ],
+    "market_relevance": "Investors should monitor cyber‑risk exposure in tech and financial firms, as AI‑accelerated exploits can lead to sudden, large‑scale breaches that may impact earnings, credit spreads, and market sentiment."
+  },
+  {
+    "id": "848baad9f43a663028a90b9531d25d30",
+    "source_id": "in_good_company",
+    "source_name": "In Good Company",
+    "source_org": "Norges Bank Investment Management",
+    "source_color": "#14b8a6",
+    "title": "Friday Wrap-Up: Inside Active Strategies and Learning from Bill Ackman",
+    "description": "<p>On this week’s Friday Wrap-Up, Nicolai Tangen is joined by Daniel Balthasar, Co-Chief Investment Officer of Active Strategies at NBIM, for a closer look at the fund’s active side. Following this week’s podcast episode with Bill Ackman, they discuss the investment that made Daniel admire Ackman, whether NBIM is an index fund, and what the fund can learn from the best investors. Daniel also explains why challenging your own investment thesis can be so hard, and how he stays focused in a tougher year for active management. Tune in!</p><br /><p>Listen to In Good Company with Bill Ackman, CEO of Pershing Square: <a href=\"https://podcasts.apple.com/no/podcast/john-armitage-how-he-invests-building-egerton-and/id1614211565?i=1000793578407\" rel=\"noopener noreferrer\" target=\"_blank\">https://podcasts.apple.com/no/podcast/bill-ackman-concentrated-investing-permanent-capital/id1614211565?i=1000798461455</a></p><br /><p>This Friday Wrap-Up is hosted by Nicolai Tangen, CEO of Norges Bank Investment Management, together with Daniel Balthasar, Co-Chief Investment Officer of Active Strategies. New episodes of In Good Company air every Wednesday, with the Friday Wrap-Up following each week to break it all down.</p><hr /><p style=\"color: grey; font-size: 0.75em;\"> Hosted on Acast. See <a href=\"https://acast.com/privacy\" rel=\"noopener noreferrer\" style=\"color: grey;\" target=\"_blank\">acast.com/privacy</a> for more information.</p>",
+    "published": "2026-10-30",
+    "week": "2026-W44",
+    "audio_url": "https://sphinx.acast.com/p/open/s/622618c7057f3400120d15db/e/6ae339229fd2fa3c16ae05f8/media.mp3",
+    "transcript_url": null,
+    "episode_url": "https://shows.acast.com/in-good-company-with-nicolai-tangen/episodes/friday-wrap-up-inside-active-strategies-and-learning-from-bi",
+    "type": "podcast",
+    "duration_secs": 583,
+    "transcript_length": 1435,
+    "speaker": "",
+    "one_line_summary": "Nicolai Tangen and Daniel Balthasar discuss active strategies and lessons from Bill Ackman.",
+    "summary": "The episode features Nicolai Tangen, CEO of Norges Bank Investment Management, and Daniel Balthasar, Co‑Chief Investment Officer of Active Strategies. They review the active side of NBIM, reflect on an investment that impressed Balthasar about Bill Ackman, and discuss whether NBIM functions as an index fund. The conversation also touches on how the fund can learn from top investors, the difficulty of challenging one’s own investment thesis, and maintaining focus amid a tougher year for active management.",
+    "key_themes": [
+      "Active strategies at NBIM",
+      "Learning from top investors",
+      "Investment thesis discipline"
+    ],
+    "market_signals": [],
+    "framework_insights": [],
+    "market_relevance": "The discussion highlights NBIM’s approach to active management and the importance of critical self‑review, offering a reminder for investors to scrutinize their own strategies in challenging market conditions."
+  },
+  {
+    "id": "3ba245e488e9a47654e15a55738bddc6",
+    "source_id": "goldman_sachs",
+    "source_name": "Goldman Sachs",
+    "source_org": "Goldman Sachs",
+    "source_color": "#3b82f6",
+    "title": "Brookfield’s Connor Teskey on the Real Bottleneck in the AI Buildout",
+    "description": "The bottleneck in the artificial intelligence (AI) buildout is neither capital nor demand, but rather the operational capability to develop land, secure a grid connection, and build the power supply, says Brookfield Asset Management CEO Connor Teskey on Goldman Sachs Exchanges: Great Investors. Indeed, one market misconception is that demand for data centers is somehow “fragile,” he says in this conversation with Alison Mass, chairman of Investment Banking in Goldman Sachs Global Banking & Markets. Teskey also shares his perspective on long-term investing, Brookfield's approach to building businesses, and the evolution of its private credit platform. \n\n[00:00] Introduction\n[01:29] The global energy opportunity\n[03:12] Addressing the AI bottleneck \n[05:54] The rise of sovereign AI\n[08:57] The commercial shift in renewables\n[12:47] Scaling through Oaktree Capital\n[16:49] A philosophy of downside protection\n[19:39] Transitioning the leadership torch\n[27:08] The growth of alternative assets\n\nAlso available on Spotify (https://click.gs.com/myyr) and Apple Podcasts (https://click.gs.com/7x11)\n\nThis episode was recorded on September 16, 2026.\n\nThe opinions and views expressed herein are as of the date of publication, subject to change without notice, and may not necessarily reflect the institutional views of Goldman Sachs or its affiliates. The material provided is intended for informational purposes only, and does not constitute investment, legal, or tax advice, a recommendation from any Goldman Sachs entity to take any particular action or be used as a basis for any other investment decision, or an offer or solicitation to purchase or sell any securities or financial products. Any forward-looking statements, case studies, computations or examples set forth herein are for illustrative purposes only. Past performance is not indicative of future results. Neither Goldman Sachs nor any of its affiliates make any representations or warranties, express or implied, as to the accuracy or completeness of the statements or information contained herein and disclaim any liability whatsoever for reliance on such information for any purpose. Each name of a third-party organization mentioned is the property of the company to which it relates, is used here strictly for informational and identification purposes only and is not used to imply any sponsorship, affiliation, endorsement, ownership or license rights between any such company and Goldman Sachs. This material should not be copied, distributed, published, or reproduced in whole or in part or disclosed by any recipient to any other person without the express written consent of Goldman Sachs.   \n\nA transcript is provided for convenience and may differ from the original video or audio content. Goldman Sachs is not responsible for any errors in the transcript.   \n\n© 2026 Goldman Sachs. All rights reserved.",
+    "published": "2026-10-30",
+    "week": "2026-W44",
+    "video_id": "eG0tQN5gqiI",
+    "episode_url": "https://www.youtube.com/watch?v=eG0tQN5gqiI",
+    "type": "youtube",
+    "duration_secs": null,
+    "transcript_length": 2888,
+    "speaker": "Connor Teskey — CEO, Brookfield Asset Management",
+    "one_line_summary": "The real bottleneck in AI buildout is operational capability, not capital or demand.",
+    "summary": "Connor Teskey argues that the primary constraint on expanding AI infrastructure is the operational ability to develop land, secure grid connections, and build power supply, rather than financial resources or market demand. He also touches on long‑term investing, Brookfield’s business‑building approach, and the evolution of its private credit platform, while noting misconceptions about data‑center demand being fragile.",
+    "key_themes": [
+      "AI infrastructure bottleneck",
+      "operational capability",
+      "long‑term investing"
+    ],
+    "market_signals": [],
+    "framework_insights": [],
+    "market_relevance": "Investors should prioritize operational execution and infrastructure readiness when evaluating AI‑related investment opportunities, as these factors currently limit supply growth."
+  },
+  {
+    "id": "0e41ec276aa205b233e4e21ba1030d45",
+    "source_id": "goldman_sachs",
+    "source_name": "Goldman Sachs",
+    "source_org": "Goldman Sachs",
+    "source_color": "#3b82f6",
+    "title": "Bullish Options Trades Slow amid AI Uncertainty",
+    "description": "Options markets are showing signs of increased nervousness about artificial intelligence (AI) as investors focus closely on earnings from large tech companies and try to separate likely winners from losers, says Lee Coppersmith from the Equity Derivative Sales team in Goldman Sachs FICC and Equities. Overall demand for AI stocks remains strong and the S&amp;P has remained resilient, but put option buying has picked up in recent weeks while activity has waned in call options that would reward a jump in equities, he explains on The Markets podcast.\n\nAlso available on Spotify (https://click.gs.com/hn4o) and Apple Podcasts (https://click.gs.com/qx2m)\n\nThis episode was recorded on October 29, 2026. \n\nThe opinions and views expressed herein are as of the date of publication, subject to change without notice, and may not necessarily reflect the institutional views of Goldman Sachs or its affiliates. The material provided is intended for informational purposes only, and does not constitute investment, legal, or tax advice, a recommendation from any Goldman Sachs entity to take any particular action or be used as a basis for any other investment decision, or an offer or solicitation to purchase or sell any securities or financial products. Any forward-looking statements, case studies, computations or examples set forth herein are for illustrative purposes only. Past performance is not indicative of future results. Neither Goldman Sachs nor any of its affiliates make any representations or warranties, express or implied, as to the accuracy or completeness of the statements or information contained herein and disclaim any liability whatsoever for reliance on such information for any purpose. Each name of a third-party organization mentioned is the property of the company to which it relates, is used here strictly for informational and identification purposes only and is not used to imply any sponsorship, affiliation, endorsement, ownership or license rights between any such company and Goldman Sachs. This material should not be copied, distributed, published, or reproduced in whole or in part or disclosed by any recipient to any other person without the express written consent of Goldman Sachs.\n\nA transcript is provided for convenience and may differ from the original video or audio content. Goldman Sachs is not responsible for any errors in the transcript.\n\n© 2026 Goldman Sachs. All rights reserved.",
+    "published": "2026-10-30",
+    "week": "2026-W44",
+    "video_id": "4vOo8HxxC38",
+    "episode_url": "https://www.youtube.com/watch?v=4vOo8HxxC38",
+    "type": "youtube",
+    "duration_secs": null,
+    "transcript_length": 2432,
+    "speaker": "Lee Coppersmith — Equity Derivative Sales team in Goldman Sachs FICC and Equities",
+    "one_line_summary": "Put option buying has surged as investors grow nervous about AI, even as overall AI stock demand and the S&P remain strong.",
+    "summary": "Lee Coppersmith notes that options markets are showing increased nervousness about artificial intelligence (AI) as investors focus closely on earnings from large tech companies and try to separate likely winners from losers. Overall demand for AI stocks remains strong and the S&P has remained resilient, but put option buying has picked up in recent weeks while activity has waned in call options that would reward a jump in equities. The episode highlights that investors are using options to hedge against AI uncertainty while still maintaining bullish exposure to AI names.",
+    "key_themes": [
+      "AI uncertainty in options markets",
+      "Earnings focus on large tech",
+      "Resilient S&P and AI stock demand"
+    ],
+    "market_signals": [
+      "Put option buying has picked up in recent weeks",
+      "Activity has waned in call options that would reward a jump in equities",
+      "Overall demand for AI stocks remains strong",
+      "The S&P has remained resilient",
+      "Investors focus closely on earnings from large tech companies"
+    ],
+    "framework_insights": [
+      "Separating likely winners from losers by focusing on earnings",
+      "Using options as a sentiment gauge for AI uncertainty",
+      "Risk reversal strategy implied by put buying and call selling",
+      "Resilience of the S&P indicates broader market stability",
+      "Strong demand for AI stocks persists despite volatility"
+    ],
+    "market_relevance": "The shift toward puts signals growing caution around AI, suggesting investors are hedging against potential downside while still betting on AI’s long‑term upside. This dynamic is crucial for portfolio managers to monitor as it may affect volatility and risk exposure in tech‑heavy portfolios."
+  },
+  {
     "id": "072d556d2bc22ecae8f384746376802e",
     "source_id": "odd_lots",
     "source_name": "Odd Lots",
@@ -76,6 +210,46 @@
       "Experiential learning (case simulations, travel, real projects) is the most effective way to apply knowledge and build judgment"
     ],
     "market_relevance": "These insights highlight that investors should look for talent that can critically evaluate AI outputs and adapt across domains, rather than solely technical specialists, as firms navigate the AI‑driven talent landscape."
+  },
+  {
+    "id": "88eed24d6443c27532e7c85b185d810b",
+    "source_id": "credit_edge",
+    "source_name": "The Credit Edge",
+    "source_org": "Bloomberg Intelligence",
+    "source_color": "#f97316",
+    "title": "AI Blitz and US Borrowing Binge Are Disrupting Debt Benchmarks",
+    "description": "<p>A borrowing boom among technology companies and governments is upending debt indexes, raising questions about their relevance to investors. &ldquo;We&rsquo;re actually starting to think about whether managing versus a benchmark makes a whole heap of sense,&rdquo; Ross Pamphilon, Impax Asset Management&rsquo;s fixed income chief investment officer, tells Bloomberg News&rsquo; James Crombie and Bloomberg Intelligence&rsquo;s Tolu Alamutu in the latest Credit Edge podcast. &ldquo;You&rsquo;re going to end up owning a lot of US Treasuries if you&rsquo;re in the aggregate index and a lot of tech if you&rsquo;re in the US investment-grade index,&rdquo; says Pamphilon, who estimates that about 12% of the high-grade market is now AI or AI related. They also discuss climate risk, opportunities in mortgage-backed debt plus the timing and severity of the next credit cycle.</p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
+    "published": "2026-10-29",
+    "week": "2026-W44",
+    "audio_url": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/e74a35e9-c028-4e5f-a3f7-afb10164a717/bd0485d3-5a41-4b1e-b70a-b4f2012cc2aa/audio.mp3?utm_source=Podcast&in_playlist=8792a2e9-d66c-4038-a1fe-afb101654894",
+    "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/bd0485d3-5a41-4b1e-b70a-b4f2012cc2aa/transcript?format=TextWithTimestamps&t=1793298021",
+    "episode_url": "https://omny.fm/shows/the-credit-edge-by-bloomberg-intelligence/ai-blitz-and-us-borrowing-binge-are-disrupting-debt-benchmarks",
+    "type": "podcast",
+    "duration_secs": 2666,
+    "transcript_length": 42288,
+    "speaker": "Ross Pamphilon — CIO, Fixed Income, Impax Asset Management",
+    "one_line_summary": "Impax uses sustainability as a risk filter, not a growth driver, to navigate a credit market rebased by fiscal deficits and inflation.",
+    "summary": "Ross Pamphilon explains that Impax’s investment process treats sustainability as a lens for assessing issuer cash‑flow durability rather than a source of alpha. The firm maps eight to nine structural forces—AI, robotics, energy security, water and food, cybersecurity, defense, demographics, deglobalization, digital finance, and climate resilience—to evaluate credit risk across the cycle. Impax remains broadly inclusive of issuers, excluding only those with poor governance or client‑mandated exclusions (e.g., tobacco, exploration & production). The firm notes that sustainability analysis has helped avoid blowups and, in some cases, identified opportunities such as an Amazon reforestation security backed by the World Bank. Impax also highlights a shift in the U.S. Treasury benchmark, where the U.S. Treasury allocation has risen from 20‑30% to about 50%, prompting a search for diversification.\n\nKey market observations include a rebased credit market driven by large fiscal deficits and inflation, a concentration of U.S. Treasury exposure in benchmarks, and a cautious stance toward tech‑adjacent debt due to sustainability and capital‑cycle concerns. Impax’s quantitative model incorporates ESG metrics alongside traditional credit screens, aiming to reduce volatility and avoid high‑risk issuers.\n\nThe discussion underscores that sustainability is a risk filter, not a primary return driver, and that the credit market’s current structure offers both opportunities and risks tied to macro‑fiscal dynamics and sector‑specific sustainability concerns.",
+    "key_themes": [
+      "Sustainability as risk filter",
+      "Credit market rebasing due to fiscal deficits",
+      "Structural forces shaping credit risk"
+    ],
+    "market_signals": [
+      "U.S. Treasury allocation in benchmarks has risen from 20‑30% to about 50%",
+      "Impax’s sustainability analysis has identified an Amazon reforestation security backed by the World Bank",
+      "Impax’s core bond portfolio has achieved a \"nice level of risk‑adjusted returns\"",
+      "Impax avoids tobacco and exploration & production due to client mandates",
+      "Impax’s tech sector analysis focuses on data‑center emissions, water use, and capital‑cycle positioning"
+    ],
+    "framework_insights": [
+      "Impax maps eight to nine structural forces to assess issuer cash‑flow durability",
+      "Sustainability is treated as a risk analysis tool rather than an alpha generator",
+      "The firm uses a four‑factor quantitative model combined with ESG metrics",
+      "Impax’s investment process balances traditional credit work with sustainability screening",
+      "The firm’s approach demonstrates that sustainability can reduce volatility by avoiding high‑risk issuers"
+    ],
+    "market_relevance": "Investors should note that sustainability screening can serve as a robust risk filter in a credit market rebased by fiscal deficits, and that benchmark concentration in U.S. Treasuries may signal a need for diversification into non‑Treasury credit."
   },
   {
     "id": "b6c15e39fecd20fcbc9848fd482890d4",
