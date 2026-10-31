@@ -1,5 +1,32 @@
 [
   {
+    "id": "f65da8839f701e9b4fb27db87f2854d3",
+    "source_id": "goldman_sachs",
+    "source_name": "Goldman Sachs",
+    "source_org": "Goldman Sachs",
+    "source_color": "#3b82f6",
+    "title": "What Happens When AI Spend Peaks?",
+    "description": "After years of supercharged growth, the AI trade may be transitioning into a more complex, two-sided phase. As hyperscaler capex moderates and corporate earnings hold the line, can big tech provide the catalyst for equities to rally into year end?\n \nTony Pasquariello, global head of hedge fund coverage, Josh Schiffrin, global head of risk, and Dominic Wilson, senior advisor in Goldman Sachs Research, analyze the evolving AI capex narrative post-earnings, the path ahead for the Fed, the crowded wall of worry in macro, and more.\n \nClients can access the weekly episodes on Goldman Sachs Marquee, our digital platform for institutional investors.\n\nRecorded on October 29, 2026.",
+    "published": "2026-10-31",
+    "week": "2026-W44",
+    "video_id": "-_IASIF7OeI",
+    "episode_url": "https://www.youtube.com/watch?v=-_IASIF7OeI",
+    "type": "youtube",
+    "duration_secs": null,
+    "transcript_length": 680,
+    "speaker": "",
+    "one_line_summary": "AI capex is moderating, raising questions about whether big tech can still drive equity rallies by year‑end.",
+    "summary": "The episode discusses the shift of the AI trade from a period of supercharged growth to a more complex, two‑sided phase. It notes that hyperscaler capital expenditures are moderating while corporate earnings are holding the line. The speakers question whether big tech can still serve as a catalyst for equities to rally into year‑end.\n\nThey also touch on the evolving AI capex narrative post‑earnings, the path ahead for the Fed, and the crowded wall of worry in macro, though specific details are not provided in the transcript.\n\nThe discussion is framed for institutional investors accessing the weekly episodes on Goldman Sachs Marquee.\n",
+    "key_themes": [
+      "AI capex dynamics",
+      "Corporate earnings resilience",
+      "Equity rally catalysts"
+    ],
+    "market_signals": [],
+    "framework_insights": [],
+    "market_relevance": "The moderation of hyperscaler capex and the resilience of corporate earnings suggest a potential shift in AI‑driven growth dynamics, which could influence equity valuations and investor expectations for the remainder of the year."
+  },
+  {
     "id": "80d7797b87aaedc9e42430c41a7c6469",
     "source_id": "odd_lots",
     "source_name": "Odd Lots",
@@ -132,6 +159,46 @@
       "Strong demand for AI stocks persists despite volatility"
     ],
     "market_relevance": "The shift toward puts signals growing caution around AI, suggesting investors are hedging against potential downside while still betting on AI’s long‑term upside. This dynamic is crucial for portfolio managers to monitor as it may affect volatility and risk exposure in tech‑heavy portfolios."
+  },
+  {
+    "id": "9473802b0126990e18ec1ff81fe6b38b",
+    "source_id": "masters_in_business",
+    "source_name": "Masters in Business",
+    "source_org": "Bloomberg",
+    "source_color": "#eab308",
+    "title": "The Future of Financial Advice: Masters in Business with Rich Steinmeier",
+    "description": "<p>Barry speaks with Rich Steinmeier, CEO of LPL Financial. They discuss his early career learnings at McKinsey. They also discuss LPL's $2.7 billion acquisition of Commonwealth, and the evolving relationship of AI and financial advice.</p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
+    "published": "2026-10-30",
+    "week": "2026-W44",
+    "audio_url": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/4e4cd910-40a1-4619-a5f3-ae2b0012ffff/b841de8e-3bbe-4931-a36d-b4f301619b1e/audio.mp3?utm_source=Podcast&in_playlist=5873a3cb-298f-40bc-b71f-ae2b0013000d",
+    "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/b841de8e-3bbe-4931-a36d-b4f301619b1e/transcript?format=TextWithTimestamps&t=1793396328",
+    "episode_url": "https://omny.fm/shows/masters-in-business/the-future-of-financial-advice-masters-in-business-with-rich-steinmeier",
+    "type": "podcast",
+    "duration_secs": 4091,
+    "transcript_length": 69850,
+    "speaker": "Rich Steinmeier — CEO, LPL Financial",
+    "one_line_summary": "LPL’s $2.6 trillion, advisor‑centric model shows how technology can lower barriers to high‑quality wealth management while keeping human advisors at the front of the relationship.",
+    "summary": "Rich Steinmeier, CEO of LPL Financial, discusses how the firm’s $2.6 trillion in client assets are managed through a network of 32,000 advisors supported by a 10,000‑person in‑house team and 30,000+ external staff. He explains his career path from consulting to Merrill Lynch, UBS, and finally LPL, emphasizing the importance of transparency and risk communication during the 2007‑2009 crisis. Steinmeier highlights LPL’s focus on technology that lifts rather than replaces advisors, the use of AI and digital tools to broaden access, and the trend toward lowering minimums to make advice available to more households. He stresses that the future of advice will combine human context with automated efficiency, raising consumer expectations and the quality of service.\n\nKey points include: the scale of LPL’s operations, the evolution of digital strategy from call‑center models to integrated AI platforms, the importance of advisor autonomy, and the shift from alpha‑chasing to goal‑based planning.\n\nThe conversation underscores how large independent firms can leverage technology to democratize wealth management while preserving the advisor’s role as the primary relationship driver.",
+    "key_themes": [
+      "Advisor‑centric technology",
+      "Digital strategy evolution",
+      "Access to high‑quality advice"
+    ],
+    "market_signals": [
+      "$2.6 trillion in client assets managed by LPL",
+      "32,000 advisors, 10,000 in‑house staff, 30,000+ external staff",
+      "Merrill Lynch joined in 2006, peak in Oct 2007, crisis 2008‑09",
+      "Lowering minimums to $25,000 with cost of $11 versus $1,200",
+      "AI and digital tools are being adopted to broaden access and improve quality"
+    ],
+    "framework_insights": [
+      "Advisor as entrepreneur: technology should support, not replace, the advisor",
+      "Transparency in risk communication builds trust during crises",
+      "Digital strategy must be cohesive, not a Frankenstein of tools",
+      "Lowering minimums expands market reach and democratizes advice",
+      "Combining human context with automated efficiency raises consumer expectations"
+    ],
+    "market_relevance": "The insights illustrate how large independent firms can scale advisory services through technology while maintaining advisor leadership, a model that investors can watch for competitive advantage and for signals of broader industry shifts toward democratized wealth management."
   },
   {
     "id": "072d556d2bc22ecae8f384746376802e",
