@@ -1,5 +1,76 @@
 [
   {
+    "id": "ca4db332af82f74ffe864b15554b1a72",
+    "source_id": "odd_lots",
+    "source_name": "Odd Lots",
+    "source_org": "Bloomberg",
+    "source_color": "#06b6d4",
+    "title": "The $300 Billion Structured Notes Market Is Booming",
+    "description": "<p>The structured products business in the US has gotten very large recently &mdash; on track to hit $300 billion in sales this year. That they are all the rage means a once opaque financial product is getting a lot more attention. So what are structured products, exactly, and how are they influencing the economy? In short, structured products are basically a fusion of a bank IOU with a derivative product, but that underplays how complex these things are and how they are shaping market dynamics. What is particularly interesting about structured notes is how they've become a stand-in for how investors are betting on the AI trade &mdash; the ways these products are structured allow market actors to really capitalize on some of the turbulence we're seeing. On this episode, we speak with Alex Micalizzi, who is the international head of equity structured notes at Nomura, and he gives us what might be the clearest explanation of how structured products are created, how they work, and why sales in structured products have grown so much in the last year.<br /><br />Only Bloomberg.com subscribers can get the Odd Lots newsletter in their inbox, plus unlimited access to the site and app. <a href=\"https://www.bloomberg.com/subscriptions/oddlots?in_source=oddlotspodcast\">bloomberg.com/subscriptions/oddlots</a><br />Join the Odd Lots Discord: <a href=\"discord.gg/oddlots\">discord.gg/oddlots</a><br /><br /></p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
+    "published": "2026-11-02",
+    "week": "2026-W45",
+    "audio_url": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/c83156f0-326c-44af-9f49-b4f300fbe7d5/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
+    "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/c83156f0-326c-44af-9f49-b4f300fbe7d5/transcript?format=TextWithTimestamps&t=1793374043",
+    "episode_url": "https://omny.fm/shows/odd-lots/the-300-billion-structured-notes-market-is-booming",
+    "type": "podcast",
+    "duration_secs": 3106,
+    "transcript_length": 49549,
+    "speaker": "Alex Michelizzi — Managing Director and International Head of Equity Structured Notes, Nomura",
+    "one_line_summary": "Structured notes, especially auto‑callable and worst‑of products, are surging as investors chase higher yields amid AI‑driven market turbulence.",
+    "summary": "Alex Michelizzi explains that structured notes combine a bank deposit with customized equity exposure, often through options, to deliver higher yields than traditional fixed income. He highlights the rapid growth of SEC‑registered notes, now projected at about $300 billion this year versus $200 billion last year, driven largely by worst‑of auto‑callable products tied to S&P, NASDAQ and Russell indices. Auto‑callables knock out early when the underlying index rises, allowing issuers to offer higher coupons by selling put options and hedging delta. The discussion also notes rising AI valuations, turbulence in credit default swaps (e.g., NVIDIA CDS inching up), and the role of structured notes in providing downside protection or enhanced yield for high‑net‑worth investors.",
+    "key_themes": [
+      "Structured note mechanics",
+      "Auto‑callable and worst‑of products",
+      "Yield enhancement amid AI market turbulence"
+    ],
+    "market_signals": [
+      "SEC registered notes this year are on track to hit about 300 billion versus approximately 200 billion last year",
+      "Worst‑of auto‑callables are the greatest growth driver, covering S&P, NASDAQ and Russell",
+      "Auto‑callables knock out early when the index is above initial performance, boosting yield",
+      "NVIDIA credit default swaps have been inching up, indicating rising credit risk sentiment",
+      "Investors are seeking 40% yields via structured notes instead of 20% returns from traditional equity exposure"
+    ],
+    "framework_insights": [
+      "Structured notes are a bank deposit plus customized equity exposure via options, combining participation, yield and protection",
+      "Auto‑callables provide higher yield by selling put options and hedging delta, with knock‑out feature reducing risk exposure",
+      "Delta hedging eliminates directional view, focusing on volatility and coupon generation",
+      "Worst‑of structures increase premium by exposing to the lowest performing index among a basket, adding correlation risk",
+      "Convexity in auto‑callables links market direction to volatility: rising markets lower volatility and reduce future coupon risk"
+    ],
+    "market_relevance": "The surge in structured notes reflects investors’ appetite for higher yields amid AI‑driven market volatility, while the growth of worst‑of auto‑callables signals increasing demand for complex, yield‑enhancing products that also embed downside protection."
+  },
+  {
+    "id": "9bf54a630365ff9602a2870b2870500e",
+    "source_id": "capital_allocators",
+    "source_name": "Capital Allocators",
+    "source_org": "Ted Seides",
+    "source_color": "#f43f5e",
+    "title": "Zack McGuire: How the Capital Base Shapes Investment Strategy",
+    "description": "Zack McGuire, Senior Managing Director of Investments at Children's Healthcare of Atlanta, argues that investment philosophy must follow from the nature of the capital base, not from asset allocation templates. He walks through how that principle shapes CHOA's portfolio construction, from treating public and private equity as a single asset class to evaluating opportunities on risk-adjusted return rather than allocation targets. The conversation covers how an investment process translates a coherent philosophy into a portfolio that is genuinely specific to one institution.\n\nFrom: Dynamic Allocation and Concentrated Conviction – Zack McGuire (EP.524)\nListen to the full episode: https://www.capitalallocators.com/podcast/dynamic-allocation-and-concentrated-conviction/\n\nAll opinions expressed by Ted and podcast guests are solely their own opinions and do not reflect the opinion of Capital Allocators or their firms. This podcast is for informational purposes only and should not be relied upon as a basis for investment decisions. It should not be construed as investment advice or a solicitation, recommendation, endorsement, or offering of any kind. Clients of Capital Allocators or podcast guests may maintain positions and securities discussed on this podcast. The statements and opinions contained herein may change at any time, based on market or other conditions.\n\nLearn more about Juniper Square here - https://www.junipersquare.com/ \n\nSubscribe to the mailing list: https://capitalallocators.com/\nAccess Transcript with Premium Membership: https://capitalallocators.com/signup/\nSubscribe on Apple Podcast: https://podcasts.apple.com/us/podcast/capital-allocators-inside-the-institutional/id1223764016\nFollow Ted on Twitter: https://twitter.com/tseides\nFollow Ted on LinkedIn: https://www.linkedin.com/in/tedseides/\n\nEditing and post-production work for this episode was provided by The Podcast Consultant (https://thepodcastconsultant.com)\n\n#ZackMcGuire #CapitalAllocators #InstitutionalInvesting #EndowmentInvesting #PortfolioConstruction",
+    "published": "2026-11-02",
+    "week": "2026-W45",
+    "video_id": "wgTPIYPXbjQ",
+    "episode_url": "https://www.youtube.com/watch?v=wgTPIYPXbjQ",
+    "type": "youtube",
+    "duration_secs": null,
+    "transcript_length": 2057,
+    "speaker": "Zack McGuire — Senior Managing Director of Investments, Children's Healthcare of Atlanta",
+    "one_line_summary": "Investment philosophy should be driven by the nature of the capital base, not by generic asset allocation templates.",
+    "summary": "Zack McGuire argues that an institution’s investment philosophy must stem from its capital base rather than from standard asset allocation templates. He explains how this principle shapes the portfolio construction at Children’s Healthcare of Atlanta, treating public and private equity as a single asset class and evaluating opportunities based on risk‑adjusted return instead of preset allocation targets. The discussion highlights the importance of translating a coherent philosophy into a portfolio that is specific to one institution’s unique capital structure.",
+    "key_themes": [
+      "Capital base drives philosophy",
+      "Unified treatment of public and private equity",
+      "Risk‑adjusted return focus"
+    ],
+    "market_signals": [],
+    "framework_insights": [
+      "Investment philosophy must follow from the nature of the capital base, not from asset allocation templates",
+      "Treat public and private equity as a single asset class",
+      "Evaluate opportunities on risk‑adjusted return rather than allocation targets"
+    ],
+    "market_relevance": "The approach underscores that tailoring strategy to an institution’s capital characteristics can lead to more coherent and potentially better‑performing portfolios, a lesson relevant for all asset managers seeking alignment between capital structure and investment decisions."
+  },
+  {
     "id": "f65da8839f701e9b4fb27db87f2854d3",
     "source_id": "goldman_sachs",
     "source_name": "Goldman Sachs",
