@@ -1,5 +1,45 @@
 [
   {
+    "id": "1583183ee3a34e7092bfa9647f3f8d93",
+    "source_id": "odd_lots",
+    "source_name": "Odd Lots",
+    "source_org": "Bloomberg",
+    "source_color": "#06b6d4",
+    "title": "An Election Day Special With Nate Silver",
+    "description": "<p>Nate Silver tells us he is calling this midterms the &ldquo;rock and a hard place election&rdquo; &mdash; the background conditions are great for Democrats to win both the House and the Senate, but for that to come to pass, the party has to pull off some things that haven't happened in generations, like winning Texas. To believe that will happen requires a certain leap of faith, which is anathema to pollsters. Still, the polls generally believe Democrats are favored, but many professional pollsters would end up with egg on their face if the night does not go that way. Silver &mdash; the founder of Silver Bulletin &mdash; joins us today to discuss why popular narratives around polling error are wrong, prediction markets, why he doesn't think AI will replace pollsters, and what he is paying attention to tonight as the polls close.</p> <p>Read more:<br /><a href=\"https://www.bloomberg.com/news/articles/2026-11-02/when-will-we-know-who-s-won-the-midterm-elections?utm_medium=referral&amp;utm_source=podcast&amp;utm_campaign=odd_lots&amp;utm_content=article\">When Will We Know Who&rsquo;s Won the Midterm Elections?</a><br /><a href=\"https://www.bloomberg.com/news/articles/2026-11-02/trump-s-doj-turns-to-supreme-court-in-california-ballot-clash?utm_medium=referral&amp;utm_source=podcast&amp;utm_campaign=odd_lots&amp;utm_content=article\">Trump&rsquo;s DOJ Turns to Supreme Court in California Ballot Case</a></p> <p>Only <a href=\"http://Bloomberg.com\">http://Bloomberg.com</a> subscribers can get the Odd Lots newsletter in their inbox each week, plus unlimited access to the site and app. Subscribe at&nbsp; <a href=\"https://www.bloomberg.com/subscriptions/oddlots?in_source=oddlotspodcast\">bloomberg.com/subscriptions/oddlots</a></p> <p><a href=\"http://bloomberg.com/subscriptions/oddlots\">Subscribe to the Odd Lots Newsletter</a><br /><strong>Join the conversation:</strong> <a href=\"https://discord.gg/oddlots\">discord.gg/oddlots</a></p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
+    "published": "2026-11-03",
+    "week": "2026-W45",
+    "audio_url": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/8d41f02c-cfbb-4d5d-9940-b4f6012379c2/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
+    "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/8d41f02c-cfbb-4d5d-9940-b4f6012379c2/transcript?format=TextWithTimestamps&t=1793641727",
+    "episode_url": "https://omny.fm/shows/odd-lots/an-election-day-special-with-nate-silver",
+    "type": "podcast",
+    "duration_secs": 2579,
+    "transcript_length": 47493,
+    "speaker": "Nate Silver — Founder of the Silver Bulletin newsletter, former 538 modeler",
+    "one_line_summary": "Trump’s 37% approval rating, the worst for a president at a midterm since 1946, is driving a Democratic wave that could flip the Senate, but polling errors and turnout dynamics make the outcome uncertain.",
+    "summary": "Nate Silver notes Trump’s approval rating is about 37 percent, the lowest for a president at a midterm since Harry Truman in 1946, and links this unpopularity to a strong Democratic performance in the 2024 midterms. He cites the 2018 loss of 41 House seats and the recent gains in New Jersey and Virginia as evidence of a favorable environment for Democrats. Silver argues that while the House is likely a lock for Democrats, the Senate is not a toss‑up; his model shows a 68‑70% chance of a Democratic win, with a high‑70s probability in some simulations. He highlights that early voting is showing higher turnout for Democrats, especially among Black voters and unlikely voters, and that polling errors tend to be correlated across similar states, making individual race predictions risky. He also stresses that Trump’s presence as a magnet for low‑turnout voters can distort polls, and that the lack of Republican campaign focus on Trump may signal a shift in strategy.\n\nKey themes include the impact of presidential approval on midterm outcomes, the role of turnout and polling error correlation, and the strategic adjustments Republicans are making in response to Trump’s unpopularity.\n\nThe discussion underscores that while Democrats have a statistical edge, the Senate race remains uncertain due to correlated polling errors and turnout variability, making it a critical area for investors to monitor.\n",
+    "key_themes": [
+      "Trump’s unpopularity driving Democratic gains",
+      "Polling error correlation and turnout dynamics",
+      "Strategic shifts in Republican campaigning"
+    ],
+    "market_signals": [
+      "Trump’s approval rating is about 37 percent, the worst for a president at a midterm since 1946",
+      "The House is likely a lock for Democrats; the Senate is not a toss‑up, with a 68‑70% chance of a Democratic win",
+      "Early voting shows higher turnout for Democrats, especially among Black voters and unlikely voters",
+      "Polling errors are correlated across similar states, making individual race predictions risky",
+      "Trump’s presence as a magnet for low‑turnout voters can distort polls"
+    ],
+    "framework_insights": [
+      "Polling errors tend to be correlated across similar states, so individual race predictions should be treated as part of a broader pattern",
+      "Turnout is a critical factor in midterms; differential turnout can drive large swings",
+      "A president’s approval rating can act as a referendum that influences down‑ballot races",
+      "Strategic shifts by parties (e.g., Republicans distancing from Trump) can alter campaign dynamics and polling outcomes",
+      "Modeling midterm outcomes requires accounting for correlated errors and turnout variability rather than treating races as independent"
+    ],
+    "market_relevance": "The potential Democratic sweep of the Senate could reshape the political landscape, affecting fiscal policy, regulatory direction, and market sentiment. Investors should monitor early voting trends and polling error patterns to gauge the likelihood of a Democratic majority and its implications for economic policy."
+  },
+  {
     "id": "ca4db332af82f74ffe864b15554b1a72",
     "source_id": "odd_lots",
     "source_name": "Odd Lots",
@@ -69,6 +109,46 @@
       "Evaluate opportunities on risk‑adjusted return rather than allocation targets"
     ],
     "market_relevance": "The approach underscores that tailoring strategy to an institution’s capital characteristics can lead to more coherent and potentially better‑performing portfolios, a lesson relevant for all asset managers seeking alignment between capital structure and investment decisions."
+  },
+  {
+    "id": "b7d01b62c5427be69e2c9143f0b1bf69",
+    "source_id": "masters_in_business",
+    "source_name": "Masters in Business",
+    "source_org": "Bloomberg",
+    "source_color": "#eab308",
+    "title": "Economy of Scale: New Finance (Sponsored Content)",
+    "description": "<p>What will define the future of fintech? Be it tokenization or stablecoins, virtual assets are growing at an astonishing rate, all as more institutional capital moves into the space. With finance increasingly being built on digital rails, some fintech hubs are already capitalizing on the shift. Hear from an enterprise blockchain company and major global virtual asset regulator, about how the technology could scale. <br /><br />This episode is sponsored by the Dubai Department of Economy and Tourism.</p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
+    "published": "2026-11-02",
+    "week": "2026-W45",
+    "audio_url": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/4e4cd910-40a1-4619-a5f3-ae2b0012ffff/58d8868a-5007-4048-aec2-b4f3013eec0c/audio.mp3?utm_source=Podcast&in_playlist=5873a3cb-298f-40bc-b71f-ae2b0013000d",
+    "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/58d8868a-5007-4048-aec2-b4f3013eec0c/transcript?format=TextWithTimestamps&t=1793388400",
+    "episode_url": "https://omny.fm/shows/masters-in-business/economy-of-scale-new-finance-sponsored-content",
+    "type": "podcast",
+    "duration_secs": 1026,
+    "transcript_length": 20042,
+    "speaker": "Sean McHugh — Senior Director of Market Assurance, Virtual Assets Regulatory Authority (VARA)",
+    "one_line_summary": "Dubai’s VARA is rapidly scaling a regulatory ecosystem that balances innovation with risk, driving tokenization and cross‑border payments growth while maintaining a principle‑based, prescriptive rulebook.",
+    "summary": "The episode highlights Dubai’s ambition to become a global hub for virtual assets, with VARA licensing 57 firms and recording $680 billion in regulated transaction volumes. The regulator’s principle‑based rulebook is paired with a prescriptive licensing process that emphasizes cybersecurity and risk management, fostering a two‑way dialogue with firms. Tokenization has surged, with Bloomberg Intelligence estimating $50 billion in assets under management in 2026 versus $1.5 billion in early 2023, driven by institutional adoption from firms like Franklin Templeton and BlackRock. Ripple’s expansion—launching RLUSD, custody services, and a DFSA license—illustrates the commercial momentum. Cross‑border payments remain inefficient, with over 50% of global payments settled in dollars, prompting a push for stablecoin‑based solutions to reduce delays.\n\nKey themes include regulatory clarity, tokenization growth, and Dubai’s strategic positioning as a low‑risk, high‑growth fintech ecosystem.",
+    "key_themes": [
+      "Regulatory clarity and prescriptive licensing",
+      "Tokenization surge and institutional adoption",
+      "Dubai’s strategic fintech positioning"
+    ],
+    "market_signals": [
+      "VARA licensed 57 firms, up from 14 when Sean joined",
+      "VARA recorded $680 billion in regulated transaction volumes",
+      "Bloomberg Intelligence estimates tokenization AUM at $50 billion in 2026 vs $1.5 billion in 2023",
+      "Middle East and Africa corridor growth 40‑50% year‑on‑year",
+      "Ripple’s RLUSD stablecoin approved by DFSA and FSRA"
+    ],
+    "framework_insights": [
+      "Regulatory clarity is achieved through a principle‑based rulebook with a prescriptive licensing process that requires firms to demonstrate cybersecurity and risk controls",
+      "Two‑way dialogue between regulators and firms enables iterative rule development and reduces uncertainty for innovators",
+      "Tokenization is positioned as a means to rebuild financial rails, offering credibility and liquidity to institutional investors",
+      "Cross‑border payment inefficiencies (over 50% of global payments settled in dollars) create a clear market need for stablecoin‑based solutions",
+      "Dubai’s geographic advantage—four hours from one‑third of the world’s population—supports its role as a payment and fintech hub"
+    ],
+    "market_relevance": "Investors should note the rapid institutional uptake of tokenized assets and the regulatory environment in Dubai, which may accelerate adoption of stablecoins and cross‑border payment solutions, potentially reshaping liquidity and settlement dynamics in global markets."
   },
   {
     "id": "f65da8839f701e9b4fb27db87f2854d3",
