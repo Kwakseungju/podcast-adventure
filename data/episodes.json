@@ -1,5 +1,121 @@
 [
   {
+    "id": "fd94e8a82e0c0e3fcd9e27b4bede625a",
+    "source_id": "odd_lots",
+    "source_name": "Odd Lots",
+    "source_org": "Bloomberg",
+    "source_color": "#06b6d4",
+    "title": "James Bosworth on What Comes After Lula's Stunning Win",
+    "description": "<p>When we last talked to James Bosworth, it seemed like an &ldquo;orange wave&rdquo; was going to take over Latin America and further realign the region&rsquo;s interests with those of the Trump administration. But with Luiz Inacio Lula da Silva&rsquo;s surprise victory in Brazil&rsquo;s presidential election last month, and opposition leader Mar&iacute;a Corina Machado&rsquo;s return to Venezuela, it now looks like the orange wave might be cresting. Bosworth &mdash; a non-resident fellow at the Stimson Center and the author of the Latin America Risk Report newsletter &mdash; comes back to the show to explain how Lula pulled off his upset win over Flavio Bolsonaro, the impact of Machado&rsquo;s return to Venezuela, and why 2027 might further reshape the politics of Latin America.</p> <p>See Odd Lots live in NYC on Dec. 9. <a href=\"https://events.bloombergevents.com/event/OddLotsNYC/summary\">Tickets on sale!</a></p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
+    "published": "2026-11-05",
+    "week": "2026-W45",
+    "audio_url": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/468e99b6-7c28-4fc4-86d7-b4f8016f319d/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
+    "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/468e99b6-7c28-4fc4-86d7-b4f8016f319d/transcript?format=TextWithTimestamps&t=1793830813",
+    "episode_url": "https://omny.fm/shows/odd-lots/james-bosworth-on-what-comes-after-lulas-stunning-win",
+    "type": "podcast",
+    "duration_secs": 1940,
+    "transcript_length": 34225,
+    "speaker": "James Bosworth — non‑resident fellow at the Stimson Center, author of the Latin America Risk Report",
+    "one_line_summary": "Lula’s surprise victory was driven by anti‑incumbent bias, a massive WhatsApp mobilization, and a small but decisive turnout shift that prediction markets and polls missed.",
+    "summary": "James Bosworth explains that Lula’s win was largely a product of Brazil’s anti‑incumbent environment, where the first‑round winner was a referendum on the incumbent rather than a candidate. Bolsonaro’s first‑round lead turned into a liability, exposing him to negative media attention and weakening his campaign. Lula’s campaign leveraged a WhatsApp group of over 10 million users—over 5 % of voters—to drive turnout, and a 1‑2 % shift in turnout between rounds translated into a 4 million‑vote margin. Prediction markets were overconfident, hitting 87 % for Bolsonaro and 80 % overall, while Bosworth himself had a 64 % chance to win. The discussion also touches on the evangelical‑Catholic divide, the role of social media, and the broader “orange wave” narrative in Latin America.\n\nKey data points include the 87 % prediction market level for Bolsonaro, the 64 % chance Bosworth assigned to Bolsonaro, the 4 million‑vote margin, the 1‑2 % turnout shift, and the 10 million‑member WhatsApp group.\n\nThe conversation highlights how social media mobilization can overturn polling expectations, how anti‑incumbent sentiment can backfire, and how demographic shifts (evangelicals vs Catholics) shape electoral outcomes.",
+    "key_themes": [
+      "Anti‑incumbent bias",
+      "Social media mobilization",
+      "Prediction market miss"
+    ],
+    "market_signals": [
+      "Prediction markets hit 87% for Bolsonaro",
+      "Bosworth had a 64% chance to win Bolsonaro",
+      "Turnout shift from first to second round was less than 2% but translated into 4 million votes",
+      "WhatsApp group had over 10 million members, over 5% of voters",
+      "Prediction markets were at 80% overall for Bolsonaro"
+    ],
+    "framework_insights": [
+      "Anti‑incumbent environment acts as a referendum on the incumbent, turning first‑round leads into liabilities",
+      "Social media mobilization can create a rapid, large‑scale turnout shift that polls miss",
+      "Polling accuracy can be undermined by small turnout changes in high‑margin elections",
+      "Demographic divides (evangelical vs Catholic) can be decisive in emerging markets",
+      "Two‑round elections allow voters to reset expectations, enabling a shift in coalition building"
+    ],
+    "market_relevance": "The mispricing of Brazil’s election outcome and the demonstrated power of social media mobilization suggest that emerging‑market elections may be more volatile than traditional polling indicates, warranting closer attention to digital engagement metrics and demographic shifts."
+  },
+  {
+    "id": "920bee3b7d786b15ba8c5d5a613116bf",
+    "source_id": "oaktree_insight",
+    "source_name": "The Insight",
+    "source_org": "Oaktree Capital",
+    "source_color": "#10b981",
+    "title": "Rates",
+    "description": "<p>In September, the U.S. Federal Reserve increased interest rates for the first time in three years, defying expectations for rate decreases in 2026. In our latest episode of The Insight podcast, Wayne Dahl, co-Portfolio Manager of Oaktree’s Global Credit strategy, discusses what’s behind the rise in rates, how it’s reshaping the opportunity set in credit markets and where to find value today.</p><p>Recorded on October 20, 2026.</p>",
+    "published": "2026-11-05",
+    "week": "2026-W45",
+    "audio_url": "https://rss.art19.com/episodes/ea8b0670-c5dc-4ee9-a3f7-725c88222dfa.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94",
+    "transcript_url": null,
+    "episode_url": "https://open.spotify.com/show/6UllvbuIsyPESs38EWPanH",
+    "type": "podcast",
+    "duration_secs": 1271,
+    "transcript_length": 20435,
+    "speaker": "Wayne Dahl — co-portfolio manager for Oaktree's Global Credit Strategy",
+    "one_line_summary": "Higher inflation expectations and real yield pressure are driving a global repricing of bond yields, creating attractive short‑duration credit opportunities amid rising rates and widening spreads.",
+    "summary": "Wayne Dahl explains that the Fed’s first rate hike in three years was driven by a shift in inflation expectations—from 3% to 5% for the end of 2027—largely due to energy price spikes.  The 10‑year U.S. Treasury yield is now slightly above 5%, and global bond markets have followed suit.  He notes that real yields, not just inflation, have risen, especially at the long end, because of higher growth expectations, capital‑expenditure demand (notably AI CapEx), fiscal deficits, and a drop in foreign buyers.  Credit markets have benefited from higher yields, with high‑yield spreads above 300 and sub‑investment‑grade yields north of 8%, but the spread‑vs‑yield trade‑off remains a key consideration.  The discussion also highlights consumer resilience, negative real wages in 2026, and the impact of fixed‑rate consumer debt on short‑term rate sensitivity.",
+    "key_themes": [
+      "Inflation expectations shift",
+      "Real yield dynamics",
+      "Credit market opportunities"
+    ],
+    "market_signals": [
+      "10‑year U.S. Treasury yield slightly above 5%",
+      "High‑yield spreads above 300",
+      "Sub‑investment‑grade yields north of 8%",
+      "Inflation expectations for end‑2027 moved from 3% to 5%",
+      "Gas and energy prices up just under 30% YoY"
+    ],
+    "framework_insights": [
+      "Real yield movement can be decomposed into inflation expectations and real‑yield changes, with the long end driven by growth, capital demand, and fiscal concerns",
+      "Competition for capital from high‑quality AI CapEx borrowers forces investors to reassess treasury duration and risk premium",
+      "Short‑duration focus mitigates uncertainty in long‑term rate expectations, making high‑yield and loan markets attractive",
+      "Spread widening may be offset by yield compression if rates fall, so investors must balance yield capture against spread risk",
+      "Active management is essential in sub‑investment‑grade markets where credit fundamentals remain strong but spreads can widen"
+    ],
+    "market_relevance": "Investors can exploit the current yield‑rich environment by targeting short‑duration credit and structured products, while remaining vigilant to the spread‑vs‑yield dynamics and the potential for rate‑driven compression."
+  },
+  {
+    "id": "e7c818c00f4399bd1c4db9b84ebbd212",
+    "source_id": "capital_allocators",
+    "source_name": "Capital Allocators",
+    "source_org": "Ted Seides",
+    "source_color": "#f43f5e",
+    "title": "Vik Uppal: Why Big Asset Managers Became Widget Factories",
+    "description": "Vik Uppal, Founder and CIO of Mavik Capital Management, argues that the asset management industry's claims of flexibility don't hold up at scale. Big platforms chasing AUM growth have become factories, and managers stuck on the raise-and-deploy hamster wheel invest out of necessity rather than conviction. Vik shares what that meant for Mavik in 2023: almost a year without a deal, and an investor letter rating his own deal flow a 5 out of 10.\n\nFrom: Opportunistic Real Estate and Hard Asset Credit at Mavik – Vik Uppal (EP.525)\nListen to the full episode: [paste the audio episode link]\n\nLearn more about Juniper Square here - https://www.junipersquare.com/ \n\nSubscribe to the mailing list: https://capitalallocators.com/\nAccess Transcript with Premium Membership: https://capitalallocators.com/signup/\nSubscribe on Apple Podcast: https://podcasts.apple.com/us/podcast/capital-allocators-inside-the-institutional/id1223764016\nFollow Ted on Twitter: https://twitter.com/tseides\nFollow Ted on LinkedIn: https://www.linkedin.com/in/tedseides/\n\nEditing and post-production work for this episode was provided by The Podcast Consultant (https://thepodcastconsultant.com)\n\n#VikUppal #MavikCapital #CapitalAllocators #AssetManagement #InstitutionalInvesting",
+    "published": "2026-11-05",
+    "week": "2026-W45",
+    "video_id": "TWRmjhSrDZk",
+    "episode_url": "https://www.youtube.com/watch?v=TWRmjhSrDZk",
+    "type": "youtube",
+    "duration_secs": null,
+    "transcript_length": 1252,
+    "speaker": "Vik Uppal — Founder and CIO, Mavik Capital Management",
+    "one_line_summary": "Asset managers chasing AUM growth become factories, forcing managers to invest out of necessity rather than conviction, leaving Mavik with a year‑long deal drought and a 5/10 deal‑flow rating in 2023.",
+    "summary": "Vik Uppal argues that the asset‑management industry’s proclaimed flexibility collapses when scaled, as large platforms chase AUM growth and morph into factories. Managers stuck on a raise‑and‑deploy cycle invest out of necessity, not conviction. For Mavik, this manifested in almost a year without a deal and an investor letter that rated the firm’s own deal flow a 5 out of 10 in 2023.",
+    "key_themes": [
+      "Scale limits flexibility",
+      "Factory model of large platforms",
+      "Raise‑and‑deploy cycle"
+    ],
+    "market_signals": [
+      "Almost a year without a deal in 2023",
+      "Investor letter rated Mavik’s deal flow 5 out of 10"
+    ],
+    "framework_insights": [
+      "Scale erodes flexibility in asset management",
+      "Large platforms become factories prioritizing AUM over quality",
+      "Managers on a raise‑and‑deploy cycle invest out of necessity",
+      "Deal‑flow quality can be self‑assessed by investors",
+      "Factory model leads to lower conviction investments"
+    ],
+    "market_relevance": "The shift toward factory‑style operations signals a potential decline in high‑conviction deals, affecting portfolio quality and investor confidence in large asset managers."
+  },
+  {
     "id": "c7744df1a7338eca1506cd2679f11b1e",
     "source_id": "in_good_company",
     "source_name": "In Good Company",
@@ -97,6 +213,119 @@
       "Relationship compounding: building relationships is a key way to compound capital"
     ],
     "market_relevance": "The discussion highlights how institutional investors can use their capital base and internal expertise to create a focused, high‑impact investment strategy that may offer unique opportunities for those looking to align capital with operational expertise."
+  },
+  {
+    "id": "8c30a5b1a496b9e33664f1c06e5a16e0",
+    "source_id": "masters_in_business",
+    "source_name": "Masters in Business",
+    "source_org": "Bloomberg",
+    "source_color": "#eab308",
+    "title": "At The Money: How Do Financial Professionals Invest Their Own Money?",
+    "description": "<p>Most investment authors tell you what to do with your money &ndash; but they never tell you what they do with&nbsp;<em>their</em>&nbsp;money. Brian Portnoy, holds a PhD from the University of Chicago and is CEO of Shaping Wealth, which helps financial advisers incorporate behavioral finance into their practices. His latest book is &ldquo;<em>How I Invest My Money</em>,&rdquo; co-edited with Josh Brown (CEO of Ritholtz Wealth).</p> <p>Each week, &ldquo;At the Money&rdquo; discusses an important topic in money management. From portfolio construction to taxes and cutting down on fees, join Barry Ritholtz to learn the best ways to put your money to work.</p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
+    "published": "2026-11-04",
+    "week": "2026-W45",
+    "audio_url": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/4e4cd910-40a1-4619-a5f3-ae2b0012ffff/f29ea7b5-e6fa-4167-a7c4-b4f80178bb5e/audio.mp3?utm_source=Podcast&in_playlist=5873a3cb-298f-40bc-b71f-ae2b0013000d",
+    "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/f29ea7b5-e6fa-4167-a7c4-b4f80178bb5e/transcript?format=TextWithTimestamps&t=1793832888",
+    "episode_url": "https://omny.fm/shows/masters-in-business/at-the-money-how-do-financial-professionals-invest-their-own-money",
+    "type": "podcast",
+    "duration_secs": 1422,
+    "transcript_length": 19702,
+    "speaker": "Brian Portnoy — CEO, Shaping Wealth",
+    "one_line_summary": "Financial experts reveal their own investing stories, showing that behavioral choices often trump mathematical optimization.",
+    "summary": "The podcast centers on Brian Portnoy’s project of compiling 50 short chapters from financial professionals about how they personally invest. The first volume, published in 2020, and a second volume released recently, feature a diverse set of contributors—men, women, people of color, and professionals at various career stages—who share narratives that go beyond simple asset‑allocation tables. The conversations highlight that many experts prioritize psychological comfort, such as paying off mortgages early or holding more cash than theory would suggest, over strictly maximizing expected returns. The series underscores the importance of “permission” to speak candidly about personal finance and illustrates how behavioral finance principles—like the difference between spreadsheet optimal and behaviorally optimal—shape real‑world decisions.\n\nKey takeaways include the value of diverse perspectives in financial storytelling, the tension between mathematical models and human comfort, and the idea that a plan’s worth is measured by its stickability rather than its theoretical efficiency. The podcast also touches on the broader theme that personal finance is inherently personal, and what works for one professional may not suit another’s unique life circumstances.\n",
+    "key_themes": [
+      "Transparency in personal investing",
+      "Behavioral vs mathematical optimization",
+      "Diversity of financial perspectives"
+    ],
+    "market_signals": [],
+    "framework_insights": [
+      "Behaviorally optimal path is often chosen over mathematically optimal due to psychological comfort",
+      "Permission to share personal strategies unlocks richer, more varied financial narratives",
+      "Risk attitudes are shaped by childhood and life experiences, influencing portfolio construction",
+      "Balancing safety (mortgage payoff, cash reserves) with long‑term returns is a common trade‑off",
+      "Personal finance decisions must align with individual goals and constraints, not just market models"
+    ],
+    "market_relevance": "Understanding that investors often prioritize comfort over pure return helps explain current market demand for low‑volatility and defensive assets, and highlights the importance of behavioral insights in portfolio construction."
+  },
+  {
+    "id": "e0916bb9f8fb1b31bc5c3c9aa54b2610",
+    "source_id": "asia_centric",
+    "source_name": "Asia Centric",
+    "source_org": "Bloomberg Intelligence",
+    "source_color": "#d946ef",
+    "title": "Partners Capital on Picking Top Fund Managers",
+    "description": "<p>Asset allocation has become much tougher as the unwinding of the AI trade and rising interest rates ripple through equities and fixed income, breaking down traditional market correlations. With bonds struggling to fulfill their historical role as a portfolio safety net, investors are looking beyond conventional strategies to find true diversification.</p> <p>Adam Watson, Head of Asia Pacific at Partners Capital, and Dominik Burckgard, Head of Hong Kong, join host John Lee on the Asia Centric podcast. Representing an outsourced CIO firm with more than $85 billion in assets under management, they unpack their rigorous process for selecting top-tier fund managers. The pair also discuss the role Asia plays in portfolios and the opportunities presented by smaller, specialized managers.</p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
+    "published": "2026-11-04",
+    "week": "2026-W45",
+    "audio_url": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/992d604b-06ca-40cb-88b2-af6c016f5aa0/9b496154-c7b4-45aa-a7b9-b4f80079b598/audio.mp3?utm_source=Podcast&in_playlist=75a9f17c-2ff1-42c9-9a27-af6c016fae89",
+    "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/9b496154-c7b4-45aa-a7b9-b4f80079b598/transcript?format=TextWithTimestamps&t=1793777224",
+    "episode_url": "https://omny.fm/shows/asia-centric-by-bloomberg-intelligence/partners-capital-on-picking-top-fund-managers",
+    "type": "podcast",
+    "duration_secs": 1442,
+    "transcript_length": 23768,
+    "speaker": "Adam Watson — Head of Asia Pacific, Partners Capital",
+    "one_line_summary": "Partners Capital is positioning portfolios for true diversification amid AI unwind, rising rates, and volatile markets, while staying constructive on private equity and credit but shifting focus to operational value and lower‑middle‑market opportunities.",
+    "summary": "The discussion centers on how Partners Capital, an outsourced CIO office with over $85 billion AUM, navigates the current market environment marked by the unwind of AI‑driven trades, higher interest rates, and renewed volatility. Adam Watson and Dominic Burkhardt explain that the firm’s strategy is to build bespoke investment policies that deliver broad diversification across geography, factor, and sector, while remaining cautious on equity exposure due to a perceived downside bias. They remain constructive on private equity and private credit, but emphasize a shift from leveraged buyouts to operational‑value‑driven strategies and lower‑middle‑market direct lending, opportunistic credit, and stress‑distress plays. The firm also highlights its deep, long‑term partnership model, extensive manager due diligence (2,500 meetings a year, 3–6 month vetting process), and a willingness to invest significant capital (up to half a billion dollars) in high‑quality managers.\n\nKey points include the firm’s view that traditional market correlations are breaking down, the need for portfolios that can survive simultaneous equity and fixed‑income sell‑offs, and the importance of operational excellence in private markets. They also note that venture capital remains a hot area, with typical allocations of 15–30 % of commitments, and that secondaries offer attractive liquidity and discount opportunities.\n\nThe conversation underscores the importance of strategic, long‑term advisory rather than transactional outsourcing, and illustrates how Partners Capital seeks to add value through deep client relationships, governance support, and access to niche private‑market opportunities.",
+    "key_themes": [
+      "Outsourced CIO partnership model",
+      "Diversification amid AI unwind and rate hikes",
+      "Private market strategy shift"
+    ],
+    "market_signals": [
+      "\"$ 1 trillion question of how you should position portfolios in the current market environment\"",
+      "\"We are cautious of how much of equity risk we want to take\"",
+      "\"Private markets have not delivered a premium above public markets in recent years\"",
+      "\"We run a vehicle that provides every second year liquidity\"",
+      "\"We target typical year to have about 15%, 30% of our commitments going into venture capital\""
+    ],
+    "framework_insights": [
+      "Focus on operational value extraction over cheap leverage in private equity",
+      "Use of long‑duration partnership to align incentives with client objectives",
+      "Diversification across geography, factor, and sector to mitigate correlation breakdown",
+      "Rigorous manager selection based on inefficiency pockets and consistent processes",
+      "Balancing liquidity constraints with private‑market illiquidity through structured vehicles"
+    ],
+    "market_relevance": "These insights help investors understand how to navigate a market where AI gains are retracting, rates are rising, and traditional correlations are eroding, by emphasizing diversified, operationally focused private‑market allocations and disciplined manager selection."
+  },
+  {
+    "id": "06cbd2adf866a5c98948ee1c88d47ed9",
+    "source_id": "goldman_sachs",
+    "source_name": "Goldman Sachs",
+    "source_org": "Goldman Sachs",
+    "source_color": "#3b82f6",
+    "title": "John Waldron on GDP Growth, AI, and the M&A Outlook",
+    "description": "Goldman Sachs President and COO John Waldron says clients have a cautiously optimistic outlook and the surge in M&amp;A is a sign of that confidence. In the Exchanges podcast, he also discusses opportunities in asset and wealth management and how AI can help the firm serve clients better. \n\nKey takeaways: \n\n1. The momentum in M&amp;A should continue: Corporate M&amp;A could rise 30% to 35% in 2026, supported by strong pipelines for dealmaking and companies pursuing both scale and sharper strategic focus. \n2. Investors are optimistic about economic growth in the US and Asia: While economic expansion in Europe is more muted, Waldron says the environment there is constructive and may be better than “the narrative suggests.” \n3. Firm strategy, recent acquisitions, and AI are important to the firm: Waldron says targeted acquisitions are building strength and capabilities in asset management, and discusses AI use at the firm. \n\n[00:00] Introduction\n[00:34] Client confidence amid higher costs \n[03:55] Growth across the US, Asia, and Europe \n[06:21] M&amp;A momentum and the bias for scale \n[08:05] Financing and wealth management opportunities \n[09:49] Goldman Sachs's four-part AI strategy \n[12:57] Targeted acquisitions and integration\n\nAlso available on Spotify (https://click.gs.com/myyr) and Apple Podcasts (https://click.gs.com/7x11)\n\nThis episode was recorded on November 3, 2026.\n\nThe opinions and views expressed herein are as of the date of publication, subject to change without notice, and may not necessarily reflect the institutional views of Goldman Sachs or its affiliates. The material provided is intended for informational purposes only, and does not constitute investment, legal, or tax advice, a recommendation from any Goldman Sachs entity to take any particular action or be used as a basis for any other investment decision, or an offer or solicitation to purchase or sell any securities or financial products. Any forward-looking statements, case studies, computations or examples set forth herein are for illustrative purposes only. Past performance is not indicative of future results. Neither Goldman Sachs nor any of its affiliates make any representations or warranties, express or implied, as to the accuracy or completeness of the statements or information contained herein and disclaim any liability whatsoever for reliance on such information for any purpose. Each name of a third-party organization mentioned is the property of the company to which it relates, is used here strictly for informational and identification purposes only and is not used to imply any sponsorship, affiliation, endorsement, ownership or license rights between any such company and Goldman Sachs. This material should not be copied, distributed, published, or reproduced in whole or in part or disclosed by any recipient to any other person without the express written consent of Goldman Sachs. \n\nA transcript is provided for convenience and may differ from the original video or audio content. Goldman Sachs is not responsible for any errors in the transcript. \n\n© 2026 Goldman Sachs.  All rights reserved.",
+    "published": "2026-11-04",
+    "week": "2026-W45",
+    "video_id": "75SWUaCAeuQ",
+    "episode_url": "https://www.youtube.com/watch?v=75SWUaCAeuQ",
+    "type": "youtube",
+    "duration_secs": null,
+    "transcript_length": 3128,
+    "speaker": "John Waldron — President and COO, Goldman Sachs",
+    "one_line_summary": "Corporate M&A is poised to surge 30‑35% in 2026 as clients remain cautiously optimistic amid higher costs.",
+    "summary": "John Waldron, President and COO of Goldman Sachs, outlines a bullish outlook for corporate M&A, forecasting a 30% to 35% rise in 2026 driven by strong deal pipelines and a bias toward scale and strategic focus. He notes that investors are optimistic about economic growth in the US and Asia, while Europe’s expansion is muted yet constructive. Waldron also highlights the firm’s strategy of targeted acquisitions to strengthen asset management capabilities and its four‑part AI strategy to enhance client service.",
+    "key_themes": [
+      "M&A momentum",
+      "Economic growth optimism",
+      "AI and acquisition strategy"
+    ],
+    "market_signals": [
+      "Corporate M&A could rise 30% to 35% in 2026",
+      "Clients have a cautiously optimistic outlook amid higher costs",
+      "Economic expansion in Europe is more muted but constructive",
+      "AI use at the firm is part of a four‑part strategy",
+      "Targeted acquisitions are building strength in asset management"
+    ],
+    "framework_insights": [
+      "M&A momentum is driven by strong pipelines and a bias for scale and sharper strategic focus",
+      "Optimism about US and Asian growth is balanced against muted European expansion",
+      "Targeted acquisitions are a strategic tool to build capabilities",
+      "AI is leveraged to improve client service and operational efficiency",
+      "The firm’s strategy integrates acquisitions, AI, and market outlook to create value"
+    ],
+    "market_relevance": "The projected 30‑35% rise in M&A activity signals robust corporate dealmaking, offering opportunities for investors in transaction-related sectors and highlighting the importance of AI-driven efficiencies in wealth and asset management."
   },
   {
     "id": "1583183ee3a34e7092bfa9647f3f8d93",
