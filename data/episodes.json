@@ -1,5 +1,351 @@
 [
   {
+    "id": "8fcec1df32ff1f091fa4c743d8115485",
+    "source_id": "odd_lots",
+    "source_name": "Odd Lots",
+    "source_org": "Bloomberg",
+    "source_color": "#06b6d4",
+    "title": "What Nvidia's Megaspeed Scandal Is Really All About",
+    "description": "<p>Nvidia CEO Jensen Huang&rsquo;s extramarital relationship with a woman named Alice Huang, whom US intelligence reportedly identified as a Chinese intelligence asset, is one of the biggest stories in the world right now. Bloomberg News tech reporter Mackenzie Hawkins has been paying close attention to Megaspeed, the Singapore-based neocloud that Alice Huang was a former executive at &mdash; and one of Nvidia&rsquo;s largest buyers of chips in Southeast Asia. Hawkins is an expert when it comes to the geopolitics of chips, and she tells us that the story that blew up in the last week has been brewing for a while. The US government was investigating suspected chip diversion involving Megaspeed as early as last year. (Megaspeed denies wrongdoing and Nvidia says it found no evidence of chip smuggling.) On this episode, we talk to Hawkins about how she and our Bloomberg News colleagues began investigating Megaspeed and its relationship to Nvidia, the raging debate in Washington over chip export controls, and the incredibly sophisticated and opaque mechanics of chip smuggling itself.</p> <p><br />Only Bloomberg.com subscribers can get the Odd Lots newsletter in their inbox, plus unlimited access to the site and app. <a href=\"https://www.bloomberg.com/subscriptions/oddlots?in_source=oddlotspodcast\">bloomberg.com/subscriptions/oddlots</a></p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
+    "published": "2026-11-12",
+    "week": "2026-W46",
+    "audio_url": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/9390c1d9-8076-46f9-89ef-b500001b8ce0/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
+    "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/9390c1d9-8076-46f9-89ef-b500001b8ce0/transcript?format=TextWithTimestamps&t=1794447835",
+    "episode_url": "https://omny.fm/shows/odd-lots/what-nvidias-megaspeed-scandal-is-really-all-about",
+    "type": "podcast",
+    "duration_secs": 3249,
+    "transcript_length": 56178,
+    "speaker": "Mackenzie Hawkins — tech reporter, Bloomberg News",
+    "one_line_summary": "Megaspeed’s alleged smuggling of NVIDIA chips highlights a complex web of supply‑chain loopholes, regulatory scrutiny and geopolitical risk that could reverberate across the AI hardware market.",
+    "summary": "The episode focuses on Megaspeed, the single largest Southeast Asian buyer of NVIDIA chips, which purchased $4.6 billion worth of hardware after a BVI shell and Singapore incorporation.  U.S. and Singapore investigations have probed whether Megaspeed diverted chips to China, with reports of 50,000 unaccounted Blackwell GPUs and 115,000 restricted chips ordered for Chinese data centers.  The discussion explains how NVIDIA sells through OEMs and distributors, the role of export‑control officers (now 25 overseas), and the sophisticated black‑market logistics that can mask diversion.  While no concrete evidence of smuggling has emerged, inconsistencies in data‑center footprints and trade records raise risk flags for regulators and investors.",
+    "key_themes": [
+      "Chip supply‑chain complexity",
+      "Geopolitical export controls",
+      "Black‑market smuggling mechanics"
+    ],
+    "market_signals": [
+      "$4.6 billion purchase by Megaspeed",
+      "50,000 unaccounted Blackwell chips",
+      "115,000 restricted NVIDIA chips ordered for China",
+      "12 data centers across 3 countries",
+      "25 U.S. export‑control officers overseas"
+    ],
+    "framework_insights": [
+      "Supply‑chain verification is critical: the chain from OEM to end‑user must be audited to detect diversion",
+      "Export controls rely on declared destinations; mis‑declaration can create loopholes",
+      "Black‑market brokers use complex logistics and false customs declarations to move restricted tech",
+      "Regulatory enforcement capacity is limited overseas, making local oversight essential",
+      "Geopolitical tensions amplify the impact of supply‑chain breaches on market perception"
+    ],
+    "market_relevance": "Investors in AI hardware and related equities should monitor regulatory developments around NVIDIA and Megaspeed, as any enforcement action could tighten supply, shift pricing, and alter competitive dynamics in the AI chip market."
+  },
+  {
+    "id": "bd69c6d7b463ab5a578088be0c965715",
+    "source_id": "view_from_apollo",
+    "source_name": "The View from Apollo",
+    "source_org": "Apollo Global Management",
+    "source_color": "#a855f7",
+    "title": "Risk & Rebalance: Four Dynamics Reshaping Portfolios",
+    "description": "Are investors being paid for the risks in their portfolios? Alex Wright, Partner and Global Wealth Strategist, and Chris Lvoff, Managing Director in Apollo Portfolio Solutions, answer the question given current market conditions. They work through four dynamics driving portfolios: rates that seem set to stay higher for longer, a weakening 60/40 hedge, equity concentration and a bond index more concentrated than it looks. They also discuss rebalancing and how private markets may offer different sources of return and diversification.\n\nFor more, read Alex’s article, What’s the Risk?, at https://www.apollo.com/wealth/insights-news/insights/2026/11/whats-the-risk-seven-numbers-that-reveal-hidden-exposures-in-todays-portfolios\n\nAnd check out these related installments of Chris’s “After 60/40” article series:\n\nhttps://www.apollo.com/wealth/insights-news/insights/2026/10/after-60-40--what-if-traditional-equity-portfolio-diversifiers-are-falling-short\n\nhttps://www.apollo.com/wealth/insights-news/insights/2026/03/after-60-40-manager-selection-matters\n\nhttps://www.apollo.com/wealth/insights-news/insights/2026/01/after-60-40-modern-portfolio-allocation-across-private-and-public-markets",
+    "published": "2026-11-11",
+    "week": "2026-W46",
+    "audio_url": "https://media.blubrry.com/theviewfromapollo/ins.blubrry.com/theviewfromapollo/62_Allocation_Risk_Rebalance_Four_Dynamics_Reshaping_Portfolios.mp3",
+    "transcript_url": null,
+    "episode_url": "https://podcast.show/theviewfromapollo/episode/156002521/",
+    "type": "podcast",
+    "duration_secs": 2084,
+    "transcript_length": 37324,
+    "speaker": "Alex Wright — partner, Apollo Global Management's Global Wealth Strategist",
+    "one_line_summary": "Rates are rising, spreads tightening, and investors are rebalancing away from over‑exposed equities toward private markets for alpha and diversification.",
+    "summary": "The discussion centers on a tightening rate environment: the year began with expectations of two cuts, but inflation remains persistent and a second hike is expected in December. The Bloomberg U.S. aggregate fell 3.5% in Q3, its steepest drop since 2022, and investment‑grade spreads are near historical tightness, meaning bond investors are paid mainly for rate sensitivity. Investors have drifted from a 60‑40 allocation to roughly 72% equities, creating a rebalancing impulse that is already underway. Private markets are positioned as a source of alpha, volatility reduction, and diversification, with 85% of U.S. companies over $100 M in revenue still private. The 60‑40 paradigm is under strain: the 36‑month correlation between U.S. stocks and bonds peaked near 0.7 in 2024, the highest since 1980, and is now around 0.5. Alex and Chris argue that private markets can replace or augment public equity and fixed‑income buckets, offering higher yield, spread, and uncorrelated returns.\n\nKey data points include the 3.5% Q3 decline of the Bloomberg U.S. aggregate, the expectation of a December rate hike, the 0.7 peak correlation in 2024, and the concentration of the S&P 500’s return in the top 10 tech/AI stocks.\n\nThe conversation highlights the need for investors to reassess risk premiums across the curve, backtest whether they are being paid for risk, and consider private market allocations to achieve alpha and diversification in a high‑rate, volatile environment.",
+    "key_themes": [
+      "Rate environment and spread tightening",
+      "Rebalancing from equity over‑exposure",
+      "Private markets as alpha and diversification"
+    ],
+    "market_signals": [
+      "Bloomberg U.S. aggregate fell 3.5% in Q3, steepest drop since 2022",
+      "Investment‑grade spreads near historical tightness, bond investors paid mainly for rate sensitivity",
+      "Second rate hike expected in December",
+      "36‑month correlation between U.S. stocks and bonds peaked near 0.7 in 2024, now around 0.5",
+      "S&P 500’s top 10 tech/AI stocks contributed more than half of the index’s return so far this year"
+    ],
+    "framework_insights": [
+      "Rebalancing is driven by investors’ need to reduce equity over‑exposure from 72% back toward a target allocation while avoiding capital gains taxes",
+      "Private markets can replace or augment public equity and fixed‑income buckets to generate alpha and diversify risk",
+      "The 60‑40 paradigm is less reliable when stock‑bond correlation rises, requiring a shift to alternative asset classes",
+      "Diversification in private markets comes from accessing a broader universe of companies, many of which are now private and large",
+      "Education and performance data are essential to build trust in private market diversification and uncorrelated returns"
+    ],
+    "market_relevance": "Investors facing higher rates and tighter spreads must reassess their risk‑premium exposure and consider private markets to maintain diversification and alpha in a market where traditional stock‑bond hedges are weakening."
+  },
+  {
+    "id": "caa99c99242ec5b2ef1a2ca063fd7418",
+    "source_id": "odd_lots",
+    "source_name": "Odd Lots",
+    "source_org": "Bloomberg",
+    "source_color": "#06b6d4",
+    "title": "The Perfect Storm That Clobbered Hedge Funds",
+    "description": "<p>Even before the US midterms, the AI trade was weakening. Just look at all <a href=\"https://www.bloomberg.com/news/articles/2026-11-06/crowded-hedge-fund-trades-are-unwinding-fast-after-ugly-october\">the headlines from October in the hedge fund world</a> &mdash; it was one of the bloodiest periods the industry has faced in recent memory. Now, after the blue wave, things continue to look uncertain. So what's going to happen with the AI buildout now? And what about the big Anthropic IPO? Today's episode is a two-parter, one that examines both the hedge fund carnage of the last few weeks and the broader macro conditions we find ourselves in after the midterm elections. We speak with two of our Bloomberg News colleagues &mdash; Nishant Kumar, chief correspondent for hedge funds, and macro strategist Michael Ball &mdash; and they help lay out why October was a historic month for hedge funds and what they are paying attention to now as jitters from the AI trade continue to work their way through the market.<br /><br />Read more: <a href=\"https://www.bloomberg.com/news/articles/2026-11-06/crowded-hedge-fund-trades-are-unwinding-fast-after-ugly-october\">Crowded Hedge Fund Trades Unwind Fast After Ugly October</a></p> <p>Only Bloomberg.com subscribers can get the Odd Lots newsletter in their inbox, plus unlimited access to the site and app.&nbsp;<a href=\"https://www.bloomberg.com/subscriptions/oddlots?in_source=oddlotspodcast\">bloomberg.com/subscriptions/oddlots</a></p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
+    "published": "2026-11-11",
+    "week": "2026-W46",
+    "audio_url": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/d50c15fb-6c5a-4836-89a2-b4fe0174107c/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
+    "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/d50c15fb-6c5a-4836-89a2-b4fe0174107c/transcript?format=TextWithTimestamps&t=1794350284",
+    "episode_url": "https://omny.fm/shows/odd-lots/the-perfect-storm-that-clobbered-hedge-funds",
+    "type": "podcast",
+    "duration_secs": 3118,
+    "transcript_length": 53907,
+    "speaker": "Nishant Kumar — chief correspondent for hedge funds at Bloomberg News",
+    "one_line_summary": "Hedge funds suffered a coordinated collapse in October driven by AI‑related crowding, high leverage, and a failure of multi‑strategy risk models to contain correlated losses.",
+    "summary": "The episode highlights a historic downturn for hedge funds in October, with flagship names such as Millennium down 2.3%, Kirkus World down 6.4%, and Chris Rokos down almost 5%.  The losses were not isolated to one sector; AI‑adjacent stocks, high‑bond markets, and macro plays all fell, creating a “perfect storm.”  Multi‑strategy funds, designed to diversify across independent pods, were exposed to the same AI‑related bets, leading to synchronized drawdowns.  The discussion underscores the role of leverage—Pivotal Path noted that the 10 largest firms controlled about $2.2 trillion, with $300–$350 billion of leveraged capital— and the ruthless risk‑management rules that cut capital or liquidate positions when losses hit 5–7.5%.  The episode ends with a warning that the market’s current structure may be missing the systemic risk of crowded AI bets and the fragility of multi‑strategy models.",
+    "key_themes": [
+      "AI‑related crowding and concentration",
+      "Multi‑strategy risk management and leverage",
+      "Systemic correlation and market structure"
+    ],
+    "market_signals": [
+      "Millennium down 2.3% in October, a loss that exceeds the S&P 500 for the month",
+      "Kirkus World lost 6.4% in October, its biggest down month since inception",
+      "Chris Rokos lost almost 5% in October",
+      "VARA lost 33% in October but remains up for the year",
+      "Pivotal Path reports the 10 largest firms control about $2.2 trillion, with $300–$350 billion of leveraged capital"
+    ],
+    "framework_insights": [
+      "Risk‑management ruthlessness in multi‑strats: a 5% loss can trigger a 50% capital cut, and a 7.5% loss can lead to liquidation",
+      "Crowding can masquerade as diversification: pods may trade the same AI theme in different skins, creating hidden correlation",
+      "Leverage magnifies systemic risk: $300–$350 billion of leveraged exposure can amplify a single sector shock",
+      "Multi‑strategy models rely on short‑term return maximization, making them vulnerable to rapid market swings",
+      "Correlation dynamics are fluid; a sudden spike in correlation can collapse a diversified portfolio"
+    ],
+    "market_relevance": "Investors should scrutinize AI exposure and leverage in their hedge fund allocations, as crowded bets and aggressive risk rules can trigger rapid, synchronized losses that threaten portfolio stability."
+  },
+  {
+    "id": "603075388622ded3652c2186f458dcf9",
+    "source_id": "masters_in_business",
+    "source_name": "Masters in Business",
+    "source_org": "Bloomberg",
+    "source_color": "#eab308",
+    "title": "At the Money: Investing for Creative Types",
+    "description": "<p>&nbsp;Artists need budgets, songwriters need to save for retirement and anyone who is right-brained needs to understand money too. Financial security enables creative risk. AJ Ayers is co-founder of BKFi and author of the book, \"Creative Money: New Financial Rules for Artists, Innovators, and Misfits\"</p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
+    "published": "2026-11-11",
+    "week": "2026-W46",
+    "audio_url": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/4e4cd910-40a1-4619-a5f3-ae2b0012ffff/f5f463e7-3aa3-4c58-8ee0-b4ff01763e84/audio.mp3?utm_source=Podcast&in_playlist=5873a3cb-298f-40bc-b71f-ae2b0013000d",
+    "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/f5f463e7-3aa3-4c58-8ee0-b4ff01763e84/transcript?format=TextWithTimestamps&t=1794437155",
+    "episode_url": "https://omny.fm/shows/masters-in-business/at-the-money-investing-for-creative-types",
+    "type": "podcast",
+    "duration_secs": 868,
+    "transcript_length": 13848,
+    "speaker": "AJ Ayers — co-founder of Brooklyn Fi",
+    "one_line_summary": "Creative professionals must treat irregular income like a business, pay taxes first, and adopt a disciplined saving habit to achieve financial security.",
+    "summary": "AJ Ayers explains that artists and other right‑brain creatives often face irregular income streams and lack the financial literacy that Wall Street assumes. She stresses the importance of treating income as a business, paying yourself regularly, and prioritizing savings over spending. Taxes are a major pitfall; she recommends setting aside 50% (or 30% if that feels more realistic) of every dollar earned to avoid a surprise bill. For windfalls, she outlines a step‑by‑step framework: spend 1% on something awesome, let the rest sit, pay taxes, then invest, especially a minimum of $10,000 as soon as possible. Finally, she urges creatives to adopt the ABS mantra—Always Be Saving—to build a habit that can sustain them through lean periods and enable eventual full‑time creative careers or early retirement.\n\nKey data points include a $2,000 tax refund example, a $2 million record advance scenario, and the recommendation to invest $10,000 quickly. She also highlights that a year of savings and a year of expenses (or 3–5 years of runway) is a typical baseline before quitting a day job.\n\nHer advice is framed around practical steps rather than abstract theory, making it immediately actionable for artists, musicians, writers, and other creative professionals.\n",
+    "key_themes": [
+      "Irregular income management",
+      "Tax planning for creatives",
+      "Windfall allocation"
+    ],
+    "market_signals": [
+      "$2,000 tax refund example",
+      "$2 million record advance scenario",
+      "Spend 1% on something awesome",
+      "Set aside 50% of every dollar for taxes (or 30%)",
+      "Invest $10,000 as soon as possible"
+    ],
+    "framework_insights": [
+      "Treat irregular income like a business and pay yourself regularly",
+      "Use the ABS mantra—Always Be Saving—to build a habit",
+      "Create a windfall framework: spend 1%, let rest sit, pay taxes, invest",
+      "Plan for a year of savings and a year of expenses before quitting a day job",
+      "Early retirement can be targeted in 30s/40s by leveraging windfalls"
+    ],
+    "market_relevance": "These insights help investors understand the growing niche of creative professionals who need tailored financial strategies, highlighting a potential market for advisory services and financial products designed for irregular income streams."
+  },
+  {
+    "id": "3c74a79f508396f0f5aa1eeb559aebe5",
+    "source_id": "in_good_company",
+    "source_name": "In Good Company",
+    "source_org": "Norges Bank Investment Management",
+    "source_color": "#14b8a6",
+    "title": "Mike Milken: Access to Capital, the American Dream, and Why Risk Is Misunderstood",
+    "description": "<p>Who gets access to capital, and who gets left out? Nicolai Tangen talks with financier and philanthropist Mike Milken, a pioneer of the high-yield bond market, to trace how a chance encounter at 19 shaped a lifelong mission to widen access to capital. They discuss why the “safest” credit isn’t always what it seems, how private credit compares with the past, the Milken Center for Advancing the American Dream, and why medical research drives economic growth. Mike also shares what still motivates him at 80, how he sees the world through his grandchildren’s eyes, and why curiosity matters most. Hit play. Curiosity is the only prerequisite.</p><p>In Good Company is hosted by Nicolai Tangen, CEO of Norges Bank Investment Management. New episodes every Wednesday, and don't miss our weekly wrap-up on Friday’s.</p><p>The production team for this episode includes Isabelle Karlsson and PLAN-B's Niklas Figenschau Johansen. Background research was conducted by Karoline Woie.</p><p><br /></p><ul><li>Watch the episode on YouTube: <u><a href=\"https://www.youtube.com/@norgesbankinvestmentmanagement/videos\" rel=\"noopener noreferrer\" target=\"_blank\">Norges Bank Investment Management - YouTube</a></u></li><li>Want to learn more about the fund? <u><a href=\"https://www.nbim.no/en/\" rel=\"noopener noreferrer\" target=\"_blank\">The fund | Norges Bank Investment Management (nbim.no)</a></u></li><li>Follow Nicolai Tangen on LinkedIn: <u><a href=\"https://www.linkedin.com/in/nicolai-tangen/\" rel=\"noopener noreferrer\" target=\"_blank\">Nicolai Tangen | LinkedIn</a></u></li><li>Follow NBIM on LinkedIn: <u><a href=\"https://www.linkedin.com/company/12557/admin/feed/posts/\" rel=\"noopener noreferrer\" target=\"_blank\">Norges Bank Investment Management: Administrator for bedriftsside | LinkedIn</a></u></li><li>Follow NBIM on Instagram: <u><a href=\"https://www.instagram.com/explore/locations/1688331664768381/norges-bank-investment-management/\" rel=\"noopener noreferrer\" target=\"_blank\">Explore Norges Bank Investment Management on Instagram</a></u></li></ul><hr /><p style=\"color: grey; font-size: 0.75em;\"> Hosted on Acast. See <a href=\"https://acast.com/privacy\" rel=\"noopener noreferrer\" style=\"color: grey;\" target=\"_blank\">acast.com/privacy</a> for more information.</p>",
+    "published": "2026-11-11",
+    "week": "2026-W46",
+    "audio_url": "https://sphinx.acast.com/p/open/s/622618c7057f3400120d15db/e/6af30a3271f47eaba632d874/media.mp3",
+    "transcript_url": null,
+    "episode_url": "https://shows.acast.com/in-good-company-with-nicolai-tangen/episodes/mike-milken-access-to-capital-the-american-dream-and-why-ris",
+    "type": "podcast",
+    "duration_secs": 2122,
+    "transcript_length": 2269,
+    "speaker": "",
+    "one_line_summary": "The episode introduces Mike Milken and discusses his lifelong mission to widen access to capital.",
+    "summary": "The transcript describes a podcast episode hosted by Nicolai Tangen, CEO of Norges Bank Investment Management, featuring financier and philanthropist Mike Milken. It outlines Milken’s background as a pioneer of the high‑yield bond market and his focus on expanding access to capital, the Milken Center for Advancing the American Dream, and the role of medical research in economic growth. The episode also touches on Milken’s motivations at age 80 and his perspective through his grandchildren’s eyes.",
+    "key_themes": [
+      "Access to capital",
+      "High‑yield bond market",
+      "Medical research and economic growth"
+    ],
+    "market_signals": [],
+    "framework_insights": [],
+    "market_relevance": "The discussion highlights the importance of inclusive capital markets and the long‑term economic impact of medical research, which can inform investment strategies focused on growth sectors and financial inclusion."
+  },
+  {
+    "id": "6d37e39f45033d321660ededa0de38ea",
+    "source_id": "invest_like_the_best",
+    "source_name": "Invest Like the Best",
+    "source_org": "Colossus",
+    "source_color": "#6366f1",
+    "title": "Zach Reitano - Building Ro and Why Healthcare Should Be 50% of GDP - [Invest Like the Best, EP.500]",
+    "description": "My guest today is Zach Reitano, the co-founder and CEO of Ro, the country’s leading provider of GLP-1s. In four years, Ro has grown from a $250 million run rate to over $3 billion, with fewer people than it had in 2021.\n\nThe heart of our conversation is what he sees as the central flaw in American healthcare, which is that the patient is not the customer. He points to GLP-1s and LASIK as examples of what’s possible when patients pay directly, and he thinks AI could bring healthcare down to the price of a Netflix subscription.\n\nBut to capture that opportunity, Zach first had to rebuild Ro's culture around high performance and a big heart. It shows in the stories Ro shares from people like Serena Williams, which help patients get past the stigma of seeking treatment. The inspiration behind it all is his father, a doctor whose care Zach wants to recreate in software.\n\nPlease enjoy my conversation with Zach Reitano.\n\nFor the full show notes, transcript, and links to mentioned content, check out the episode page ⁠here⁠.\n\n-----\n\nBecome a Colossus member to get our quarterly print magazine and private audio experience, including exclusive profiles and early access to select episodes. Subscribe at ⁠⁠colossus.com/subscribe⁠⁠.\n\n-----\n\n⁠⁠Ramp’s⁠⁠ mission is to help companies manage their spend in a way that reduces expenses and frees up time for teams to work on more valuable projects. Go to ⁠⁠⁠ramp.com/invest⁠⁠⁠ to sign up for free and get a $250 welcome bonus.\n\n-----\n\nTrusted by thousands of businesses, ⁠⁠Vanta⁠⁠ continuously monitors your security posture and streamlines audits so you can win enterprise deals and build customer trust without the traditional overhead. Invest Like the Best listeners get a special offer of $1,000 off Vanta when you go to ⁠⁠vanta.com/invest⁠⁠.\n\n-----\n\n⁠WorkOS⁠⁠ is the infrastructure B2B and AI-native companies use to sell to enterprise. It covers everything enterprise security requires: SSO, SCIM, RBAC, Audit Logs, AI governance, and more. Trusted by 2,000+ fast-growing companies, including OpenAI, Anthropic, Cursor, and Vercel.\n\n-----\n\n⁠Rogo⁠ is the AI platform for finance. They're building agents for Wall Street that are trained to understand how bankers and investors actually do work: from diligence and modeling, to turning analysis into deliverables. To learn more, visit ⁠rogo.ai/invest⁠.\n\n-----\n\n⁠⁠Ridgeline⁠⁠ has built a complete, real-time, modern operating system for investment managers. It handles trading, portfolio management, compliance, customer reporting, and much more through an all-in-one real-time cloud platform. Visit ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ridgeline.ai⁠⁠.\n\n-----\n\nEditing and post-production work for this episode was provided by ⁠The Podcast Consultant⁠.\n\nTimestamps:\n\n(00:01:35) Why Healthcare Spending Should Rise\n\n(00:05:39) Putting Patients in Control\n\n(00:10:37) Inside Ro's GLP-1 Business\n\n(00:16:29) How GLP-1s Could Reshape Society\n\n(00:23:15) The Hidden Cost of Protecting Jobs\n\n(00:28:35) Rebuilding a Zombie Company\n\n(00:36:33) What Drove Ro's 10x Growth\n\n(00:43:49) Where Healthcare Goes Next\n\n(00:46:27) Zach's Personal Health Stack\n\n(00:54:07) Finding the Work You Were Born For\n\n(01:00:15) Ro's Consumer Playbook\n\n(01:04:39) Breaking Medical Taboos\n\n(01:12:54) The Kindest Thing",
+    "published": "2026-11-11",
+    "week": "2026-W46",
+    "audio_url": "https://traffic.megaphone.fm/CLS9826691790.mp3",
+    "transcript_url": null,
+    "episode_url": "https://colossus.com/episode/the-patient-revolution/",
+    "type": "podcast",
+    "duration_secs": 4567,
+    "transcript_length": 45551,
+    "speaker": "Zach Reitano — Founder, Rho",
+    "one_line_summary": "Healthcare spending should be driven by patient ownership and transparency, with direct-to-consumer models like GLP‑1s proving that removing middlemen can slash costs and improve outcomes.",
+    "summary": "Zach Reitano discusses the U.S. healthcare system’s high cost—18% of GDP—and argues that the real issue is the mismatch of incentives: patients are not the customers. He highlights how direct‑to‑consumer models, exemplified by GLP‑1 drugs, can reduce prices from $1,300 to $149 and increase volume, while PBMs and insurance add little value. Reitano also notes the U.S. spends 30‑35% on hospitals, 20‑25% on doctors’ offices, and 9‑10% on drugs, yet life expectancy has plateaued due to chronic disease and “fast clock” deaths. He outlines Rho’s vertically integrated platform that offers affordable, AI‑driven care and emphasizes continuous innovation as the key to staying ahead.\n\nKey themes include the need for patient‑centric pricing, the power of direct‑to‑consumer drug distribution, the inefficiencies of PBMs, and the importance of transparency and continuous innovation in healthcare delivery.",
+    "key_themes": [
+      "Patient‑centric pricing",
+      "Direct‑to‑consumer drug distribution",
+      "PBM inefficiencies"
+    ],
+    "market_signals": [
+      "Healthcare spending 18% of GDP",
+      "Hospitals 30‑35% of spending",
+      "Doctors’ offices 20‑25% of spending",
+      "Drugs 9‑10% of spending",
+      "GLP‑1 price drop from $1,300 to $149"
+    ],
+    "framework_insights": [
+      "Mismatch of incentives: patients are not the customers",
+      "Direct‑to‑consumer removes PBMs and lowers costs",
+      "Transparency drives competition and trust",
+      "Continuous innovation is the only sustainable differentiator",
+      "Vertical integration enables end‑to‑end control of care"
+    ],
+    "market_relevance": "Investors should watch for companies that empower patients with transparent pricing and direct access to high‑margin drugs, as these models can disrupt traditional insurance and PBM structures and capture significant value in a system still spending 18% of GDP on health."
+  },
+  {
+    "id": "21f612fda935f4755fbac3eb59057a95",
+    "source_id": "asia_centric",
+    "source_name": "Asia Centric",
+    "source_org": "Bloomberg Intelligence",
+    "source_color": "#d946ef",
+    "title": "Why Chinese Consumers Are Shunning New Smartphones",
+    "description": "<p>Chinese consumers are deferring smartphone upgrades into 2027 and beyond, casting a shadow over the world's largest mobile market. Despite industry hopes, on-device artificial intelligence and new form factors such as foldables are failing to excite buyers. Instead, rising memory prices are prompting users to hold onto their devices longer.</p> <p>Apple and Huawei stand out as the major brands growing in China, while Android competitors like Oppo and Vivo suffer volume declines. Steven Tseng, senior technology analyst at Bloomberg Intelligence, and Vlad Savov, tech editor for Bloomberg News, join host John Lee on the Asia Centric podcast. They explore the findings of our China smartphone survey and discuss what this means for the smartphone supply chain.</p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
+    "published": "2026-11-11",
+    "week": "2026-W46",
+    "audio_url": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/992d604b-06ca-40cb-88b2-af6c016f5aa0/e1d94eaf-8dc6-4845-9200-b4fe008a34ca/audio.mp3?utm_source=Podcast&in_playlist=75a9f17c-2ff1-42c9-9a27-af6c016fae89",
+    "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/e1d94eaf-8dc6-4845-9200-b4fe008a34ca/transcript?format=TextWithTimestamps&t=1794299829",
+    "episode_url": "https://omny.fm/shows/asia-centric-by-bloomberg-intelligence/why-chinese-consumers-are-shunning-new-smartphones",
+    "type": "podcast",
+    "duration_secs": 1183,
+    "transcript_length": 19273,
+    "speaker": "Stephen Tsang — Senior Technology Analyst at Bloomberg Intelligence",
+    "one_line_summary": "Chinese consumers are delaying smartphone upgrades, extending replacement cycles, and showing low enthusiasm for AI, while brand loyalty to Huawei and Apple remains high amid rising memory costs.",
+    "summary": "The Bloomberg Intelligence survey shows a sharp decline in second‑half purchase intent—from 38% in May to 26% in October—while 2027 intent jumps from 29% to 58%, indicating a shift of demand into the next year. Hold‑time expectations have risen from 34% to 45% for a 2‑3 year cycle. AI is no longer a major upgrade driver, falling from 12% to 8%. Brand loyalty remains strong: 70% of Huawei owners and 80% of Apple owners plan to stay with their brand. Memory price expectations are pushing consumers to buy earlier or delay, and the memory supply chain may see a lagged response to reduced data‑center capex after the US midterms.",
+    "key_themes": [
+      "Consumer upgrade delay",
+      "AI immaturity",
+      "Brand loyalty"
+    ],
+    "market_signals": [
+      "Second‑half purchase intent fell to 26% from 38% May",
+      "2027 purchase intent rose to 58% from 29% May",
+      "Hold‑time for 2‑3 years increased to 45% from 34% May",
+      "AI upgrade trigger dropped to 8% from 12% May",
+      "Apple 2027 upgrade intent 49% vs 48% May, non‑iPhone 60% vs 36% May"
+    ],
+    "framework_insights": [
+      "Consumer delay driven by expectation of higher memory prices",
+      "AI’s low impact shows maturity gap between cloud and on‑device AI",
+      "Brand loyalty creates a defensive moat for Huawei and Apple",
+      "Memory supply chain lag means price relief may take 2‑3 quarters",
+      "Premium brands can offset cost pressures through ecosystem lock‑in"
+    ],
+    "market_relevance": "Investors should monitor memory price trends and consumer sentiment shifts, as they signal potential pressure on smartphone margins and a delayed rebound in upgrade cycles."
+  },
+  {
+    "id": "0ae376ab73b13728537df090128ea529",
+    "source_id": "goldman_sachs",
+    "source_name": "Goldman Sachs",
+    "source_org": "Goldman Sachs",
+    "source_color": "#3b82f6",
+    "title": "Playing for Scale: The Future of Sports Investing",
+    "description": "Investors are finding opportunities in sports as the media rights market surges and team valuations climb, Nicole Pullen Ross, head of the Sports and Entertainment Solutions within Goldman Sachs Private Wealth Management, explains on the Exchanges podcast. Read the related report: https://pwm.gs.com/nam/en-us/insights/events-and-community/sports-entertainment/future-of-sports-investing-trends \n\nKey Takeaways:\n1. The value of sports media rights is soaring: The global sports media market grew 41% from 2020 through 2025 and has continued climbing to an expected $67 billion in 2026.\n2. Private equity and institutional investments are accelerating: Surging media rights are the core driver of growth, lifting sports franchise valuations to historic highs. \n3. Infrastructure and real estate are key: Modern venues and surrounding entertainment districts create benefits that go beyond game day and complement technology-driven fan personalization. \n4. Women’s and college sports are attracting investors: Women’s teams that control their own arenas command higher valuations, and new player-pay rules are prompting college athletic departments to weigh new types of financing. \n\n[00:00] Introduction\n[01:11] Media rights expansion and streaming\n[03:43] Surge in private equity transactions\n[05:03] Creative financing for team ownership\n[06:36] Financing $1.7 billion modern stadiums\n[08:14] Technology transforming the fan experience\n[09:35] Infrastructure gap in women's sports\n[12:25] College athletics and landmark settlements \n[14:48] Global and emerging league opportunities\n\nAlso available on Spotify (https://click.gs.com/myyr) and Apple Podcasts (https://click.gs.com/7x11)\n\nThis episode was recorded on October 27, 2026.\n\nThe opinions and views expressed herein are as of the date of publication, subject to change without notice, and may not necessarily reflect the institutional views of Goldman Sachs or its affiliates. The material provided is intended for informational purposes only, and does not constitute investment, legal, or tax advice, a recommendation from any Goldman Sachs entity to take any particular action or be used as a basis for any other investment decision, or an offer or solicitation to purchase or sell any securities or financial products. Any forward-looking statements, case studies, computations or examples set forth herein are for illustrative purposes only. Past performance is not indicative of future results. Neither Goldman Sachs nor any of its affiliates make any representations or warranties, express or implied, as to the accuracy or completeness of the statements or information contained herein and disclaim any liability whatsoever for reliance on such information for any purpose. Each name of a third-party organization mentioned is the property of the company to which it relates, is used here strictly for informational and identification purposes only and is not used to imply any sponsorship, affiliation, endorsement, ownership or license rights between any such company and Goldman Sachs. This material should not be copied, distributed, published, or reproduced in whole or in part or disclosed by any recipient to any other person without the express written consent of Goldman Sachs. \n\nA transcript is provided for convenience and may differ from the original video or audio content. Goldman Sachs is not responsible for any errors in the transcript. \n\n© 2026 Goldman Sachs.  All rights reserved.",
+    "published": "2026-11-11",
+    "week": "2026-W46",
+    "video_id": "7_WNV5ssjes",
+    "episode_url": "https://www.youtube.com/watch?v=7_WNV5ssjes",
+    "type": "youtube",
+    "duration_secs": null,
+    "transcript_length": 3465,
+    "speaker": "Nicole Pullen Ross — head of the Sports and Entertainment Solutions within Goldman Sachs Private Wealth Management",
+    "one_line_summary": "Sports media rights are surging, lifting franchise valuations and creating new investment avenues in infrastructure, women's and college sports.",
+    "summary": "Nicole Pullen Ross explains that the global sports media market grew 41% from 2020 through 2025 and is projected to reach $67 billion in 2026, a surge that is driving private‑equity and institutional investment into sports franchises.  Modern venues and surrounding entertainment districts are becoming key assets, with $1.7 billion being invested in new stadiums to enhance fan experience and generate non‑game‑day revenue.  Women’s teams that own their arenas command higher valuations, and new player‑pay rules are prompting college athletic departments to explore alternative financing structures.  These trends collectively suggest that sports investing is expanding beyond traditional team ownership into media, infrastructure, and emerging leagues.",
+    "key_themes": [
+      "media rights expansion",
+      "private equity acceleration",
+      "infrastructure and fan experience"
+    ],
+    "market_signals": [
+      "Global sports media market grew 41% from 2020 through 2025",
+      "Expected $67 billion in 2026 for global sports media market",
+      "$1.7 billion invested in modern stadiums",
+      "Women’s teams that control their own arenas command higher valuations",
+      "New player‑pay rules prompting college athletic departments to weigh new types of financing"
+    ],
+    "framework_insights": [
+      "Media rights are the core driver of sports franchise valuation growth",
+      "Infrastructure and entertainment districts create value beyond game day and support tech‑driven fan personalization",
+      "Ownership of arenas by women’s teams leads to higher valuations, illustrating asset control as a value lever",
+      "New player‑pay rules create financing opportunities for college athletics, showing regulatory changes as catalysts",
+      "Emerging leagues offer global expansion opportunities, indicating diversification of sports investment beyond traditional markets"
+    ],
+    "market_relevance": "The rapid growth in media rights and infrastructure investment signals that sports assets are becoming increasingly attractive and liquid, offering portfolio managers new avenues for diversification and higher returns in a post‑pandemic economy."
+  },
+  {
+    "id": "5c063d74760abef81c9bcb920d1e2e09",
+    "source_id": "capital_allocators",
+    "source_name": "Capital Allocators",
+    "source_org": "Ted Seides",
+    "source_color": "#f43f5e",
+    "title": "Aydin Senkut: Chasing Demand, Not Hype, at Felicis",
+    "description": "Aydin Senkut is the Founder of Felicis, a venture capital firm he founded 20 years ago that invests in seed and Series A companies, now investing out of a billion-dollar fund.\n\nAydin joined Ted five years ago for his first appearance on Capital Allocators, and this conversation picks up where that one left off — covering what has changed for Felicis, for high-growth companies, and for the venture industry at large. Topics include how Aydin thinks about demand as a leading signal ahead of revenue, why valuation can lag demonstrated growth by years, how software moats are being complicated by AI, and the case for infrastructure-layer companies over application-layer bets.\n\nThe conversation also covers Felicis's portfolio construction discipline, including how the firm benchmarks each company against the rest of the portfolio to give founders an honest signal, why Felicis pledges never to vote against its founders in exchange for candor, how the firm approaches exit engineering as a deliberate practice consuming 10 to 20 percent of team time, and why international sourcing — including companies like Shopify, Canva, and Tines — represents a non-consensus edge rather than a geographic concession.\n\nChapters:\n0:00 Introduction\n3:29 Finding 100X revenue growth opportunities\n8:19 Capital-intensive robotics investment thesis\n10:43 Identifying durable IP and anchor companies\n13:48 Multi-signal framework for early investing\n17:01 Underwriting capital-intensive vs. SaaS businesses\n19:06 Competing amid abundant venture capital\n20:25 What founders prioritize when choosing investors\n21:52 How firm supports portfolio founders post-investment\n25:12 Strategy and instrumentation work with founders\n27:44 Current advice on growth fundamentals and timing\n35:35 Venture competitive environment changes\n38:12 Investing in obvious late-stage companies\n41:07 Generalist team structure at Felicis\n44:41 Non-obvious founder characteristics\n47:58 Valuation discipline vs. fundamental strength\n50:55 Investing outside US, finding global founders\n54:26 Exit market strategy and engineering\n58:50 Fund size and capital strategy\n1:03:04 Firm evolution and growth priorities\n1:04:39 Process improvements: AI and decision-making\n1:07:32 Five-year firm success vision\n1:09:11 Life outside work and giving back\n1:10:46 Rethinking capital-intensive businesses\n1:12:44 Next five years personal outlook\n\nLearn more about Juniper Square here - https://www.junipersquare.com/\n\nSubscribe to the mailing list: https://capitalallocators.com/\nAccess Transcript with Premium Membership: https://capitalallocators.com/signup/\nSubscribe on Apple Podcast: https://podcasts.apple.com/us/podcast/capital-allocators-inside-the-institutional/id1223\nFollow Ted on Twitter: https://twitter.com/tseides \nFollow Ted on LinkedIn: https://www.linkedin.com/in/tedseides/ \n\nEditing and post-production work for this episode was provided by The Podcast Consultant (https://thepodcastconsultant.com) \n\n#AydinSenkut #Felicis #VentureCapital #CapitalAllocators #InstitutionalInvesting",
+    "published": "2026-11-11",
+    "week": "2026-W46",
+    "video_id": "cl67ow5hbns",
+    "episode_url": "https://www.youtube.com/watch?v=cl67ow5hbns",
+    "type": "youtube",
+    "duration_secs": null,
+    "transcript_length": 3047,
+    "speaker": "Aydin Senkut — Founder of Felicis",
+    "one_line_summary": "Felicis prioritizes demand signals, disciplined portfolio construction, and founder-first governance to navigate a crowded venture landscape.",
+    "summary": "Aydin Senkut discusses how Felicis, now operating a billion‑dollar fund, has evolved its investment thesis to focus on demand as a leading indicator ahead of revenue, and how valuation can lag demonstrated growth by years. He outlines the firm’s disciplined approach to portfolio construction, benchmarking each company against the rest of the portfolio, pledging never to vote against founders in exchange for candor, and dedicating 10 to 20 percent of team time to exit engineering. Senkut also highlights the strategic advantage of international sourcing, citing companies like Shopify, Canva, and Tines, and explains how AI is complicating software moats while infrastructure‑layer bets remain attractive.\n\nKey themes include the importance of early demand signals, disciplined valuation practices, founder‑first governance, exit engineering as a deliberate practice, and the value of global sourcing. The conversation touches on the firm’s generalist team structure, the role of AI in decision‑making, and a five‑year vision for growth and impact.\n",
+    "key_themes": [
+      "Demand signals as leading revenue indicator",
+      "Founder‑first governance and exit engineering",
+      "Global sourcing and AI impact on moats"
+    ],
+    "market_signals": [
+      "Felicis now invests out of a billion‑dollar fund",
+      "10 to 20 percent of team time is devoted to exit engineering",
+      "Felicis was founded 20 years ago",
+      "Felicis benchmarks each company against the rest of the portfolio",
+      "Felicis pledges never to vote against its founders in exchange for candor"
+    ],
+    "framework_insights": [
+      "Demand is a leading signal ahead of revenue",
+      "Valuation can lag demonstrated growth by years",
+      "Software moats are being complicated by AI",
+      "Infrastructure‑layer companies offer a non‑consensus edge",
+      "Exit engineering is a deliberate practice consuming 10 to 20 percent of team time"
+    ],
+    "market_relevance": "These insights underscore the need for investors to look beyond headline valuations, prioritize demand dynamics, and adopt disciplined governance and exit strategies in a crowded venture market."
+  },
+  {
     "id": "90dfb97d2e5762f82cbe70f67281a2d4",
     "source_id": "odd_lots",
     "source_name": "Odd Lots",
