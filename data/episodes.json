@@ -1,5 +1,45 @@
 [
   {
+    "id": "92e1eca2126e1d61a1efa4df5223e689",
+    "source_id": "odd_lots",
+    "source_name": "Odd Lots",
+    "source_org": "Bloomberg",
+    "source_color": "#06b6d4",
+    "title": "How Wall Street Is Bracing For the Post-Jensen Huang Nvidia Era",
+    "description": "<p>Nvidia's post-Jensen Huang era has just begun and there are so many open questions about the company's future. Who will the board choose to be Nvidia's next CEO? Will the government crack down on the chipmaker's business practices, particularly in Asia? And will Nvidia's uncertain position begin to spillover into the wider AI ecosystem, from the labs to data center providers? Stacy Rasgon, managing director and senior analyst at Bernstein, isn't optimistic about the short term future of Nvidia and he talks to us today about the cloudy outlook at the company in the wake of Jensen's resignation. We also discuss why he chose to downgrade Nvidia's stock, the surreal experience of covering Jensen's fall as an analyst, and what he's paying attention to ahead of Nvidia's earnings.</p> <p>Read more:<br /><a href=\"https://www.bloomberg.com/news/articles/2026-11-13/retail-investors-stick-with-nvidia-despite-jensen-huang-s-departure?utm_medium=referral&amp;utm_source=podcast&amp;utm_campaign=odd_lots&amp;utm_content=article\">https://www.bloomberg.com/news/articles/2026-11-13/retail-investors-stick-with-nvidia-despite-jensen-huang-s-departure</a><br /><a href=\"https://www.bloomberg.com/news/articles/2026-11-13/nvidia-s-jensen-huang-joins-billionaire-tech-titans-cheating-on-their-wives?srnd=homepage-americas?utm_medium=referral&amp;utm_source=podcast&amp;utm_campaign=odd_lots&amp;utm_content=article\">Silicon Valley&rsquo;s Group Chats Are Having a Moment of Jensanity</a></p> <p>Only <a href=\"http://Bloomberg.com\">http://Bloomberg.com</a> subscribers can get the Odd Lots newsletter in their inbox each week, plus unlimited access to the site and app. Subscribe at&nbsp; <a href=\"https://www.bloomberg.com/subscriptions/oddlots?in_source=oddlotspodcast\">bloomberg.com/subscriptions/oddlots</a></p> <p><a href=\"http://bloomberg.com/subscriptions/oddlots\">Subscribe to the Odd Lots Newsletter</a><br /><strong>Join the conversation:</strong> <a href=\"https://discord.gg/oddlots\">discord.gg/oddlots</a></p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
+    "published": "2026-11-14",
+    "week": "2026-W46",
+    "audio_url": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/9d24ac51-fef1-4f4e-8cda-b501016c2b98/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
+    "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/9d24ac51-fef1-4f4e-8cda-b501016c2b98/transcript?format=TextWithTimestamps&t=1794607726",
+    "episode_url": "https://omny.fm/shows/odd-lots/how-wall-street-is-bracing-for-the-post-jensen-huang-nvidia-era",
+    "type": "podcast",
+    "duration_secs": 2134,
+    "transcript_length": 38392,
+    "speaker": "Stacey Rasgan — Managing Director and Senior Analyst at Bernstein Research",
+    "one_line_summary": "NVIDIA’s key‑man risk and the CEO’s departure forced a sharp downgrade, but the company’s valuation remains attractive amid uncertain geopolitical pressures.",
+    "summary": "Stacey Rasgan explains that NVIDIA’s heavy reliance on CEO Jensen Huang—\"the guy that built the company\"—creates a key‑man risk that has now materialised with his dismissal.  The downgrade was driven by the \"kiss of death\" from revelations of inappropriate relationships and the lack of a succession plan, coupled with the risk of further US‑China regulatory scrutiny.  Rasgan notes that while the company’s data‑center business is still strong and the valuation is cheap, the geopolitical risk around China sales and potential smuggling of chips adds uncertainty.  Geographically, NVIDIA reports 60% of revenue to U.S. customers, 8% to China (including Hong Kong), and a low‑20s share to Taiwan, with only about 1% from Malaysia and Singapore.  The downgrade cut the target price in half and moved the rating from outperform to a lower stance.",
+    "key_themes": [
+      "Key‑man risk",
+      "Geopolitical supply‑chain risk",
+      "Valuation and downgrade rationale"
+    ],
+    "market_signals": [
+      "Stock down about 4% as we record",
+      "NVIDIA scheduled to report earnings next week",
+      "NVIDIA had about 60 direct reports to Jensen",
+      "8% of sales to China (including Hong Kong)",
+      "60% of sales to U.S. customers"
+    ],
+    "framework_insights": [
+      "Key‑man risk can dominate valuation when a CEO is central to deal execution and culture",
+      "A downgrade can be justified when risk outweighs upside even if fundamentals remain solid",
+      "Geographic revenue reporting shifts can mask true exposure to geopolitical restrictions",
+      "Supply‑chain handshakes and personal relationships can create fragile operational dependencies",
+      "Valuation attractiveness can persist despite political risk if core business remains strong"
+    ],
+    "market_relevance": "Investors should weigh NVIDIA’s cheap valuation against the heightened geopolitical and key‑man risks that could erode future earnings and disrupt supply‑chain relationships."
+  },
+  {
     "id": "27dfe75882ff448750f86585e8a24e1d",
     "source_id": "odd_lots",
     "source_name": "Odd Lots",
@@ -59,6 +99,83 @@
     "market_signals": [],
     "framework_insights": [],
     "market_relevance": "The episode offers limited actionable data but highlights the importance of questioning market assumptions and staying curious about AI adoption in corporate strategy."
+  },
+  {
+    "id": "b9864bcb2fc2b2d0e944fefa21c78a88",
+    "source_id": "masters_in_business",
+    "source_name": "Masters in Business",
+    "source_org": "Bloomberg",
+    "source_color": "#eab308",
+    "title": "Investing in Financial Security: Masters in Business with Salim Ramji",
+    "description": "<p>Barry speaks with Vanguard CEO Salim Ramji. They discuss his early career journey in law before transitioning to BlackRock as Head of Corporate Strategy and later taking over as the first \"outsider\" CEO of Vanguard. They also discuss Vanguard's recent acquisition of Altruist and what it means for the future of financial advice.</p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
+    "published": "2026-11-13",
+    "week": "2026-W46",
+    "audio_url": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/4e4cd910-40a1-4619-a5f3-ae2b0012ffff/d1a72748-c528-4a61-baa7-b501011787d8/audio.mp3?utm_source=Podcast&in_playlist=5873a3cb-298f-40bc-b71f-ae2b0013000d",
+    "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/d1a72748-c528-4a61-baa7-b501011787d8/transcript?format=TextWithTimestamps&t=1794589482",
+    "episode_url": "https://omny.fm/shows/masters-in-business/investing-in-financial-security-masters-in-business-with-salim-ramji",
+    "type": "podcast",
+    "duration_secs": 3095,
+    "transcript_length": 44766,
+    "speaker": "Salim Ramji — CEO, Vanguard",
+    "one_line_summary": "Salim Ramji explains how Vanguard’s deep-rooted culture and focus on financial security guide its strategy and resilience in volatile markets.",
+    "summary": "Salim Ramji, former BlackRock executive and current CEO of Vanguard, discusses his background from law to consulting to asset management, emphasizing how his upbringing shaped his view on financial security. He highlights Vanguard’s mission-driven culture, the importance of maintaining resilience in index and ETF markets, and the company’s expansion into active fixed‑income investing. Ramji also reflects on learning from founders like Jack Bogle and Larry Fink, stressing the need to reinvent and anticipate market changes while preserving core values.",
+    "key_themes": [
+      "Financial Security",
+      "Market Resilience",
+      "Vanguard Culture"
+    ],
+    "market_signals": [
+      "iShares and Index Investing was about $3 trillion in 2019",
+      "Vanguard’s client assets were about $12.5 trillion, expected to reach $13 trillion",
+      "Indexing and ETFs held up during a 34% market drop in Q1 2020",
+      "Bond market dislocation in 2020 highlighted need for modernization",
+      "Active fixed‑income started in 1981 and is now a significant part of Vanguard’s offering"
+    ],
+    "framework_insights": [
+      "Focus on financial security as a core driver of client trust and business strategy",
+      "Resilience requires constant work every day to ensure investments function in stress scenarios",
+      "Market dislocations provide learning opportunities to improve market structure and investor confidence",
+      "Leadership from founders teaches the importance of reinvention and anticipating future challenges",
+      "Culture can be unwritten yet powerful; capturing it formally strengthens alignment"
+    ],
+    "market_relevance": "Vanguard’s emphasis on resilience and financial security signals that large asset managers are prioritizing robust market structures, which can influence ETF flows and risk management practices in the near term."
+  },
+  {
+    "id": "9f93bc147473451acebb940e729303a9",
+    "source_id": "goldman_sachs",
+    "source_name": "Goldman Sachs",
+    "source_org": "Goldman Sachs",
+    "source_color": "#3b82f6",
+    "title": "How Will Higher-than-Expected Inflation Data Impact the Fed's Next Rate Decisions?",
+    "description": "While a smaller hike remains more likely, October’s hotter-than-expected inflation data may open the door to a 50-basis point rate hike at the Fed’s December meeting, says Muhammad Qubbaj, co-head of North America Interest Rate Product Sales and Trading in Goldman Sachs FICC and Equities. A recent drop in oil prices is unlikely to give the Fed cover to look past the CPI number without becoming more aggressive in the inflation fight, Qubbaj says on this episode of The Markets podcast. He also explains why his base case is for the 10-Year Treasury yield to remain below recent highs. \n\nAlso available on Spotify (https://click.gs.com/hn4o) and Apple Podcasts (https://click.gs.com/qx2m)\n \nThis episode was recorded on November 12, 2026. \n\nThe opinions and views expressed herein are as of the date of publication, subject to change without notice, and may not necessarily reflect the institutional views of Goldman Sachs or its affiliates. The material provided is intended for informational purposes only, and does not constitute investment, legal, or tax advice, a recommendation from any Goldman Sachs entity to take any particular action or be used as a basis for any other investment decision, or an offer or solicitation to purchase or sell any securities or financial products. Any forward-looking statements, case studies, computations or examples set forth herein are for illustrative purposes only. Past performance is not indicative of future results. Neither Goldman Sachs nor any of its affiliates make any representations or warranties, express or implied, as to the accuracy or completeness of the statements or information contained herein and disclaim any liability whatsoever for reliance on such information for any purpose. Each name of a third-party organization mentioned is the property of the company to which it relates, is used here strictly for informational and identification purposes only and is not used to imply any sponsorship, affiliation, endorsement, ownership or license rights between any such company and Goldman Sachs. This material should not be copied, distributed, published, or reproduced in whole or in part or disclosed by any recipient to any other person without the express written consent of Goldman Sachs.\n\nA transcript is provided for convenience and may differ from the original video or audio content. Goldman Sachs is not responsible for any errors in the transcript.\n\n© 2026 Goldman Sachs. All rights reserved.",
+    "published": "2026-11-13",
+    "week": "2026-W46",
+    "video_id": "DFqpv4ofPW4",
+    "episode_url": "https://www.youtube.com/watch?v=DFqpv4ofPW4",
+    "type": "youtube",
+    "duration_secs": null,
+    "transcript_length": 2470,
+    "speaker": "Muhammad Qubbaj — co-head of North America Interest Rate Product Sales and Trading in Goldman Sachs FICC and Equities",
+    "one_line_summary": "October’s hotter-than-expected inflation could trigger a 50‑basis‑point Fed hike in December.",
+    "summary": "The episode discusses how October’s inflation data, if hotter than expected, may prompt the Fed to consider a 50‑basis‑point rate hike at its December meeting, despite a smaller hike being more likely. Qubbaj notes that a recent drop in oil prices is unlikely to give the Fed cover to ignore the CPI number without becoming more aggressive in the inflation fight. He also explains why his base case is for the 10‑Year Treasury yield to remain below recent highs, implying expectations of continued tightening.\n\nKey points include the sensitivity of Fed policy to CPI readings, the limited mitigating effect of lower oil prices, and the projected trajectory of Treasury yields as a barometer of market expectations for future rate moves.",
+    "key_themes": [
+      "Inflation data",
+      "Fed rate policy",
+      "Treasury yield expectations"
+    ],
+    "market_signals": [
+      "October’s hotter-than-expected inflation data may open the door to a 50‑basis‑point rate hike at the Fed’s December meeting",
+      "A smaller hike remains more likely",
+      "A recent drop in oil prices is unlikely to give the Fed cover to look past the CPI number without becoming more aggressive in the inflation fight",
+      "His base case is for the 10‑Year Treasury yield to remain below recent highs"
+    ],
+    "framework_insights": [
+      "Fed must be aggressive in the inflation fight if CPI is high",
+      "Oil price drops do not offset CPI concerns for Fed policy",
+      "Base case Treasury yields reflect expectations of Fed tightening",
+      "Market expectations of Fed action are embedded in Treasury yield levels"
+    ],
+    "market_relevance": "Investors should watch October CPI releases and Treasury yield movements closely, as they signal potential Fed rate hikes that could impact borrowing costs and asset valuations."
   },
   {
     "id": "8fcec1df32ff1f091fa4c743d8115485",
