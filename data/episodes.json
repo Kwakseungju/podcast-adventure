@@ -1,5 +1,78 @@
 [
   {
+    "id": "cc230ab4748387816b0e4063165b1b55",
+    "source_id": "odd_lots",
+    "source_name": "Odd Lots",
+    "source_org": "Bloomberg",
+    "source_color": "#06b6d4",
+    "title": "The Impossible Trilemma That Hangs Over the Nvidia Crisis",
+    "description": "<p>Tian Yang, CIO and manager of the VPX fund at Variant Perception, recently published a report called <em>The Sovereign Impossible Trinity</em> that is especially salient right now. Yang's thesis is that the US-China rivalry is exposing three main policy trade-offs: The necessity of sovereignty (which both of the great powers insist on) means that neither state can assure they can maintain the trio of guns (or the AI 'arms race'), butter (social spending), and sound money because of physical constraints, political conditions, and inflation. Given that the US-China AI arms race forms the backdrop of the upheaval at Nvidia, you can't understand Jensen Huang's resignation without considering geopolitical and global economic conditions; his leaving the chipmaker is already a world-historical story. On this episode, Yang talks to us about why Jensen might be our era's Robert Oppenheimer and what it means that the biggest powers in the world can't maintain sound monetary policy while also upholding defense and entitlements.</p> <p>Only Bloomberg.com subscribers can get the Odd Lots newsletter in their inbox, plus unlimited access to the site and app. <a href=\"https://www.bloomberg.com/subscriptions/oddlots?in_source=oddlotspodcast\">bloomberg.com/subscriptions/oddlots</a></p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
+    "published": "2026-11-16",
+    "week": "2026-W47",
+    "audio_url": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/4bf9cb81-2185-4513-8d9c-b5010173862f/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
+    "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/4bf9cb81-2185-4513-8d9c-b5010173862f/transcript?format=TextWithTimestamps&t=1794609623",
+    "episode_url": "https://omny.fm/shows/odd-lots/the-impossible-trilemma-that-hangs-over-the-nvidia-crisis",
+    "type": "podcast",
+    "duration_secs": 2778,
+    "transcript_length": 51051,
+    "speaker": "Tianyang — CIO, VPX Fund, Variant Perception",
+    "one_line_summary": "The NVIDIA scandal exposes a clash of sovereignty, fiscal pressure and monetary policy that threatens to force a break in sound money.",
+    "summary": "Tianyang frames the Jensen Wong affair as a symptom of a broader U.S.–China rivalry that is reshaping global supply chains and forcing governments to confront the impossible trinity of sovereignty, domestic cohesion and sound monetary policy. He cites NVIDIA’s 14% drop and its market cap falling below $4 trillion, a hot CPI print, and rising oil prices after Trump’s Iran stance as evidence of mounting inflationary pressure. He warns that the U.S. may be moving toward financial repression and capital controls, echoing the 1960s–70s shift away from the gold‑backed Bretton Woods system. The discussion highlights how geopolitical tensions, domestic spending (“butter”) and fiscal deficits are converging to erode the foundations of a stable monetary regime.\n\nKey arguments include: (1) Sovereignty drives a need to reduce dependence on foreign tech, leading to increased defense and tech spending; (2) Domestic cohesion in a polarized society is maintained through fiscal deficits, which in turn pressures monetary policy; (3) Historical parallels to the 1968 gold‑pool collapse suggest that sound money may give way under sustained fiscal and geopolitical strain.",
+    "key_themes": [
+      "Sovereignty vs. Globalization",
+      "Inflationary Pressure & CPI",
+      "Financial Repression & Capital Controls"
+    ],
+    "market_signals": [
+      "NVIDIA down 14%, market cap below $4 trillion",
+      "Hot CPI print this week, traders ratchet up Fed hikes",
+      "Oil higher after Trump’s Iran stance",
+      "Inflationary pressure from AI spending and geopolitical tensions",
+      "Potential for financial repression and capital controls"
+    ],
+    "framework_insights": [
+      "Sovereignty as a driver of reduced dependence and increased defense/tech spending",
+      "The impossible trinity: sovereignty, domestic cohesion, and sound monetary policy",
+      "Historical echo of 1960s–70s gold‑pool collapse as a warning of monetary breakdown",
+      "Financial repression as a tool to manage high debt without raising rates",
+      "Capital controls as a gradual shift away from free movement of goods and money"
+    ],
+    "market_relevance": "Investors should monitor NVIDIA’s valuation, CPI data, and any policy moves toward financial repression or capital controls, as these signals point to a potential shift away from sound money and increased inflation risk."
+  },
+  {
+    "id": "0fab58f6d3bd0b5417eca0c07aacfa1d",
+    "source_id": "capital_allocators",
+    "source_name": "Capital Allocators",
+    "source_org": "Ted Seides",
+    "source_color": "#f43f5e",
+    "title": "Paul Enright: Why Multiple Is Harder to Systematize Than Earnings",
+    "description": "Paul Enright, who built his expertise in equity hedge fund investing over a long career at Viking Global, makes the case that earnings have become a commodity. The differentiating factor now is an amorphous multiple — a judgment that is hard to systematize — and that dynamic structurally favors single managers over pod shops. The clip closes on the core question: how do you build a process around multiple when it comes down to an individual knowing it is going to work?\n\nFrom: Single-Manager Hedge Funds, Pod Shops, and the Age of AI – Paul Enright (EP.527)\nListen to the full episode: https://www.capitalallocators.com/podcast/single-manager-hedge-funds-pod-shops-and-the-age-of-ai/\n\nLearn more about Juniper Square here - https://www.junipersquare.com/ \n\nSubscribe to the mailing list: https://capitalallocators.com/\nAccess Transcript with Premium Membership: https://capitalallocators.com/signup/\nSubscribe on Apple Podcast: https://podcasts.apple.com/us/podcast/capital-allocators-inside-the-institutional/id1223764016\nFollow Ted on Twitter: https://twitter.com/tseides\nFollow Ted on LinkedIn: https://www.linkedin.com/in/tedseides/\n\nEditing and post-production work for this episode was provided by The Podcast Consultant (https://thepodcastconsultant.com)\n\n#PaulEnright #HedgeFunds #CapitalAllocators #InstitutionalInvesting",
+    "published": "2026-11-16",
+    "week": "2026-W47",
+    "video_id": "7N7mVlQpn7E",
+    "episode_url": "https://www.youtube.com/watch?v=7N7mVlQpn7E",
+    "type": "youtube",
+    "duration_secs": null,
+    "transcript_length": 1334,
+    "speaker": "Paul Enright — equity hedge fund investor",
+    "one_line_summary": "Earnings are now a commodity; the real edge lies in an amorphous multiple that is hard to systematize, favoring single managers over pod shops.",
+    "summary": "Paul Enright argues that earnings have become a commodity, stripping much of the traditional competitive advantage from hedge funds. The differentiator is now an amorphous multiple—a judgment that is difficult to systematize. This dynamic structurally favors single managers over pod shops, as the latter struggle to replicate the nuanced multiple assessment. The clip ends with the core question: how can one build a process around a multiple when it ultimately depends on an individual’s conviction that it will work?",
+    "key_themes": [
+      "Earnings commoditization",
+      "Amorphous multiples",
+      "Single manager advantage"
+    ],
+    "market_signals": [],
+    "framework_insights": [
+      "Amorphous multiple as the new differentiator",
+      "Systematization challenges for multiples",
+      "Single manager advantage over pod shops",
+      "Process design hinges on individual conviction",
+      "Dynamic structural favoring of single managers"
+    ],
+    "market_relevance": "The shift to multiples as the key competitive edge highlights the importance of individual judgment in value investing, suggesting that firms with strong, repeatable multiple frameworks may outperform in the current environment."
+  },
+  {
     "id": "92e1eca2126e1d61a1efa4df5223e689",
     "source_id": "odd_lots",
     "source_name": "Odd Lots",
