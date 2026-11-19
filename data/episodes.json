@@ -1,5 +1,78 @@
 [
   {
+    "id": "f1a9aefb2946184ecddc437126094c7b",
+    "source_id": "odd_lots",
+    "source_name": "Odd Lots",
+    "source_org": "Bloomberg",
+    "source_color": "#06b6d4",
+    "title": "This Is The Problem With AI's Most Bullish Chart",
+    "description": "<p>It has been a historic week for AI: the Anthropic IPO and the ongoing situation at Nvidia headline a pretty head-spinning time for the industry. Despite Nvidia's earnings outlook looking good, and despite the scale of the Anthropic IPO &mdash; it's oversubscribed, as you might know &mdash; there are so many open questions about the state of the industry right now. Financing the buildout has become increasingly complicated, and the Democrats who won races in the midterms know that data center opposition is a winning issue. Today's episode is a special two-parter that addresses some of these questions. First, we speak with Stanley Lee, the chief product officer at Liquid Compute, and he explains why Wall Street and Silicon Valley seem to be talking past each other, and what fragilities are emerging in the credit market for GPUs. All those charts that show rising GPU rental rates, Lee tells us, might not be as industry-bullish as they first appear. Then, we turn to Paul Kedrosky, a managing partner at SK Ventures, to discuss why &ldquo;number goes up and to the right&rdquo; does not necessarily prove the viability of the capex involved in the AI buildout, and also if Nvidia will remain the central bank for AI.</p> <p>Read more:<br /><a href=\"https://www.bloomberg.com/news/articles/2026-11-18/anthropic-said-to-be-weighing-ipo-price-as-high-as-85-per-share?utm_medium=referral&amp;utm_source=podcast&amp;utm_campaign=odd_lots&amp;utm_content=article\">Anthropic Said to Be Weighing IPO Price as High as $85 Per Share</a> <br /><a href=\"https://www.bloomberg.com/news/articles/2026-11-18/arm-ceo-rene-haas-approached-by-nvidia-board-s-recruitment-firm?utm_medium=referral&amp;utm_source=podcast&amp;utm_campaign=odd_lots&amp;utm_content=article\">Nvidia Sizes Up Arm CEO Haas in Search for Huang Successor</a></p> <p>Only <a href=\"http://Bloomberg.com\">http://Bloomberg.com</a> subscribers can get the Odd Lots newsletter in their inbox each week, plus unlimited access to the site and app. Subscribe at&nbsp; <a href=\"https://www.bloomberg.com/subscriptions/oddlots?in_source=oddlotspodcast\">bloomberg.com/subscriptions/oddlots</a></p> <p><a href=\"http://bloomberg.com/subscriptions/oddlots\">Subscribe to the Odd Lots Newsletter</a><br /><strong>Join the conversation:</strong> <a href=\"https://discord.gg/oddlots\">discord.gg/oddlots</a></p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
+    "published": "2026-11-19",
+    "week": "2026-W47",
+    "audio_url": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/53c36daa-840c-48b3-b071-b5070021e016/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
+    "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/53c36daa-840c-48b3-b071-b5070021e016/transcript?format=TextWithTimestamps&t=1795054273",
+    "episode_url": "https://omny.fm/shows/odd-lots/this-is-the-problem-with-ais-most-bullish-chart",
+    "type": "podcast",
+    "duration_secs": 4170,
+    "transcript_length": 79247,
+    "speaker": "Stanley Lee — Chief Product Officer, Liquid Compute",
+    "one_line_summary": "GPU financing is shifting from off‑taker credit to full‑credit underwriting, forcing higher pre‑payments, lower LTVs, and exposing the market to venture‑equity‑driven risk.",
+    "summary": "Stanley Lee explains that the GPU compute market has evolved from a simple marketplace of buyers and sellers into a credit and financing ecosystem.  He cites 70% LTV, three‑year fully amortizing loans priced at 12% and 30% equity as the most \"vanilla\" structure for mid‑market neocloud operators.  The shift is driven by higher pre‑payments from customers, tighter LTVs from lenders, and the need for operators to raise equity to lower debt ratios.  GPU rental rates have continued to rise, with the Silicon Data B200 index moving from the 5s in August to $7–$10 per hour, reflecting both demand and the cost of capital.  Venture capital deployment fell 25% in Q3 versus Q1, raising concerns that the market’s heavy reliance on equity‑backed compute purchases could become a vulnerability.\n\nKey themes include the transformation of GPU financing, the role of pre‑payments as de‑facto equity, the impact of venture‑equity supply on spot pricing, and the risk of a consolidation wave as lenders demand higher LTVs and operators raise equity.\n\nThe conversation highlights that the GPU market’s current fragility is tied to credit terms and venture‑equity dynamics rather than pure demand, and that investors should monitor LTV, pre‑payment levels, and venture‑capital deployment as leading indicators of stress.",
+    "key_themes": [
+      "GPU financing evolution",
+      "Pre‑payment as equity",
+      "Venture‑capital supply and cost of capital"
+    ],
+    "market_signals": [
+      "70% LTV, three‑year fully amortizing loan priced at 12%",
+      "30% equity required for mid‑market neoclouds",
+      "GPU rental rates rising to $7–$10 per hour",
+      "VC deployment fell 25% in Q3 versus Q1",
+      "Lenders now demand 50% LTV structures for new loans"
+    ],
+    "framework_insights": [
+      "GPU market is a credit and financing ecosystem, not just a marketplace",
+      "Pre‑payments from customers act as de‑facto equity for operators",
+      "Higher LTVs and lower pre‑payments increase credit risk",
+      "Spot pricing reflects cost of capital more than underlying demand",
+      "Consolidation will be driven by lenders tightening underwriting and operators raising equity"
+    ],
+    "market_relevance": "Investors should watch GPU loan terms, pre‑payment trends, and VC deployment as early warning signs of credit stress in the AI compute sector."
+  },
+  {
+    "id": "122f624c6fc6085997e80c36f36e4f43",
+    "source_id": "capital_allocators",
+    "source_name": "Capital Allocators",
+    "source_org": "Ted Seides",
+    "source_color": "#f43f5e",
+    "title": "Peter Mintzberg: Evolution of Digital Assets at Grayscale",
+    "description": "Peter Mintzberg is CEO of Grayscale, one of the world's largest digital asset managers, founded in 2013. He joined the firm two years ago following a career in strategy and M&amp;A at Goldman Sachs, Apollo, and BlackRock, drawn by what he sees as digital assets representing the next step in the evolution of traditional finance.\n\nTed and Peter trace the rapid mainstream adoption of digital assets, the institutional sentiment shift that has reshaped the landscape, and Grayscale's own transition from its pioneering trust structures to a broad ETF platform. They discuss the product and fee trade-offs across tactical and buy-and-hold strategies, the selection framework Grayscale applies across more than 40 tokens, and why Peter views diversification across digital assets as analogous to sector diversification in public markets.\n\nThe conversation then turns to active management in digital assets, the evolving regulatory environment, and the longer-term convergence of AI and tokenization. Peter shares his view of a future in which personalized portfolios become standard and the distinction between liquid and illiquid assets gradually fades.\n\nChapters:\n0:00 Introduction\n6:52 Grayscale history and product evolution\n8:01 ETF transition and competitive landscape\n12:31 Product platform beyond Bitcoin and Ethereum\n14:59 Blockchain ecosystem activity under the covers\n17:35 Active vs passive strategies and alpha potential\n18:39 Regulatory environment and Clarity Act\n20:04 AI and tokenization convergence outlook\n23:08 Tokenization of illiquid assets evolving\n25:06 Institutional case for digital assets today\n28:05 Grayscale strategy and active management push\n29:32 AI integration into operations\n32:43 Closing personal questions\n\nLearn more about Juniper Square here - https://www.junipersquare.com/ \n\nSubscribe to the mailing list: https://capitalallocators.com/\nAccess Transcript with Premium Membership: https://capitalallocators.com/signup/\nSubscribe on Apple Podcast: https://podcasts.apple.com/us/podcast/capital-allocators-inside-the-institutional/id1223764016\nFollow Ted on Twitter: https://twitter.com/tseides\nFollow Ted on LinkedIn: https://www.linkedin.com/in/tedseides/\n\nEditing and post-production work for this episode was provided by The Podcast Consultant (https://thepodcastconsultant.com)\n\n#PeterMintzberg #Grayscale #DigitalAssets #CapitalAllocators #InstitutionalInvesting",
+    "published": "2026-11-19",
+    "week": "2026-W47",
+    "video_id": "_iTT7QV6n1U",
+    "episode_url": "https://www.youtube.com/watch?v=_iTT7QV6n1U",
+    "type": "youtube",
+    "duration_secs": null,
+    "transcript_length": 2404,
+    "speaker": "Peter Mintzberg — CEO, Grayscale",
+    "one_line_summary": "Digital assets are evolving from niche trust structures to mainstream ETF platforms, with AI and tokenization driving a future where personalized portfolios blur the line between liquid and illiquid assets.",
+    "summary": "Peter Mintzberg, CEO of Grayscale, outlines the firm’s journey from its 2013 founding to its current status as one of the world’s largest digital asset managers. He highlights the shift from pioneering trust structures to a broad ETF platform, noting the product and fee trade‑offs across tactical and buy‑and‑hold strategies and the selection framework applied to more than 40 tokens. Mintzberg discusses the growing institutional sentiment, the active‑vs‑passive debate, and the regulatory environment, including the Clarity Act. He projects a convergence of AI and tokenization that will enable personalized portfolios and diminish the distinction between liquid and illiquid assets.\n\nKey themes include the mainstream adoption of digital assets, the strategic transition to ETFs, and the long‑term impact of AI and tokenization on portfolio construction and asset liquidity.\n\nThe conversation underscores how Grayscale’s evolution mirrors traditional market diversification, positioning digital assets as a new asset class with similar risk‑return dynamics.",
+    "key_themes": [
+      "Digital Asset Adoption",
+      "ETF Transition",
+      "AI & Tokenization Convergence"
+    ],
+    "market_signals": [],
+    "framework_insights": [
+      "Diversification across digital assets is analogous to sector diversification in public markets.",
+      "Active management in digital assets offers alpha potential beyond passive strategies.",
+      "AI integration will enable personalized portfolios as a standard offering.",
+      "Tokenization of illiquid assets is evolving, reducing liquidity barriers.",
+      "The distinction between liquid and illiquid assets will gradually fade as tokenization matures."
+    ],
+    "market_relevance": "Investors should recognize that digital asset platforms are moving toward mainstream ETF structures, and that AI‑driven personalization and tokenization are likely to reshape liquidity and portfolio construction in the near term."
+  },
+  {
     "id": "f0a4b84ed836a35f2043107fb6116c61",
     "source_id": "odd_lots",
     "source_name": "Odd Lots",
@@ -110,6 +183,113 @@
       "The boundary between public and private markets is shifting the location of value creation for growth companies"
     ],
     "market_relevance": "Understanding the structural trade‑offs between single‑manager and multi‑manager funds helps investors assess alpha potential, while recognizing AI’s cognitive debt alerts teams to preserve human expertise in research."
+  },
+  {
+    "id": "5d2db5049e48577a30edc39eb7c83d68",
+    "source_id": "masters_in_business",
+    "source_name": "Masters in Business",
+    "source_org": "Bloomberg",
+    "source_color": "#eab308",
+    "title": "At The Money: Shopping in an Era of Surveillance Capitalism",
+    "description": "<p>Ever feel like your most-used apps and favorite companies are playing games with you? Price changes from airlines, delivery services, and even Amazon seem to be all over the map. What does this mean for your wallet?</p> <p>Lindsay Owens is CEO of the Groundwork Collaborative, a DC-based economic think tank and author of a new bestseller, &ldquo;Gouged: The End of a Fair Price&mdash;and What That Means for Your Wallet.&rdquo;</p> <p>Each week, &ldquo;At the Money&rdquo; discusses an important topic in money management. From portfolio construction to taxes and cutting down on fees, join Barry Ritholtz to learn the best ways to put your money to work.</p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
+    "published": "2026-11-18",
+    "week": "2026-W47",
+    "audio_url": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/4e4cd910-40a1-4619-a5f3-ae2b0012ffff/2a85af0b-9003-4e1b-acfb-b506012b0391/audio.mp3?utm_source=Podcast&in_playlist=5873a3cb-298f-40bc-b71f-ae2b0013000d",
+    "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/2a85af0b-9003-4e1b-acfb-b506012b0391/transcript?format=TextWithTimestamps&t=1795026036",
+    "episode_url": "https://omny.fm/shows/masters-in-business/at-the-money-shopping-in-an-era-of-surveillance-capitalism",
+    "type": "podcast",
+    "duration_secs": 1521,
+    "transcript_length": 22138,
+    "speaker": "Lindsay Owens — CEO, Groundwork Collaborative",
+    "one_line_summary": "Surveillance pricing is eroding fixed price transparency, forcing lawmakers and consumers to demand new rules and tools to protect fair pricing.",
+    "summary": "Lindsay Owens explains how algorithmic and surveillance pricing has replaced the long‑standing fixed price model that began with John Wanamaker’s price tags 150 years ago. She highlights the volatility, deception, and personalized overcharging that now occur, citing examples such as airlines, Uber, and Amazon. Owens warns that loyalty programs can backfire as companies stop offering perks once a customer is deemed a “sure thing,” and she notes that loyalty data is often sold, generating significant revenue for retailers like Kroger. She also discusses regulatory responses: the FTC’s prohibition of drip pricing in short‑term lodging and event ticketing, New York City’s click‑to‑cancel rule, and the emerging right‑to‑repair movement that counters price gouging through restricted repairs. Owens stresses the power of public backlash, citing Coca‑Cola’s vending‑machine temperature pricing scandal and Delta’s partnership with Fetcher as examples of consumer pressure reshaping corporate behavior.",
+    "key_themes": [
+      "Surveillance Pricing",
+      "Loyalty Program Penalties",
+      "Regulatory Responses"
+    ],
+    "market_signals": [
+      "Prices are changing, more volatile thanks to electronic shelf labels and algorithmic pricing",
+      "Personalized pricing can charge different amounts for the same item",
+      "FTC rule now prohibits drip pricing in short‑term lodging and event ticketing",
+      "New York City implemented a click‑to‑cancel rule for subscriptions",
+      "Kroger’s alternative profits book of business is 30% of net operating income from data sales"
+    ],
+    "framework_insights": [
+      "Surveillance pricing replaces fixed price transparency, creating a new frontier of corporate profiteering",
+      "Loyalty programs can become a penalty once a customer is deemed a sure thing, reducing incentives for offers",
+      "Regulatory interventions (FTC, city rules) can enforce upfront pricing and easier cancellation to protect consumers",
+      "Right‑to‑repair is a form of price gouging that can be countered by consumer movements and federal action",
+      "Public backlash is a powerful, low‑cost discipline that can force companies to reverse aggressive pricing tactics"
+    ],
+    "market_relevance": "Investors should monitor regulatory developments in pricing transparency and right‑to‑repair, as new rules can materially affect margins for retailers, airlines, and tech firms. Companies that fail to adapt may face consumer backlash and loss of market share."
+  },
+  {
+    "id": "1e743fa7e92bae227ba9f5b574b45a1a",
+    "source_id": "asia_centric",
+    "source_name": "Asia Centric",
+    "source_org": "Bloomberg Intelligence",
+    "source_color": "#d946ef",
+    "title": "JP Morgan on AI CapEx and the Tech Deal Boom",
+    "description": "<p>The seemingly insatiable demand for artificial intelligence is fueling a massive wave of capital raising across the technology sector. Deal issuance in the Asia-Pacific region has surged 45% year-to-date. Yet, the industry faces crosswinds as stocks undergo a valuation reset amid market volatility.</p> <p>Mark Fiteny, co-head of International Technology Investment Banking at JP Morgan, joins host John Lee at the firm's APAC Technology Innovation and Growth Conference in Hong Kong. He discusses regional deal flow, the unique challenges for founders across diverse Asian markets, and how today's AI infrastructure build-out differs from the internet bubble.</p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
+    "published": "2026-11-18",
+    "week": "2026-W47",
+    "audio_url": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/992d604b-06ca-40cb-88b2-af6c016f5aa0/ddabe2b4-7edd-4a6a-b929-b504004cc785/audio.mp3?utm_source=Podcast&in_playlist=75a9f17c-2ff1-42c9-9a27-af6c016fae89",
+    "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/ddabe2b4-7edd-4a6a-b929-b504004cc785/transcript?format=TextWithTimestamps&t=1795036031",
+    "episode_url": "https://omny.fm/shows/asia-centric-by-bloomberg-intelligence/jp-morgan-on-ai-capex-and-the-tech-deal-boom",
+    "type": "podcast",
+    "duration_secs": 721,
+    "transcript_length": 11485,
+    "speaker": "Mark Fidney — co-head of International Technology Investment Banking at J.P. Morgan",
+    "one_line_summary": "AI‑driven capital demand is propelling a record surge in APAC tech deal activity, with valuations resetting and infrastructure investment outpacing supply.",
+    "summary": "Mark Fidney highlights that 2026 has been a banner year for technology, driven by a surge in AI demand that is outstripping supply.  The J.P. Morgan APAC Technology Innovation and Growth Conference now centers on AI across the supply chain, digital infrastructure, and applications, reflecting a broader remit beyond telecom.  Deal activity is at historic highs: issuance volumes were 30% higher last year and 45% higher year‑to‑date, with SK Hynix’s IPO and other equity issuances underscoring the appetite for capital.  Valuation resets are evident, with core weave bonds at 15% yield and a recent Nvidia sell‑off, while eight of the world’s most active exchanges are in APAC, indicating a geographic concentration of activity.\n\nFidney draws parallels to the internet era, noting that infrastructure is still application‑agnostic and that AI CapEx is projected to be eight times the capital required for the internet.  He stresses that the current cycle is early, with a supply‑demand imbalance for compute creating significant economic value.  The diverse founder ecosystem across Asia requires banks to tailor their support, and the valuation reset differs from the dot‑com era in terms of infrastructure utilization.\n",
+    "key_themes": [
+      "AI CapEx demand",
+      "APAC deal boom",
+      "Infrastructure vs application value"
+    ],
+    "market_signals": [
+      "core weave bonds trading at 15% yield",
+      "Nvidia stock sell‑off",
+      "30% up issuance volumes last year",
+      "45% up year‑to‑date issuance volumes",
+      "SK Hynix IPO"
+    ],
+    "framework_insights": [
+      "AI compute demand far exceeds supply, driving economic value",
+      "Infrastructure is application‑agnostic and early in the cycle",
+      "AI CapEx projected to be eight times the internet era capital needs",
+      "Diverse founder ecosystem requires tailored banking support",
+      "Valuation reset parallels dot‑com but infrastructure utilization differs"
+    ],
+    "market_relevance": "Investors should focus on APAC AI CapEx trends and valuation shifts, as the supply‑demand imbalance for compute and the early stage of the infrastructure cycle present both opportunities and risks."
+  },
+  {
+    "id": "8f5520e333bed685308d5b1b99c454f0",
+    "source_id": "goldman_sachs",
+    "source_name": "Goldman Sachs",
+    "source_org": "Goldman Sachs",
+    "source_color": "#3b82f6",
+    "title": "ESPN’s Jimmy Pitaro on the New Playbook for Sports Fans",
+    "description": "The launch of ESPN’s direct-to-consumer service a year ago was a marker of change in the sports media business—offering the full suite of ESPN networks without a pay-TV bundle for the first time. ESPN Chairman Jimmy Pitaro joins Dave Dase, global co-head of the Sports franchise in Investment Banking, and discusses how this challenging decision helps the company reach younger viewers and “serve the sports fan anytime, anywhere.” Pitaro also talks about the strength of ESPN’s current sports rights portfolio, why the company is sometimes willing to walk away from media rights negotiations, and explains how AI allows ESPN to create new offerings.   \n\nAlso available on Spotify (https://click.gs.com/duip) and Apple Podcasts (https://click.gs.com/rc7p).\n\nThis episode was recorded on September 10, 2026.\n\nThe opinions and views expressed herein are as of the date of publication, subject to change without notice, and may not necessarily reflect the institutional views of Goldman Sachs or its affiliates. The material provided is intended for informational purposes only, and does not constitute investment advice, a recommendation from any Goldman Sachs entity to take any particular action, or an offer or solicitation to purchase or sell any securities or financial products. This material may contain forward-looking statements. Past performance is not indicative of future results. Neither Goldman Sachs nor any of its affiliates make any representations or warranties, express or implied, as to the accuracy or completeness of the statements or information contained herein and disclaim any liability whatsoever for reliance on such information for any purpose. Each name of a third-party organization mentioned is the property of the company to which it relates, is used here strictly for informational and identification purposes only and is not used to imply any ownership or license rights between any such company and Goldman Sachs.\n\nA transcript is provided for convenience and may differ from the original video or audio content. Goldman Sachs is not responsible for any errors in the transcript. This material should not be copied, distributed, published, or reproduced in whole or in part or disclosed by any recipient to any other person without the express written consent of Goldman Sachs.\n\n© 2026 Goldman Sachs. All rights reserved.",
+    "published": "2026-11-18",
+    "week": "2026-W47",
+    "video_id": "SWsH0Kh9KGc",
+    "episode_url": "https://www.youtube.com/watch?v=SWsH0Kh9KGc",
+    "type": "youtube",
+    "duration_secs": null,
+    "transcript_length": 2355,
+    "speaker": "Jimmy Pitaro — ESPN Chairman",
+    "one_line_summary": "ESPN’s new direct‑to‑consumer strategy is aimed at younger viewers, leveraging its strong rights portfolio and AI to deliver on‑demand content.",
+    "summary": "The launch of ESPN’s direct‑to‑consumer service a year ago was a marker of change in the sports media business—offering the full suite of ESPN networks without a pay‑TV bundle for the first time. Jimmy Pitaro explains that this challenging decision helps the company reach younger viewers and “serve the sports fan anytime, anywhere.” He also discusses the strength of ESPN’s current sports rights portfolio, why the company is sometimes willing to walk away from media rights negotiations, and explains how AI allows ESPN to create new offerings.",
+    "key_themes": [
+      "Direct‑to‑consumer strategy",
+      "Sports rights portfolio",
+      "AI‑driven content"
+    ],
+    "market_signals": [],
+    "framework_insights": [],
+    "market_relevance": "The shift illustrates how traditional sports broadcasters are redefining distribution and monetization models, signaling potential erosion of pay‑TV revenue and new opportunities for on‑demand content platforms."
   },
   {
     "id": "bc442baf01bf9249fdf91c2616dc7703",
