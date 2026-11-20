@@ -1,5 +1,73 @@
 [
   {
+    "id": "90152f4175682a7084360974f98f504f",
+    "source_id": "odd_lots",
+    "source_name": "Odd Lots",
+    "source_org": "Bloomberg",
+    "source_color": "#06b6d4",
+    "title": "How an American AI Company Uses Chinese Open-Weight Models",
+    "description": "<p>This week, we got news that the Trump administration is reportedly considering a requirement for US companies to publicly disclose their use of Chinese AI models. Any effort to discourage US businesses from using Chinese open-source could be a big deal for both the AI industry and the market, where investors are still debating whether customers will ultimately be willing to pay for pricier homegrown frontier models versus cheaper alternatives. Everyone remembers last year's 'DeepSeek moment' for AI, when a Chinese company released a cheaper model that seemed nearly as good as cutting-edge US ones. So why do businesses actually use open-source? And what are the considerations that take into account in doing so? In this episode, we talk to Daniel Saedi, co-founder of Minerva, to better understand how an AI native company chooses its models. He breaks down how exactly his company mixes and matches models for specific use cases, the risk of abliterated models, and the issue of data sovereignty.</p> <p>Read more:<br /><a href=\"https://www.bloomberg.com/news/articles/2026-11-19/india-startup-sells-deepseek-access-while-pursuing-sovereign-ai?utm_medium=referral&amp;utm_source=podcast&amp;utm_campaign=odd_lots&amp;utm_content=article\">India Startup Sells DeepSeek Access While Pursuing Sovereign AI</a><br /><a href=\"https://www.bloomberg.com/news/articles/2026-11-18/anthropic-is-said-to-price-ipo-at-83-per-share?utm_medium=referral&amp;utm_source=podcast&amp;utm_campaign=odd_lots&amp;utm_content=article\">Anthropic Raises $107.3 Billion to Top SpaceX&rsquo;s Record Debut</a></p> <p>Only <a href=\"http://Bloomberg.com\">http://Bloomberg.com</a> subscribers can get the Odd Lots newsletter in their inbox each week, plus unlimited access to the site and app. Subscribe at&nbsp; <a href=\"https://www.bloomberg.com/subscriptions/oddlots?in_source=oddlotspodcast\">bloomberg.com/subscriptions/oddlots</a></p> <p><a href=\"http://bloomberg.com/subscriptions/oddlots\">Subscribe to the Odd Lots Newsletter</a><br /><strong>Join the conversation:</strong> <a href=\"https://discord.gg/oddlots\">discord.gg/oddlots</a></p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
+    "published": "2026-11-20",
+    "week": "2026-W47",
+    "audio_url": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/4364f8cd-e957-44ef-9795-b5070115b19e/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
+    "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/4364f8cd-e957-44ef-9795-b5070115b19e/transcript?format=TextWithTimestamps&t=1795107325",
+    "episode_url": "https://omny.fm/shows/odd-lots/how-an-american-ai-company-uses-chinese-open-weight-models",
+    "type": "podcast",
+    "duration_secs": 2903,
+    "transcript_length": 52014,
+    "speaker": "Daniel Saidi — co-founder, Minerva",
+    "one_line_summary": "Open‑weight models give U.S. AI firms cost control, data sovereignty, and a competitive edge through fine‑tuning, but durability and vendor lock‑in remain key risks.",
+    "summary": "Daniel Saidi explains that Minerva uses both open‑source and closed‑source models to automate marketing workflows, leveraging open‑weight models like Quen for cost‑effective, fine‑tuned applications. He contrasts open‑source (full code and data disclosure) with open‑weight (only model weights released), noting that Chinese labs release weights but not training recipes. Saidi argues that fine‑tuning on proprietary data gives startups a performance edge over large‑lab models, reducing reliance on expensive token‑based APIs and enhancing data sovereignty. However, he cautions that fine‑tuned models may not transfer seamlessly to new releases, creating operational uncertainty.\n\nKey themes include cost versus control, the strategic value of data sovereignty, the competitive advantage of fine‑tuning, and the operational risk of model versioning.\n\nThe discussion highlights how U.S. firms can leverage open‑weight models to mitigate vendor lock‑in and reduce costs, while also navigating the challenges of maintaining model performance across updates.",
+    "key_themes": [
+      "Cost vs Control",
+      "Data Sovereignty",
+      "Fine‑Tuning Competitive Edge"
+    ],
+    "market_signals": [
+      "Open‑weight models can be cheaper than paying OpenAI/Anthropic for token usage",
+      "Fine‑tuning on proprietary data can reduce cost per completed task",
+      "Chinese open‑weight models are approaching frontier performance on benchmarks",
+      "Durability risk: fine‑tuned models may not transfer to new releases",
+      "Sovereignty and control issues are becoming a major concern for corporate clients"
+    ],
+    "framework_insights": [
+      "Cost vs control trade‑off: evaluate upfront and operating costs against token pricing",
+      "Fine‑tuning as a competitive moat: specialized data can outperform generic models",
+      "Data sovereignty as a strategic asset: owning model training data limits vendor lock‑in",
+      "Vendor lock‑in leverage: owning a fine‑tuned model forces vendors to price competitively",
+      "Durability uncertainty: model updates require re‑fine‑tuning, adding operational risk"
+    ],
+    "market_relevance": "Investors should monitor how U.S. AI firms adopt open‑weight models to reduce costs and gain data control, as this could reshape competitive dynamics and pricing power in the AI services market."
+  },
+  {
+    "id": "39eb6f41412a00e3d6090530d37e1082",
+    "source_id": "in_good_company",
+    "source_name": "In Good Company",
+    "source_org": "Norges Bank Investment Management",
+    "source_color": "#14b8a6",
+    "title": "Friday Wrap-Up: AI in product development and the worlds largest IPO",
+    "description": "<p>Marthe Skaar and Nicolai Tangen are both in New York this week, and they look back on his podcast conversation with Andrea Casaluci, CEO of Pirelli, the tyre maker supplying Formula One. They discuss how digital twins are changing the way products are tested, how Pirelli saw some European and Chinese suppliers respond differently to the same tender, and what goes on inside the fund ahead of a large IPO like Anthropic’s. Nicolai also shares what he is hearing from US companies this week, and talks about his leadership book, “Tell Me I’m Wrong”, now out in English. Tune in!</p><br /><p>Listen to In Good Company with Andrea Casaluci, CEO of Pirelli: <a href=\"https://podcasts.apple.com/no/podcast/pirelli-ceo-formula-one-smart-tyres-and-europes-car/id1614211565?i=1000802624662\" rel=\"noopener noreferrer\" target=\"_blank\">https://podcasts.apple.com/no/podcast/pirelli-ceo-formula-one-smart-tyres-and-europes-car/id1614211565?i=1000802624662</a> </p><br /><p>The Friday Wrap-Up is hosted by Marthe Skaar, Chief of Communications and External Relations, together with Nicolai Tangen, CEO of Norges Bank Investment Management. New episodes of In Good Company air every Wednesday, with the Friday Wrap-Up following each week to break it all down.</p><hr /><p style=\"color: grey; font-size: 0.75em;\"> Hosted on Acast. See <a href=\"https://acast.com/privacy\" rel=\"noopener noreferrer\" style=\"color: grey;\" target=\"_blank\">acast.com/privacy</a> for more information.</p>",
+    "published": "2026-11-20",
+    "week": "2026-W47",
+    "audio_url": "https://sphinx.acast.com/p/open/s/622618c7057f3400120d15db/e/6aff3b4d8f8ad2908faa4583/media.mp3",
+    "transcript_url": null,
+    "episode_url": "https://shows.acast.com/in-good-company-with-nicolai-tangen/episodes/friday-wrap-up-europes-speed-gap-and-the-anthropic-ipo",
+    "type": "podcast",
+    "duration_secs": 717,
+    "transcript_length": 1470,
+    "speaker": "Andrea Casaluci — CEO, Pirelli",
+    "one_line_summary": "Pirelli’s CEO discusses how digital twins are reshaping product testing and the varied supplier responses to a tender, while Norges Bank Investment Management previews insights on a large IPO and US company trends.",
+    "summary": "In the episode, Andrea Casaluci, CEO of Pirelli, explains how digital twins are changing the way products are tested. He also highlights how European and Chinese suppliers responded differently to the same tender. Nicolai Tangen of Norges Bank Investment Management shares what he is hearing from US companies this week and discusses the fund’s preparations for a large IPO such as Anthropic’s. Tangen also mentions his new leadership book, “Tell Me I’m Wrong”, now available in English.",
+    "key_themes": [
+      "Digital twins in product testing",
+      "Supplier response variability",
+      "IPO preparation"
+    ],
+    "market_signals": [],
+    "framework_insights": [],
+    "market_relevance": "The discussion offers a glimpse into how advanced testing technologies and supplier dynamics can influence product development cycles, and provides a preview of potential market activity surrounding a major IPO, which may be relevant for investors monitoring technology and automotive sectors."
+  },
+  {
     "id": "f1a9aefb2946184ecddc437126094c7b",
     "source_id": "odd_lots",
     "source_name": "Odd Lots",
@@ -71,6 +139,46 @@
       "The distinction between liquid and illiquid assets will gradually fade as tokenization matures."
     ],
     "market_relevance": "Investors should recognize that digital asset platforms are moving toward mainstream ETF structures, and that AI‑driven personalization and tokenization are likely to reshape liquidity and portfolio construction in the near term."
+  },
+  {
+    "id": "76b0231b371143ccbd5996db614b52a6",
+    "source_id": "credit_edge",
+    "source_name": "The Credit Edge",
+    "source_org": "Bloomberg Intelligence",
+    "source_color": "#f97316",
+    "title": "‘Fear Is Making a Comeback,’ Says Audax Private Debt’s CEO",
+    "description": "<p>High interest rates, consumer stress and AI buildout concerns are boosting anxiety across credit markets. &ldquo;Fear is making a comeback,&rdquo; Kevin Magid, chief executive officer at middle-market direct lender Audax Private Debt, tells Bloomberg News&rsquo; James Crombie and Bloomberg Intelligence&rsquo;s David Havens in the latest Credit Edge podcast. &ldquo;Stay calm, lend on,&rdquo; he adds. There will be more business development company redemption requests, which rattled private markets earlier in the year and caused them to enforce limits, said Magid. &ldquo;We&rsquo;re still above those 5% caps, I think you have three or four quarters to go,&rdquo; he says. They also discuss software loan opportunities, middle-market debt returns and where the main corporate debt problems lie by sector.</p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
+    "published": "2026-11-19",
+    "week": "2026-W47",
+    "audio_url": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/e74a35e9-c028-4e5f-a3f7-afb10164a717/6a4809cb-d7a5-49eb-8242-b50701559401/audio.mp3?utm_source=Podcast&in_playlist=8792a2e9-d66c-4038-a1fe-afb101654894",
+    "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/6a4809cb-d7a5-49eb-8242-b50701559401/transcript?format=TextWithTimestamps&t=1795121261",
+    "episode_url": "https://omny.fm/shows/the-credit-edge-by-bloomberg-intelligence/fear-is-making-a-comeback-says-audax-private-debt-s-ceo",
+    "type": "podcast",
+    "duration_secs": 3333,
+    "transcript_length": 50941,
+    "speaker": "Kevin Magid — CEO, Audax Private Debt",
+    "one_line_summary": "Audax focuses on middle‑market, cash‑flow‑based lending and avoids forward‑looking ARR loans, using AI risk scoring to guard against AI‑driven disruption.",
+    "summary": "Kevin Magid explains that Audax Private Debt has invested $56 billion across 1,350 transactions with 300‑plus sponsors, targeting core middle‑market businesses with 15‑75% EBITDA leverage. The firm deliberately avoids ARR loans, instead financing based on the latest 12‑month EBITDA and real cash flow, and has built an AI‑driven credit score (TOLT IQ) to assess AI risk across its portfolio. Magid notes that while AI fear is rising, the lack of sufficient capital to finance the entire AI boom means only a subset of projects will secure funding, and that recovery in defaults will rely on cash flow rather than liquidation of assets.",
+    "key_themes": [
+      "Middle‑market cash‑flow lending",
+      "Avoidance of ARR/forward revenue loans",
+      "AI risk scoring"
+    ],
+    "market_signals": [
+      "$56 billion invested in private debt across 1,350 transactions",
+      "Audax focuses on 15‑75% EBITDA leverage, 5‑6× debt to EBITDA for 100‑million EBITDA firms",
+      "TOLT IQ AI risk score shows 4‑6% of portfolio heavily impacted, 20% somewhat impacted, 70‑75% not much",
+      "AI fear is rising but capital for AI projects is limited, leading to selective funding",
+      "Audax has made zero ARR loans, avoiding forward revenue risk"
+    ],
+    "framework_insights": [
+      "Focus on cash‑flow lenders: recovery depends on ongoing cash flow, not liquidation value",
+      "Avoiding ARR loans protects against revenue volatility and forward‑looking risk",
+      "Using AI risk scoring as a systematic tool to quantify industry disruption risk",
+      "Segmenting portfolio impact by standard deviation to identify high‑risk exposures",
+      "Leveraging first‑lien collateral while recognizing that going‑concern value outweighs liquidation"
+    ],
+    "market_relevance": "Investors should note that middle‑market private debt remains resilient when underwriting is based on real cash flow, but AI‑driven disruption and capital constraints may increase default risk in high‑growth tech segments."
   },
   {
     "id": "f0a4b84ed836a35f2043107fb6116c61",
