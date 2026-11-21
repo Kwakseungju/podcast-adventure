@@ -1,5 +1,43 @@
 [
   {
+    "id": "e2e19234531ef8b991335a308c98b2b7",
+    "source_id": "odd_lots",
+    "source_name": "Odd Lots",
+    "source_org": "Bloomberg",
+    "source_color": "#06b6d4",
+    "title": "How AI Is Forcing China to Reshape Industrial Policy",
+    "description": "<p>Can Chinese tech companies help the country achieve technological self-reliance while keeping up in the AI arms race? On this episode, we speak with Kyle Chan, a fellow at the Brookings Institution&rsquo;s John L. Thornton China Center and author of the High Capacity newsletter, about Beijing&rsquo;s response to the global AI boom and the tensions between Chinese companies&rsquo; commercial ambitions and the government&rsquo;s long-term plans. He explains how companies draw on shared expertise and supply chains to expand across industries including smartphones, robotics, EVs and semiconductors &mdash; and we also discuss Huawei&rsquo;s efforts to compete with Nvidia and why technological success doesn&rsquo;t necessarily translate into strong returns for stock investors in China.</p> <p>Read more:<br /><a href=\"https://www.bloomberg.com/graphics/2026-china-ai-jobs-slump/?utm_medium=referral&amp;utm_source=podcast&amp;utm_campaign=odd_lots&amp;utm_content=article\">AI Threatens to Make China&rsquo;s Jobs Slump Much Worse</a><br /><a href=\"https://www.bloomberg.com/news/articles/2026-11-19/china-ai-biotech-firm-raises-200-million-in-oman-backed-round?utm_medium=referral&amp;utm_source=podcast&amp;utm_campaign=odd_lots&amp;utm_content=article\">China AI Biotech Firm Raises $200 Million in Oman-Backed Round</a></p> <p>Only <a href=\"http://Bloomberg.com\">http://Bloomberg.com</a> subscribers can get the Odd Lots newsletter in their inbox each week, plus unlimited access to the site and app. Subscribe at&nbsp; <a href=\"https://www.bloomberg.com/subscriptions/oddlots?in_source=oddlotspodcast\">bloomberg.com/subscriptions/oddlots</a></p> <p><a href=\"http://bloomberg.com/subscriptions/oddlots\">Subscribe to the Odd Lots Newsletter</a><br /><strong>Join the conversation:</strong> <a href=\"https://discord.gg/oddlots\">discord.gg/oddlots</a></p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
+    "published": "2026-11-21",
+    "week": "2026-W47",
+    "audio_url": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/bb74684d-fcbe-4c36-9779-b5070115b930/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
+    "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/bb74684d-fcbe-4c36-9779-b5070115b930/transcript?format=TextWithTimestamps&t=1795107304",
+    "episode_url": "https://omny.fm/shows/odd-lots/how-ai-is-forcing-china-to-reshape-industrial-policy",
+    "type": "podcast",
+    "duration_secs": 2740,
+    "transcript_length": 45179,
+    "speaker": "Kyle Chan — Fellow, Brookings",
+    "one_line_summary": "China’s tech firms are rapidly moving from software to full‑stack hardware, driven by government signals and supply‑chain synergies, reshaping the AI and semiconductor landscape.",
+    "summary": "Kyle Chan explains that Chinese technology companies are increasingly pursuing vertical integration, moving from software and services into hardware manufacturing. He cites BYD’s evolution from battery maker to EV and chip producer, Xiaomi’s jump from smartphones to EVs, and the rise of domestic AI chip makers such as Huawei’s Ascend series. Chan notes that the Chinese government’s five‑year plans and targeted subsidies create strong positive signals, while export controls on NVIDIA GPUs and crackdowns on foreign tech firms create negative signals that push domestic firms toward self‑reliance. He highlights the chicken‑and‑egg problem Huawei faced with its Ascend chips and how partnerships with firms like DeepSeek are helping to build the necessary software ecosystem.\n\nThe discussion also touches on the broader industrial policy strategy: Chinese firms are leveraging existing supply chains and talent to enter adjacent sectors, creating a dense network of overlapping capabilities. This full‑stack approach contrasts with U.S. firms, which often outsource manufacturing even as they design chips.\n\nKey data points include the mention of Huawei’s Ascend series, the partnership with DeepSeek, and the reference to the five‑year plan listing priority areas such as chips, AI, robotics, quantum fusion, biotech, and brain‑computer interface.",
+    "key_themes": [
+      "Vertical integration in Chinese tech",
+      "Government‑driven industrial policy",
+      "Supply‑chain synergies"
+    ],
+    "market_signals": [
+      "Huawei’s Ascend series is now being used by Chinese AI companies for inference, as DeepSeek and other firms announce compatibility",
+      "Export controls on NVIDIA GPUs are accelerating domestic chip development and partnership with Huawei",
+      "Chinese firms are moving from low‑margin EVs to higher‑margin AI and robotics, indicating a shift in industry focus"
+    ],
+    "framework_insights": [
+      "Chinese firms use a \"tree‑jumping\" mental model, moving from one adjacent industry to another rather than making a huge leap",
+      "Government signals (positive and negative) act as catalysts for industry shifts, creating a current that firms follow",
+      "Vertical integration creates a dense network of overlapping capabilities, leading to a full‑stack approach that differs from U.S. outsourcing models",
+      "Supply chains and talent pools are leveraged to enter new sectors, creating a multiplier effect across industries",
+      "The chicken‑and‑egg problem in chip ecosystems can be solved through strategic partnerships and government support"
+    ],
+    "market_relevance": "Investors should monitor Chinese AI and semiconductor firms for rapid hardware adoption and potential upside as domestic chip capabilities mature, while being aware of policy shifts that could accelerate or hinder this transition."
+  },
+  {
     "id": "90152f4175682a7084360974f98f504f",
     "source_id": "odd_lots",
     "source_name": "Odd Lots",
@@ -66,6 +104,81 @@
     "market_signals": [],
     "framework_insights": [],
     "market_relevance": "The discussion offers a glimpse into how advanced testing technologies and supplier dynamics can influence product development cycles, and provides a preview of potential market activity surrounding a major IPO, which may be relevant for investors monitoring technology and automotive sectors."
+  },
+  {
+    "id": "aa7d71a79bf4ca4e4af3cdd7eeaf9f0e",
+    "source_id": "masters_in_business",
+    "source_name": "Masters in Business",
+    "source_org": "Bloomberg",
+    "source_color": "#eab308",
+    "title": "Adjusting for Credit Risk: Masters In Business with David Eichhorn",
+    "description": "<p>Barry speaks with David Eichhorn, CEO and Head of Investment Strategies at NISA Investment Advisors. They discuss his early days as a quant at JPMorgan before returning home to St. Louis to work at NISA. They also discuss the risks and benefits of the private credit market, along with the dangers of private credit going into pension funds and 401Ks. They also discuss liability investment strategies for managing over $483 billion in client assets.</p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
+    "published": "2026-11-20",
+    "week": "2026-W47",
+    "audio_url": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/4e4cd910-40a1-4619-a5f3-ae2b0012ffff/57f9520c-8a4b-483a-a7a7-b508015cdf5a/audio.mp3?utm_source=Podcast&in_playlist=5873a3cb-298f-40bc-b71f-ae2b0013000d",
+    "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/57f9520c-8a4b-483a-a7a7-b508015cdf5a/transcript?format=TextWithTimestamps&t=1795209801",
+    "episode_url": "https://omny.fm/shows/masters-in-business/adjusting-for-credit-risk-masters-in-business-with-david-eichhorn",
+    "type": "podcast",
+    "duration_secs": 4090,
+    "transcript_length": 72995,
+    "speaker": "David Eichhorn — CEO, Head of Investment Strategies at Nyssa Investment Advisors",
+    "one_line_summary": "David Eichhorn explains how Nyssa’s early focus on liability‑driven investing and deep quantitative expertise built a nearly half‑trillion‑dollar platform that still prioritizes bespoke, client‑centric solutions.",
+    "summary": "David Eichhorn, CEO of Nyssa Investment Advisors, recounts his journey from a first‑generation college graduate to a quant‑driven leader in institutional asset management. He highlights Nyssa’s pioneering work in liability‑driven investing (LDI), describing how the firm used long‑dated bonds and derivatives to hedge pension liabilities, and how this approach evolved into a client‑centric, custom‑design strategy team. Eichhorn also shares personal career lessons—treating one’s career like a financial investment, the importance of early hard work, and the value of learning from senior mentors—while noting the firm’s growth to roughly half a trillion dollars in institutional assets.\n\nKey themes include the technical foundations of LDI, the blend of quantitative rigor with client service, and the career philosophy of early, sustained effort. The conversation underscores Nyssa’s unique positioning as a boutique, consultative asset manager that leverages deep quantitative models to address complex liability‑matching challenges.\n",
+    "key_themes": [
+      "Liability‑Driven Investing (LDI)",
+      "Quantitative Asset‑Liability Management",
+      "Client‑Centric Custom Strategy Design"
+    ],
+    "market_signals": [
+      "Nyssa Investment Advisors manages \"half a trillion dollars or so\" in institutional assets"
+    ],
+    "framework_insights": [
+      "LDI as a short position in a bond: when rates fall the liability becomes more valuable, so owning long bonds or zero‑coupon strips hedges that risk.",
+      "Treating a career like a financial investment: early accumulation of knowledge compounds over time.",
+      "Client service and strategy teams operate as a tandem: client service identifies needs, strategy team designs bespoke solutions.",
+      "Quant background enables deep understanding of liability‑driven models and derivative hedging.",
+      "Early exposure to institutional asset‑liability management can accelerate career depth in fixed income.”]"
+    ],
+    "market_relevance": ""
+  },
+  {
+    "id": "98ded83a91bfedec61ea1e681b0f11eb",
+    "source_id": "goldman_sachs",
+    "source_name": "Goldman Sachs",
+    "source_org": "Goldman Sachs",
+    "source_color": "#3b82f6",
+    "title": "The Outlook for Retail Stocks as Black Friday Approaches",
+    "description": "Solid retail sales data and a positive start to retail earnings reporting are demonstrating the strength of the US consumer heading into Black Friday, says Scott Feiler, US consumer sector specialist in Goldman Sachs FICC and Equities. Low jobless claims and declining gas prices also suggest resilient consumer spending, which is showing up in sales for experiences and giving a boost to hotel and cruise-line stocks. At the same time, Feiler says on The Markets podcast that it will be important to monitor how higher material costs flow through to corporate margins and retail prices in 2027.\n\nAlso available on Spotify (https://click.gs.com/hn4o) and Apple Podcasts (https://click.gs.com/qx2m).\n\nThis episode was recorded on November 19, 2026.\n\nThe opinions and views expressed herein are as of the date of publication, subject to change without notice, and may not necessarily reflect the institutional views of Goldman Sachs or its affiliates. The material provided is intended for informational purposes only, and does not constitute investment, legal, or tax advice, a recommendation from any Goldman Sachs entity to take any particular action or be used as a basis for any other investment decision, or an offer or solicitation to purchase or sell any securities or financial products. Any forward-looking statements, case studies, computations or examples set forth herein are for illustrative purposes only. Past performance is not indicative of future results. Neither Goldman Sachs nor any of its affiliates make any representations or warranties, express or implied, as to the accuracy or completeness of the statements or information contained herein and disclaim any liability whatsoever for reliance on such information for any purpose. Each name of a third-party organization mentioned is the property of the company to which it relates, is used here strictly for informational and identification purposes only and is not used to imply any sponsorship, affiliation, endorsement, ownership or license rights between any such company and Goldman Sachs. This material should not be copied, distributed, published, or reproduced in whole or in part or disclosed by any recipient to any other person without the express written consent of Goldman Sachs.\n\nA transcript is provided for convenience and may differ from the original video or audio content. Goldman Sachs is not responsible for any errors in the transcript.\n\n© 2026 Goldman Sachs. All rights reserved.",
+    "published": "2026-11-20",
+    "week": "2026-W47",
+    "video_id": "yN3xzoa4sdQ",
+    "episode_url": "https://www.youtube.com/watch?v=yN3xzoa4sdQ",
+    "type": "youtube",
+    "duration_secs": null,
+    "transcript_length": 2476,
+    "speaker": "Scott Feiler — US consumer sector specialist, Goldman Sachs FICC and Equities",
+    "one_line_summary": "Retail sales and earnings are strong heading into Black Friday, but rising material costs could squeeze margins and prices in 2027.",
+    "summary": "Scott Feiler notes that solid retail sales data and a positive start to retail earnings reporting demonstrate the strength of the US consumer as Black Friday approaches. Low jobless claims and declining gas prices further suggest resilient consumer spending, which is reflected in sales for experiences and is boosting hotel and cruise‑line stocks. However, Feiler cautions that higher material costs could flow through to corporate margins and retail prices in 2027, warranting close monitoring.",
+    "key_themes": [
+      "Consumer spending resilience",
+      "Material cost inflation risk",
+      "Sector exposure to experiences, hospitality"
+    ],
+    "market_signals": [
+      "Solid retail sales data heading into Black Friday",
+      "Positive start to retail earnings reporting",
+      "Low jobless claims",
+      "Declining gas prices",
+      "Need to monitor higher material costs flow to corporate margins and retail prices in 2027"
+    ],
+    "framework_insights": [
+      "Consumer spending resilience is indicated by low jobless claims and declining gas prices",
+      "Higher material costs can erode corporate margins and retail pricing power",
+      "Experiences sector can drive retail performance during peak shopping periods",
+      "Hotel and cruise‑line stocks benefit from increased consumer spending",
+      "Monitoring cost pass‑through is essential for assessing future profitability"
+    ],
+    "market_relevance": "Investors should be bullish on consumer‑centric stocks for the Black Friday period but remain vigilant about material cost pressures that could impact margins and pricing in 2027."
   },
   {
     "id": "f1a9aefb2946184ecddc437126094c7b",
