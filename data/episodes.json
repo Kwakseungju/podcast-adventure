@@ -1,5 +1,85 @@
 [
   {
+    "id": "1df80123d54f2732b16340f7b9a553fc",
+    "source_id": "odd_lots",
+    "source_name": "Odd Lots",
+    "source_org": "Bloomberg",
+    "source_color": "#06b6d4",
+    "title": "What Jensen Huang's Stunning Return Means for the AI Trade",
+    "description": "<p>On Monday morning, Nvidia's board stunned the world and announced that it was reinstating Jensen Huang as CEO. Reportedly, President Trump pressed the board to bring back Huang, and his return kicked off a historic rally for the chip maker. (Nasdaq 100 futures went up so fast yesterday, they briefly halted trading.) All of this follows a weekend full of doom and gloom; the S&amp;P 500 was entering correction territory last Friday, just days after Anthropic's blockbuster IPO. When we spoke with Alexander 'Alty' Altmann, global head of equities tactical strategies at Barclays, at the end of October, the AI trade was wobbling. Now, a month later, the AI trade seems, at least for now, ascendant, riding an epic rally that few saw coming. Today, we speak with Altmann about how Wall Street is making sense of Jensen's return, why structural issues around AI revenue and financing won't be fixed anytime soon, and if AI is really too big to fail.</p> <p>Read more:<br /><a href=\"https://www.bloomberg.com/news/articles/2026-11-22/asia-braces-for-more-volatility-after-us-selloff-markets-wrap?utm_medium=referral&amp;utm_source=podcast&amp;utm_campaign=odd_lots&amp;utm_content=article\">Stocks Jump Most Since April 2025 as Huang Is Back: Markets Wrap</a> <br /><a href=\"https://www.bloomberg.com/news/articles/2026-11-23/us-to-blacklist-megaspeed-the-firm-at-center-of-nvidia-scandal?utm_medium=referral&amp;utm_source=podcast&amp;utm_campaign=odd_lots&amp;utm_content=article\">US Blacklists Megaspeed, Targeting a Key Player in Nvidia Crisis</a></p> <p>Only <a href=\"http://Bloomberg.com\">Bloomberg.com</a> subscribers can get the Odd Lots newsletter in their inbox each week, plus unlimited access to the site and app. Subscribe at <a href=\"https://www.bloomberg.com/subscriptions/oddlots?in_source=oddlotspodcast\">bloomberg.com/subscriptions/oddlots</a></p> <p><a href=\"http://bloomberg.com/subscriptions/oddlots\">Subscribe to the Odd Lots Newsletter</a><br /><strong>Join the conversation:</strong> <a href=\"https://discord.gg/oddlots\">discord.gg/oddlots</a></p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
+    "published": "2026-11-24",
+    "week": "2026-W48",
+    "audio_url": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/e1cd0e3e-9e03-40db-bc4b-b50b0165eab4/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
+    "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/e1cd0e3e-9e03-40db-bc4b-b50b0165eab4/transcript?format=TextWithTimestamps&t=1795470412",
+    "episode_url": "https://omny.fm/shows/odd-lots/what-jensen-huangs-stunning-return-means-for-the-ai-trade",
+    "type": "podcast",
+    "duration_secs": 2162,
+    "transcript_length": 36201,
+    "speaker": "Alexander Altman — Barclay's global head of equity tactical strategies",
+    "one_line_summary": "The AI trade’s recent rally is driven by a shift in volatility and risk sentiment, not a fundamental turnaround, and investors should treat it as a tactical opportunity amid persistent structural doubts.",
+    "summary": "Alexander Altman explains that the sharp rebound in the AI trade following Jensen Huang’s reinstatement at Nvidia is largely a function of a new volatility regime rather than a fundamental change in the AI ecosystem.  The VIX spiked to 40 on Friday, implying a daily S&P move of about 3%, and has since fallen to 30, still supporting roughly a 2% daily move.  Altman notes that the S&P dropped 7% last week, the worst week since COVID, and that leveraged ETF selling of about $35 billion and thin liquidity (the 58th worst day for S&P liquidity in the past 10 years) contributed to the sell‑off.  He stresses that the Fed’s rapid tightening—three and a half hikes over the next year—remains the biggest forward‑looking risk driver.  Despite the rally, Altman’s quantitative framework now signals a tactical buy, but he cautions that high volatility and unresolved questions about AI financing and revenue still loom.\n\nKey themes include the interplay between volatility and market structure, the distinction between a dead‑cat bounce and a volatility‑driven rally, and the importance of risk asymmetry in shaping investment decisions.  The discussion also touches on political support for AI, the role of the US stock market as a wealth engine, and the potential for an AI “winter” or relief.\n",
+    "key_themes": [
+      "Volatility regime and market structure",
+      "Risk asymmetry and tactical positioning",
+      "Political and macro drivers of AI sentiment"
+    ],
+    "market_signals": [
+      "NASDAQ 100 up 6.9%",
+      "VIX at 40 on Friday, fell to 30",
+      "S&P dropped 7% last week",
+      "$35 billion leveraged ETF selling",
+      "58th worst day for S&P liquidity in past 10 years"
+    ],
+    "framework_insights": [
+      "Volatility regime dictates that large moves can be normal; a dead‑cat bounce is less likely when VIX remains high",
+      "Risk asymmetry can shift from bearish to bullish as market structure changes, as seen in the quantitative framework update",
+      "Dealer gamma and short positions can amplify negative feedback loops during sell‑offs",
+      "Leveraged ETF selling can signal liquidity stress and trigger broader market declines",
+      "Political support for AI can act as a stabilizing factor but also introduces policy risk"
+    ],
+    "market_relevance": "Investors should view the current AI rally as a tactical play within a high‑volatility environment, remaining cautious of lingering structural doubts and Fed tightening while exploiting short‑term upside."
+  },
+  {
+    "id": "6b2a3c43e2e67c7cca9b341a1c2acbfc",
+    "source_id": "invest_like_the_best",
+    "source_name": "Invest Like the Best",
+    "source_org": "Colossus",
+    "source_color": "#6366f1",
+    "title": "Scott Wu on Cybersecurity, Compute, and the Future of Engineering - [Invest Like the Best, EP.502]",
+    "description": "Scott Wu is the CEO and co-founder of Cognition, the company behind the AI coding agent Devin.\n\nCognition made its first dollar of revenue in September 2024. Less than two years later, it crossed a $1 billion run rate, and Citi is rolling Devin out to about 14,000 engineers as it brings software projects in-house. We talk about what that means for the job of an engineer, and the trade-off between buying too much compute and not having enough to serve your customers.&nbsp;\n\nScott thinks major breaches at some of the world's largest companies and government agencies are almost inevitable in the next six to 12 months. As AI agents start working in swarms, they're finding flaws that have gone unnoticed for years. I ask him what companies should be doing now and why he still thinks the attackers will lose in the long run.&nbsp;\n\nPlease enjoy my conversation with Scott Wu.\n\nFor the full show notes, transcript, and links to mentioned content, check out the episode page ⁠⁠here⁠⁠.\n\n-----\n\nBecome a Colossus member to get our quarterly print magazine and private audio experience, including exclusive profiles and early access to select episodes. Subscribe at ⁠⁠⁠colossus.com/subscribe⁠⁠⁠.\n\n-----\n\n⁠⁠⁠Ramp’s⁠⁠⁠ mission is to help companies manage their spend in a way that reduces expenses and frees up time for teams to work on more valuable projects. Go to ⁠⁠⁠⁠ramp.com/invest⁠⁠⁠⁠ to sign up for free and get a $250 welcome bonus.\n\n-----\n\nTrusted by thousands of businesses, ⁠⁠⁠Vanta⁠⁠⁠ continuously monitors your security posture and streamlines audits so you can win enterprise deals and build customer trust without the traditional overhead. Invest Like the Best listeners get a special offer of $1,000 off Vanta when you go to ⁠⁠⁠vanta.com/invest⁠⁠⁠.\n\n-----\n\n⁠⁠WorkOS⁠⁠⁠ is the infrastructure B2B and AI-native companies use to sell to enterprise. It covers everything enterprise security requires: SSO, SCIM, RBAC, Audit Logs, AI governance, and more. Trusted by 2,000+ fast-growing companies, including OpenAI, Anthropic, Cursor, and Vercel.\n\n-----\n\n⁠⁠Rogo⁠⁠ is the AI platform for finance. They're building agents for Wall Street that are trained to understand how bankers and investors actually do work: from diligence and modeling, to turning analysis into deliverables. To learn more, visit ⁠⁠rogo.ai/invest⁠⁠.\n\n-----\n\n⁠⁠⁠Ridgeline⁠⁠⁠ has built a complete, real-time, modern operating system for investment managers. It handles trading, portfolio management, compliance, customer reporting, and much more through an all-in-one real-time cloud platform. Visit ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ridgeline.ai⁠⁠⁠.\n\n-----\n\nEditing and post-production work for this episode was provided by ⁠⁠The Podcast Consultant⁠⁠.\n\nTimestamps:\n\n(00:02:03) Cognition by the Numbers\n\n(00:04:37) Why Major Breaches Are Coming\n\n(00:11:04) Bringing AI Defense to Enterprises\n\n(00:14:40) How Dangerous Are Agent Swarms?\n\n(00:22:25) Why Compute Is the New Oil\n\n(00:27:53) The Compute Planning Tightrope\n\n(00:33:53) Rolling Out Devin at Scale\n\n(00:37:22) The Engineer's New Job\n\n(00:41:12) Agents Triggering More Agents\n\n(00:46:26) Open Models and the Frontier\n\n(00:49:43) Testing AI Against Real Engineering\n\n(00:53:26) Why Cognition Stays Independent\n\n(00:56:08) Recruiting for a Generational Company\n\n(00:59:40) Leading In the AI Era",
+    "published": "2026-11-24",
+    "week": "2026-W48",
+    "audio_url": "https://traffic.megaphone.fm/CLS5759445410.mp3",
+    "transcript_url": null,
+    "episode_url": "https://podcasts.apple.com/us/podcast/invest-like-the-best-with-patrick-oshaughnessy/id1154105909",
+    "type": "podcast",
+    "duration_secs": 3870,
+    "transcript_length": 47589,
+    "speaker": "Scott Wu — Founder, Cognition",
+    "one_line_summary": "Cognition’s AI agents are scaling enterprise productivity and security, delivering 8‑15× ROI and driving a billion‑dollar run rate in under two years.",
+    "summary": "Cognition has grown from a house office to 500 employees and a $1 billion run‑rate, with 70 000 customers and 3.2× faster growth than the average U.S. business. The company’s core product, Devon, delivers 8‑15× ROI per dollar spent, with an engineer using Devon for an hour gaining eight hours of productivity. Citibank has deployed Devon to 14 000 engineers out of 80 000 technical staff, and Jane Fraser cited $1.5 billion in 2026 savings from in‑house projects. The interview highlights the rapid rise of AI in security, noting that AI models are now capable of finding zero‑day exploits and that a “dark age” of breaches is expected in the next 6‑12 months, especially for Fortune 50/100 and government institutions. Cognition’s strategy is to diffuse AI responsibly, treating security as a diffusion problem rather than a capability gap.\n\nKey themes include the exponential productivity gains from AI agents, the urgency of AI‑driven security testing, and the balance between offensive and defensive AI capabilities.\n\nThe conversation underscores that enterprises must adopt AI‑powered security scanning and continuous monitoring to mitigate the inevitable breach wave, while also leveraging AI to accelerate internal development and reduce reliance on external consultants.",
+    "key_themes": [
+      "AI‑driven productivity and ROI",
+      "AI‑powered security and breach risk",
+      "Responsible diffusion of AI in enterprises"
+    ],
+    "market_signals": [
+      "Ramp saves businesses 5% annually on average",
+      "Cognition’s revenue run‑rate crossed $1 billion on September 16 2026",
+      "Cognition’s ROI is 8‑15× per dollar invested",
+      "Citibank deployed Devon to 14,000 engineers out of 80,000 technical staff",
+      "Jane Fraser expects $1.5 billion in 2026 savings from in‑house projects"
+    ],
+    "framework_insights": [
+      "Diffusion of AI is the key lever: enterprises must integrate AI agents into real workflows to realize productivity gains",
+      "Security is a diffusion problem, not a capability gap: continuous AI‑driven scanning and monitoring are essential to keep pace with attackers",
+      "Offense and defense are asymmetrical; perfect defense wins if both sides are perfect, but the current imbalance favors attackers",
+      "AI agents can act as full employees, executing tasks, testing code, and logging in, which transforms how enterprises build and maintain software",
+      "The long‑term view on security is optimistic: cryptographic primitives remain sound even if AI advances, but immediate risk requires urgent defensive investment"
+    ],
+    "market_relevance": "Investors should watch Cognition’s rapid scaling and high ROI metrics as a bellwether for AI‑enabled enterprise tools, while recognizing the looming breach wave that could pressure security‑focused valuations and drive demand for AI‑driven defensive solutions."
+  },
+  {
     "id": "91368318f82c8517f8a437b334da82e2",
     "source_id": "odd_lots",
     "source_name": "Odd Lots",
